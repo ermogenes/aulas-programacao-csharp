@@ -6,7 +6,7 @@ Vamos utilizar o repositório gratuito GitHub para salvar nossos projetos.
 
 * Acesse https://github.com/ e crie sua conta.
 
-![](img\000014_The world’s leading software development platform · GitHub.png)
+![](000014.png)
 
 * Guarde bem o e-mail, o nome de usuário e a senha.
 * Efetue o login sempre que necessário.
@@ -15,7 +15,7 @@ Vamos utilizar o repositório gratuito GitHub para salvar nossos projetos.
 
 * Estando logado, acesse a opção `New Repository`.
 
-![](img\000015_Microsoft Edge.png)
+![](000015.png)
 
 * Preencha os campos a seguir:
   - `Repository name`: nome do seu projeto, deve ser único para cada usuário
@@ -24,11 +24,11 @@ Vamos utilizar o repositório gratuito GitHub para salvar nossos projetos.
   - `Initialize this repository with a README`: marque essa opção para poder alterar o texto da página inicial
   - `Add .gitignore`: Selecione `VisualStudio` para projetos com C#
 
-![](img\000016_Create a New Repository.png)
+![](000016.png)
 
 Seu repositório de projeto está criado.
 
-![](img\000017_ermogenes_primeiro-programa-em-cs_ Meu primeiro programa em C#, para as aulas da.png)
+![](000017.png)
 
 ## Preparando o ambiente local
 
@@ -60,7 +60,7 @@ PS C:\Users\ermogenes\desktop\aulas\primeiro-programa-em-cs> git config --global
 
 * Na página inicial do seu projeto, obtenha o endereço do repositório:
 
-![](img\000018_ermogenes_primeiro-programa-em-cs_ Meu primeiro programa em C#, para as aulas da.png)
+![](000018.png)
 
 
 * Acesse a pasta em que seu repositório será baixado (nela será criada uma nova pasta com o nome do repositório).
@@ -123,4 +123,4 @@ PS C:\Users\ermogenes\desktop\aulas\primeiro-programa-em-cs> code .
 
 * Seu projeto estará aberto no VSCode.
 
-![](img\000019_Welcome - primeiro-programa-em-cs - Visual Studio Code.png)
+![](000019.png)

@@ -17,6 +17,7 @@ Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](htt
 
 ### Primeiros passos
 
+* Usando o Visual Studio Code (_em breve_)
 * Hello World! (_em breve_)
 * Compilação e execução (_em breve_)
 * Depuração (_em breve_)
@@ -68,13 +69,6 @@ Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](htt
 ### Links úteis
 
 * [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
-
-### Informações adicionais
-Extensões do VSCode recomendadas:
-
-- `ms-vscode.csharp` - extensão oficial da Microsoft para C#
-- `hasanali.gitignore-templates` - gerador de `gitignore` (use `VisualStudio`)
-- `shd101wyy.markdown-preview-enhanced` - visualizador integrado de Markdown
 
 ### Top linguagens
 

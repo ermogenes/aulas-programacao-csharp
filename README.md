@@ -12,8 +12,7 @@ Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](htt
 
 ### Introdução
 
-* Computadores e programação (_em breve_)
-* Microsoft, .NET e C# (_em breve_)
+* [Computadores e programação](https://docs.google.com/presentation/d/18qCmMcKVhIM3L_yF0PAjHQBgt6JRTIJIim8F6jGhIPM/edit?usp=sharing)
 
 ### Primeiros passos
 

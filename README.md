@@ -17,11 +17,12 @@ Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](htt
 
 ### Primeiros passos
 
-* Usando o Visual Studio Code (_em breve_)
+* [Usando o Visual Studio Code](content/vscode.md)
 * Hello World! (_em breve_)
+* [Controle de versão com git e GitHub](content/github.md)
+* Hello World! com versionamento (_em breve_)
 * Compilação e execução (_em breve_)
 * Depuração (_em breve_)
-* Controle de versão com git/GitHub (_em breve_)
 
 ### Conceitos básicos
 * Anatomia de um programa C# (_em breve_)
@@ -49,6 +50,13 @@ Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](htt
 ## Atividades
 
 (_em breve_)
+
+## Referência rápida
+
+* Comandos de terminal (_em breve_)
+* `code` (_em breve_)
+* `dotnet` (_em breve_)
+* `git` (_em breve_)
 
 ## Material adicional
 

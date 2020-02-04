@@ -2,7 +2,9 @@
 
 Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](http://eteab.com.br/)
 
-## Criação de ambiente
+## Ferramentas
+
+Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu computador.
 
 * Kit de desenvolvimento: [.NET Core SDK](https://dotnet.microsoft.com/download)
 * IDE: [Visual Studio Code](https://code.visualstudio.com/download)

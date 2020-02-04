@@ -21,7 +21,6 @@ Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](htt
 * [Hello World!](content/helloworld.md)
 * [Controle de versão com git e GitHub](content/github.md)
 * [Hello World! com versionamento](content/helloworld-git.md)
-* Compilação e execução (_em breve_)
 * Depuração (_em breve_)
 
 ### Conceitos básicos

@@ -145,8 +145,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
 PS C:\Users\ermogenes\desktop\code\primeiro-programa-em-cs> 
 ```
 
-Vamos passo-a-passo.
-
 * `On branch master` significa que estamos olhando para o branch chamado `master`.
 * `Your branch is up to date with 'origin/master'.` significa que não há nenhuma alteração salva localmente que não foi enviada para o repositório remoto.
 * `Changes not staged for commit` indica em `modified:   README.md` que o arquivo `README.md` foi modificado mas as alterações não foram confirmadas para se manter no versionamento.
@@ -232,7 +230,7 @@ nothing to commit, working tree clean
 PS C:\Users\ermogenes\desktop\code\primeiro-programa-em-cs> 
 ```
 
-Vejamos agora o repositório remoto, no gitHub.
+Vejamos agora o repositório remoto, no GitHub.
 
 `Program.cs`
 

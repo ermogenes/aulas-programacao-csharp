@@ -7,7 +7,7 @@ Neste exemplo, a pasta base é `C:\Users\ermogenes\Desktop\code`, o projeto se c
 Em um terminal (do Windows ou do VsCode), acessamos a pasta base:
 
 ```powershell
-PS C:\Users\p017176> cd C:\Users\ermogenes\Desktop\code
+PS C:\Users\ermogenes> cd C:\Users\ermogenes\Desktop\code
 PS C:\Users\ermogenes\Desktop\code> 
 ```
 

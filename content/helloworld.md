@@ -2,22 +2,22 @@
 
 Primeiro você deve escolher uma pasta base onde a pasta do seu projeto ficará.
 
-Neste exemplo, a pasta base é `C:\Users\p017176\Desktop\code`, o projeto se chamará `HelloWorld` e a pasta final será `C:\Users\p017176\Desktop\code\HelloWorld`.
+Neste exemplo, a pasta base é `C:\Users\ermogenes\Desktop\code`, o projeto se chamará `HelloWorld` e a pasta final será `C:\Users\ermogenes\Desktop\code\HelloWorld`.
 
 Em um terminal (do Windows ou do VsCode), acessamos a pasta base:
 
 ```powershell
-PS C:\Users\p017176> cd C:\Users\p017176\Desktop\code
-PS C:\Users\p017176\Desktop\code> 
+PS C:\Users\p017176> cd C:\Users\ermogenes\Desktop\code
+PS C:\Users\ermogenes\Desktop\code> 
 ```
 
 Veja que o projeto ainda não existe na pasta:
 
 ```powershell
-PS C:\Users\p017176\Desktop\code> ls
+PS C:\Users\ermogenes\Desktop\code> ls
 
 
-    Diretório: C:\Users\p017176\Desktop\code
+    Diretório: C:\Users\ermogenes\Desktop\code
 
 
 Mode                LastWriteTime         Length Name
@@ -25,31 +25,31 @@ Mode                LastWriteTime         Length Name
 d-----       03/02/2020     16:32                aulas-programacao-csharp
 
 
-PS C:\Users\p017176\Desktop\code> 
+PS C:\Users\ermogenes\Desktop\code> 
 ```
 
 Agora, criamos um projeto novo usando o utilitário `dotnet`:
 
 ```powershell
-PS C:\Users\p017176\Desktop\code> dotnet new console -o HelloWorld
+PS C:\Users\ermogenes\Desktop\code> dotnet new console -o HelloWorld
 O modelo "Console Application" foi criado com êxito.
 
 Processando ações de pós-criação...
 Executando o 'dotnet restore' em HelloWorld\HelloWorld.csproj...
-  Restauração concluída em 203,04 ms para C:\Users\p017176\Desktop\code\HelloWorld\HelloWorld.csproj.
+  Restauração concluída em 203,04 ms para C:\Users\ermogenes\Desktop\code\HelloWorld\HelloWorld.csproj.
 
 A restauração foi bem-sucedida.
 
-PS C:\Users\p017176\Desktop\code> 
+PS C:\Users\ermogenes\Desktop\code> 
 ```
 
 Agora a pasta do projeto já existe:
 
 ```powershell
-PS C:\Users\p017176\Desktop\code> ls
+PS C:\Users\ermogenes\Desktop\code> ls
 
 
-    Diretório: C:\Users\p017176\Desktop\code
+    Diretório: C:\Users\ermogenes\Desktop\code
 
 
 Mode                LastWriteTime         Length Name
@@ -58,14 +58,14 @@ d-----       03/02/2020     16:32                aulas-programacao-csharp
 d-----       04/02/2020     13:51                HelloWorld
 
 
-PS C:\Users\p017176\Desktop\code> 
+PS C:\Users\ermogenes\Desktop\code> 
 ```
 
 Podemos acessar a pasta e abrir no VsCode.
 
 ```powershell
-PS C:\Users\p017176\Desktop\code> cd HelloWorld
-PS C:\Users\p017176\Desktop\code\HelloWorld> code .
+PS C:\Users\ermogenes\Desktop\code> cd HelloWorld
+PS C:\Users\ermogenes\Desktop\code\HelloWorld> code .
 ```
 
 O VsCode abrirá a pasta e automaticamente efetuará o download de todas as dependências.
@@ -106,9 +106,9 @@ Este programa exibe a frase `Hello World!` na saída padrão.
 Agora vamos compilar e executar o programa pelo terminal do VsCode.
 
 ```powershell
-PS C:\Users\p017176\Desktop\code\HelloWorld> dotnet run
+PS C:\Users\ermogenes\Desktop\code\HelloWorld> dotnet run
 Hello World!
-PS C:\Users\p017176\Desktop\code\HelloWorld> 
+PS C:\Users\ermogenes\Desktop\code\HelloWorld> 
 ```
 
 Parabéns, você criou o seu primeiro programa em C#.

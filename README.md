@@ -6,7 +6,7 @@ Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](htt
 
 * Kit de desenvolvimento: [.NET Core SDK](https://dotnet.microsoft.com/download)
 * IDE: [Visual Studio Code](https://code.visualstudio.com/download)
-* [OPCIONAL] Controle de versão: [git](https://git-scm.com/downloads)
+* Controle de versão: [git](https://git-scm.com/downloads)
 
 ## Conteúdo
 
@@ -18,7 +18,7 @@ Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](htt
 ### Primeiros passos
 
 * [Usando o Visual Studio Code](content/vscode.md)
-* Hello World! (_em breve_)
+* [Hello World!](content/helloworld.md)
 * [Controle de versão com git e GitHub](content/github.md)
 * Hello World! com versionamento (_em breve_)
 * Compilação e execução (_em breve_)

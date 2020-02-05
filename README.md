@@ -30,7 +30,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 ### Conceitos básicos
 * [Anatomia de um programa C#](content/anatomia.md)
 * [Saída simples em console](content/saida-console.md)
-* Entrada de dados (_em breve_)
+* [Entrada de dados via teclado](content/entrada-teclado.md)
 * Variáveis e constantes (_em breve_)
 * Tipos de dados (_em breve_)
 * Operadores e expressões (_em breve_)

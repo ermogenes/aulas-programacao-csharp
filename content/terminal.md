@@ -31,11 +31,22 @@ Comando | Descrição
 `dotnet --version` | Mostra a versão instalada do .NET.
 `dotnet new console` | Cria uma nova aplicação de console na pasta atual.
 `dotnet new console -o NomeProjeto` | Cria uma nova aplicação de console em uma pasta dentro da pasta atual, com o nome indicado.
-`dotnet new -l` | Lista os templates de projeto existentes. [Detalhes](https://docs.microsoft.com/pt-br/dotnet/core/tools/dotnet-new?tabs=netcore22)
+`dotnet new -l` | Lista os templates de projeto existentes.
 `dotnet build` | Compila o projeto da pasta atual.
 `dotnet run` | Compila e executa o projeto da pasta atual.
 
 Referência: https://docs.microsoft.com/pt-br/dotnet/core/tools
+
+Principais templates de aplicação:
+
+Template | Descrição
+-- | --
+`console` | Aplicações de linha de comando em console (CLI).
+`web` | Sites para a web simples.
+`mvc` | Sites utilizando o padrão de desenvolvimento MVC.
+`webapi` | Serviços web.
+`winforms` | Aplicações Desktop nativas do Windows.
+`wpf` | Aplicações Desktop portáveis.
 
 ## `git`
 

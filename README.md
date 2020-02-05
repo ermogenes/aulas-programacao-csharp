@@ -6,6 +6,8 @@ Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](htt
 
 Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu computador.
 
+Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores antes de instalar a nova.
+
 * Kit de desenvolvimento: [.NET Core SDK](https://dotnet.microsoft.com/download)
 * IDE: [Visual Studio Code](https://code.visualstudio.com/download)
 * Controle de versão: [git](https://git-scm.com/downloads)
@@ -26,7 +28,7 @@ Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu compu
 * Depuração (_em breve_)
 
 ### Conceitos básicos
-* Anatomia de um programa C# (_em breve_)
+* [Anatomia de um programa C#](content/anatomia.md)
 * Entrada e saída de dados (_em breve_)
 * Variáveis e constantes (_em breve_)
 * Tipos de dados (_em breve_)

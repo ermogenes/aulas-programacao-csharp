@@ -19,6 +19,7 @@ Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu compu
 ### Primeiros passos
 
 * [Usando o Visual Studio Code](content/vscode.md)
+* [Referência rápida de comandos de terminal](content/terminal.md)
 * [Hello World!](content/helloworld.md)
 * [Controle de versão com git e GitHub](content/github.md)
 * [Hello World! com versionamento](content/helloworld-git.md)
@@ -51,13 +52,6 @@ Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu compu
 
 (_em breve_)
 
-## Referência rápida
-
-* Comandos de terminal (_em breve_)
-* `code` (_em breve_)
-* `dotnet` (_em breve_)
-* `git` (_em breve_)
-
 ## Material adicional
 
 ### Documentação
@@ -77,6 +71,7 @@ Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu compu
 ### Links úteis
 
 * [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [Uma Referência Visual do Git](http://marklodato.github.io/visual-git-guide/index-pt.html)
 
 ### Top linguagens
 

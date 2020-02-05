@@ -42,8 +42,10 @@ Principais templates de aplicação:
 Template | Descrição
 -- | --
 `console` | Aplicações de linha de comando em console (CLI).
+`classlib` | Biblioteca de classes.
 `web` | Sites para a web simples.
 `mvc` | Sites utilizando o padrão de desenvolvimento MVC.
+`webapp` | Sites utilizando o padrão de desenvolvimento MVC, com páginas Razor.
 `webapi` | Serviços web.
 `winforms` | Aplicações Desktop nativas do Windows.
 `wpf` | Aplicações Desktop portáveis.

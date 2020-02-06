@@ -55,6 +55,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 (_em breve_)
 
+## Outros
 ### Documentação
 
 * [Guia do .NET Core](https://docs.microsoft.com/pt-br/dotnet/core/)

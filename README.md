@@ -35,7 +35,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * Variáveis e constantes (_em breve_)
 * Tipos de dados (_em breve_)
 * Operadores e expressões (_em breve_)
-* Strings, números e datas (_em breve_)
+* Números e datas (_em breve_)
 * Enumeradores (_em breve_)
 
 ### Trabalhando com objetos

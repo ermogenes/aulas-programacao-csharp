@@ -73,6 +73,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 ### Links úteis
 
+* [C# Tutorial - W3Schools (em inglês)](https://www.w3schools.com/cs/)
+* [C# Tutorial - CSharp.net-tutorials (em português)](https://csharp.net-tutorials.com/pt/104/iniciando/introducao/)
 * [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Uma Referência Visual do Git](http://marklodato.github.io/visual-git-guide/index-pt.html)
 

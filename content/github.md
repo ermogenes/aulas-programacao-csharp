@@ -211,11 +211,10 @@ nothing to commit, working tree clean
 PS C:\Users\ermogenes\desktop\aulas\primeiro-programa-em-cs> 
 ```
 
-Notem que `origin/master` ocorrem diversas vezes. Isto significa que:
-- origin: é o seu "remoto" - localização remota, refência da origem do clone (https://github.com/ermogenes/primeiro-programa-em-cs.git)
-- master: é o nome da branch.
-
-Quando dos dois combinados com a barra `/`, estamos nos referenciando à uma branch remota (origin/master - remoto/branch).
+Notem que o texto `origin/master` aparece em diversos locais.
+- `origin` é o nome do seu repositório remoto, endereço de localização da origem do clone (nesse exemplo, https://github.com/ermogenes/primeiro-programa-em-cs.git)
+- `master` é o nome do branch, existente tanto na versão local quanto na remota.
+- `origin/master` indica o branch `master` no repositório remoto `origin`, já que os dois combinados com a barra `/`, estamos nos dizem respeito à uma branch remota (`origin/master` = remoto/branch).
 
 Agora devemos atualizar o branch no repositório remoto. 
 
@@ -246,7 +245,7 @@ To https://github.com/ermogenes/primeiro-programa-em-cs.git
    f76c9c3..7b1c75e  master -> master
 PS C:\Users\ermogenes\desktop\aulas\primeiro-programa-em-cs> 
 ```
-_Notem que não há a / entre o origin e o master neste momento._
+_Notem que não há `/` entre o `origin` e o `master` nesse comando._
 
 Enviado com sucesso. Verificamos novamente o status:
 

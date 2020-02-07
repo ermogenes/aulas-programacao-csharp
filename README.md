@@ -33,7 +33,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [Entrada de dados via teclado](content/entrada-teclado.md)
 * [Trabalhando com strings](content/string.md)
 * [Variáveis, constantes e tipos de dados](content/variaveis.md)
-* Operadores e expressões (_em breve_)
+* [Expressões e operadores](content/operadores.md)
 * Números e datas (_em breve_)
 * Enumeradores (_em breve_)
 

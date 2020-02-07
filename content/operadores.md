@@ -50,7 +50,7 @@ Operador | Descrição
 -- | -- 
 `!` | Negação lógica (troca entre `true` e `false`)
 `&&` | "E" lógico (`true` se ambos `true`, senão `false`)
-`||` | "OU" lógico (`false` se ambos `false`, senão `true`)
+`\|\|` | "OU" lógico (`false` se ambos `false`, senão `true`)
 `^` | "OU EXCLUSIVO" lógico (`true` se somente um valor é `true`, senão `false`)
 
 Tabela-verdade:

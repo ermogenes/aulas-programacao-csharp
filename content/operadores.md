@@ -55,7 +55,7 @@ Operador | Descrição
 
 Tabela-verdade:
 
-`x` | `y` | `!x` | `x && y` | `x || y` | `x ^ y`
+`x` | `y` | `!x` | `x && y` | `x \|\| y` | `x ^ y`
 -- | -- | -- | -- | -- | --
 `false` | `false` | `true` | `false` | `false` | `false`
 `false` | `true` | `true` | `false` | `true` | `true`

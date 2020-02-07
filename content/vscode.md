@@ -61,3 +61,21 @@ Através da aba `Extensions`
 - C# - `ms-vscode.csharp` - extensão oficial da Microsoft para C#
 - Gitignore Templates - `hasanali.gitignore-templates` - gerador de `gitignore` (para C# use o template `VisualStudio`)
 - Markdown Preview Enhanced - `shd101wyy.markdown-preview-enhanced` - visualizador integrado de Markdown
+
+## Como mudar a língua do VsCode para português (pt-br)
+
+Dentro do VsCode, pressione `F1`, digite `Configure Display Language` e confirme.
+
+![](000034.png)
+
+Caso não apareça `pt-br` na lista, escolha `Install additional languages...`:
+
+![](000036.png)
+
+Selecione a língua desejada e clique em `Install`.
+
+![](000037.png)
+
+Surgirá uma notificação avisando que o VsCode será reiniciado. Confirme.
+
+![](000038.png)

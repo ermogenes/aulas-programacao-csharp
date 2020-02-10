@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 2.22.1 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1100" height="1250">
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="375,125 375,186"/>
+		<polygon fill="#000000" stroke="none" points="375,200 388,175 361,175"/>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="375,1050 375,1111"/>
+		<polygon fill="#000000" stroke="none" points="375,1125 388,1100 361,1100"/>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 275,25 A 50,50 0 0,0 275,125 L 475,125 A 50,50 0 0,0 475,25 Z"/>
+			<text x="375" y="40" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="375" dy="50" unicode-bidi="embed">Principal</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 275,1125 A 50,50 0 0,0 275,1225 L 475,1225 A 50,50 0 0,0 475,1125 Z"/>
+			<text x="375" y="1140" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="375" dy="50" unicode-bidi="embed">Fim</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="375,300 375,361"/>
+			<polygon fill="#000000" stroke="none" points="375,375 388,350 361,350"/>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="375,875 375,936"/>
+			<polygon fill="#000000" stroke="none" points="375,950 388,925 361,925"/>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 175,200 L 175,300 L 575,300 L 575,200 Z"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="200,200 200,300"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="550,200 550,300"/>
+				<text x="375" y="215" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="375" dy="50" unicode-bidi="embed">comandoAntes</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="550,475 825,475 825,636"/>
+				<polygon fill="#000000" stroke="none" points="825,650 838,625 811,625"/>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="825,750 825,850 413,850"/>
+				<polygon fill="#000000" stroke="none" points="400,850 424,863 424,836"/>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="200,475 25,475 25,850 336,850"/>
+				<polygon fill="#000000" stroke="none" points="350,850 325,836 325,863"/>
+				<g>
+					<path fill="#E0E0E0" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 375,375 L 175,475 L 375,575 L 575,475 Z"/>
+					<text x="375" y="440" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="375" dy="50" unicode-bidi="embed">Alternativa</tspan>
+					</text>
+				</g>
+				<g>
+					<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 575,650 L 575,750 L 1075,750 L 1075,650 Z"/>
+					<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="600,650 600,750"/>
+					<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="1050,650 1050,750"/>
+					<text x="825" y="665" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="825" dy="50" unicode-bidi="embed">comandoVerdadeiro</tspan>
+					</text>
+				</g>
+				<g>
+				</g>
+				<ellipse cx="375" cy="850" rx="25" ry="25" fill="#E0E0E0" stroke="#000000" stroke-width="3"/>
+				<text x="712" y="390" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="712" dy="50" unicode-bidi="embed">Verdadeiro</tspan>
+				</text>
+				<text x="87" y="390" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="87" dy="50" unicode-bidi="embed">Falso</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 150,950 L 150,1050 L 600,1050 L 600,950 Z"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="175,950 175,1050"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="575,950 575,1050"/>
+				<text x="375" y="965" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="375" dy="50" unicode-bidi="embed">comandoDepois</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>

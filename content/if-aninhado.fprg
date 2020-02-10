@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="p017176"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-08-16 07:33:18 "/>
+        <attribute name="created" value="cDAxNzE3NjtQUk9EQU1CRkMxMDg3MDQ7MjAxOS0wOC0xNjsiMDc6MjI6MDQgIjsyNTgx"/>
+        <attribute name="edited" value="cDAxNzE3NjtQUk9EQU1CRkMxMDg3MDQ7MjAxOS0wOC0xNjsiMDc6MzM6MTggIjs0OzI2OTk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <call expression="comandoAntes"/>
+            <if expression="alternativa1">
+                <then>
+                    <call expression="comando1"/>
+                    <if expression="alternativa2">
+                        <then>
+                            <call expression="comando3"/>
+                        </then>
+                        <else>
+                            <call expression="comando4"/>
+                        </else>
+                    </if>
+                    <call expression="comando5"/>
+                </then>
+                <else>
+                    <call expression="comando2"/>
+                </else>
+            </if>
+            <call expression="comandoDepois"/>
+        </body>
+    </function>
+</flowgorithm>

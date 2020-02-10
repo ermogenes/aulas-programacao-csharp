@@ -109,7 +109,7 @@ Console.WriteLine(DateTime.Compare(agora, amanha));
 Console.WriteLine(DateTime.Compare(amanha, agora));
 ```
 
-Operadores de comparação podem ser usados entre dois `DateTime`s `==`, `!=`, `<`, `>`, `<=` e `>=`.
+Operadores de comparação podem ser usados entre dois `DateTime`: `==`, `!=`, `<`, `>`, `<=` e `>=`.
 
 ```cs
 DateTime agora = DateTime.Now;
@@ -118,7 +118,7 @@ Console.WriteLine(agora == amanha);
 Console.WriteLine(amanha >= agora);
 ```
 
-## `System.Timespan`
+## `System.TimeSpan`
 
 Para representar intervalos de tempo, utilizamos `TimeSpan`.
 

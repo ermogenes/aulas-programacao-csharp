@@ -12,6 +12,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * IDE: [Visual Studio Code](https://code.visualstudio.com/download)
 * Controle de versão: [git](https://git-scm.com/downloads)
 
+[Passo-a-passo para a criação do ambiente](content/ambiente.md)
+
 ## Conteúdo
 
 ### Introdução

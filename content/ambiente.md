@@ -2,13 +2,13 @@
 
 ## Baixe o .NET Core SDK
 
-https://code.visualstudio.com/download
+https://dotnet.microsoft.com/download
 
 ![](100003.png)
 
 ## Baixe o Visual Studio Code
 
-https://dotnet.microsoft.com/download
+https://code.visualstudio.com/download
 
 ![](100002.png)
 

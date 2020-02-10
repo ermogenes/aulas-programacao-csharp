@@ -4,69 +4,69 @@
 
 https://code.visualstudio.com/download
 
-![](000003.png)
+![](100003.png)
 
 ## Baixe o Visual Studio Code
 
 https://dotnet.microsoft.com/download
 
-![](000002.png)
+![](100002.png)
 
 ## Baixe o git
 
 https://git-scm.com/downloads
 
-![](000004.png)
+![](100004.png)
 
 ## Instalações
 
 Você terá os seguintes arquivos:
 
-![](000005.png)
+![](100005.png)
 
 ## Instale .NET Core SDK
 
 _Nenhuma configuração a fazer._
 
-![](000006.png)
-![](000015.png)
+![](100006.png)
+![](100015.png)
 
 ## Instale o Visual Studio Code
 
 _A única configuração a fazer é selecionar as opções indicadas na 5ª imagem._
 
-![](000007.png)
-![](000008.png)
-![](000009.png)
-![](000010.png)
+![](100007.png)
+![](100008.png)
+![](100009.png)
+![](100010.png)
 
 Marque as duas opções `Add "Open with Code"...`.
 
-![](000011.png)
-![](000013.png)
-![](000014.png)
+![](100011.png)
+![](100013.png)
+![](100014.png)
 
 ## Instale o git
 
 _Nenhuma configuração a fazer._
 
-![](000018.png)
-![](000019.png)
-![](000020.png)
-![](000021.png)
-![](000022.png)
-![](000023.png)
-![](000024.png)
-![](000025.png)
-![](000026.png)
-![](000027.png)
-![](000028.png)
-![](000029.png)
+![](100018.png)
+![](100019.png)
+![](100020.png)
+![](100021.png)
+![](100022.png)
+![](100023.png)
+![](100024.png)
+![](100025.png)
+![](100026.png)
+![](100027.png)
+![](100028.png)
+![](100029.png)
 
 ## Como desinstalar as versões antigas do .NET Core
 
-![](000030.png)
-![](000031.png)
-![](000032.png)
+![](100030.png)
+![](100031.png)
+![](100032.png)
 
 Deve permanecer somente a versão mais atual do .NET Core. As versões do .NET Framework podem continuar como estão. 

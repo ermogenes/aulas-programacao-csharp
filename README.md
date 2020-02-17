@@ -57,6 +57,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 * **Semana 1**: Faça os [exercícios de fixação](https://forms.gle/mWy8rnAaiTrQfgCbA). Se quiser estudar em casa, prepare o ambiente [baixando e instalando](#ferramentas) os softwares indicados.
 
+* **Semana 2**: Faça os exercícios de [saída em console](exercises/saida.md).
 
 ### Atividades extras
 

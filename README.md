@@ -57,6 +57,11 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 * **Semana 1**: Faça os [exercícios de fixação](https://forms.gle/mWy8rnAaiTrQfgCbA). Se quiser estudar em casa, prepare o ambiente [baixando e instalando](#ferramentas) os softwares indicados.
 
+
+### Atividades extras
+
+* _Semanas 1 e 2_: Quer aprender mais sobre algoritmos? Faça alguns [exercícios de lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD). O conhecimento será muito útil nas próximas semanas.
+
 ## Outros
 ### Documentação
 

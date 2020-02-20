@@ -118,3 +118,54 @@ Outros exemplos:
 "etec adolpho berezin".EndsWith("adolpho")  // False
 "etec adolpho berezin".StartsWith("etec")   // True
 ```
+
+## Sequências de escape
+
+Digamos que você queira exibir a seguinte citação no console:
+
+```
+"Lágrimas não são argumentos."
+Machado de Assis
+```
+
+Mas como podemos exibir o caracteres `"` (aspas duplas)?
+
+Percebam que teremos um erro se utilizarmos diretamente:
+
+```cs
+Console.WriteLine(""Lágrimas não são argumentos."");
+Console.WriteLine("Machado de Assis");
+```
+
+Isso acontece porque as aspas tem função especial em strings: ser o delimitador.
+
+Para representar em uma string caracteres especiais temos que usar uma sequência equivalente, chamada de escape.
+
+Para armazenar aspas duplas em uma string delimitada por aspas duplas, podemos usar a sequência de escape `\"`.
+
+```cs
+Console.WriteLine("\"Lágrimas não são argumentos.\"");
+```
+
+Perceba que as aspas delimitadoras continuam normalmente.
+
+Algumas sequências de escape importantes:
+
+Caracter | Sequência de escape | Um exemplo (string)
+-- | -- | --
+" | \\" | "Ganhar na mega-sena é \\"fácil\\" demais."
+' | \\' | "Eu \\'prefiro\\' aspas simples."
+(quebra de linha) | \\n | "Oi!\nTchau!"
+(tabulação) | \\t | "Olá!\tTudo bem?\nSim!\tE você?"
+
+O C# ignorará todas as sequências de escape se a string for criada com o identificador textual `@`:
+
+```cs
+Console.WriteLine(@"Meus projetos estão salvos em c:\Users\ermogenes\Documents\novosProjetos");
+```
+
+Exibirá:
+
+```
+Meus projetos estão salvos em c:\Users\ermogenes\Documents\novosProjetos
+```

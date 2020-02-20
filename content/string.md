@@ -169,3 +169,19 @@ Exibirá:
 ```
 Meus projetos estão salvos em c:\Users\ermogenes\Documents\novosProjetos
 ```
+
+## Emojis
+
+As strings C# podem armazenar emojis (_na maioria dos casos_) sem maiores problemas.
+
+```cs
+string mensagem = "Não faça barulho nas aulas! 🤫";
+```
+
+Infelizmente não conseguimos exibir os emojis em aplicações do tipo `console` (mas nada nos impede de exibir em uma página web ou app _mobile_).
+
+Listas de emojis:
+* [Emojipedia](https://emojipedia.org/)
+* [Lista oficial](http://www.unicode.org/emoji/charts/full-emoji-list.html)
+
+Você pode copiar o emoji e colar no VsCode.

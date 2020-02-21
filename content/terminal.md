@@ -34,6 +34,12 @@ Comando | Descrição
 `dotnet new -l` | Lista os templates de projeto existentes.
 `dotnet build` | Compila o projeto da pasta atual.
 `dotnet run` | Compila e executa o projeto da pasta atual.
+`dotnet list reference` | Lista os projetos aos quais o projeto atual faz referência.
+`dotnet list package` | Lista os pacotes aos quais o projeto atual faz referência.
+`dotnet restore` | Baixa os pacotes aos quais o projeto atual faz referência e ainda não existam localmente, bem como suas dependências.
+`dotnet add package <pacote>` | Adiciona um pacote no projeto atual.
+`dotnet remove package <pacote>` | Remove um pacote do projeto atual.
+
 
 Referência: https://docs.microsoft.com/pt-br/dotnet/core/tools
 
@@ -50,6 +56,13 @@ Template | Descrição
 `winforms` | Aplicações Desktop nativas do Windows.
 `wpf` | Aplicações Desktop portáveis.
 
+Alguns pacotes notáveis:
+
+Pacote | Descrição
+-- | --
+`Humanizer` | Permite gerar descrições textuais legíveis por humanos para diversos objetos.
+
+
 ## `git`
 
 Comando | Descrição
@@ -62,6 +75,7 @@ Comando | Descrição
 `git add .` | Adiciona todos os arquivos alterados na lista de alterações executadas.
 `git add -i` | Adiciona arquivos interativamente na lista de alterações executadas.
 `git commit -m "comentários das alterações"` | Efetiva as alterações no branch atual do repositório local.
+`git push` | Envia as alterações do branch atual para o repositório remoto atual.
 `git push origin master` | Envia as alterações do branch local `master` para o repositório remoto `origin`.
 `git push <nome_repositorio> <nome_branch>` | Envia as alterações do branch indicado para o repositório remoto indicado.
 `git remote` | Lista os repositórios remotos.

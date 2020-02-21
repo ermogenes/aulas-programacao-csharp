@@ -37,6 +37,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [Variáveis, constantes e tipos de dados](content/variaveis.md)
 * [Expressões e operadores](content/operadores.md)
 * [Números e datas](content/numeros-datas.md)
+* [Utilizando pacotes de terceiros](content/pacotes.md)
 * Enumeradores (_em breve_)
 
 ### Trabalhando com objetos

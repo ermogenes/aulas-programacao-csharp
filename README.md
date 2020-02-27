@@ -51,7 +51,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [Múltipla, com `switch`](content/switch.md)
 
 ### Laços
-* Laços condicionais `while` e `do` (_em breve_)
+* [Laços condicionais `while` e `do`](content/while-do.md)
 * Laços `for` e `foreach` (_em breve_)
 
 ## Atividades

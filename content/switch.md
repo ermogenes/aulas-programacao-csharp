@@ -79,13 +79,13 @@ case "H":
     break;
 case "X":
     Console.WriteLine("Obrigado por utilizar nosso software!");
-    Environment.Exit(0); // Código de sucesso
     break;
 default:
     Console.WriteLine("Opção inválida!");
     Environment.Exit(1); // Código de erro
     break;
 }
+Environment.Exit(0); // Código de sucesso
 ```
 
 [Lista completa de códigos de erro do Windows](https://docs.microsoft.com/pt-br/windows/win32/debug/system-error-codes)

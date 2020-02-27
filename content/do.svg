@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/14313064?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ermogenes/aulas-logica-programacao" /><meta property="og:url" content="https://github.com/ermogenes/aulas-logica-programacao" /><meta property="og:description" content="Materiais de Aula - Lógica de Programação com C. Contribute to ermogenes/aulas-logica-programacao development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDk1NDQ3ODAyOjRjNWFhMGYzOGY4ZWZiYjYzZDg4ZmRmNzBiMTZlYTA0YTFmYTAwMTJkM2NhNGFiZWU5MWRjOGRkNjRmODYzNjg=--b965973117e4249d6523128438e31c434dd13faa">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDk1NDQ3ODAyOjVkOGIzOGJmYmYwYTQ4NjRiZjRlMzg2OTM0ZTNlYjU3YWFlZjY1M2UxOWU3ZjliMTQ5ZDdhOWI2Y2I4NjVhMGE=--db7d26e47741e34981aced752d7c37fc3de0e105">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="61EB:2210:1BCD78:25DF92:5E57C968" data-pjax-transient="true" /><meta name="html-safe-nonce" content="7660f3b7fbd3c36e1aa11c0660f6beb63725d4fb" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9lcm1vZ2VuZXMvYXVsYXMtbG9naWNhLXByb2dyYW1hY2FvL3RyZWUvbWFzdGVyL2NvbnRlbnQiLCJyZXF1ZXN0X2lkIjoiNjFFQjoyMjEwOjFCQ0Q3ODoyNURGOTI6NUU1N0M5NjgiLCJ2aXNpdG9yX2lkIjoiNDc2NTE4NTAwNzIzMDI3MzcwOSIsInJlZ2lvbl9lZGdlIjoic2EtZWFzdC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="a057af06c81c4681c4a6a18bbfe1547e347a29b06b630b591dbe046d42ef4c1e" data-pjax-transient="true" />
+  <meta name="request-id" content="FB74:220F:6A3DE:92A5A:5E57CAAC" data-pjax-transient="true" /><meta name="html-safe-nonce" content="7660f3b7fbd3c36e1aa11c0660f6beb63725d4fb" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkZCNzQ6MjIwRjo2QTNERTo5MkE1QTo1RTU3Q0FBQyIsInZpc2l0b3JfaWQiOiI0NzY1MTg1MDA3MjMwMjczNzA5IiwicmVnaW9uX2VkZ2UiOiJzYS1lYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="b962a546301fb2b9c1bc3ef25798d363a8e7c0419cc5d3f22ff769d5c386c1fd" data-pjax-transient="true" />
 
 
 
@@ -76,7 +76,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NTM0MWE2OTE5ZDgyZDU2ODlmMjY5OWIyZTY0Zjc2M2Q4OTlkYzQxYWFkYTc5ZjVkYjk4MDgyYmMzODllNWU4MXx7InJlbW90ZV9hZGRyZXNzIjoiMTc3LjIyLjEzNy4xNiIsInJlcXVlc3RfaWQiOiI2MUVCOjIyMTA6MUJDRDc4OjI1REY5Mjo1RTU3Qzk2OCIsInRpbWVzdGFtcCI6MTU4MjgxMTQ5OSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="NWE1ZGY3Zjk4YmQ3MTk0YTQyMDZhN2RkNzNiMTFlMjM5OWNhZjIzZTJjZWYwY2Q2YWQyOGU5ZDdkM2U4ZDliMnx7InJlbW90ZV9hZGRyZXNzIjoiMTc3LjIyLjEzNy4xNiIsInJlcXVlc3RfaWQiOiJGQjc0OjIyMEY6NkEzREU6OTJBNUE6NUU1N0NBQUMiLCJ0aW1lc3RhbXAiOjE1ODI4MTE4MjcsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
@@ -163,7 +163,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="R+KZlvxMKKRUA1pGVFG9/ACe1JtchZAYQm1oikyeoh3Vi5hmJk0PEeBDnlYanfu2iTc66MzjIE/ebtKWRFuzOg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="xWwfLqO3LhgJG0Qww0eX/Ub16lHIen6U6kdEybQms1RXBR7eebYJrb1bgCCNi9G3z1wEIlgczsN2RP7VvOOicw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -314,7 +314,7 @@
       <img class="avatar" height="20" width="20" alt="@ermogenes" src="https://avatars2.githubusercontent.com/u/14313064?s=60&amp;v=4" />
       ermogenes
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZrScCSSqK94MLS2JeNEymDFUsR6c1p0yEWpKfkRA4+/VzwuxShLeq+ojIE+KgDDVFwstoG5FL6ovxl2LwmV2qQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="M/pehypLNojsmolw6U0v1X9s8XsVXzWkBWQU7ym/6K6Agck/RPPD/QqUhLYbHC2YWTNtxefMhzw7yAMar5p96A==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -435,7 +435,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="zR0go3XM4xf9Y7Y/onsy+l7mYfoztttcxn8VdgLodqC9D/EbMf+4nuhKGltTPVOVChAmZATg7mJLkbfPoYaoww==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="aTbSerCTb5D00OHYt4sFQhYx8SpUOYIJ4y3FV/L8MLwZJAPC9KA0GeH5TbxGzWQtQse2tGNvtzduw2fuUZLu3w==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -553,17 +553,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-02-27T11:21:39-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-02-27T11:27:07-03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-02-27T11:51:39-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-02-27T11:57:07-03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-02-27T14:51:39-03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-02-27T14:57:07-03:00">
             in 4 hours
           </button>
         </li>
@@ -633,12 +633,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/Q6K+xBHX/l5axuyDrWfdOdoCP63G9c+bGpzf928mBROdR1Dfv+qjJ9lFnT85J05wTeUQEWIZaZSxmSKW5kNUg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KQAfbYs+dsSiCDhUQbK6X+aZ8jamiZ1U4dVO8IxVGz+ae4jV5YaDsUQGNZKz47gSwMZuiFQaL8zfeVkFCnCOeQ==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_b27e" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1582811499869" class="form-control" /><input type="hidden" name="timestamp_secret" value="721b6554a865d82775314b1d894607916ef754be62f50ea405e861963ceffb1a" class="form-control" />
+      <input type="text" name="required_field_8b33" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1582811827288" class="form-control" /><input type="hidden" name="timestamp_secret" value="039a9a9aa8558a33f7069a180abcbbde216c692c08a1258216f806178491a1a7" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -709,7 +709,7 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/cuChnWcFkSnNMgl74bWVVz71NH/EhXAH9Hax5lUqIL2cBEjdzmZCpbtNR7vaEOnO95ozheyhTd6CUbyV1uG8A==" />      <input type="hidden" name="repository_id" value="195873236">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yWLcB5Bc3aSawS5uUTzmunsaR338M5JhF5zEavuRGprC2U+ikvlS6qsY01VR0nNIHD/7YhSTApZyRFhfNZ406A==" />      <input type="hidden" name="repository_id" value="195873236">
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:195873236,&quot;originating_url&quot;:&quot;https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/do.svg&quot;,&quot;user_id&quot;:14313064}}" data-hydro-click-hmac="feddf2c91cebded771e55bbc5cb31ed2a62f2cccab44e75d878523bc665891b0" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
@@ -783,7 +783,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/ermogenes/aulas-logica-programacao/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="MZnfx4ulN9NuxbUskjctH8+7+DBq3zmVqm1HHsbPgZ8TvDCTsmm5kbyzT8g4N+/QnD1lTH0DFBHmM05j5Kk+eQ==" />
+    <form class="starred js-social-form" action="/ermogenes/aulas-logica-programacao/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Mx5BMN8kH8Q2+Fop+p+wFUzgHrf4YYIzR2qV7zHrjWcRO65k5uiRhuSOoM1Qn3LaH2aDy++9r7cLNJySE40ygQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar ermogenes/aulas-logica-programacao" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:195873236,&quot;originating_url&quot;:&quot;https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/do.svg&quot;,&quot;user_id&quot;:14313064}}" data-hydro-click-hmac="b82636da39acd615fc73bbc6feaf1a849ce6944684be4ba548106ecd9c99c23f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
@@ -793,7 +793,7 @@
            1
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/ermogenes/aulas-logica-programacao/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1q5YtN8TWr2Z2ayS+Cxg7g/TUO4XX8suMeN40dQWRpNytKIDCmaGvjUyvD8EkySP3oHZqD78n3P33uILuaxL/w==" />
+    <form class="unstarred js-social-form" action="/ermogenes/aulas-logica-programacao/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CAdVlLFCJ4gNtf/XZYUByTEuiTx5inrKlobLLIqcGXWsHa8jZDf7i6Fe73qZOkWo4HwAelApLpdQu1H25yYUGQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star ermogenes/aulas-logica-programacao" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:195873236,&quot;originating_url&quot;:&quot;https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/do.svg&quot;,&quot;user_id&quot;:14313064}}" data-hydro-click-hmac="782580af16c1cc29248b8b39cbc6a005ba173a5e6607817fea4bf81c34210a06" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
@@ -1070,13 +1070,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/ermogenes/aulas-logica-programacao/edit/master/content/do.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xSwxP4AfoRe7V68DyKwqqenQ0jvCg3Dxv44lAj12l2hl8KX0P4SATaD6weqpZOCtnnkRfkjEZUonc/MfHzIp9A==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/ermogenes/aulas-logica-programacao/edit/master/content/do.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="AGDURcfng2WhOgv+z2lvILdogZWzYgXyUZEaZiEykRKgvECOeHyiP7qXZReuoaUkwMFC0DklEEnJbMx7A3Yvjg==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ermogenes/aulas-logica-programacao/delete/master/content/do.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jhC7nxNI93IbKrGvUjDMwpyrWgqrW2L23lTaSPUrIvkpvcJOav18uTAoNQCJC+4qYAP1liPl670krDHjplMkcA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ermogenes/aulas-logica-programacao/delete/master/content/do.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="v5poRxGmo+9lu8Ft6WXEMLFQ/T4vv4IkESNZHyIzi7UYNxGWaBMoJE65RcIyXubYTfhSoqcBC2/r27K0cUuNPA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1094,14 +1094,14 @@
       
   <div class="render-wrapper ">
     <div class="render-container is-render-pending js-render-target  "
-      data-identity="fa6ddacc-06a1-48fe-9710-c6b90feb479d"
+      data-identity="a61812a9-83e2-4659-8713-24926f2f3a3d"
       data-host="https://render.githubusercontent.com"
       data-type="svg">
       <img class="octospinner mx-auto" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" />
       <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/do.svg">Reload?</a></div>
       <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
       <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
-      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?commit=903586f2ac5480948e9c4e3a9522771b9587c6ae&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f65726d6f67656e65732f61756c61732d6c6f676963612d70726f6772616d6163616f2f393033353836663261633534383039343865396334653361393532323737316239353837633661652f636f6e74656e742f646f2e737667&amp;nwo=ermogenes%2Faulas-logica-programacao&amp;path=content%2Fdo.svg&amp;repository_id=195873236&amp;repository_type=Repository#fa6ddacc-06a1-48fe-9710-c6b90feb479d" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
+      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?commit=903586f2ac5480948e9c4e3a9522771b9587c6ae&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f65726d6f67656e65732f61756c61732d6c6f676963612d70726f6772616d6163616f2f393033353836663261633534383039343865396334653361393532323737316239353837633661652f636f6e74656e742f646f2e737667&amp;nwo=ermogenes%2Faulas-logica-programacao&amp;path=content%2Fdo.svg&amp;repository_id=195873236&amp;repository_type=Repository#a61812a9-83e2-4659-8713-24926f2f3a3d" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
           Viewer requires iframe.
       </iframe>
     </div>

@@ -60,6 +60,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 * **Semana 2**: Faça os exercícios de [saída em console](exercises/saida.md).
 
+* **Semana 3**: Revise os tópicos sobre [git e GitHub](#primeiros-passos). Se ainda não fez, crie sua conta no [GitHub](http://github.com/) e salve os projetos da semana 2 em repositórios remotos.
+
 ### Atividades extras
 
 * _Semanas 1 e 2_: Quer aprender mais sobre algoritmos? Faça alguns [exercícios de lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD). O conhecimento será muito útil nas próximas semanas.

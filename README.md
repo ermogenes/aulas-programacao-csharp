@@ -48,7 +48,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 ### Decisão
 * [Simples, com `if`](content/if.md)
-* Múltipla, com `switch` (_em breve_)
+* [Múltipla, com `switch`](content/switch.md)
 
 ### Laços
 * Laços condicionais `while` e `do` (_em breve_)

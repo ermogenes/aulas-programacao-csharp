@@ -1,4 +1,4 @@
-# Exercícios da Semana 1 - Saída via console
+# Exercícios da Semana 2 - Saída via console
 
 Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
 

@@ -62,6 +62,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 * **Semana 3**: Revise os tópicos sobre [git e GitHub](#primeiros-passos). Se ainda não fez, crie sua conta no [GitHub](http://github.com/) e salve os projetos da semana 2 em repositórios remotos.
 
+* **Semana 4**: Leia com atenção os materiais sobre [entrada de dados](content/entrada-teclado.md) e [strings](content/string.md). Faça a [lista de exercícios](exercises/entrada-strings.md).
+
 ### Atividades extras
 
 * _Semanas 1 e 2_: Quer aprender mais sobre algoritmos? Faça alguns [exercícios de lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD). O conhecimento será muito útil nas próximas semanas.

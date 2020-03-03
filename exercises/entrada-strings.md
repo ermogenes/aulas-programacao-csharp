@@ -6,7 +6,11 @@ Para cada exercício abaixo crie um novo projeto com o template indicado, e o no
 
 `[console: OlaUsuario]` Faça um programa solicite que o usuário digite seu nome. Exiba `Olá, ___!` (na lacuna `___` exiba o nome digitado).
 
+---
+
 `[console: Gritador]` Faça um programa repita exatamente que o usuário digitar, gritando (em CAIXA ALTA).
+
+---
 
 `[console: NomeCompleto]` Receba o nome e o sobrenome do usuário separadamente. Exiba o nome completo no formato padrão `Nome Sobrenome` e no formato de catálogo `SOBRENOME, Nome`.
 
@@ -20,6 +24,8 @@ Nome completo: Ermogenes Palacio
 Nome de catálogo: PALACIO, Ermogenes
 ```
 
+---
+
 `[console: Cebolinha]` Solicite que o usuário digite uma frase. Exiba a frase como se ela fosse dita pelo Cebolinha, da Turma da Mônica.
 
 ![Todos os direitos da imagem para Mauricio de Sousa Produções](https://upload.wikimedia.org/wikipedia/pt/9/98/Cebolinha.png)
@@ -27,6 +33,8 @@ Nome de catálogo: PALACIO, Ermogenes
 _Lembre-se que o Cebolinha tem um disturbio na fala chamado dislalia, que o faz trocar o `r` pelo `l`._
 
 Por exemplo, a frase `Eu troco as letras, não falo bem, mas meus amigos não troco por ninguém` será dita pelo Cebolinha como `Eu tloco as letlas, não falo bem, mas meus amigos não tloco pol ninguém`.
+
+---
 
 `[console: CriancaEducada]` Solicite que o usuário digite uma frase. Substitua as palavras da lista por uma sequência de símbolos (como `#@$%*!&`, por exemplo).
 
@@ -41,6 +49,8 @@ Eu sou uma criança educada. No seu lugar eu diria:
 Eu acho que é um #@$%*!&, e que vai ficar #@$%*!& pra sempre.
 ```
 
+---
+
 `[console: MemeToNervoso]` Peça ao usuário que ele digite o que pensa sobre esse programa. Exiba uma resposta em versão _meme_ no seguinte formato:
 
 ```
@@ -54,6 +64,8 @@ Tô nervoso
 Para isso, mantenha somente os 10 primeiros caracteres (remova todos os caracteres do texto digitado após o índice 10) e adicione o texto do _meme_ `... NÃO, PERA.\nTô nervoso`.
 
 <img src="https://www.lance.com.br/uploads/2017/11/17/5a0ecbe764bad.jpeg" width="400">
+
+---
 
 `[console: Leet]` Faça um tradutor simples para a linguagem [Leet Speak](https://pt.wikipedia.org/wiki/Leet).
 

@@ -75,6 +75,12 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [Introdução ao C# e ao Visual Studio Code](https://docs.microsoft.com/pt-br/dotnet/core/tutorials/with-visual-studio-code)
 * [Documentação do C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 
+### _Roadmaps_ para devs
+
+* [A Study Path for Software Development](https://github.com/joebew42/study-path)
+* [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
+* [Roadmap to becoming an ASP.NET Core developer in 2019](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+
 ### Material adicional
 
 * [Awesome C#](https://github.com/uhub/awesome-c-sharp)

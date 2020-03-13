@@ -64,6 +64,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 * **Semana 4**: Leia com atenção os materiais sobre [entrada de dados](content/entrada-teclado.md) e [strings](content/string.md). Faça a [lista de exercícios](exercises/entrada-strings.md).
 
+* **Semana 6**: Leia com atenção os materiais sobre [variáveis, constantes e tipos de dados](content/variaveis.md), [operadores](content/operadores.md) e [números](content/numeros-datas.md). Faça a [lista de exercícios](exercises/numeros-operadores.md).
+
 ### Atividades extras
 
 * _Semanas 1 e 2_: Quer aprender mais sobre algoritmos? Faça alguns [exercícios de lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD). O conhecimento será muito útil nas próximas semanas.

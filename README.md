@@ -70,6 +70,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 * _Semanas 1 e 2_: Quer aprender mais sobre algoritmos? Faça alguns [exercícios de lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD). O conhecimento será muito útil nas próximas semanas.
 
+* _Curso gratuito de programação da Alura #QuarentenaDev_: se possível, faça! [Site da Alura](https://www.alura.com.br/quarentenadev)
+
 ## Outros
 ### Documentação
 

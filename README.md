@@ -1,5 +1,7 @@
 # Programação de Computadores com C#
 
+![zxczx](content/00%20logo%20github.png)
+
 Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](http://eteab.com.br/)
 
 ## Ferramentas

@@ -1,5 +1,9 @@
 # Meu primeiro programa em C#
 
+https://youtu.be/XpK99gbiFS4
+
+<a href="https://youtu.be/XpK99gbiFS4"><img src="https://img.youtube.com/vi/XpK99gbiFS4/maxresdefault.jpg" alt="Dev C#" width=320></a>
+
 Primeiro você deve escolher uma pasta base onde a pasta do seu projeto ficará.
 
 Neste exemplo, a pasta base é `C:\Users\ermogenes\Desktop\code`, o projeto se chamará `HelloWorld` e a pasta final será `C:\Users\ermogenes\Desktop\code\HelloWorld`.

@@ -23,7 +23,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * IDE: [Visual Studio Code](https://code.visualstudio.com/download)
 * Controle de versão: [git](https://git-scm.com/downloads)
 
-[📖 Passo-a-passo para a criação do ambiente](content/ambiente.md) [📺](https://youtu.be/QIK8Tt5m1v0)
+ [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Passo-a-passo para a criação do ambiente](content/ambiente.md)
 
 ## Conteúdo
 
@@ -33,7 +33,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 ### 🐢 Primeiros passos
 
-* [📖 Comandos de terminal](content/terminal.md) [📺](https://youtu.be/3H7huG1cEQ4)
+* [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md)
 * [Usando o Visual Studio Code](content/vscode.md)
 * [Hello World!](content/helloworld.md)
 * [Controle de versão com git e GitHub](content/github.md)

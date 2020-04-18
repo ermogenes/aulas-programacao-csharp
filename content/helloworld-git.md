@@ -1,4 +1,8 @@
-# Meu primeiro programa em C# versionado no GitHub
+# Programas C# com Git e GitHub
+
+<a href="https://youtu.be/3MrhMXNvLvQ"><img src="https://img.youtube.com/vi/3MrhMXNvLvQ/maxresdefault.jpg" alt="Dev C#" width=320></a>
+
+## Meu primeiro programa em C# versionado no GitHub
 
 Crie um repositório no GitHub. Nesse exemplo, chamarei de `primeiro-programa-em-cs`, e adicionarei os arquivos `README` e `.gitignore`.
 

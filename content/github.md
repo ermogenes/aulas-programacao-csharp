@@ -1,5 +1,7 @@
 # GitHub
 
+<a href="https://youtu.be/AOZOBremExk"><img src="https://img.youtube.com/vi/AOZOBremExk/maxresdefault.jpg" alt="Dev C#" width=320></a>
+
 Vamos utilizar o repositório gratuito GitHub para salvar nossos projetos.
 
 ## Criando sua conta

@@ -1,5 +1,7 @@
 # Usando o Visual Studio Code
 
+<a href="https://youtu.be/x2eTHiEpPEg"><img src="https://img.youtube.com/vi/x2eTHiEpPEg/maxresdefault.jpg" alt="Dev C#" width=320></a>
+
 ## Tela inicial
 
 ![](000003.png)

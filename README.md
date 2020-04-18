@@ -4,7 +4,7 @@
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ermogenes/aulas-programacao-csharp/master?label=%C3%BAltima%20atualiza%C3%A7%C3%A3o)
 ![Github commit count](https://badgen.net/github/commits/ermogenes/aulas-programacao-csharp)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ermogenes/aulas-programacao-csharp?label=commits)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ermogenes/aulas-programacao-csharp?label=commits)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ermogenes/aulas-programacao-csharp?label=tamanho)
 
 Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](http://eteab.com.br/)

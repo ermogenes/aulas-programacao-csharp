@@ -2,6 +2,11 @@
 
 ![zxczx](content/00%20logo%20github.png)
 
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ermogenes/aulas-programacao-csharp/master?label=%C3%BAltima%20atualiza%C3%A7%C3%A3o)
+![Github commit count](https://badgen.net/github/commits/ermogenes/aulas-programacao-csharp)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ermogenes/aulas-programacao-csharp?label=commits)
+![GitHub repo size](https://img.shields.io/github/repo-size/ermogenes/aulas-programacao-csharp?label=tamanho)
+
 Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](http://eteab.com.br/)
 
 ## 🎞 Playlist deste curso no YouTube
@@ -128,3 +133,6 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 ----
 Prof. Ermogenes Palacio, 2020-.
+
+![GitHub followers](https://img.shields.io/github/followers/ermogenes?label=seguidores&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ermogenes?style=social)

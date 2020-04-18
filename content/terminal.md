@@ -1,6 +1,12 @@
-# Referência rápida de comandos de terminal
+# Interface de linha de comando
 
-## Windows (`cmd` e `Powershell`) / Linux (`bash` ou qualquer outro)
+## Terminal básico no Windows
+
+<a href="https://youtu.be/3H7huG1cEQ4"><img src="https://img.youtube.com/vi/3H7huG1cEQ4/maxresdefault.jpg" alt="Dev C#" width=320></a>
+
+## Referência rápida de comandos de terminal
+
+### Windows (`cmd` e `Powershell`) / Linux (`bash` ou qualquer outro)
 
 Comando | Descrição
 -- | --
@@ -10,7 +16,7 @@ Comando | Descrição
 
 Há vasto material sobre o assunto na Internet. você pode começar por [aqui](https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux/) e [aqui](https://linux.ime.usp.br/~lucasmmg/livecd/documentacao/documentos/terminal/Terminal_basico.html).
 
-## `code`
+### `code`
 
 Comando | Descrição
 -- | --
@@ -23,7 +29,7 @@ Comando | Descrição
 
 Referência: https://code.visualstudio.com/docs/editor/command-line
 
-## `dotnet`
+### `dotnet`
 
 Comando | Descrição
 -- | --
@@ -63,7 +69,7 @@ Pacote | Descrição
 `Humanizer` | Permite gerar descrições textuais legíveis por humanos para diversos objetos.
 
 
-## `git`
+### `git`
 
 Comando | Descrição
 -- | --

@@ -4,7 +4,11 @@
 
 Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](http://eteab.com.br/)
 
-## Ferramentas
+## 🎞 Playlist deste curso no YouTube
+
+<a href="https://www.youtube.com/playlist?list=PLk6PnAig6xXKg988f8Ewq1iFm4_ZH9nA5"><img alt="Dev C#" src="https://img.youtube.com/vi/N_LsPQGtVCI/maxresdefault.jpg" width=240 /><a>
+
+## 🛠 Ferramentas
 
 Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu computador.
 

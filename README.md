@@ -20,6 +20,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 [Passo-a-passo para a criação do ambiente](content/ambiente.md)
 
+<a href="https://youtu.be/QIK8Tt5m1v0"><img src="https://img.youtube.com/vi/QIK8Tt5m1v0/maxresdefault.jpg" width=180 alt="Dev C# | Software e ambiente" />
+
 ## Conteúdo
 
 ### Introdução

@@ -30,8 +30,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 ### Primeiros passos
 
+* [📖 Comandos de terminal](content/terminal.md) [📺](https://youtu.be/3H7huG1cEQ4)
 * [Usando o Visual Studio Code](content/vscode.md)
-* [Referência rápida de comandos de terminal](content/terminal.md)
 * [Hello World!](content/helloworld.md)
 * [Controle de versão com git e GitHub](content/github.md)
 * [Hello World! com versionamento](content/helloworld-git.md)

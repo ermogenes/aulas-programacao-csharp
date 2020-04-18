@@ -1,5 +1,7 @@
 # Passo-a-passo para a criação do ambiente
 
+<a href="https://youtu.be/QIK8Tt5m1v0"><img src="https://img.youtube.com/vi/QIK8Tt5m1v0/maxresdefault.jpg" width=320 alt="Dev C#" />
+
 ## Baixe o .NET Core SDK
 
 https://dotnet.microsoft.com/download

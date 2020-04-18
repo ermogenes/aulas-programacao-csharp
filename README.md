@@ -27,11 +27,11 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 ## Conteúdo
 
-### Introdução
+### 👔 Introdução
 
 * [Computadores e programação](https://docs.google.com/presentation/d/18qCmMcKVhIM3L_yF0PAjHQBgt6JRTIJIim8F6jGhIPM/edit?usp=sharing)
 
-### Primeiros passos
+### 🐢 Primeiros passos
 
 * [📖 Comandos de terminal](content/terminal.md) [📺](https://youtu.be/3H7huG1cEQ4)
 * [Usando o Visual Studio Code](content/vscode.md)
@@ -40,7 +40,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [Hello World! com versionamento](content/helloworld-git.md)
 * Depuração (_em breve_)
 
-### Conceitos básicos
+### 📌 Conceitos básicos
 * [Anatomia de um programa C#](content/anatomia.md)
 * [Saída simples em console](content/saida-console.md)
 * [Entrada de dados via teclado](content/entrada-teclado.md)
@@ -51,21 +51,21 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [Utilizando pacotes de terceiros](content/pacotes.md)
 * Enumeradores (_em breve_)
 
-### Trabalhando com objetos
+### 🐱‍👤 Trabalhando com objetos
 * Classes e objetos (_em breve_)
 * Membros e propriedades (_em breve_)
 * Listas (_em breve_)
 * Construtores e métodos (_em breve_)
 
-### Decisão
+### 🚦 Decisão
 * [Simples, com `if`](content/if.md)
 * [Múltipla, com `switch`](content/switch.md)
 
-### Laços
+### 🎀 Laços
 * [Laços condicionais `while` e `do`](content/while-do.md)
 * Laços `for` e `foreach` (_em breve_)
 
-## Atividades
+## 🥋 Atividades
 
 * **Semana 1**: Faça os [exercícios de fixação](https://forms.gle/mWy8rnAaiTrQfgCbA). Se quiser estudar em casa, prepare o ambiente [baixando e instalando](#ferramentas) os softwares indicados.
 
@@ -77,47 +77,47 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 * **Semana 6**: Leia com atenção os materiais sobre [variáveis, constantes e tipos de dados](content/variaveis.md), [operadores](content/operadores.md) e [números](content/numeros-datas.md). Faça a [lista de exercícios](exercises/numeros-operadores.md).
 
-### Atividades extras
+### 🎮 Atividades extras
 
 * _Semanas 1 e 2_: Quer aprender mais sobre algoritmos? Faça alguns [exercícios de lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD). O conhecimento será muito útil nas próximas semanas.
 
 * _Curso gratuito de programação da Alura #QuarentenaDev_: se possível, faça! [Site da Alura](https://www.alura.com.br/quarentenadev)
 
 ## Outros
-### Documentação
+### 📜 Documentação
 
 * [Guia do .NET Core](https://docs.microsoft.com/pt-br/dotnet/core/)
 * [Introdução ao C# e ao Visual Studio Code](https://docs.microsoft.com/pt-br/dotnet/core/tutorials/with-visual-studio-code)
 * [Documentação do C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 
-### _Roadmaps_ para devs
+### 🏎 _Roadmaps_ para devs
 
 * [A Study Path for Software Development](https://github.com/joebew42/study-path)
 * [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
 * [Roadmap to becoming an ASP.NET Core developer in 2019](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
-### Material adicional
+### 🌡 Material adicional
 
 * [Awesome C#](https://github.com/uhub/awesome-c-sharp)
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
 
-### Cursos de terceiros
+### 🙊 Cursos de terceiros
 
 * [C# Tutorial - W3Schools (em inglês)](https://www.w3schools.com/cs/)
 * [C# Tutorial - CSharp.net-tutorials (em português)](https://csharp.net-tutorials.com/pt/104/iniciando/introducao/)
 
-### Assuntos complementares
+### 🦧 Assuntos complementares
 
 * Sistemas de numeração [[1](http://www.inf.ufsc.br/~bosco.sobral/downloads/Livro-Java-Como-Programar-Deitel-Ed6/additional/addnlApps/jhtp6_appE_NumberSystems.pdf)] [[2](https://pt.wikibooks.org/wiki/Eletr%C3%B4nica_Digital/Sistemas_de_Numera%C3%A7%C3%A3o)] [[3](http://www.mecaweb.com.br/eletronica/content/e_numeracao)]
 * [Representação de dados](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)
 * [Computer Language History](https://www.levenez.com/lang/)
 
-### Links úteis
+### 🌎 Links úteis
 
 * [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Uma Referência Visual do Git](http://marklodato.github.io/visual-git-guide/index-pt.html)
 
-### Top linguagens
+### 🏆 Top linguagens
 
 * [IEEE Spectrum](https://spectrum.ieee.org/computing/software/the-top-programming-languages-2019)
 * [TIOBE Index](https://www.tiobe.com/tiobe-index/)
@@ -125,7 +125,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019#most-popular-technologies)
 * [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
 
-## Contributors
+## 💪 Contributors
 
 [@diegoneri](https://github.com/diegoneri)
 

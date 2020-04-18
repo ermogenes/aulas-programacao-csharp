@@ -37,7 +37,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/x2eTHiEpPEg) [📖 Usando o Visual Studio Code](content/vscode.md)
 * [📺](https://youtu.be/XpK99gbiFS4) [📖 Hello World!](content/helloworld.md)
 * [📺](https://youtu.be/AOZOBremExk) [📖 Controle de versão com git e GitHub](content/github.md)
-* [Hello World! com versionamento](content/helloworld-git.md)
+* [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md)
 * Depuração (_em breve_)
 
 ### 📌 Conceitos básicos

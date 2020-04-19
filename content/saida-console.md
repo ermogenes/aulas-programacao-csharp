@@ -1,4 +1,6 @@
-# Saída simples em console
+# Saída em console
+
+<a href="https://youtu.be/zRzLq1zzb5M"><img src="https://img.youtube.com/vi/zRzLq1zzb5M/maxresdefault.jpg" width=320 alt="Dev C#" />
 
 Comandos disponíveis na classe `System.Console`.
 

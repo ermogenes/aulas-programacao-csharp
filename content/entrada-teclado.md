@@ -1,5 +1,7 @@
 # Entrada de dados via teclado
 
+<a href="https://youtu.be/C2CaB2-kEQo"><img src="https://img.youtube.com/vi/C2CaB2-kEQo/maxresdefault.jpg" width=320 alt="Dev C#" />
+
 ## Aguardar o usuário pressionar qualquer tecla
 
 `Console.ReadKey`

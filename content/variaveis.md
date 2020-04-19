@@ -1,6 +1,6 @@
 # Variáveis, constantes e tipos de dados
 
-<a href="https://youtu.be/6Hrqte_KRjg"><img src="https://img.youtube.com/vi/6Hrqte_KRjg/maxresdefault.jpg" width=320 alt="Dev C#" /></a>
+<a href="https://youtu.be/CY6DI7dN29g"><img src="https://img.youtube.com/vi/CY6DI7dN29g/maxresdefault.jpg" width=320 alt="Dev C#" /></a>
 
 Podemos armazenar dados na memória principal (RAM) do computador para serem tratados pelo nosso programa. Precisaremos disso para tratar entrada de dados externas ao programa, e para implementar as lógicas que resolverão os problemas que nos são apresentados.
 

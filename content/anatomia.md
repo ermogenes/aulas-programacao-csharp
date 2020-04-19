@@ -1,4 +1,8 @@
-# Anatomia de um programa C#
+# Primeiros passos com C#
+
+<a href="https://youtu.be/ersRRa5ymfo"><img src="https://img.youtube.com/vi/ersRRa5ymfo/maxresdefault.jpg" alt="Dev C#" width=320></a>
+
+## Anatomia de um programa C#
 
 Escreveremos nossos programas em arquivos texto contendo comandos da linguagem de programação, chamados _códigos-fonte_. Esses arquivos são organizados em _projetos_, sendo um projeto uma unidade de compilação, que gerará um _executável_, ou _assembly_ (no jargão .NET).
 

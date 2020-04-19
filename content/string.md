@@ -1,5 +1,7 @@
 # Trabalhando com strings
 
+<a href="https://youtu.be/bAfoJV-jc74"><img src="https://img.youtube.com/vi/bAfoJV-jc74/maxresdefault.jpg" width=320 alt="Dev C#" />
+
 ## O básico
 
 Uma _string_ é uma cadeia (sequência) de caracteres individuais. Por exemplo, a string `Etec` é formada pelos caracteres `E`, `t`, `e` e `c`. No .NET, por padrão, é utilizada a codificação UTF-16.

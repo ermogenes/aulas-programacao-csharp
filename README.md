@@ -45,7 +45,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md)
 * [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
 * [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
-* [📺](https://youtu.be/6Hrqte_KRjg) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
+* [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
 * [Expressões e operadores](content/operadores.md)
 * [Números e datas](content/numeros-datas.md)
 * [Utilizando pacotes de terceiros](content/pacotes.md)

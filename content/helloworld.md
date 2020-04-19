@@ -1,8 +1,6 @@
 # Meu primeiro programa em C#
 
-https://youtu.be/XpK99gbiFS4
-
-<a href="https://youtu.be/XpK99gbiFS4"><img src="https://img.youtube.com/vi/XpK99gbiFS4/maxresdefault.jpg" alt="Dev C#" width=320></a>
+<a href="https://youtu.be/ersRRa5ymfo"><img src="https://img.youtube.com/vi/ersRRa5ymfo/maxresdefault.jpg" alt="Dev C#" width=320></a>
 
 Primeiro você deve escolher uma pasta base onde a pasta do seu projeto ficará.
 

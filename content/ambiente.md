@@ -8,6 +8,8 @@ https://dotnet.microsoft.com/download
 
 ![](100003.png)
 
+😱 Está com dificuldade para baixar a versão Windows de 32 bits (x86)? Veja [este tutorial](DotNetCore_x86_install.pdf) do professor [Diego Neri](https://github.com/diegoneri).
+
 ## Baixe o Visual Studio Code
 
 https://code.visualstudio.com/download

@@ -1,4 +1,4 @@
-# Exercícios da Semana 6 - Números e operadores
+# Exercícios: Números e operadores
 
 Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
 
@@ -198,3 +198,15 @@ Altura máxima..: 11,47 m
 ```
 
 Ref.: https://alunosonline.uol.com.br/fisica/lancamento-obliquo.html
+
+---
+
+## 🏁 Orientações para entrega (alunos do curso presencial)
+
+Confira no Teams o link da tarefa equivalente. Lá você postará o link dos repositórios que você criou, um para cada exercício.
+
+**Repositório de exemplo:**
+[Exercício `EtecAB` (Saída em console)](https://github.com/ermogenes/EtecAB)
+
+Exemplo de link a ser postado: https://github.com/ermogenes/EtecAB
+

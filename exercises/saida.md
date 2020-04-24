@@ -1,4 +1,4 @@
-# Exercícios da Semana 2 - Saída via console
+# Exercícios: Saída via console
 
 Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
 
@@ -66,3 +66,15 @@ Ref.: outras artes [aqui](https://www.asciiart.eu/) e [aqui](http://patorjk.com/
 | Ermogenes |
 +-----------+
 ```
+
+---
+
+## 🏁 Orientações para entrega (alunos do curso presencial)
+
+Confira no Teams o link da tarefa equivalente. Lá você postará o link dos repositórios que você criou, um para cada exercício.
+
+**Repositório de exemplo:**
+[Exercício `EtecAB` (Saída em console)](https://github.com/ermogenes/EtecAB)
+
+Exemplo de link a ser postado: https://github.com/ermogenes/EtecAB
+

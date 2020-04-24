@@ -13,7 +13,9 @@
 
 Disponibilidade dos professores nos dias das aulas presenciais, nos horários de aula (confira no Teams o horário das _lives_ e do atendimento por _chat_).
 
-* [📡 Sala de Reunião dos alunos da Etec AB, 2020-1, 1I3, via Teams](https://bit.ly/pc-aula-sinc)
+* **Alunos de PC1 da Etec AB, 2020-1, 1I3:**
+  * [👨‍👩‍👧‍👦 Turma **única**, no Teams](https://bit.ly/pc-1I3-teams)
+  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](https://bit.ly/pc-aula-sinc)
 
 ## 😱 Entregas (para alunos presenciais)
 

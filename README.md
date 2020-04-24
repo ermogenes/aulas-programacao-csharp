@@ -79,8 +79,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA)
 * [🤯 Exercícios extras: Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
-* [🤖 Exercícios práticos: Saída em console](exercises/saida.md).
-* [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md).
+* [🤖 Exercícios práticos: Saída em console](exercises/saida.md)
+* [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md)
 * [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
 
 <!--

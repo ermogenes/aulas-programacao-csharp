@@ -1,4 +1,4 @@
-# Exercícios da Semana 4 - Entrada de dados e _strings_
+# Exercícios: Entrada de dados e _strings_
 
 Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
 
@@ -86,3 +86,15 @@ Exemplo:
 Texto a ser traduzido...: Hackers usavam leet antes de virar modinha.
 TRADUZIDO: H4ck3r5 u54v4m 1337 4n735 d3 v1r4r m0d1nh4.
 ```
+
+---
+
+## 🏁 Orientações para entrega (alunos do curso presencial)
+
+Confira no Teams o link da tarefa equivalente. Lá você postará o link dos repositórios que você criou, um para cada exercício.
+
+**Repositório de exemplo:**
+[Exercício `EtecAB` (Saída em console)](https://github.com/ermogenes/EtecAB)
+
+Exemplo de link a ser postado: https://github.com/ermogenes/EtecAB
+

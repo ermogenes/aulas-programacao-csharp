@@ -9,6 +9,12 @@
 
 Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](http://eteab.com.br/)
 
+## 🧭 Aulas síncronas
+
+Disponibilidade dos professores nos dias das aulas presenciais, nos horários de aula (confira no Teams o horário das _lives_ e do atendimento por _chat_).
+
+* [📡 Sala de Reunião dos alunos da Etec AB, 2020-1, 1I3, via Teams](https://bit.ly/pc-aula-sinc)
+
 ## 🎞 Playlist deste curso no YouTube
 
 <a href="https://www.youtube.com/playlist?list=PLk6PnAig6xXKg988f8Ewq1iFm4_ZH9nA5"><img alt="Dev C#" src="https://img.youtube.com/vi/N_LsPQGtVCI/maxresdefault.jpg" width=240 /><a>
@@ -65,7 +71,15 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [Laços condicionais `while` e `do`](content/while-do.md)
 * Laços `for` e `foreach` (_em breve_)
 
-## 🥋 Atividades
+## 🥋 Exercícios
+
+* [Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA)
+* [Exercícios extras: Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
+* [Exercícios práticos: Saída em console](exercises/saida.md).
+* [Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md).
+* [Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
+
+<!--
 
 * **Semana 1**: Faça os [exercícios de fixação](https://forms.gle/mWy8rnAaiTrQfgCbA). Se quiser estudar em casa, prepare o ambiente [baixando e instalando](#ferramentas) os softwares indicados.
 
@@ -82,6 +96,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * _Semanas 1 e 2_: Quer aprender mais sobre algoritmos? Faça alguns [exercícios de lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD). O conhecimento será muito útil nas próximas semanas.
 
 * _Curso gratuito de programação da Alura #QuarentenaDev_: se possível, faça! [Site da Alura](https://www.alura.com.br/quarentenadev)
+
+-->
 
 ## Outros
 ### 📜 Documentação

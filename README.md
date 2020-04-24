@@ -15,6 +15,10 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 
 * [📡 Sala de Reunião dos alunos da Etec AB, 2020-1, 1I3, via Teams](https://bit.ly/pc-aula-sinc)
 
+## 😱 Entregas (para alunos presenciais)
+
+🐌🐌 _em breve_
+
 ## 🎞 Este curso no YouTube
 
 [Canal: Prof. Ermogenes Palacio](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw)

@@ -19,7 +19,8 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 
 ## 😱 Entregas (para alunos presenciais)
 
-🐌🐌 _em breve_
+* **Alunos de PC1 da Etec AB, 2020-1, 1I3:**
+  * 🐌🐌 _em breve_
 
 ## 🎞 Este curso no YouTube
 

@@ -2,7 +2,7 @@
 
 ## Terminal básico no Windows
 
-<a href="https://youtu.be/3H7huG1cEQ4"><img src="https://img.youtube.com/vi/3H7huG1cEQ4/maxresdefault.jpg" alt="Dev C#" width=320></a>
+📽 https://youtu.be/3H7huG1cEQ4
 
 ## Referência rápida de comandos de terminal
 

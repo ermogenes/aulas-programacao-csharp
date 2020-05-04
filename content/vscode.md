@@ -1,6 +1,6 @@
 # Usando o Visual Studio Code
 
-<a href="https://youtu.be/mOtSc3SbavY"><img src="https://img.youtube.com/vi/mOtSc3SbavY/maxresdefault.jpg" alt="Dev C#" width=320></a>
+📽 https://youtu.be/mOtSc3SbavY
 
 ## Tela inicial
 

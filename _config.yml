@@ -1,3 +1,2 @@
-remote_theme: nicoelayda/celeste #jekyll-theme-tactile
-
+# remote_theme: nicoelayda/celeste
 theme: jekyll-theme-slate

@@ -22,13 +22,13 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 * **Alunos de PC1 da Etec AB, 2020-1, 1I3:**
   * 🐌🐌 _em breve_
 
+😨 _SOMENTE para quem não tem computador:_ [📲 Faça seus exercícios pelo celular](https://www.youtube.com/watch?v=VePpmsHWqqI&feature=youtu.be).
+
 ## 🎞 Este curso no YouTube
 
 [Canal: Prof. Ermogenes Palacio](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw)
 
-[Playlist](https://www.youtube.com/playlist?list=PLk6PnAig6xXKg988f8Ewq1iFm4_ZH9nA5)
-
-<a href="https://www.youtube.com/playlist?list=PLk6PnAig6xXKg988f8Ewq1iFm4_ZH9nA5"><img alt="Dev C#" src="https://img.youtube.com/vi/N_LsPQGtVCI/maxresdefault.jpg" width=240 /><a>
+[Playlist com todos os vídeos](https://www.youtube.com/playlist?list=PLk6PnAig6xXKg988f8Ewq1iFm4_ZH9nA5)
 
 ## 🛠 Ferramentas
 
@@ -41,7 +41,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * Controle de versão: [Git 📥](https://git-scm.com/downloads)
 
  [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Passo-a-passo para a criação do ambiente](content/ambiente.md)
-
+ 
 ## Conteúdo
 
 ### 👔 Introdução

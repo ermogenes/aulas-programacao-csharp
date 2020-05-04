@@ -1,10 +1,10 @@
 # Passo-a-passo para a criação do ambiente
 
-📽 https://youtu.be/QIK8Tt5m1v0
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/QIK8Tt5m1v0)
 
 ## Baixe o .NET Core SDK
 
-https://dotnet.microsoft.com/download
+[https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
 
 ![](100003.png)
 
@@ -12,13 +12,13 @@ https://dotnet.microsoft.com/download
 
 ## Baixe o Visual Studio Code
 
-https://code.visualstudio.com/download
+[https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 ![](100002.png)
 
 ## Baixe o git
 
-https://git-scm.com/downloads
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 ![](100004.png)
 

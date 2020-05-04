@@ -1,6 +1,6 @@
 # Primeiros passos com C#
 
-<a href="https://youtu.be/ersRRa5ymfo"><img src="https://img.youtube.com/vi/ersRRa5ymfo/maxresdefault.jpg" alt="Dev C#" width=320></a>
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/ersRRa5ymfo)
 
 ## Anatomia de um programa C#
 

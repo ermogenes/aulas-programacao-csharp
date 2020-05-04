@@ -1,6 +1,6 @@
 # Saída em console
 
-<a href="https://youtu.be/zRzLq1zzb5M"><img src="https://img.youtube.com/vi/zRzLq1zzb5M/maxresdefault.jpg" width=320 alt="Dev C#" />
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/zRzLq1zzb5M)
 
 Comandos disponíveis na classe `System.Console`.
 

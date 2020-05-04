@@ -73,8 +73,8 @@ Semiperímetro..: 27
 ```
 
 Ref.: 
-https://pt.wikipedia.org/wiki/Teorema_de_Her%C3%A3o
-https://mundoeducacao.bol.uol.com.br/matematica/formula-heron.htm
+[https://pt.wikipedia.org/wiki/Teorema_de_Her%C3%A3o](https://pt.wikipedia.org/wiki/Teorema_de_Her%C3%A3o)
+[https://mundoeducacao.bol.uol.com.br/matematica/formula-heron.htm](https://mundoeducacao.bol.uol.com.br/matematica/formula-heron.htm)
 
 ---
 
@@ -82,7 +82,7 @@ https://mundoeducacao.bol.uol.com.br/matematica/formula-heron.htm
 
 °F = °C × 1,8 + 32
 
-Ref.: https://pt.wikipedia.org/wiki/Celsius
+Ref.: [https://pt.wikipedia.org/wiki/Celsius](https://pt.wikipedia.org/wiki/Celsius)
 
 ```
 °C = 0
@@ -95,7 +95,7 @@ Ref.: https://pt.wikipedia.org/wiki/Celsius
 
 °C = (°F − 32) / 1,8
 
-Ref.: https://pt.wikipedia.org/wiki/Celsius
+Ref.: [https://pt.wikipedia.org/wiki/Celsius](https://pt.wikipedia.org/wiki/Celsius)
 
 ```
 °F = 0
@@ -197,7 +197,7 @@ Alcance........: 79,48 m
 Altura máxima..: 11,47 m
 ```
 
-Ref.: https://alunosonline.uol.com.br/fisica/lancamento-obliquo.html
+Ref.: [https://alunosonline.uol.com.br/fisica/lancamento-obliquo.html](https://alunosonline.uol.com.br/fisica/lancamento-obliquo.html)
 
 ---
 

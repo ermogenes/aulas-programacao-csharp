@@ -2,7 +2,7 @@
 
 ## Terminal básico no Windows
 
-📽 https://youtu.be/3H7huG1cEQ4
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/3H7huG1cEQ4)
 
 ## Referência rápida de comandos de terminal
 
@@ -27,7 +27,7 @@ Comando | Descrição
 `code -n .` | Abre a pasta atual em uma nova janela.
 `code -r .` | Abre a pasta atual na janela atual.
 
-Referência: https://code.visualstudio.com/docs/editor/command-line
+Referência: [https://code.visualstudio.com/docs/editor/command-line](https://code.visualstudio.com/docs/editor/command-line)
 
 ### `dotnet`
 
@@ -47,7 +47,7 @@ Comando | Descrição
 `dotnet remove package <pacote>` | Remove um pacote do projeto atual.
 
 
-Referência: https://docs.microsoft.com/pt-br/dotnet/core/tools
+Referência: [https://docs.microsoft.com/pt-br/dotnet/core/tools](https://docs.microsoft.com/pt-br/dotnet/core/tools)
 
 Principais templates de aplicação:
 

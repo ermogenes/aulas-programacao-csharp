@@ -76,5 +76,4 @@ Confira no Teams o link da tarefa equivalente. Lá você postará o link dos rep
 **Repositório de exemplo:**
 [Exercício `EtecAB` (Saída em console)](https://github.com/ermogenes/EtecAB)
 
-Exemplo de link a ser postado: https://github.com/ermogenes/EtecAB
-
+Exemplo de link a ser postado: `https://github.com/ermogenes/EtecAB`

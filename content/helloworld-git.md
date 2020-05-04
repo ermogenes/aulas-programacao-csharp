@@ -1,6 +1,6 @@
 # Programas C# com Git e GitHub
 
-<a href="https://youtu.be/3MrhMXNvLvQ"><img src="https://img.youtube.com/vi/3MrhMXNvLvQ/maxresdefault.jpg" alt="Dev C#" width=320></a>
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/3MrhMXNvLvQ)
 
 ## Meu primeiro programa em C# versionado no GitHub
 

@@ -1,6 +1,6 @@
 # Trabalhando com strings
 
-<a href="https://youtu.be/bAfoJV-jc74"><img src="https://img.youtube.com/vi/bAfoJV-jc74/maxresdefault.jpg" width=320 alt="Dev C#" />
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/bAfoJV-jc74)
 
 ## O básico
 
@@ -155,10 +155,10 @@ Algumas sequências de escape importantes:
 
 Caracter | Sequência de escape | Um exemplo (string)
 -- | -- | --
-" | \\" | "Ganhar na mega-sena é \\"fácil\\" demais."
-' | \\' | "Eu \\'prefiro\\' aspas simples."
-(quebra de linha) | \\n | "Oi!\nTchau!"
-(tabulação) | \\t | "Olá!\tTudo bem?\nSim!\tE você?"
+`"` | `\\"` | `"Ganhar na mega-sena é \\"fácil\\" demais."`
+`'` | `\\'` | `"Eu \\'prefiro\\' aspas simples."`
+(quebra de linha) | `\\n` | `"Oi!\nTchau!"`
+(tabulação) | `\\t` | `"Olá!\tTudo bem?\nSim!\tE você?"`
 
 O C# ignorará todas as sequências de escape se a string for criada com o identificador textual `@`:
 

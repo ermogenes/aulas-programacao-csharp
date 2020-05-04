@@ -1,12 +1,12 @@
 # GitHub
 
-📽 https://youtu.be/8dbglVmDylU
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/8dbglVmDylU)
 
 Vamos utilizar o repositório gratuito GitHub para salvar nossos projetos.
 
 ## Criando sua conta
 
-Acesse https://github.com/ e crie sua conta.
+Acesse [https://github.com/](https://github.com/) e crie sua conta.
 
 ![](000014.png)
 

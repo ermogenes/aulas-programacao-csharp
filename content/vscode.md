@@ -1,6 +1,6 @@
 # Usando o Visual Studio Code
 
-📽 https://youtu.be/mOtSc3SbavY
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/mOtSc3SbavY)
 
 ## Tela inicial
 

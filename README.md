@@ -22,7 +22,7 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 * **Alunos de PC1 da Etec AB, 2020-1, 1I3:**
   * 🐌🐌 _em breve_
 
-😨 _SOMENTE para quem não tem computador:_ [📲 Faça seus exercícios pelo celular](https://www.youtube.com/watch?v=VePpmsHWqqI&feature=youtu.be).
+📲 _SOMENTE para quem não tem computador:_ [📷](https://drive.google.com/file/d/1_Tg7udFQxFlMAx80DgW9yHa2YUPAXV0x/view?usp=sharing)[📽 Faça seus exercícios pelo celular](https://www.youtube.com/watch?v=VePpmsHWqqI&feature=youtu.be) usando o [🌍 .NET Fiddle](https://dotnetfiddle.net/).
 
 ## 🎞 Este curso no YouTube
 

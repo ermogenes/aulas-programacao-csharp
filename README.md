@@ -20,7 +20,7 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 ## 😱 Entregas (para alunos presenciais)
 
 * **Alunos de PC1 da Etec AB, 2020-1, 1I3:**
-  * 🐌🐌 _em breve_
+  * Links do repositório no  GitHub, via Teams.
 
 📲 _SOMENTE para quem não tem computador:_ [📷](https://drive.google.com/file/d/1_Tg7udFQxFlMAx80DgW9yHa2YUPAXV0x/view?usp=sharing)[📽 Faça seus exercícios pelo celular](https://www.youtube.com/watch?v=VePpmsHWqqI&feature=youtu.be) usando o [🌍 .NET Fiddle](https://dotnetfiddle.net/).
 
@@ -89,6 +89,10 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [🤖 Exercícios práticos: Saída em console](exercises/saida.md)
 * [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md)
 * [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
+
+### Soluções comentadas
+
+* [📺 Exercício comentado - AsciiArt / Problemas com o Terminal do VS Code (Prof. Neri)](https://youtu.be/FhIssxfdyx8)
 
 <!--
 

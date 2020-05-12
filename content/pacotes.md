@@ -1,4 +1,6 @@
-# Utilizando pacotes de terceiros
+# Pacotes
+
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/eTJsDYhs0kE)
 
 Podemos incluir referência a pacotes (bibliotecas) disponibilizadas por terceiros. O principal repositório de pacotes para .NET é o [NuGet](https://www.nuget.org/).
 
@@ -111,3 +113,65 @@ namespace Eventos
 ```
 
 Esse pacote contém muitas funcionalidades incrivelmente úteis. Mais detalhes sobre o `Humanizer` [aqui](https://github.com/Humanizr/Humanizer).
+
+[Programa da vídeo-aula](https://youtu.be/eTJsDYhs0kE)
+
+```cs
+using System;
+using Figgle;
+using Humanizer;
+
+namespace AulaPacotes
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Instalando pacotes via NuGet
+            // Fazendo referência a um pacote
+            // Figgle: criando textos em ASCII art
+            Console.WriteLine("--- Figgle: criando textos em ASCII art");
+            string textao = FiggleFonts.Standard.Render("Dev C#");
+            Console.WriteLine(textao);
+
+            // Humanizer: humanizando datas
+            Console.WriteLine("--- Humanizer: humanizando datas");
+            DateTime ataqueTorresGemeas = new DateTime(2001, 09, 11, 8, 46, 00);
+            DateTime ataqueTorresGemeas50anos = ataqueTorresGemeas.AddYears(50);
+            string textoAtaqueTorresGemeas = ataqueTorresGemeas.Humanize();
+            string textoAtaqueTorresGemeas50Anos = ataqueTorresGemeas50anos.Humanize();
+            Console.WriteLine($"Ataque às torres gêmeas: {textoAtaqueTorresGemeas}");
+            Console.WriteLine($"50 anos do ataque às torres gêmeas: {textoAtaqueTorresGemeas50Anos}");
+
+            // Humanizer: humanizando números
+            Console.WriteLine("--- Humanizer: humanizando números");
+            int numero = 321651321;
+            int anoIndependenciaBrasil = 1822;
+            string numeroPorExtenso = numero.ToWords();
+            string anoIndependenciaRomano = anoIndependenciaBrasil.ToRoman();
+            Console.WriteLine($"{numero} => {numeroPorExtenso}");
+            Console.WriteLine($"Independência do Brasil ({anoIndependenciaBrasil}) => {anoIndependenciaRomano}");
+        }
+    }
+}
+```
+
+**Saída**:
+
+```
+C:\Users\ermogenes\Documents\DevCs\AulaPacotes>dotnet run
+--- Figgle: criando textos em ASCII art
+  ____                ____  _  _   
+ |  _ \  _____   __  / ___|| || |_
+ | | | |/ _ \ \ / / | |  |_  ..  _|
+ | |_| |  __/\ V /  | |__|_      _|
+ |____/ \___| \_/    \____||_||_|
+
+
+--- Humanizer: humanizando datas
+Ataque às torres gêmeas: 18 anos atrás
+50 anos do ataque às torres gêmeas: em 31 anos
+--- Humanizer: humanizando números
+321651321 => trezentos e vinte e um milhões seiscentos e cinquenta e um mil trezentos e vinte e um
+Independência do Brasil (1822) => MDCCCXXII
+```

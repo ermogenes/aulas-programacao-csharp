@@ -63,8 +63,9 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
 * [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
 * [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
-* [📖 Expressões e operadores](content/operadores.md)
-* [📖 Números e datas](content/numeros-datas.md)
+* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
+* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operadores.md)
+* [📖 Datas](content/datas.md)
 * [📖 Utilizando pacotes de terceiros](content/pacotes.md)
 * Enumeradores (_em breve_)
 

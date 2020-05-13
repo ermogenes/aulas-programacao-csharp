@@ -94,6 +94,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 ### Soluções comentadas
 
 * [📺 Exercício comentado - AsciiArt / Problemas com o Terminal do VS Code (Prof. Neri)](https://youtu.be/FhIssxfdyx8)
+* [📺 Exercício comentado - MemeToNervoso / Uso do repl.it (Prof. Neri)](https://youtu.be/eE9xymvPlj8) 🔥
 
 <!--
 

@@ -90,6 +90,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [🤖 Exercícios práticos: Saída em console](exercises/saida.md)
 * [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md)
 * [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
+* [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md) 🔥
 
 ### Soluções comentadas
 

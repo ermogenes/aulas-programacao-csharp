@@ -155,10 +155,10 @@ Algumas sequências de escape importantes:
 
 Caracter | Sequência de escape | Um exemplo (string)
 -- | -- | --
-`"` | `\\"` | `"Ganhar na mega-sena é \\"fácil\\" demais."`
-`'` | `\\'` | `"Eu \\'prefiro\\' aspas simples."`
-(quebra de linha) | `\\n` | `"Oi!\nTchau!"`
-(tabulação) | `\\t` | `"Olá!\tTudo bem?\nSim!\tE você?"`
+`"` | `\"` | `"Ganhar na mega-sena é \"fácil\" demais."`
+`'` | `\'` | `"Eu \'prefiro\' aspas simples."`
+(quebra de linha) | `\n` | `"Oi!\nTchau!"`
+(tabulação) | `\t` | `"Olá!\tTudo bem?\nSim!\tE você?"`
 
 O C# ignorará todas as sequências de escape se a string for criada com o identificador textual `@`:
 

@@ -76,7 +76,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * Construtores e métodos (_em breve_)
 
 ### 🚦 Decisão
-* [📖 Simples, com `if`](content/if.md)
+* [📺](https://youtu.be/0HPxji8lL_M)[📖 Simples, com `if`](content/if.md) 🔥
 * [📖 Múltipla, com `switch`](content/switch.md)
 
 ### 🎀 Laços

@@ -55,7 +55,6 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md)
 * [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md)
 * [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md)
-* Depuração (_em breve_)
 
 ### 📌 Conceitos básicos
 * [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md)
@@ -67,21 +66,22 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) 🔥
 * [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md) 🔥
 * [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md) 🔥
-* Enumeradores (_em breve_)
+
+### 🚦 Decisão
+* [📺](https://youtu.be/0HPxji8lL_M)[📖 Simples, com `if`](content/if.md) 🔥
+* [📖 Múltipla, com `switch`](content/switch.md)
+* Depuração (_em breve_)
+
+### 🎀 Laços
+* [📖 Laços condicionais `while` e `do`](content/while-do.md)
+* Laços `for` e `foreach` (_em breve_)
 
 ### 🐱‍👤 Trabalhando com objetos
 * Classes e objetos (_em breve_)
 * Membros e propriedades (_em breve_)
 * Listas (_em breve_)
 * Construtores e métodos (_em breve_)
-
-### 🚦 Decisão
-* [📺](https://youtu.be/0HPxji8lL_M)[📖 Simples, com `if`](content/if.md) 🔥
-* [📖 Múltipla, com `switch`](content/switch.md)
-
-### 🎀 Laços
-* [📖 Laços condicionais `while` e `do`](content/while-do.md)
-* Laços `for` e `foreach` (_em breve_)
+* Enumeradores (_em breve_)
 
 ## 🥋 Exercícios
 

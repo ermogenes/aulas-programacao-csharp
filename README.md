@@ -62,15 +62,15 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
 * [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
 * [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
-* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) 🔥
-* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) 🔥
+* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
+* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
 * [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md) 🔥
 * [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md) 🔥
 
 ### 🚦 Decisão
 * [📺](https://youtu.be/0HPxji8lL_M)[📖 Simples, com `if`](content/if.md) 🔥
 * [📖 Múltipla, com `switch`](content/switch.md)
-* Depuração (_em breve_)
+* [📖 Depuração](content/debug.md) 🔥
 
 ### 🎀 Laços
 * [📖 Laços condicionais `while` e `do`](content/while-do.md)
@@ -97,7 +97,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 ### Soluções comentadas
 
 * [📺 Exercício comentado - AsciiArt / Problemas com o Terminal do VS Code (Prof. Neri)](https://youtu.be/FhIssxfdyx8)
-* [📺 Exercício comentado - MemeToNervoso / Uso do repl.it (Prof. Neri)](https://youtu.be/eE9xymvPlj8) 🔥
+* [📺 Exercício comentado - MemeToNervoso / Uso do repl.it (Prof. Neri)](https://youtu.be/eE9xymvPlj8)
 * [📺 Exercício comentado - Produto2Numeros (Prof. Neri)](https://youtu.be/aOaraq0G1oA) 🔥
 <!--
 

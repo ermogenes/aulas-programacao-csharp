@@ -68,21 +68,24 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md) 🔥
 
 ### 🚦 Decisão
-* [📺](https://youtu.be/0HPxji8lL_M)[📖 Simples, com `if`](content/if.md) 🔥
-* [📖 Múltipla, com `switch`](content/switch.md)
+* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 🔥
+* [📖 Operações lógicas](content/logical.md)
 * [📖 Depuração](content/debug.md) 🔥
+* [📖 Decisão múltipla](content/switch.md)
 
-### 🎀 Laços
-* [📖 Laços condicionais `while` e `do`](content/while-do.md)
-* Laços `for` e `foreach` (_em breve_)
-* Arranjos e matrizes (_em breve_)
+### 🎀 Laços e arranjos
+* [📖 Laços](content/while-do.md)
+* Arranjos (_em breve_)
 
-### 🐱‍👤 Trabalhando com objetos
+### ⚡ Publicação e distribuição
+* Publicação e distribuição (_em breve_)
+
+<!-- ### 🐱‍👤 Trabalhando com objetos
 * Classes e objetos (_em breve_)
 * Membros e propriedades (_em breve_)
 * Construtores e métodos (_em breve_)
 * Listas (_em breve_)
-* Enumeradores (_em breve_)
+* Enumeradores (_em breve_) -->
 
 ## 🥋 Exercícios
 

@@ -63,4 +63,6 @@ Ficará assim:
 
 ![](publish000073.png)
 
+**Altere o arquivo `README.md` livremente. Ele será convertido para HTML e será sua _home-page_**
+
 Você pode divulgar somente o link do seu site, sem que a pessoa precise conhecer o GitHub.

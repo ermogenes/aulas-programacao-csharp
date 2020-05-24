@@ -78,7 +78,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * Arranjos (_em breve_)
 
 ### ⚡ Publicação e distribuição
-* Publicação e distribuição (_em breve_)
+* [📖 Publicação e distribuição](content/publish_dist.md) 🔥
 
 <!-- ### 🐱‍👤 Trabalhando com objetos
 * Classes e objetos (_em breve_)

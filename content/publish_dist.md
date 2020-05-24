@@ -44,15 +44,23 @@ Será exibido um link para seu site. Guarde esse link.
 Escolha um tema:
 
 ![](publish000068.png)
+
+Salve.
+
 ![](publish000069.png)
 
 Será feito um _commit_ que alterará sua página inicial. Pode ignorar. Volte à página inicial.
 
+![](publish000070.png)
+
 Edite a descrição para incluir o link:
 
-![](publish000070.png)
 ![](publish000071.png)
+
 ![](publish000072.png)
+
+Ficará assim:
+
 ![](publish000073.png)
 
 Você pode divulgar somente o link do seu site, sem que a pessoa precise conhecer o GitHub.

@@ -1,5 +1,7 @@
 # Decisão múltipla com `switch`
 
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/t0DyqALDYgQ)
+
 Testa uma expressão, comparando sequencialmente com diversas outras. Permite que se disponha múltiplos caminhos de execução, de acordo com o valor da primeira expressão.
 
 Exemplo:

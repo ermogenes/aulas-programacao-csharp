@@ -71,11 +71,11 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 🔥
 * [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 🔥
 * [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md) 🔥
-* [📖 Decisão múltipla](content/switch.md)
+* [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 🔥
 
 ### 🎀 Laços e arranjos
-* [📖 Laços](content/while-do.md)
-* Arranjos (_em breve_)
+* [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) 🔥
+* [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md) 🔥
 
 ### ⚡ Publicação e distribuição
 * [📖 Publicação e distribuição](content/publish_dist.md) 🔥
@@ -95,7 +95,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md)
 * [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
 * [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md) 🔥
-* [🤖 Exercícios práticos: Decisão Simples](exercises/decisao-simples.md) 🔥
+* [🤖 Exercícios práticos: Decisão simples](exercises/decisao-simples.md) 🔥
 
 ### Soluções comentadas
 

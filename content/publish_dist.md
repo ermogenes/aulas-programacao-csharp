@@ -1,5 +1,7 @@
 # Publicação
 
+[📽 Veja esta vídeo-aula no Youtube]()
+
 Para publicar a versão atual do projeto use:
 
 ```

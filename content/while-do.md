@@ -1,5 +1,7 @@
 # Laços de repetição
 
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/X1Tuuci9VAo)
+
 Permitem que comandos sejam executados repetidamente. Por exemplo, desejo aguardar até que o usuário pressione uma tecla específica, calcular uma sequência numérica, avaliar uma lista de valores, etc.
 
 ## Laços condicionais

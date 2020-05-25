@@ -1,5 +1,7 @@
 # Operações lógicas
 
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/70RI1a5wN78)
+
 ## Operadores de comparação
 
 Comparam dois valores e retornam um resultado booleano.

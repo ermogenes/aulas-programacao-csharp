@@ -69,8 +69,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 ### 🚦 Decisão
 * [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 🔥
-* [📖 Operações lógicas](content/logical.md)
-* [📖 Depuração](content/debug.md) 🔥
+* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 🔥
+* [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md) 🔥
 * [📖 Decisão múltipla](content/switch.md)
 
 ### 🎀 Laços e arranjos

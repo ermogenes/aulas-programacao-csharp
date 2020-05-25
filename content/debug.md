@@ -1,6 +1,6 @@
 # Depuração (_debug_)
 
-<!-- [📽 Veja esta vídeo-aula no Youtube](https://youtu.be/xxxxxx) -->
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/QEb9G3Hrajk)
 
 Permite que se acompanhe a execução do programa passo-a-passo, visualizando os valores de suas variáveis e avaliando expressões.
 

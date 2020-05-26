@@ -1,4 +1,4 @@
-# Exercícios: Decisão simples
+# Exercícios: Decisão e operações lógicas
 
 Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
 

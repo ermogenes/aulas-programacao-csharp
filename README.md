@@ -78,7 +78,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md) 🔥
 
 ### ⚡ Publicação e distribuição
-* [📖 Publicação e distribuição](content/publish_dist.md) 🔥
+* [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md) 🔥
 
 <!-- ### 🐱‍👤 Trabalhando com objetos
 * Classes e objetos (_em breve_)

@@ -1,6 +1,6 @@
 # Publicação
 
-[📽 Veja esta vídeo-aula no Youtube]()
+[📽 Veja esta vídeo-aula no Youtube](https://youtu.be/k_pH9sWxyTc)
 
 Para publicar a versão atual do projeto use:
 
@@ -68,3 +68,7 @@ Ficará assim:
 **Altere o arquivo `README.md` livremente. Ele será convertido para HTML e será sua _home-page_**
 
 Você pode divulgar somente o link do seu site, sem que a pessoa precise conhecer o GitHub.
+
+## Projeto criado na vídeo-aula
+
+https://ermogenes.github.io/ObrigadoDevCSharp/

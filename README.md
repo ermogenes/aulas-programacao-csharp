@@ -102,7 +102,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 * [📺 Exercício comentado - AsciiArt / Problemas com o Terminal do VS Code (Prof. Neri)](https://youtu.be/FhIssxfdyx8)
 * [📺 Exercício comentado - MemeToNervoso / Uso do repl.it (Prof. Neri)](https://youtu.be/eE9xymvPlj8)
-* [📺 Exercício comentado - Produto2Numeros (Prof. Neri)](https://youtu.be/aOaraq0G1oA) 🔥
+* [📺 Exercício comentado - Produto2Numeros (Prof. Neri)](https://youtu.be/aOaraq0G1oA)
+* [📺 Exercício comentado - Divisão (Prof. Neri)](https://youtu.be/YQ9ODnGxpzY) 🔥
 
 ## Outros
 ### 📜 Documentação

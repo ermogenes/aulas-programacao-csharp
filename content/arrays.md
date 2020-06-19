@@ -1,4 +1,4 @@
-# Operações
+# Arranjos
 
 [📽 Veja esta vídeo-aula no Youtube](https://youtu.be/0pYKPcDL0IU)
 

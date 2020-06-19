@@ -64,8 +64,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
 * [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
 * [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
-* [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md) 🔥
-* [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md) 🔥
+* [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
+* [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 
 ### 🚦 Decisão
 * [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 🔥
@@ -94,7 +94,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [🤖 Exercícios práticos: Saída em console](exercises/saida.md)
 * [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md)
 * [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
-* [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md) 🔥
+* [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md)
 * [🤖 Exercícios práticos: Decisão e operações lógicas](exercises/decisao-simples.md) 🔥
 * [🤖 Exercícios práticos: Laços](exercises/lacos.md) 🔥
 
@@ -104,6 +104,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺 Exercício comentado - MemeToNervoso / Uso do repl.it](https://youtu.be/eE9xymvPlj8)
 * [📺 Exercício comentado - Produto2Numeros](https://youtu.be/aOaraq0G1oA)
 * [📺 Exercício comentado - Divisão](https://youtu.be/YQ9ODnGxpzY) 🔥
+* [📺 Exercício comentado - PesoIdeal](https://youtu.be/nBMdtEtTMUU) 🔥
 
 ## Outros
 ### 📜 Documentação

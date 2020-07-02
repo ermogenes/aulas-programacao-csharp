@@ -68,10 +68,10 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 
 ### 🚦 Decisão
-* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 🔥
-* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 🔥
-* [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md) 🔥
-* [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 🔥
+* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
+* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
+* [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md)
+* [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎀 Laços e arranjos
 * [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) 🔥
@@ -80,12 +80,12 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 ### ⚡ Publicação e distribuição
 * [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md) 🔥
 
-<!-- ### 🐱‍👤 Trabalhando com objetos
-* Classes e objetos (_em breve_)
-* Membros e propriedades (_em breve_)
-* Construtores e métodos (_em breve_)
+### 🏄🏻‍♂️ Tópicos adicionais
+
+* [📺](https://youtu.be/HtVJc_7FzYs) Exceções 🔥
+* [📺](https://youtu.be/fIkw8BTA800) Sub-rotinas 🔥
+* Classes (_em breve_)
 * Listas (_em breve_)
-* Enumeradores (_em breve_) -->
 
 ## 🥋 Exercícios
 
@@ -95,7 +95,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md)
 * [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
 * [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md)
-* [🤖 Exercícios práticos: Decisão e operações lógicas](exercises/decisao-simples.md) 🔥
+* [🤖 Exercícios práticos: Decisão e operações lógicas](exercises/decisao-simples.md)
 * [🤖 Exercícios práticos: Laços](exercises/lacos.md) 🔥
 
 ### 🐱‍👤 Prof. Neri: Soluções comentadas

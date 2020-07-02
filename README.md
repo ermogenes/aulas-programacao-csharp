@@ -85,7 +85,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/HtVJc_7FzYs) Exceções 🔥
 * [📺](https://youtu.be/fIkw8BTA800) Sub-rotinas 🔥
 * [📺](https://youtu.be/r6EllahDrEQ) Classes 🔥
-* Listas (_em breve_)
+* [📺](https://youtu.be/qd18FR7a3s4) Listas 🔥
 
 ## 🥋 Exercícios
 

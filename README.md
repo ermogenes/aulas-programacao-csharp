@@ -97,6 +97,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md)
 * [🤖 Exercícios práticos: Decisão e operações lógicas](exercises/decisao-simples.md)
 * [🤖 Exercícios práticos: Laços](exercises/lacos.md) 🔥
+* [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md) 🔥
 
 ### 🐱‍👤 Prof. Neri: Soluções comentadas
 

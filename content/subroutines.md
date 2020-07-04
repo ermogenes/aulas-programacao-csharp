@@ -4,7 +4,7 @@
 
 Sub-rotinas são trechos de código que recebem um nome identificador e que podem ser executados diversas vezes em diferentes pontos do seu programa, permitindo assim uma melhor organização e a não repetição de comandos.
 
-Todo programa tem ao menos uma sub-rotina. Em aplicações console, ela se chama `Main`. Você pode definir quantas sub-rotinas quiser.
+Todo programa possui ao menos uma sub-rotina. Em aplicações console, ela se chama `Main`. Você pode definir quantas sub-rotinas quiser.
 
 Nesse exemplo, `Main`, `Sub1` e `Sub2` são sub-rotinas, e `a` ... `g` são comandos quaisquer.
 
@@ -45,7 +45,7 @@ Em C# (e na maioria das linguagens orientadas a objetos) uma sub-rotina é chama
 
 ## Tipos de sub-rotinas
 
-Um método pode ou não retornar um resultado. Um exemplo de método que não retorna resultado é `Console.WriteLine`. Ele exibe algo na saída padrão, e pronto, não a nada a fazer. Uma situação totalmente diferente acontece com `Console.ReadLine`, onde o seu processamento requer o retorno de um resultado: a string digitada pelo usuário.
+Um método pode ou não retornar um resultado. Um exemplo de método que não retorna resultado é `Console.WriteLine`. Ele exibe algo na saída padrão e pronto, não há mais nada a fazer. Uma situação totalmente diferente acontece com `Console.ReadLine` onde o seu processamento requer o retorno de um resultado: a string digitada pelo usuário.
 
 * Sub-rotinas _sem_ retorno são chamadas de **procedimentos**.
 * Sub-rotinas _com_ retorno são chamadas de **funções**.
@@ -62,12 +62,12 @@ public static void Clear ();
 ```
 
 - `public` indica que o método pode ser acessado por qualquer arquivo que faça referência a `System` (através do comando `using`);
-- `static` indica é um método de classe e não de objeto (conceitos que serão explicados na aula sobre classes);
+- `static` indica é um método de classe e não de objeto (conceitos que serão tratados na aula sobre classes);
 - `void` indica que não haverá retorno, ou seja, se trata de um procedimento;
 - `Clear` é o nome identificador do método;
-- `()` indica a lista de parâmetros esperados pela sub-rotina, nesse caso, nenhum.
+- `()` indica a lista de parâmetros esperados pela sub-rotina; nesse caso, nenhum.
 
-Uma das assinatura do método `WriteLine` na classe `System.Console` é:
+Uma das assinaturas do método `WriteLine` na classe `System.Console` é:
 
 ```cs
 public static void WriteLine (string value);
@@ -79,7 +79,7 @@ public static void WriteLine (string value);
 
 Métodos estáticos (que incluem o modificador `static`) não necessitam de uma instância da classe para serem executados, diferentemente de métodos não-estáticos.
 
-Exemplo de métodos estático:
+Exemplo de método estático:
 
 ```cs
 Console.WriteLine("Olá, usuário.");
@@ -160,9 +160,9 @@ namespace ExemploFuncao
 
 São criadas 3 variáveis `double`, `a`, `b` e `c`, com os valores `3`, `4` e `5`, respectivamente. Os valores dessas variáveis são passados como argumentos para a função `AreaTriangulo` que exige três parâmetros do tipo `double` chamados `lado1`, `lado2` e `lado3` para retornar um resultado também do tipo `double`. Esse retorno será gravado na variável `area` e exibido ao usuário.
 
-Quando chamada, a função terá os valores dos argumentos acessíveis através dos parâmetros `lado1`, `lado2` e `lado3`. Ela trabalha com essas variáveis normalmente, executa o cálculo do resultado e o retorna ao chamador através do comendo `return`.
+Quando chamada, a função terá os valores dos argumentos acessíveis através dos parâmetros `lado1`, `lado2` e `lado3`. Ela trabalha com essas variáveis normalmente, executa o cálculo do resultado e o retorna ao chamador através do comando `return`.
 
-`AreaTriangulo` permite que seja calculada a área de um triângulo a partir de quaisquer valores de lado informados. Essa é uma forma de se reaproveitar código e tornar seu programa mais legível e manutenível.
+`AreaTriangulo` permite que seja calculada a área de um triângulo a partir de quaisquer valores de lados informados. Essa é uma forma de se reaproveitar código e tornar seu programa mais legível e manutenível.
 
 ## Escopo de variáveis
 
@@ -209,3 +209,5 @@ namespace FatorialRecursivo
 💡 Dica: Use o depurador do VsCode para entender como essa função consegue chegar no resultado desejado.
 
 De maneira geral, tudo que é feito com recursividade pode ser feito com técnicas iterativas utilizando laços.
+
+Há uma excelente explicação sobre o tema em https://www.embarcados.com.br/recursividade/. Apesar de não tratar de C#, os conceitos são válidos para qualquer linguagem.

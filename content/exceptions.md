@@ -96,6 +96,10 @@ O .NET utiliza uma árvore de tipos de exceção. Segue uma lista resumida:
 
 Uma lista detalhada pode ser encontrada na [documentação](https://docs.microsoft.com/pt-br/dotnet/standard/exceptions/#common-exceptions).
 
+## Múltiplos `catch`'s
+
+Você pode utilizar múltiplos blocos `catch` para tratar diferentes tipos de erros. Use os tipos mais específicos primeiro, já que ao entrar em um bloco, os demais não serão executados. Veja um exemploa abaixo, no programa da vídeo-aula.
+
 Programa da [vídeo-aula](https://youtu.be/HtVJc_7FzYs):
 
 ```cs

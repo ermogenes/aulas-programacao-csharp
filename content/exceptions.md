@@ -90,6 +90,9 @@ O .NET utiliza uma árvore de tipos de exceção. Segue uma lista resumida:
   - `IndexOutOfRangeException`: quando um arranjo é acessado com um índice inexistente
   - `NullReferenceException`: quando um objeto é acessado e contém o valor `null`
   - `InvalidOperationException`: quando uma operação é executada em um estado inválido
+  - `DivideByZeroException`: quando acontece uma divisão por zero
+  - `OverflowException`: quando um número está além do limite do tipo de dado esperado
+  - `FormatException`: quando um dado está em formato inválido
   - `ArgumentException`: todas as exceções referentes a argumentos inválidos
     - `ArgumentNullException`: quando um argumento é passado incorretamente com o valor `null`
     - `ArgumentOutOfRangeException`: quando um argumento está fora dos limites esperados

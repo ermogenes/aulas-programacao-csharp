@@ -73,15 +73,15 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md)
 * [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
-### 🎀 Laços e arranjos
+### 🎀 Laços
 * [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) 🔥
-* [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md) 🔥
 
 ### ⚡ Publicação e distribuição
 * [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md) 🔥
 
 ### 🏄🏻‍♂️ Tópicos adicionais
 
+* [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md) 🔥
 * [📺](https://youtu.be/HtVJc_7FzYs) Exceções 🔥
 * [📺](https://youtu.be/fIkw8BTA800) Sub-rotinas 🔥
 * [📺](https://youtu.be/r6EllahDrEQ) Classes 🔥

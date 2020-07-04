@@ -196,12 +196,12 @@ namespace FatorialRecursivo
 
         static int Fatorial (int n)
         {
-			if (n == 1)
+            if (n == 1)
             {
-				return 1;
-			}
-			return n * Fatorial(n - 1);
-		}
+                return 1;
+            }
+            return n * Fatorial(n - 1);
+        }
     }
 }
 ```

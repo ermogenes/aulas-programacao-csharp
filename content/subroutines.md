@@ -163,3 +163,49 @@ São criadas 3 variáveis `double`, `a`, `b` e `c`, com os valores `3`, `4` e `5
 Quando chamada, a função terá os valores dos argumentos acessíveis através dos parâmetros `lado1`, `lado2` e `lado3`. Ela trabalha com essas variáveis normalmente, executa o cálculo do resultado e o retorna ao chamador através do comendo `return`.
 
 `AreaTriangulo` permite que seja calculada a área de um triângulo a partir de quaisquer valores de lado informados. Essa é uma forma de se reaproveitar código e tornar seu programa mais legível e manutenível.
+
+## Escopo de variáveis
+
+Uma variável declarada dentro de um bloco só é visível em seu contexto. Use a estrutura de parâmetros/argumentos para transferir valores entre métodos.
+
+No exemplo acima:
+
+- `a`, `b`, `c` e `area` só estão disponíveis em `Main`;
+- `lado1`, `lado2`, `lado3` e `s` só estão disponíveis em `AreaTriangulo`.
+
+## Recursividade
+
+Uma função pode chamar a si mesma quando necessário. Essa funcionalidade chama-se recursividade. Nesse caso, certifique-se que a função chegará ao fim, ou você entrará em uma situação similar a um laço infinito.
+
+Exemplo de função recursiva:
+
+```cs
+using System;
+
+namespace FatorialRecursivo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine($"Fatorial de 1 = {Fatorial(1)}");
+            Console.WriteLine($"Fatorial de 5 = {Fatorial(5)}");
+            Console.WriteLine($"Fatorial de 7 = {Fatorial(7)}");
+            Console.WriteLine($"Fatorial de 13 = {Fatorial(13)}");
+        }
+
+        static int Fatorial (int n)
+        {
+			if (n == 1)
+            {
+				return 1;
+			}
+			return n * Fatorial(n - 1);
+		}
+    }
+}
+```
+
+💡 Dica: Use o depurador do VsCode para entender como essa função consegue chegar no resultado desejado.
+
+De maneira geral, tudo que é feito com recursividade pode ser feito com técnicas iterativas utilizando laços.

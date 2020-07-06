@@ -90,7 +90,7 @@ Exemplo 4 (matriz irregular):
 
 Veja exemplos de código no programa da vídeo-aula.
 
-# Informações sobre um arranjo
+## Informações sobre um arranjo
 
 Podemos coletar diversas informações sobre um arranjo. Algumas delas:
 

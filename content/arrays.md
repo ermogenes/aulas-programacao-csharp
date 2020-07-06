@@ -1,6 +1,107 @@
-# Arranjos
+# Arranjos (_arrays_)
 
 [📽 Veja esta vídeo-aula no Youtube](https://youtu.be/0pYKPcDL0IU)
+
+Arranjos são estruturas de dados que permitem armazenar diversos valores de algum tipo sob um mesmo identificador, como se fossem múltiplas variáveis. Possuem diversas denominações como arranjo, _array_, variável indexada, vetor (quando unidimensional) e matriz (quando multidimensional).
+
+Arranjos possuem tamanho fixo e acesso direto a cada elemento através de índices.
+
+## Arranjos unidimensionais (vetores)
+
+Um vetor possui somente uma dimensão.
+
+Exemplo 1:
+
+```cs
+int[] numeros = new int[3];
+numeros[0] = 7;
+numeros[1] = 5;
+numeros[2] = 19;
+```
+
+![](array000001.png)
+
+* `numeros` é o identificador do arranjo;
+* `int[]` indica o tipo: um arranjo de inteiros;
+* `new int[3]` inicializa o arranjo com `3` espaços para inteiros;
+* os elementos são numerados por um índice sequencial iniciado em `0` e terminado em `tamanho -1`;
+
+![](array000002.png)
+
+* `numeros[1]` indica o segundo elemento da lista, no caso `5`;
+* `numeros[7]` indica o oitavo elemento da lista (que não existe), gerando um erro.
+
+Exemplo 2:
+
+```cs
+int[] maisNumeros = new int[10];
+maisNumeros[0] = 7;
+maisNumeros[1] = 5;
+maisNumeros[2] = 19;
+maisNumeros[3] = 4;
+maisNumeros[4] = -2;
+maisNumeros[5] = 0;
+maisNumeros[6] = 5;
+maisNumeros[7] = 0;
+maisNumeros[8] = 1;
+maisNumeros[9] = 3;
+```
+
+![](array000003.png)
+
+* o arranjo `maisNumeros` possui `10` elementos;
+
+![](array000004.png)
+
+* `maisNumeros[7]` indica o oitavo elemento da lista, o inteiro `0`.
+
+Podemos também definir o tamanho implicitamente:
+
+```cs
+string[] nomes = new string[] { "João", "Maria", "José", "Ana" };
+string[] sobrenomes = { "Silva", "Souza" };
+```
+
+* `nomes` é um arranjo de strings com `4` elementos;
+* `sobrenomes` é um arranjo de strings com `2` elementos;
+* `"${nomes[2]} {sobrenomes[0]}"` retorna a string `"José Silva"`.
+
+Podemos obter o tamanho de um arranjo utilizando `Length`:
+
+```cs
+Console.WriteLine($"Nosso vetor possui {nomes.Length} nomes.");
+```
+
+## Arranjos multidimensionais (matrizes)
+
+Matrizes possuem múltiplas dimensões e podem ser regulares ou irregulares (_jagged_).
+
+Exemplo 3 (matriz regular):
+
+![](array000005.png)
+
+![](array000006.png)
+
+Exemplo 4 (matriz irregular):
+
+![](array000007.png)
+
+![](array000008.png)
+
+Veja exemplos de código no programa da vídeo-aula.
+
+# Informações sobre um arranjo
+
+Podemos coletar diversas informações sobre um arranjo. Algumas delas:
+
+* `Length` retorna o tamanho do arranjo (número de elementos);
+* `Rank` retorna o número de dimensões;
+* `GetLowerBound` retorna o menor índice de uma dimensão (limite inferior);
+* `GetUpperBound` retorna o maior índice de uma dimensão (limite superior).
+
+Com essas informações (e o uso de contadores) podemos facilmente percorrer todos os itens de um arranjo utilizando laços de repetição.
+
+---
 
 Programa da [vídeo-aula](https://youtu.be/0pYKPcDL0IU):
 

@@ -137,6 +137,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * 🌍 Sistemas de numeração [[1](http://www.inf.ufsc.br/~bosco.sobral/downloads/Livro-Java-Como-Programar-Deitel-Ed6/additional/addnlApps/jhtp6_appE_NumberSystems.pdf)] [[2](https://pt.wikibooks.org/wiki/Eletr%C3%B4nica_Digital/Sistemas_de_Numera%C3%A7%C3%A3o)] [[3](http://www.mecaweb.com.br/eletronica/content/e_numeracao)]
 * [🌍 Representação de dados](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)
 * [🌍 Computer Language History](https://www.levenez.com/lang/)
+* [🌍 _Minimum Viable Product_](https://endeavor.org.br/estrategia-e-gestao/mvp/) 🔥
 
 ### 🌎 Links úteis
 

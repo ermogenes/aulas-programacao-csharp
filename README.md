@@ -107,6 +107,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺 Exercício comentado - Divisão](https://youtu.be/YQ9ODnGxpzY)
 * [📺 Exercício comentado - PesoIdeal](https://youtu.be/nBMdtEtTMUU)
 * [📺 Exercício comentado - Patinhos](https://youtu.be/qXTz9jKq_gc) 🔥
+* [📺 Revisão de exercícios - Decisão Simples](https://youtu.be/RIvcPJWifDI) 🔥
 
 ## Outros
 ### 📜 Documentação

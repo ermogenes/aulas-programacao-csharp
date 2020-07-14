@@ -111,12 +111,12 @@ ou
 -- Média --
 
 Digite as suas notas abaixo.
-Nota 1: 6,5
-Nota 2: 6,5
-Nota 3: 6,5
-Nota 4: 6,5
+Nota 1: 5,5
+Nota 2: 5,5
+Nota 3: 5,5
+Nota 4: 5,5
 
-Você ficou com média 6,5. Resultado: Em recuperação
+Você ficou com média 5,5. Resultado: Em recuperação
 ```
 
 ---

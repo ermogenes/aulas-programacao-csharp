@@ -84,7 +84,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md) 🔥
 * [📺](https://youtu.be/HtVJc_7FzYs)[📖 Exceções](content/exceptions.md) 🔥
 * [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) 🔥
-* [📺](https://youtu.be/r6EllahDrEQ) Classes 🔥
+* [📺](https://youtu.be/r6EllahDrEQ)[📖 Classes](content/classes.md) 🔥
 * [📺](https://youtu.be/qd18FR7a3s4) Listas 🔥
 
 ## 🥋 Exercícios

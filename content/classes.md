@@ -103,7 +103,7 @@ Saída:
 
 ## `this`
 
-Usamos a palavra chave `this` para referenciar o objetos atual.
+Usamos a palavra chave `this` para referenciar o objeto atual.
 
 ## Modificadores de acesso
 

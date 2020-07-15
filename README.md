@@ -138,6 +138,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [🌍 Representação de dados](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)
 * [🌍 Computer Language History](https://www.levenez.com/lang/)
 * [🌍 _Minimum Viable Product_](https://endeavor.org.br/estrategia-e-gestao/mvp/) 🔥
+* [🌍 A principal medida de progresso em projetos de software](https://medium.com/software-zen/a-principal-medida-de-progresso-em-projetos-de-software-2f89b7efb454) 🔥
 
 ### 🌎 Links úteis
 

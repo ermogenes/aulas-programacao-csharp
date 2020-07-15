@@ -101,10 +101,6 @@ Saída:
 [Scooby-Doo] BARF! Barf! BARF!!!
 ```
 
-## Estático e não estático
-
-Utilizando a palavra `static`, fazemos com que um membro seja acessível diretamente pela classe, sem necessitar de um objeto.
-
 ## `this`
 
 Usamos a palavra chave `this` para referenciar o objetos atual.
@@ -112,7 +108,7 @@ Usamos a palavra chave `this` para referenciar o objetos atual.
 ## Modificadores de acesso
 
 * `public` indica que o membro está exposto, e acessível fora da classe;
-* `private` indica que o membro está ancapsulado, e acessível somente de dentro da classe.
+* `private` indica que o membro está encapsulado, e acessível somente de dentro da classe.
 
 ## Construtores
 
@@ -121,6 +117,10 @@ Código a ser executado quando se instancia um objeto através da palavra `new`.
 ## Propriedades
 
 Permitem que se encapsule um atributo mantendo-o privado, e ainda assim o exponha somente para leitura ou somente para gravação, ou ambos. Ainda podemos adicionar lógica a ser executada quando da leitura e/ou da gravação.
+
+## Estático e não estático
+
+Utilizando a palavra `static`, fazemos com que um membro seja acessível diretamente pela classe, sem necessitar de um objeto.
 
 ---
 

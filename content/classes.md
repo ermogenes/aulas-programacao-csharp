@@ -16,9 +16,7 @@ Em uma classe, o estado é mantido através de **atributos**, que são dados ass
 
 No exemplo anterior, todo `Cachorro` possui um nome, uma raça e uma cor: Pluto é um _bloodhound_ amarelo, Snoopy é um _beagle_ branco e Scooby-Doo é um _dogue alemão_ marrom.
 
-<img height=250 src="https://upload.wikimedia.org/wikipedia/pt/4/4c/Pluto_%28Disney%29.jpg" alt="Pluto: Todos os direitos da imagem para Disney">
-<img height=250 src="https://upload.wikimedia.org/wikipedia/pt/5/53/Snoopy_Peanuts.png" alt="Snoopy: Todos os direitos da imagem para Charles M. Schulz">
-<img height=250 src="https://upload.wikimedia.org/wikipedia/pt/b/b2/Scooby.jpg" alt="Scooby-Doo: Todos os direitos da imagem para Hanna-Barbera">
+<img height=250 src="https://upload.wikimedia.org/wikipedia/pt/4/4c/Pluto_%28Disney%29.jpg" alt="Pluto: Todos os direitos da imagem para Disney" /><img height=250 src="https://upload.wikimedia.org/wikipedia/pt/5/53/Snoopy_Peanuts.png" alt="Snoopy: Todos os direitos da imagem para Charles M. Schulz" /><img height=250 src="https://upload.wikimedia.org/wikipedia/pt/b/b2/Scooby.jpg" alt="Scooby-Doo: Todos os direitos da imagem para Hanna-Barbera" />
 
 <!-- ![Todos os direitos da imagem para Disney](https://upload.wikimedia.org/wikipedia/pt/4/4c/Pluto_%28Disney%29.jpg)
 ![Todos os direitos da imagem para Charles M. Schulz](https://upload.wikimedia.org/wikipedia/pt/5/53/Snoopy_Peanuts.png)

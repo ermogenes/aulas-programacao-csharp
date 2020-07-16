@@ -101,18 +101,55 @@ Saída:
 [Scooby-Doo] BARF! Barf! BARF!!!
 ```
 
-## `this`
+## Acessando membros da instância com `this`
 
-Usamos a palavra chave `this` para referenciar o objeto atual.
+Usamos a palavra chave `this` para referenciar o objeto atual. Perceba como os métodos `Latir` e `Rosnar` conseguem obter corretamente o `nome` de cada instância usando `this`.
 
 ## Modificadores de acesso
 
 * `public` indica que o membro está exposto, e acessível fora da classe;
 * `private` indica que o membro está encapsulado, e acessível somente de dentro da classe.
 
+Há outros modificadores, porém relacionados com o conceito de herança não tratado nesse material.
+
 ## Construtores
 
-Código a ser executado quando se instancia um objeto através da palavra `new`.
+Executado quando se instancia um objeto através da palavra `new`.
+
+Podemos adicionar código a ser executado na criação de cada objeto utilizando um construtor. Ao definir, é só utilizar o mesmo nome da classe:
+
+```cs
+    public Cachorro()
+    {
+        // código a ser executado ao criar uma instância
+    }
+```
+
+Podemos definir parâmetros obrigatórios ao se criar um objeto. No exemplo abaixo, só vamos permitir criar um novo `Cachorro` se a raça for informada:
+
+```cs
+    public Cachorro(string raca)
+    {
+        this.raca = raca;
+    }
+```
+
+Perceba que já utilizamos o valor recebido para gravá-lo no atributo `raca`. Para instanciar:
+
+```cs
+Cachorro c4 = new Cachorro("vira-latas");
+c4.nome = "Muttley";
+c4.cor = "amarelo";
+```
+
+```cs
+Cachorro c5 = new Cachorro("schnauzer") {
+    nome = "Bidu",
+    cor = "azul"
+};
+```
+
+Ao se definir um construtor, impedimos o acesso à instanciação normal. No exemplo acima, não poderíamos mais chamar `new` sem indicar a raça. Podemos criar vários construtores para resolver esse problema, desde que cada um tenha uma assinatura diferente.
 
 ## Propriedades
 
@@ -121,6 +158,21 @@ Permitem que se encapsule um atributo mantendo-o privado, e ainda assim o exponh
 ## Estático e não estático
 
 Utilizando a palavra `static`, fazemos com que um membro seja acessível diretamente pela classe, sem necessitar de um objeto.
+
+Exemplos, na classe `Cachorro`:
+
+```cs
+// ...
+    private static string _nomePopular = "Cão doméstico";
+    private static string _nomeCientifico = "Canis lupus familiaris";
+// ...
+    static string Especie()
+    {
+        return $"{_nomePopular} ({_nomeCientifico})";
+    }
+```
+
+Não precisamos de um objeto `Cachorro` para obter a identificação da espécie, pois os membros estão ligado à classe, e não às suas instâncias.
 
 ---
 

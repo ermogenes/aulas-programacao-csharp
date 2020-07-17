@@ -66,7 +66,9 @@ Alguns pacotes notáveis:
 
 Pacote | Descrição
 -- | --
-`Humanizer` | Permite gerar descrições textuais legíveis por humanos para diversos objetos.
+[Humanizer](https://www.nuget.org/packages/Humanizer/) | Permite gerar descrições textuais legíveis por humanos para diversos objetos.
+[Figgle](https://www.nuget.org/packages/Figgle/) | Cria ASCII-Art a partir de strings.
+[Noda Time](https://www.nuget.org/packages/NodaTime/) | Biblioteca avançada para manipulação de Datas e Horas no .NET.
 
 
 ### `git`
@@ -96,6 +98,8 @@ Comando | Descrição
 `git log` | Mostra o histórico de alterações.
 `git tag <descricao> <10_primeiros_caracteres_id_commit>` | Cria uma versão nomeada do código.
 `git checkout -- <arquivo>` | Desfaz as alterações locais desde o último commit.
+`git clean -nd` | Lista todos os arquivos e diretórios que não fazem parte do versionamento.
+`git clean -fd` | Exclui todos os arquivos e diretórios que não fazem parte do versionamento.
 
 Desfazer todas as alterações locais, voltando à situação do repositório remoto:
 ```

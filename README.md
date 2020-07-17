@@ -109,6 +109,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺 Exercício comentado - Patinhos](https://youtu.be/qXTz9jKq_gc) 🔥
 * [📺 Revisão de exercícios - Decisão Simples](https://youtu.be/RIvcPJWifDI) 🔥
 
+Códigos disponíveis no [repositório oficial](https://github.com/exercicios-aulas-programacao-c-sharp).
+
 ## Outros
 ### 📜 Documentação
 

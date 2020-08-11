@@ -93,7 +93,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda a criar aplicações para a Web.
 
-![Dev Web](logo-dev-web.png)
+[![Dev Web](content/logo-dev-web.png)](https://github.com/ermogenes/aulas-programacao-web)
 
 ## 🥋 Exercícios
 

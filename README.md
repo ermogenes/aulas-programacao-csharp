@@ -89,6 +89,12 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/r6EllahDrEQ)[📖 Classes](content/classes.md)
 * [📺](https://youtu.be/qd18FR7a3s4) Listas
 
+### 🎉 Terminei, e agora?
+
+Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda a criar aplicações para a Web.
+
+![Dev Web](logo-dev-web.png)
+
 ## 🥋 Exercícios
 
 * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA)

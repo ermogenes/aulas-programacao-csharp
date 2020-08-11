@@ -11,6 +11,8 @@
 
 Após a conclusão deste curso, considere fazer o [Dev Web](https://github.com/ermogenes/aulas-programacao-web).
 
+[![Dev Web](content/logo-dev-web.png)](https://github.com/ermogenes/aulas-programacao-web)
+
 ## 🧭 Aulas síncronas
 
 Disponibilidade dos professores nos dias das aulas presenciais, nos horários de aula (confira no Teams o horário das _lives_ e do atendimento por _chat_).

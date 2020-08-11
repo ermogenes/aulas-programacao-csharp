@@ -9,17 +9,19 @@
 
 **Materiais de Aula - Programação de Computadores I - [Etec Adolpho Berezin](http://eteab.com.br/)**
 
+Após a conclusão deste curso, considere fazer o [Dev Web](https://github.com/ermogenes/aulas-programacao-web).
+
 ## 🧭 Aulas síncronas
 
 Disponibilidade dos professores nos dias das aulas presenciais, nos horários de aula (confira no Teams o horário das _lives_ e do atendimento por _chat_).
 
-* **Alunos de PC1 da Etec AB, 2020-1, 1I3:**
-  * [👨‍👩‍👧‍👦 Turma **única**, no Teams](https://bit.ly/pc-1I3-teams)
-  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](https://bit.ly/pc-aula-sinc)
+* **Alunos de PC1 da Etec AB, 2020-2, 1I3:**
+  * [👨‍👩‍👧‍👦 Turma **única**, no Teams](#) (_em breve_)
+  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](#) (_em breve_)
 
 ## 😱 Entregas (para alunos presenciais)
 
-* **Alunos de PC1 da Etec AB, 2020-1, 1I3:**
+* **Alunos de PC1 da Etec AB, 2020-2, 1I3:**
   * Links do repositório no  GitHub, via Teams.
 
 📲 _SOMENTE para quem não tem computador:_ [📷](https://drive.google.com/file/d/1_Tg7udFQxFlMAx80DgW9yHa2YUPAXV0x/view?usp=sharing)[📽 Faça seus exercícios pelo celular](https://www.youtube.com/watch?v=VePpmsHWqqI&feature=youtu.be) usando o [🌍 Repl.it](https://repl.it/).
@@ -74,18 +76,18 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎀 Laços
-* [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) 🔥
+* [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
 
 ### ⚡ Publicação e distribuição
-* [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md) 🔥
+* [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)
 
 ### 🏄🏻‍♂️ Tópicos adicionais
 
-* [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md) 🔥
-* [📺](https://youtu.be/HtVJc_7FzYs)[📖 Exceções](content/exceptions.md) 🔥
-* [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) 🔥
-* [📺](https://youtu.be/r6EllahDrEQ)[📖 Classes](content/classes.md) 🔥
-* [📺](https://youtu.be/qd18FR7a3s4) Listas 🔥
+* [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md)
+* [📺](https://youtu.be/HtVJc_7FzYs)[📖 Exceções](content/exceptions.md)
+* [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
+* [📺](https://youtu.be/r6EllahDrEQ)[📖 Classes](content/classes.md)
+* [📺](https://youtu.be/qd18FR7a3s4) Listas
 
 ## 🥋 Exercícios
 
@@ -96,8 +98,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
 * [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md)
 * [🤖 Exercícios práticos: Decisão e operações lógicas](exercises/decisao-simples.md)
-* [🤖 Exercícios práticos: Laços](exercises/lacos.md) 🔥
-* [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md) 🔥
+* [🤖 Exercícios práticos: Laços](exercises/lacos.md)
+* [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md)
 
 ### 🐱‍👤 Prof. Neri: Soluções comentadas
 
@@ -106,8 +108,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺 Exercício comentado - Produto2Numeros](https://youtu.be/aOaraq0G1oA)
 * [📺 Exercício comentado - Divisão](https://youtu.be/YQ9ODnGxpzY)
 * [📺 Exercício comentado - PesoIdeal](https://youtu.be/nBMdtEtTMUU)
-* [📺 Exercício comentado - Patinhos](https://youtu.be/qXTz9jKq_gc) 🔥
-* [📺 Revisão de exercícios - Decisão Simples](https://youtu.be/RIvcPJWifDI) 🔥
+* [📺 Exercício comentado - Patinhos](https://youtu.be/qXTz9jKq_gc)
+* [📺 Revisão de exercícios - Decisão Simples](https://youtu.be/RIvcPJWifDI)
 
 Códigos disponíveis no [repositório oficial](https://github.com/exercicios-aulas-programacao-c-sharp).
 
@@ -139,8 +141,8 @@ Códigos disponíveis no [repositório oficial](https://github.com/exercicios-au
 * 🌍 Sistemas de numeração [[1](http://www.inf.ufsc.br/~bosco.sobral/downloads/Livro-Java-Como-Programar-Deitel-Ed6/additional/addnlApps/jhtp6_appE_NumberSystems.pdf)] [[2](https://pt.wikibooks.org/wiki/Eletr%C3%B4nica_Digital/Sistemas_de_Numera%C3%A7%C3%A3o)] [[3](http://www.mecaweb.com.br/eletronica/content/e_numeracao)]
 * [🌍 Representação de dados](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)
 * [🌍 Computer Language History](https://www.levenez.com/lang/)
-* [🌍 _Minimum Viable Product_](https://endeavor.org.br/estrategia-e-gestao/mvp/) 🔥
-* [🌍 A principal medida de progresso em projetos de software](https://medium.com/software-zen/a-principal-medida-de-progresso-em-projetos-de-software-2f89b7efb454) 🔥
+* [🌍 _Minimum Viable Product_](https://endeavor.org.br/estrategia-e-gestao/mvp/)
+* [🌍 A principal medida de progresso em projetos de software](https://medium.com/software-zen/a-principal-medida-de-progresso-em-projetos-de-software-2f89b7efb454)
 
 ### 🌎 Links úteis
 

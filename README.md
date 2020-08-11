@@ -139,6 +139,7 @@ Códigos disponíveis no [repositório oficial](https://github.com/exercicios-au
 
 ### 🙊 Cursos de terceiros
 
+* [🌍 CC50 - O Curso de Ciência da Computação de Harvard, no Brasil](https://cc50.estudarfora.org.br/)
 * [🌍 C# Tutorial - W3Schools (em inglês)](https://www.w3schools.com/cs/)
 * [🌍 C# Tutorial - CSharp.net-tutorials (em português)](https://csharp.net-tutorials.com/pt/104/iniciando/introducao/)
 

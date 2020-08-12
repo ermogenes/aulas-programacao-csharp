@@ -18,8 +18,8 @@ Após a conclusão deste curso, considere fazer o [Dev Web](https://github.com/e
 Disponibilidade dos professores nos dias das aulas presenciais, nos horários de aula (confira no Teams o horário das _lives_ e do atendimento por _chat_).
 
 * **Alunos de PC1 da Etec AB, 2020-2, 1I3:**
-  * [👨‍👩‍👧‍👦 Turma **única**, no Teams](#) (_em breve_)
-  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](#) (_em breve_)
+  * [👨‍👩‍👧‍👦 Turma **única**, no Teams](https://bit.ly/pc1-1I3-teams)
+  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](https://bit.ly/pc-aulas-sinc)
 
 ## 😱 Entregas (para alunos presenciais)
 

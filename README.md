@@ -171,7 +171,7 @@ Códigos disponíveis no [repositório oficial](https://github.com/exercicios-au
 [👨🏻‍🏫 @diegoneri](https://github.com/diegoneri)
 
 ----
-Prof. Ermogenes Palacio, 2020-.
+Prof. Ermogenes Palacio, 2020-. 
 
 ![GitHub followers](https://img.shields.io/github/followers/ermogenes?label=seguidores&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ermogenes?style=social)

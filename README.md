@@ -157,7 +157,9 @@ Códigos disponíveis no [repositório oficial](https://github.com/exercicios-au
 
 * [🌍 git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [🌍 Uma Referência Visual do Git](http://marklodato.github.io/visual-git-guide/index-pt.html)
-
+* [🌍 Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf)
+* [🌍 Git Supervisual Cheatsheet](https://github.com/mattharrison/Git-Supervisual-Cheatsheet/blob/master/gitcheat.png)
+* [🌍 Git data transport commands](https://www.patrickzahnd.ch/uploads/git-transport-v1.png)
 ### 🏆 Top linguagens
 
 * [🌍 IEEE Spectrum](https://spectrum.ieee.org/computing/software/the-top-programming-languages-2019)

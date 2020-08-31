@@ -53,6 +53,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 ### 👔 Introdução
 
 * [📷 Computadores e programação](https://docs.google.com/presentation/d/18qCmMcKVhIM3L_yF0PAjHQBgt6JRTIJIim8F6jGhIPM/edit?usp=sharing) ✔
+* [📺](https://youtu.be/N_LsPQGtVCI) Apresentação ✔
+* [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md) ✔
 
 ### 🐢 Primeiros passos
 

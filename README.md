@@ -48,7 +48,9 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
  
 ## Conteúdo
 
-**Legenda (para alunos presenciais):**  ✔ Conteúdo já estudado | 👁‍🗨 Conteúdo da semana atual | 🔥 Conteúdo adicionado recentemente
+**Legenda:** 📷 Slides | 📺 Vídeo-aula no YouTube | 📖 Material em texto e imagens
+
+**Para alunos presenciais:** ✔ Conteúdo já estudado | 👁‍🗨 Conteúdo da semana atual | 🔥 Conteúdo adicionado recentemente
 
 ### 👔 Introdução
 

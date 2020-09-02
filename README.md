@@ -20,6 +20,7 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 * **Alunos de PC1 da Etec AB, 2020-2, 1I3:**
   * [👨‍👩‍👧‍👦 Turma **única**, no Teams](https://bit.ly/pc1-1I3-teams)
   * [📡 Sala de Reunião, no Teams, para as aulas síncronas](https://bit.ly/pc-aulas-sinc)
+  * [📺 Playlist com os tutoriais do Teams oficiais do Centro Paula Souza](https://www.youtube.com/playlist?list=PLk6PnAig6xXJqV_M_BEDuEWLIYaiznysz)
 
 ## 😱 Entregas (para alunos presenciais)
 

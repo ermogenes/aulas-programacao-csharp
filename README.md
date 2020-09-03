@@ -106,9 +106,11 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 
 ## 🥋 Exercícios
 
-* [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA)
-* [🤯 Exercícios extras: Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
-* [🤖 Exercícios práticos: Saída em console](exercises/saida.md)
+**Para alunos presenciais**: ✔ Entrega finalizada | 👁‍🗨 Entrega atual | 🔥 Exercícios adicionados recentemente | 🎁 Exercícios extra
+
+* [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) (via Teams ✔)
+* [🤯 Exercícios extras: Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) 🎁
+* [🤖 Exercícios práticos: Saída em console](exercises/saida.md) 👁‍🗨
 * [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md)
 * [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
 * [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md)

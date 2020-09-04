@@ -31,8 +31,6 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 
 <!-- [📷](https://drive.google.com/file/d/1_Tg7udFQxFlMAx80DgW9yHa2YUPAXV0x/view?usp=sharing)[📽 Faça seus exercícios pelo celular](https://www.youtube.com/watch?v=VePpmsHWqqI&feature=youtu.be) usando o [🌍 Repl.it](https://repl.it/). -->
 
-📲 Novo: 
-
 ## 🎞 Este curso no YouTube
 
 * [Canal: Prof. Ermogenes Palacio](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw)

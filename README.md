@@ -29,7 +29,7 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 
 📲 _SOMENTE para quem não tem computador:_ [📷](https://drive.google.com/file/d/1_Tg7udFQxFlMAx80DgW9yHa2YUPAXV0x/view?usp=sharing)[📽 Faça seus exercícios pelo celular](https://www.youtube.com/watch?v=VePpmsHWqqI&feature=youtu.be) usando o [🌍 Repl.it](https://repl.it/).
 
-📲 Novo: [Versão .NET Fiddle](https://youtu.be/y82X7hA5J4s)
+📲 Novo: [📺 Faça os exercícios no celular usando o .NET Fiddle](https://youtu.be/y82X7hA5J4s)
 
 ## 🎞 Este curso no YouTube
 

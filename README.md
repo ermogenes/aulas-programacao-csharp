@@ -70,8 +70,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) ✔
 
 ### 📌 Conceitos básicos
-* [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) 👁‍🗨
-* [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) 👁‍🗨
+* [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✔
+* [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✔
 * [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) 👁‍🗨
 * [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
 * [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)

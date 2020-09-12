@@ -72,8 +72,8 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 ### 📌 Conceitos básicos
 * [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✔
 * [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✔
-* [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) 👁‍🗨
-* [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
+* [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
+* [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) 👁‍🗨
 * [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
 * [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
 * [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
@@ -112,8 +112,8 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 
 * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) (via Teams ✔)
 * [🤯 Exercícios extras: Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) 🎁
-* [🤖 Exercícios práticos: Saída em console](exercises/saida.md) 👁‍🗨
-* [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md)
+* [🤖 Exercícios práticos: Saída em console](exercises/saida.md) ✔
+* [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md) 👁‍🗨
 * [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
 * [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md)
 * [🤖 Exercícios práticos: Decisão e operações lógicas](exercises/decisao-simples.md)

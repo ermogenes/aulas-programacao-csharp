@@ -19,7 +19,7 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 
 * **Alunos de PC1 da Etec AB, 2020-2, 1I3:**
   * [👨‍👩‍👧‍👦 Turma **única**, no Teams](https://bit.ly/pc1-1I3-teams)
-  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](https://bit.ly/pc-aulas-sinc)
+  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](https://teams.microsoft.com/l/channel/19%3a4cb704b3f36046088a88e18bb1c9a6b4%40thread.tacv2/%255B00%255D%2520Aulas%2520s%25C3%25ADncronas%2520%25F0%259F%2593%25BA?groupId=f037150f-c7fc-456f-b573-d97d73b40395&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94)
   * [📺 Playlist com os tutoriais do Teams oficiais do Centro Paula Souza](https://www.youtube.com/playlist?list=PLk6PnAig6xXJqV_M_BEDuEWLIYaiznysz)
 
 ## 😱 Entregas (para alunos presenciais)
@@ -53,7 +53,7 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 **Legenda:** 📷 Slides | 📺 Vídeo-aula no YouTube | 📖 Material em texto e imagens
 
-**Para alunos presenciais:** ✔ Conteúdo já estudado | 👁‍🗨 Conteúdo da semana atual | 🔥 Conteúdo adicionado recentemente | 🎁 Conteúdo extra
+**Para alunos presenciais:** ✔ já estudado | 👁‍🗨 semana atual | 🔥 adicionado recentemente | 🎁 extra
 
 ### 👔 Introdução
 
@@ -73,10 +73,10 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✔
 * [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✔
 * [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
-* [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) 👁‍🗨
-* [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
-* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
-* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
+* [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
+* [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) 👁‍🗨
+* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) 👁‍🗨
+* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) 👁‍🗨
 * [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
 * [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 
@@ -108,13 +108,13 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 
 ## 🥋 Exercícios
 
-**Para alunos presenciais**: ✔ Entrega finalizada | 👁‍🗨 Entrega atual | 🔥 Exercícios adicionados recentemente | 🎁 Exercícios extra
+**Para alunos presenciais**: ✔ finalizada | 👁‍🗨 atual | 🔥 adicionados recentemente | 🎁 extra
 
 * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) (via Teams ✔)
 * [🤯 Exercícios extras: Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) 🎁
 * [🤖 Exercícios práticos: Saída em console](exercises/saida.md) ✔
-* [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md) 👁‍🗨
-* [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
+* [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md) ✔
+* [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md) 👁‍🗨
 * [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md)
 * [🤖 Exercícios práticos: Decisão e operações lógicas](exercises/decisao-simples.md)
 * [🤖 Exercícios práticos: Laços](exercises/lacos.md)

@@ -3,14 +3,17 @@
 Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
 
 ---
+## Exercício `OlaUsuario`
 
 `[console: OlaUsuario]` Faça um programa solicite que o usuário digite seu nome. Exiba `Olá, ___!` (na lacuna `___` exiba o nome digitado).
 
 ---
+## Exercício `Gritador`
 
 `[console: Gritador]` Faça um programa repita exatamente que o usuário digitar, gritando (em CAIXA ALTA).
 
 ---
+## Exercício `NomeCompleto`
 
 `[console: NomeCompleto]` Receba o nome e o sobrenome do usuário separadamente. Exiba o nome completo no formato padrão `Nome Sobrenome` e no formato de catálogo `SOBRENOME, Nome`.
 
@@ -25,6 +28,7 @@ Nome de catálogo: PALACIO, Ermogenes
 ```
 
 ---
+## Exercício `Cebolinha`
 
 `[console: Cebolinha]` Solicite que o usuário digite uma frase. Exiba a frase como se ela fosse dita pelo Cebolinha, da Turma da Mônica.
 
@@ -35,6 +39,7 @@ _Lembre-se que o Cebolinha tem um disturbio na fala chamado dislalia, que o faz 
 Por exemplo, a frase `Eu troco as letras, não falo bem, mas meus amigos não troco por ninguém` será dita pelo Cebolinha como `Eu tloco as letlas, não falo bem, mas meus amigos não tloco pol ninguém`.
 
 ---
+## Exercício `CriancaEducada`
 
 `[console: CriancaEducada]` Solicite que o usuário digite uma frase. Substitua as palavras da lista por uma sequência de símbolos (como `#@$%*!&`, por exemplo).
 
@@ -50,6 +55,7 @@ Eu acho que é um #@$%*!&, e que vai ficar #@$%*!& pra sempre.
 ```
 
 ---
+## Exercício `MemeToNervoso`
 
 `[console: MemeToNervoso]` Peça ao usuário que ele digite o que pensa sobre esse programa. Exiba uma resposta em versão _meme_ no seguinte formato:
 
@@ -66,6 +72,7 @@ Para isso, mantenha somente os 10 primeiros caracteres (remova todos os caracter
 <img src="https://www.lance.com.br/uploads/2017/11/17/5a0ecbe764bad.jpeg" width="400">
 
 ---
+## Exercício `Leet`
 
 `[console: Leet]` Faça um tradutor simples para a linguagem [Leet Speak](https://pt.wikipedia.org/wiki/Leet).
 

@@ -3,6 +3,7 @@
 Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
 
 ---
+## Exercício `Negativo`
 
 `[console: Negativo]` Leia um número inteiro e exiba a mensagem "Você digitou um número negativo." caso o número seja menor que zero.
 
@@ -18,6 +19,7 @@ Digite um número: 12
 _(nada a exibir)_
 
 ---
+## Exercício `Sinal`
 
 `[console: Sinal]` Leia um número inteiro e exiba "Negativo", "Zero" ou "Positivo", conforme o caso.
 
@@ -38,6 +40,7 @@ Zero
 ```
 
 ---
+## Exercício `Divisao`
 
 `[console: Divisao]` Receba um numerador e um denominador. Exiba o resultado da divisão ou "Não é possível dividir por zero.", conforme o caso.
 
@@ -61,6 +64,7 @@ Não é possível dividir por zero.
 ```
 
 ---
+## Exercício `Media4Notas`
 
 `[console: Media4Notas]` Receba 4 notas, com somente uma casa decimal. Valide se todas estão entre 0.0 e 10.0. Se alguma delas não estiver, exiba "Digite somente notas entre 0 e 10.". Caso todas as notas sejam válidas, calcule a média aritmética das notas. Exiba uma mensagem no seguinte padrão: "Você ficou com média 7,5. Resultado: Aprovado".
 
@@ -120,6 +124,7 @@ Você ficou com média 5,5. Resultado: Em recuperação
 ```
 
 ---
+## Exercício `IMC`
 
 `[console: IMC]` Calcule o Índice de Massa Corporal ([IMC](https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal)) do usuário.
 
@@ -153,6 +158,7 @@ Diagnóstico: Acima do peso
 ```
 
 ---
+## Exercício `Maior2Numeros`
 
 `[console: Maior2Numeros]` Receba dois números. Exiba o maior.
 
@@ -164,6 +170,7 @@ O maior número é 15
 ```
 
 ---
+## Exercício `Senha`
 
 `[console: Senha]` Solicite ao usuário que digite a sua senha (uma string). Exiba "Acesso permitido" caso a senha digitada seja `1234abcd`, senão exiba "Acesso negado".
 
@@ -179,6 +186,7 @@ Acesso permitido
 ```
 
 ---
+## Exercício `DoadorSangue`
 
 `[console: DoadorSangue]` Solicite a idade do usuário. Avalie se ele pode ser doador de sangue (i.e. possui idade entre 18 e 67 anos). Informe o resultado da avaliação.
 
@@ -199,6 +207,7 @@ Você não pode ser doador de sangue.
 ```
 
 ---
+## Exercício `ParImpar`
 
 `[console: ParImpar]` Receba um número. Exiba "par" ou "ímpar", conforme o caso.
 
@@ -212,6 +221,7 @@ Digite um número: 17
 ```
 
 ---
+## Exercício `PesoIdeal`
 
 `[console: PesoIdeal]` Solicite que o usuário digite sua altura e o seu sexo ('M' para masculino, 'F' para feminino). Calcule e exiba seu peso ideal.
 
@@ -233,10 +243,12 @@ Seu peso ideal é 62,7kg.
 ```
 
 ---
+## Exercício `AnaliseCredito`
 
 `[console: AnaliseCredito]` Um cliente quer solicitar um empréstimo. Receba o valor solicitado, a quantidade de parcelas desejada e a renda mensal comprovada. Só autorize empréstimos cuja parcela não ultrapasse 30% da renda (desconsidere os juros).
 
 ---
+## Exercício `HeronSeTriangulo`
 
 `[console: HeronSeTriangulo]` Receba três números decimais maiores que zero. Valide se estes números correspondem aos lados de um triângulo (a). Exiba o tipo do triângulo (b). Exiba a sua área (c).
 
@@ -267,6 +279,7 @@ c. Área do triângulo pelo Teorema de Heron:
 Ref.: https://pt.wikipedia.org/wiki/Tri%C3%A2ngulo
 
 ---
+## Exercício `Bhaskara`
 
 `[console: Bhaskara]` Calcule as raízes de uma equação de segundo grau, utilizando o método de Bhaskara.
 

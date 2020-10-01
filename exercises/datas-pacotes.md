@@ -3,6 +3,7 @@
 Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
 
 ---
+## Exercício `HoraSistema`
 
 `[console: HoraSistema]` Exiba a data e a hora atual do sistema.
 
@@ -12,6 +13,7 @@ Neste momento são exatamente 13/05/2020 14:58:13.
 ```
 
 ---
+## Exercício `IdadeAluno`
 
 `[console: IdadeAluno]` Exiba a sua data de nascimento no formato de data longa. Mostre também a data do seu aniversário de 18 anos.
 
@@ -22,6 +24,7 @@ Aniversário de 18 anos em terça-feira, 7 de setembro de 1999.
 ```
 
 ---
+## Exercício `MaisTarde`
 
 `[console: MaisTarde]` Exiba a hora atual acrescida de 6 horas e 30 minutos.
 
@@ -31,6 +34,7 @@ Agora 15:51, mais tarde 22:21.
 ```
 
 ---
+## Exercício `CalculadoraIdade`
 
 `[console: CalculadoraIdade]` Calcule a sua idade em dias.
 
@@ -40,6 +44,7 @@ Eu nasci em 07/09/1981 e já vivi 14128 dias.
 ```
 
 ---
+## Exercício `UltimaParcela`
 
 `[console: UltimaParcela]` Receba o valor total a ser pago e a quantidade de parcelas mensais de um financiamento. Exiba a data e o valor da última parcela.
 
@@ -52,6 +57,7 @@ Sua última parcela será em 13/01/2021, no valor de R$123,14.
 ```
 
 ---
+## Exercício `NomeASCIIArt`
 
 `[console: NomeASCIIArt]` Solicite que o usuário digite seu nome. Exiba-o em ASCII Art, usando o Figgle.
 
@@ -68,6 +74,7 @@ Y88888P 88   YD YP  YP  YP  `Y88P'   Y888P  Y88888P VP   V8P Y88888P `8888Y'
 ```
 
 ---
+## Exercício `NumeralExtenso`
 
 `[console: NumeralExtenso]` Receba um número inteiro e exiba-o por extenso.
 

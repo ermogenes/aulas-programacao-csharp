@@ -3,6 +3,7 @@
 Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
 
 ---
+## Exercício `Soma2Numeros`
 
 `[console: Soma2Numeros]` Leia 2 números inteiros e exiba o resultado da soma:
 
@@ -16,6 +17,7 @@ Soma: 70
 ```
 
 ---
+## Exercício `MilhasParaKm`
 
 `[console: MilhasParaKm]` Receba uma medida em milhas e exiba seu equivalente em quilômetros. A medida em km é 1,609 vezes a medida em milhas.
 
@@ -25,6 +27,7 @@ Entre com a medida (em milhas): 1
 ```
 
 ---
+## Exercício `Medidas`
 
 `[console: Medidas]` Receba uma medida em metros e exiba seus equivalentes em quilômetros e centímetros.
 
@@ -38,6 +41,7 @@ Entre com a medida (em metros): 150
 ```
 
 ---
+## Exercício `AreaTrianguloRet`
 
 `[console: AreaTrianguloRet]` Calcule a área de um triângulo retângulo, dados base (b) e altura (h). A área é dada pela metade do produto da base pela altura.
 
@@ -49,6 +53,7 @@ Altura: 5
 ```
 
 ---
+## Exercício `Heron`
 
 `[console: Heron]` Calcule a área de um triângulo qualquer, dadas as medidas dos 3 lados. Exiba o semiperímetro e a área.
 
@@ -77,6 +82,7 @@ Ref.:
 [https://mundoeducacao.bol.uol.com.br/matematica/formula-heron.htm](https://mundoeducacao.bol.uol.com.br/matematica/formula-heron.htm)
 
 ---
+## Exercício `GrausCF`
 
 `[console: GrausCF]` Converta uma temperatura digitada pelo usuário em °C para °F.
 
@@ -90,6 +96,7 @@ Ref.: [https://pt.wikipedia.org/wiki/Celsius](https://pt.wikipedia.org/wiki/Cels
 ```
 
 ---
+## Exercício `GrausFC`
 
 `[console: GrausFC]` Converta uma temperatura digitada pelo usuário em °F para °C.
 
@@ -103,6 +110,7 @@ Ref.: [https://pt.wikipedia.org/wiki/Celsius](https://pt.wikipedia.org/wiki/Cels
 ```
 
 ---
+## Exercício `MediaAritmetica`
 
 `[console: MediaAritmetica]` Calcule a média aritmética entre 3 números reais digitados pelo usuário.
 
@@ -117,6 +125,7 @@ Média: 7.0
 ```
 
 ---
+## Exercício `VelocMedia`
 
 `[console: VelocMedia]` Calcule a velocidade, a partir da distância (Δd, em metros) e do tempo (Δt, em segundos).
 
@@ -130,6 +139,7 @@ Velocidade média: 6 m/s
 ```
 
 ---
+## Exercício `IMC`
 
 `[console: IMC]` Calcule o índice de massa corporal de uma pessoa, dados altura (em m) e peso (em kg).
 
@@ -143,6 +153,7 @@ IMC: 20,0 kg/m²
 ```
 
 ---
+## Exercício `FGTS`
 
 `[console: FGTS]` Calcule a parcela do FGTS sobre o salário de um funcionário (8%).
 
@@ -153,6 +164,7 @@ FGTS: R$ 160,00
 ```
 
 ---
+## Exercício `JurosSimples`
 
 `[console: JurosSimples]` Calcule o montante final de um investimento a juros simples.
 
@@ -172,6 +184,7 @@ Montante (R$)..: 1560,00
 ```
 
 ---
+## Exercício `Projetil`
 
 `[console: Projetil]` Um projétil é lançado em um ângulo `θ°` (teta graus) a uma velocidade inicial `v0 m/s`. Calcule, em metros, o alcance máximo `xmax` e a altura máxima atingida `hmax`.
 

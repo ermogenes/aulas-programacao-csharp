@@ -5,6 +5,7 @@ Para cada exercício abaixo crie um novo projeto com o template indicado, e o no
 **Atenção**: Caso o exercício possua um _desafio_, faça-o em um repositório separado, e somente após concluir o exercício principal. Caso seja um exercício marcado para entrega no curso presencial, não é necessário cumprir os desafios.
 
 ---
+## Exercício `SequenciaCentena`
 
 `[console: SequenciaCentena]` Exiba os 100 primeiros números naturais não nulos.
 
@@ -14,6 +15,7 @@ Ex.:
 ```
 
 ---
+## Exercício `SequenciaPares`
 
 `[console: SequenciaPares]` Receba um número inteiro positivo. Exiba todos os números pares entre zero e o número digitado (inclusive).
 
@@ -24,6 +26,7 @@ Números pares entre 0 e ? 15
 ```
 
 ---
+## Exercício `SequenciaLimites`
 
 `[console: SequenciaLimites]` Receba 2 números inteiros. Se o segundo for menor que o primeiro, exibir uma mensagem de erro. Caso contrário, exibir todos os números inteiros entre eles (inclusive).
 
@@ -35,6 +38,7 @@ Fim: 7
 ```
 
 ---
+## Exercício `Tabuada`
 
 `[console: Tabuada]` Receba um número. Exiba sua tabuada.
 
@@ -56,6 +60,7 @@ Tabuada do número: 7
 ```
 
 ---
+## Exercício `MediaDecimal`
 
 `[console: MediaDecimal]` Receba a quantidade de números a serem digitados. Receba a quantidade indicada de números decimais. Exiba a soma e a média entre os valores digitados. Exiba também o maior e o menor número digitado.
 
@@ -74,6 +79,7 @@ Menor..: 0,37
 ```
 
 ---
+## Exercício `Patinhos`
 
 `[console: Patinhos]` Exiba a letra da música "_Cinco Patinhos_" (versão brasileira gravada pela Xuxa de "_Five little ducks_" -  _The Wiggles_). Seu programa deve perguntar quantos patinhos o usuário deseja (pelo menos 2).
 
@@ -127,6 +133,7 @@ E os 3 patinhos voltaram de lá.
 ```
 
 ---
+## Exercício `Elefante`
 
 `[console: Elefante]` Exiba a letra da música infantil "Um Elefante Incomoda Muita Gente". Comece com 1 elefante e termine na quantidade digitada pelo usuário (um número par maior que 2).
 
@@ -153,6 +160,7 @@ Quantos elefantes: 6
 ```
 
 ---
+## Exercício `RetPreenchido`
 
 `[console: RetPreenchido]` Exiba um retângulo preenchido, com altura e largura digitados pelo usuário (entre 1 e 10).
 
@@ -169,6 +177,7 @@ Altura...: 4
 ```
 
 ---
+## Exercício `RetContorno`
 
 `[console: RetContorno]` Exiba o contorno de um retângulo, com altura e largura digitados pelo usuário (entre 1 e 10).
 
@@ -187,6 +196,7 @@ Altura...: 6
 ```
 
 ---
+## Exercício `ASCIITable`
 
 `[console: ASCIITable]` Exiba os caracteres imprimíveis da tabela ASCII (entre 32 e 127).
 
@@ -238,6 +248,7 @@ Tabela ASCII - Caracteres Imprimíveis
 ```
 
 ---
+## Exercício `Fatorial`
 
 `[console: Fatorial]` Receba um número inteiro positivo. Exiba o seu [fatorial](https://pt.wikipedia.org/wiki/Fatorial).
 
@@ -258,6 +269,7 @@ Número: 5
 _Obs._: O método iterativo para cálculo de fatorial é altamente ineficiente. [Outros algoritmos conhecidos](http://www.luschny.de/math/factorial/FastFactorialFunctions.htm) são mais eficientes.
 
 ---
+## Exercício `EstimaPi`
 
 `[console: EstimaPi]` Estime o valor de π utilizando o [método de Leibniz](https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Leibniz_para_%CF%80):
 
@@ -282,6 +294,7 @@ Estimativa após 199999997 iterações: 3,1415926486
 _Desafio 2_: Utilizar [outros métodos](https://en.wikipedia.org/wiki/Approximations_of_%CF%80) mais eficientes.
 
 ---
+## Exercício `EstimaEuler`
 
 `[console: EstimaEuler]` Estime o valor de e (número de Euler), com o número de iterações indicado pelo usuário.
 
@@ -295,6 +308,7 @@ Estimativa: 2,7182818320
 ```
 
 ---
+## Exercício `Fibonacci`
 
 `[console: Fibonacci]` Receba um número inteiro `N`. Exiba os `N` primeiros números da [sequência de Fibonacci](https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci).
 
@@ -321,6 +335,7 @@ Quantos termos (>=2)? 21
 ```
 
 ---
+## Exercício `MDC`
 
 `[console: MDC]` Calcule o máximo divisor comum entre dois números utilizando o Algoritmo de Euclides (iterativo).
 
@@ -337,6 +352,7 @@ MDC(a, b) = 12
 ```
 
 ---
+## Exercício `SomaDigitos`
 
 `[console: SomaDigitos]` Calcule a soma dos dígitos de um número inteiro positivo informado.
 

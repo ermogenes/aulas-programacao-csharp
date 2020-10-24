@@ -34,6 +34,22 @@ Suas configurações ficam salvas em `.vscode/launch.json`.
 
 ![](debug000045.png)
 
+## Cenários alternativos
+
+### Notificação de recursos requeridos (_required assets_)
+
+Após abrir um projeto no vscode, é comum que ele exiba uma notificação como a abaixo:
+
+![](debug000064.png)
+
+Se você clicar em _Yes_, ele adicionará o arquivo `.vscode/launch.json` para o seu projeto, assim como qualquer outro artefato que o auxilie nesta tarefa.
+
+### Bibliotecas recém instaladas
+
+Ao configurar a depuração pela primeira vez no seu vscode, ele poderá baixar pacotes **automaticamente**, como o _.NET Core Debugger_ para que você possa fazer a depuração.
+
+![](debug000063.png)
+
 ## Pontos de parada (_breakpoints_)
 
 Você deve incluir pelo menos um ponto de parada para o depurador. Sem eles, seu programa executará até o final sem que você possa interagir.

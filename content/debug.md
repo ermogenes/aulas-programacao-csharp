@@ -123,3 +123,19 @@ Você também pode observar o valor de uma expressão que não existe no seu có
 ![](debug000054.png)
 
 Use e abuse da depuração. Ela é a melhor amiga do programador.
+
+## Possíveis problemas
+
+### Notificação de recursos requeridos (_required assets_)
+
+Após abrir um projeto no vscode, é comum que ele exiba uma notificação como a abaixo:
+
+![](debug000064.png)
+
+Se você clicar em _Yes_, ele adicionará o arquivo `.vscode/launch.json` para o seu projeto, assim como qualquer outro artefato que o auxilie nesta tarefa.
+
+### Bibliotecas recém instaladas
+
+Ao configurar a depuração pela primeira vez no seu vscode, ele poderá baixar pacotes **automaticamente**, como o _.NET Core Debugger_ para que você possa fazer a depuração.
+
+![](debug000063.png)

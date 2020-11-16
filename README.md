@@ -132,6 +132,7 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
   - [📺 Exercício comentado - PesoIdeal](https://youtu.be/nBMdtEtTMUU)
   - [📺 Exercício comentado - Patinhos](https://youtu.be/qXTz9jKq_gc)
   - [📺 Revisão de exercícios - Decisão Simples](https://youtu.be/RIvcPJWifDI)
+  - [📺 Exercício comentado - MediaDecimal](https://youtu.be/vdSU77xCrcA) 🔥
 
 Códigos disponíveis no [repositório oficial](https://github.com/exercicios-aulas-programacao-c-sharp).
 

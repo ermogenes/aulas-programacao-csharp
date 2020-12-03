@@ -84,13 +84,13 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 * [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
 * [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
 * [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md) ✔
-* [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) ✔
+* [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎀 Laços
-* [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) 👁‍🗨
+* [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) ✔
 
 ### ⚡ Publicação e distribuição
-* [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)
+* [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md) 👁‍🗨
 
 ### 🏄🏻‍♂️ Tópicos adicionais
 
@@ -117,8 +117,8 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 * [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md) ✔
 * [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md) ✔
 * [🤖 Exercícios práticos: Decisão e operações lógicas](exercises/decisao-simples.md) ✔
-* [🤖 Exercícios práticos: Laços](exercises/lacos.md) 👁‍🗨
-* [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md)
+* [🤖 Exercícios práticos: Laços](exercises/lacos.md) ✔
+* [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md) 👁‍🗨
 
 ### Soluções comentadas
 

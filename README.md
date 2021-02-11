@@ -41,7 +41,7 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 
 Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu computador.
 
-* Kit de desenvolvimento: [.NET Core SDK 📥](https://dotnet.microsoft.com/download)
+* Kit de desenvolvimento: [.NET SDK 📥](https://dotnet.microsoft.com/download)
 * IDE: [Visual Studio Code 📥](https://code.visualstudio.com/download)
 * Controle de versão: [Git 📥](https://git-scm.com/downloads)
 

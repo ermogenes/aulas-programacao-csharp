@@ -17,15 +17,15 @@ Após a conclusão deste curso, considere fazer o [Dev Web](https://github.com/e
 
 Disponibilidade dos professores nos dias das aulas presenciais, nos horários de aula (confira no Teams o horário das _lives_ e do atendimento por _chat_).
 
-* **Alunos de PC1 da Etec AB, 2020-2, 1I3:**
-  * [👨‍👩‍👧‍👦 Turma **única**, no Teams](https://bit.ly/pc1-1I3-teams)
-  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](https://teams.microsoft.com/l/channel/19%3a4cb704b3f36046088a88e18bb1c9a6b4%40thread.tacv2/%255B00%255D%2520Aulas%2520s%25C3%25ADncronas%2520%25F0%259F%2593%25BA?groupId=f037150f-c7fc-456f-b573-d97d73b40395&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94)
+* **Alunos de PC1 da Etec AB, 2021-1, 1I3:**
+  * [👨‍👩‍👧‍👦 Turma **única**, no Teams](#) _em breve..._
+  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](#) _em breve..._
   * [📺 Playlist com os tutoriais do Teams oficiais do Centro Paula Souza](https://www.youtube.com/playlist?list=PLk6PnAig6xXJqV_M_BEDuEWLIYaiznysz)
 
 ## 😱 Entregas (para alunos presenciais)
 
-* **Alunos de PC1 da Etec AB, 2020-2, 1I3:**
-  * Links do repositório no  GitHub, via Teams.
+* **Alunos de PC1 da Etec AB, 2021-1, 1I3:**
+  * Links do repositório no GitHub, via Teams.
 
 📲 _SOMENTE para quem não tem computador:_ [📺 Faça os exercícios no celular usando o .NET Fiddle](https://youtu.be/y82X7hA5J4s)
 
@@ -41,14 +41,14 @@ Disponibilidade dos professores nos dias das aulas presenciais, nos horários de
 
 Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu computador.
 
-Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores antes de instalar a nova.
-
 * Kit de desenvolvimento: [.NET Core SDK 📥](https://dotnet.microsoft.com/download)
 * IDE: [Visual Studio Code 📥](https://code.visualstudio.com/download)
 * Controle de versão: [Git 📥](https://git-scm.com/downloads)
 
  [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Passo-a-passo para a criação do ambiente](content/ambiente.md)
- 
+
+Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a mais recente disponível.
+
 ## Conteúdo
 
 **Legenda:** 📷 Slides | 📺 Vídeo-aula no YouTube | 📖 Material em texto e imagens
@@ -57,40 +57,40 @@ Obs.: Se utilizar a versão 3 do .NET Core SDK, remova as versões anteriores an
 
 ### 👔 Introdução
 
-* [📷 Computadores e programação](https://docs.google.com/presentation/d/18qCmMcKVhIM3L_yF0PAjHQBgt6JRTIJIim8F6jGhIPM/edit?usp=sharing) ✔
-* [📺](https://youtu.be/N_LsPQGtVCI) Apresentação ✔
-* [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md) ✔
+* [📷 Computadores e programação](https://docs.google.com/presentation/d/18qCmMcKVhIM3L_yF0PAjHQBgt6JRTIJIim8F6jGhIPM/edit?usp=sharing)
+* [📺](https://youtu.be/N_LsPQGtVCI) Apresentação
+* [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md)
 
 ### 🐢 Primeiros passos
 
-* [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md) ✔
-* [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode.md) ✔
-* [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md) ✔
-* [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) ✔
-* [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) ✔
+* [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md)
+* [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode.md)
+* [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md)
+* [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md)
+* [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md)
 
 ### 📌 Conceitos básicos
-* [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✔
-* [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✔
-* [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
-* [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
-* [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✔
-* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) ✔
-* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✔
-* [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md) ✔
-* [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md) ✔
+* [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md)
+* [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md)
+* [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
+* [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
+* [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
+* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
+* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
+* [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
+* [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 
 ### 🚦 Decisão
-* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
-* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
-* [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md) ✔
+* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
+* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
+* [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md)
 * [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎀 Laços
-* [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) ✔
+* [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
 
 ### ⚡ Publicação e distribuição
-* [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md) 👁‍🗨
+* [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)
 
 ### 🏄🏻‍♂️ Tópicos adicionais
 
@@ -110,20 +110,20 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 
 **Para alunos presenciais**: ✔ finalizada | 👁‍🗨 atual | 🔥 adicionados recentemente | 🎁 extra
 
-* [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) (via Teams ✔)
+* [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA)
 * [🤯 Exercícios extras: Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) 🎁
-* [🤖 Exercícios práticos: Saída em console](exercises/saida.md) ✔
-* [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md) ✔
-* [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md) ✔
-* [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md) ✔
-* [🤖 Exercícios práticos: Decisão e operações lógicas](exercises/decisao-simples.md) ✔
-* [🤖 Exercícios práticos: Laços](exercises/lacos.md) ✔
-* [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md) 👁‍🗨
+* [🤖 Exercícios práticos: Saída em console](exercises/saida.md)
+* [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md)
+* [🤖 Exercícios práticos: Números e Operadores](exercises/numeros-operadores.md)
+* [🤖 Exercícios práticos: Datas e Pacotes](exercises/datas-pacotes.md)
+* [🤖 Exercícios práticos: Decisão e operações lógicas](exercises/decisao-simples.md)
+* [🤖 Exercícios práticos: Laços](exercises/lacos.md)
+* [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md)
 
 ### Soluções comentadas
 
 - Prof. Ermogenes
-  - [📺 Exercício: AnaliseCredito](https://youtu.be/RCYFPGAEdPA) 🔥
+  - [📺 Exercício: AnaliseCredito](https://youtu.be/RCYFPGAEdPA)
 - Prof. Neri
   - [📺 Exercício comentado - AsciiArt / Problemas com o Terminal do VS Code](https://youtu.be/FhIssxfdyx8)
   - [📺 Exercício comentado - MemeToNervoso / Uso do repl.it](https://youtu.be/eE9xymvPlj8)
@@ -132,7 +132,7 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
   - [📺 Exercício comentado - PesoIdeal](https://youtu.be/nBMdtEtTMUU)
   - [📺 Exercício comentado - Patinhos](https://youtu.be/qXTz9jKq_gc)
   - [📺 Revisão de exercícios - Decisão Simples](https://youtu.be/RIvcPJWifDI)
-  - [📺 Exercício comentado - MediaDecimal](https://youtu.be/vdSU77xCrcA) 🔥
+  - [📺 Exercício comentado - MediaDecimal](https://youtu.be/vdSU77xCrcA)
 
 Códigos disponíveis no [repositório oficial](https://github.com/exercicios-aulas-programacao-c-sharp).
 
@@ -181,7 +181,7 @@ Códigos disponíveis no [repositório oficial](https://github.com/exercicios-au
 * [🌍 IEEE Spectrum](https://spectrum.ieee.org/computing/software/the-top-programming-languages-2019)
 * [🌍 TIOBE Index](https://www.tiobe.com/tiobe-index/)
 * [🌍 GitHub Octoverse](https://octoverse.github.com/#top-languages)
-* [🌍 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019#most-popular-technologies)
+* [🌍 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2020#most-popular-technologies)
 * [🌍 PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
 
 ## 💪 Contributors

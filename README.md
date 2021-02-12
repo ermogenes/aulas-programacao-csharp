@@ -18,8 +18,8 @@ Após a conclusão deste curso, considere fazer o [Dev Web](https://github.com/e
 Disponibilidade dos professores nos dias das aulas presenciais, nos horários de aula (confira no Teams o horário das _lives_ e do atendimento por _chat_).
 
 * **Alunos de PC1 da Etec AB, 2021-1, 1I3:**
-  * [👨‍👩‍👧‍👦 Turma **única**, no Teams](#) _em breve..._
-  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](#) _em breve..._
+  * [👨‍👩‍👧‍👦 Turma **única**, no Teams](https://teams.microsoft.com/l/team/19%3ae4f808473ff845a6b6a1bb8999514584%40thread.tacv2/conversations?groupId=12daaa94-db22-486d-9b96-55553cad4211&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94)
+  * [📡 Sala de Reunião, no Teams, para as aulas síncronas](https://teams.microsoft.com/l/channel/19%3a8ac752a8f28e4f80b3126cc29f85bdc9%40thread.tacv2/Aulas%2520s%25C3%25ADncronas%2520%25F0%259F%2595%2597%25F0%259F%2591%25A8%25E2%2580%258D%25F0%259F%258F%25AB?groupId=12daaa94-db22-486d-9b96-55553cad4211&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94)
   * [📺 Playlist com os tutoriais do Teams oficiais do Centro Paula Souza](https://www.youtube.com/playlist?list=PLk6PnAig6xXJqV_M_BEDuEWLIYaiznysz)
 
 ## 😱 Entregas (para alunos presenciais)

@@ -1,11 +1,11 @@
 # Exercícios: Datas e Pacotes
 
-Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
 
 ---
 ## Exercício `HoraSistema`
 
-`[console: HoraSistema]` Exiba a data e a hora atual do sistema.
+Exiba a data e a hora atual do sistema.
 
 Ex.:
 ```
@@ -15,7 +15,7 @@ Neste momento são exatamente 13/05/2020 14:58:13.
 ---
 ## Exercício `IdadeAluno`
 
-`[console: IdadeAluno]` Exiba a sua data de nascimento no formato de data longa. Mostre também a data do seu aniversário de 18 anos.
+Exiba a sua data de nascimento no formato de data longa. Mostre também a data do seu aniversário de 18 anos.
 
 Ex.:
 ```
@@ -26,7 +26,7 @@ Aniversário de 18 anos em terça-feira, 7 de setembro de 1999.
 ---
 ## Exercício `MaisTarde`
 
-`[console: MaisTarde]` Exiba a hora atual acrescida de 6 horas e 30 minutos.
+Exiba a hora atual acrescida de 6 horas e 30 minutos.
 
 Ex.:
 ```
@@ -36,7 +36,7 @@ Agora 15:51, mais tarde 22:21.
 ---
 ## Exercício `CalculadoraIdade`
 
-`[console: CalculadoraIdade]` Calcule a sua idade em dias.
+Calcule a sua idade em dias.
 
 Ex.:
 ```
@@ -46,7 +46,7 @@ Eu nasci em 07/09/1981 e já vivi 14128 dias.
 ---
 ## Exercício `UltimaParcela`
 
-`[console: UltimaParcela]` Receba o valor total a ser pago e a quantidade de parcelas mensais de um financiamento. Exiba a data e o valor da última parcela.
+Receba o valor total a ser pago e a quantidade de parcelas mensais de um financiamento. Exiba a data e o valor da última parcela.
 
 Ex. (considerando a data atual como 13/05/2020):
 ```
@@ -59,7 +59,7 @@ Sua última parcela será em 13/01/2021, no valor de R$123,14.
 ---
 ## Exercício `NomeASCIIArt`
 
-`[console: NomeASCIIArt]` Solicite que o usuário digite seu nome. Exiba-o em ASCII Art, usando o Figgle.
+Solicite que o usuário digite seu nome. Exiba-o em ASCII Art, usando o Figgle.
 
 Ex.:
 ```
@@ -76,7 +76,7 @@ Y88888P 88   YD YP  YP  YP  `Y88P'   Y888P  Y88888P VP   V8P Y88888P `8888Y'
 ---
 ## Exercício `NumeralExtenso`
 
-`[console: NumeralExtenso]` Receba um número inteiro e exiba-o por extenso.
+Receba um número inteiro e exiba-o por extenso.
 
 Ex.:
 ```

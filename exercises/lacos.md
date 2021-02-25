@@ -1,13 +1,13 @@
 # Exercícios: Laços
 
-Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
 
-**Atenção**: Caso o exercício possua um _desafio_, faça-o em um repositório separado, e somente após concluir o exercício principal. Caso seja um exercício marcado para entrega no curso presencial, não é necessário cumprir os desafios.
+**Atenção**: Caso o exercício possua um _desafio_, faça-o somente após concluir o exercício principal. Caso seja um exercício marcado para entrega no curso presencial, não é necessário cumprir os desafios.
 
 ---
 ## Exercício `SequenciaCentena`
 
-`[console: SequenciaCentena]` Exiba os 100 primeiros números naturais não nulos.
+Exiba os 100 primeiros números naturais não nulos.
 
 Ex.:
 ```
@@ -17,7 +17,7 @@ Ex.:
 ---
 ## Exercício `SequenciaPares`
 
-`[console: SequenciaPares]` Receba um número inteiro positivo. Exiba todos os números pares entre zero e o número digitado (inclusive).
+Receba um número inteiro positivo. Exiba todos os números pares entre zero e o número digitado (inclusive).
 
 Ex.:
 ```
@@ -28,7 +28,7 @@ Números pares entre 0 e ? 15
 ---
 ## Exercício `SequenciaLimites`
 
-`[console: SequenciaLimites]` Receba 2 números inteiros. Se o segundo for menor que o primeiro, exibir uma mensagem de erro. Caso contrário, exibir todos os números inteiros entre eles (inclusive).
+Receba 2 números inteiros. Se o segundo for menor que o primeiro, exibir uma mensagem de erro. Caso contrário, exibir todos os números inteiros entre eles (inclusive).
 
 Ex.:
 ```
@@ -40,7 +40,7 @@ Fim: 7
 ---
 ## Exercício `Tabuada`
 
-`[console: Tabuada]` Receba um número. Exiba sua tabuada.
+Receba um número. Exiba sua tabuada.
 
 Ex.:
 ```
@@ -62,7 +62,7 @@ Tabuada do número: 7
 ---
 ## Exercício `MediaDecimal`
 
-`[console: MediaDecimal]` Receba a quantidade de números a serem digitados. Receba a quantidade indicada de números decimais. Exiba a soma e a média entre os valores digitados. Exiba também o maior e o menor número digitado.
+Receba a quantidade de números a serem digitados. Receba a quantidade indicada de números decimais. Exiba a soma e a média entre os valores digitados. Exiba também o maior e o menor número digitado.
 
 Ex.:
 ```
@@ -81,7 +81,7 @@ Menor..: 0,37
 ---
 ## Exercício `Patinhos`
 
-`[console: Patinhos]` Exiba a letra da música "_Cinco Patinhos_" (versão brasileira gravada pela Xuxa de "_Five little ducks_" -  _The Wiggles_). Seu programa deve perguntar quantos patinhos o usuário deseja (pelo menos 2).
+Exiba a letra da música "_Cinco Patinhos_" (versão brasileira gravada pela Xuxa de "_Five little ducks_" -  _The Wiggles_). Seu programa deve perguntar quantos patinhos o usuário deseja (pelo menos 2).
 
 A canção começa assim:
 
@@ -135,7 +135,7 @@ E os 3 patinhos voltaram de lá.
 ---
 ## Exercício `Elefante`
 
-`[console: Elefante]` Exiba a letra da música infantil "Um Elefante Incomoda Muita Gente". Comece com 1 elefante e termine na quantidade digitada pelo usuário (um número par maior que 2).
+Exiba a letra da música infantil "Um Elefante Incomoda Muita Gente". Comece com 1 elefante e termine na quantidade digitada pelo usuário (um número par maior que 2).
 
 ```
 1 elefante incomoda muita gente
@@ -162,7 +162,7 @@ Quantos elefantes: 6
 ---
 ## Exercício `RetPreenchido`
 
-`[console: RetPreenchido]` Exiba um retângulo preenchido, com altura e largura digitados pelo usuário (entre 1 e 10).
+Exiba um retângulo preenchido, com altura e largura digitados pelo usuário (entre 1 e 10).
 
 Ex.:
 ```
@@ -179,7 +179,7 @@ Altura...: 4
 ---
 ## Exercício `RetContorno`
 
-`[console: RetContorno]` Exiba o contorno de um retângulo, com altura e largura digitados pelo usuário (entre 1 e 10).
+Exiba o contorno de um retângulo, com altura e largura digitados pelo usuário (entre 1 e 10).
 
 Ex.:
 ```
@@ -198,7 +198,7 @@ Altura...: 6
 ---
 ## Exercício `ASCIITable`
 
-`[console: ASCIITable]` Exiba os caracteres imprimíveis da tabela ASCII (entre 32 e 127).
+Exiba os caracteres imprimíveis da tabela ASCII (entre 32 e 127).
 
 Ex.:
 ```
@@ -250,7 +250,7 @@ Tabela ASCII - Caracteres Imprimíveis
 ---
 ## Exercício `Fatorial`
 
-`[console: Fatorial]` Receba um número inteiro positivo. Exiba o seu [fatorial](https://pt.wikipedia.org/wiki/Fatorial).
+Receba um número inteiro positivo. Exiba o seu [fatorial](https://pt.wikipedia.org/wiki/Fatorial).
 
 O fatorial de um número é dado pelo produto entre o número e seus antecessores naturais positivos:
 
@@ -271,7 +271,7 @@ _Obs._: O método iterativo para cálculo de fatorial é altamente ineficiente. 
 ---
 ## Exercício `EstimaPi`
 
-`[console: EstimaPi]` Estime o valor de π utilizando o [método de Leibniz](https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Leibniz_para_%CF%80):
+Estime o valor de π utilizando o [método de Leibniz](https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Leibniz_para_%CF%80):
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/564a366471bdc3ca4d5403d3acf90c4370d4145e)
 
@@ -296,7 +296,7 @@ _Desafio 2_: Utilizar [outros métodos](https://en.wikipedia.org/wiki/Approximat
 ---
 ## Exercício `EstimaEuler`
 
-`[console: EstimaEuler]` Estime o valor de e (número de Euler), com o número de iterações indicado pelo usuário.
+Estime o valor de e (número de Euler), com o número de iterações indicado pelo usuário.
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/2019b8b95ec12a0b8cdc76c92583bc574d37a863)
 
@@ -310,7 +310,7 @@ Estimativa: 2,7182818320
 ---
 ## Exercício `Fibonacci`
 
-`[console: Fibonacci]` Receba um número inteiro `N`. Exiba os `N` primeiros números da [sequência de Fibonacci](https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci).
+Receba um número inteiro `N`. Exiba os `N` primeiros números da [sequência de Fibonacci](https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FibonacciBlocks.svg/270px-FibonacciBlocks.svg.png" height="170"><img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Golden_spiral_in_rectangles.png" height="170"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/NautilusCutawayLogarithmicSpiral-withGoldenSpiral.jpg" height="170">
 
@@ -337,7 +337,7 @@ Quantos termos (>=2)? 21
 ---
 ## Exercício `MDC`
 
-`[console: MDC]` Calcule o máximo divisor comum entre dois números utilizando o Algoritmo de Euclides (iterativo).
+Calcule o máximo divisor comum entre dois números utilizando o Algoritmo de Euclides (iterativo).
 
 Método: Dados os números `a` e `b`, efetue a divisão e pegue o resto. Se o resto for zero, `a` é o mdc. Senão, `b` é o novo `a`, e o resto é o novo `b`. Repita o processo até que o resto seja zero.
 
@@ -354,7 +354,7 @@ MDC(a, b) = 12
 ---
 ## Exercício `SomaDigitos`
 
-`[console: SomaDigitos]` Calcule a soma dos dígitos de um número inteiro positivo informado.
+Calcule a soma dos dígitos de um número inteiro positivo informado.
 
 Ex.:
 ```

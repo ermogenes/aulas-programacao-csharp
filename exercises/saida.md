@@ -1,43 +1,31 @@
 # Exercícios: Saída via console
 
-Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
-
-Por exemplo, se o exercício disser:
-
-```[console: Exercicio1]``` Faça um programa que ...
-
-Você criará um projeto utilizando o comando:
-
-```
-dotnet new console -o Exercicio1
-```
-
-Caso o tipo não seja indicado, utilize o template `console`.
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
 
 ---
 ## Exercício `EtecAB`
 
-`[console: EtecAB]` Faça um programa que exiba o nome da sua escola: `Etec Adolpho Berezin`.
+Faça um programa que exiba o nome da sua escola: `Etec Adolpho Berezin`.
 
 ---
 ## Exercício `OlaMundo`
 
-`[console: OlaMundo]` Faça um programa que exiba `Olá usuário, eu me chamo Ermogenes!` (utilize o seu nome).
+Faça um programa que exiba `Olá usuário, eu me chamo Ermogenes!` (utilize o seu nome).
 
 ---
 ## Exercício `Cidades`
 
-`[console: Cidades]` Faça um programa que exiba os nomes das cidades do litoral sul de São Paulo, um em cada linha.
+Faça um programa que exiba os nomes das cidades do litoral sul de São Paulo, um em cada linha.
 
 ---
 ## Exercício `Musica`
 
-`[console: Musica]` Faça um programa que exiba uma letra de música a sua escolha. Utilize cores em destaque no título e nos refrões.
+Faça um programa que exiba uma letra de música a sua escolha. Utilize cores em destaque no título e nos refrões.
 
 ---
 ## Exercício `ContagemRegressiva`
 
-`[console: ContagemRegressiva]` Faça um programa que exiba uma contagem regressiva no seguinte formato:
+Faça um programa que exiba uma contagem regressiva no seguinte formato:
 
 ```
 Preparar...
@@ -50,7 +38,7 @@ Aguarde o pressionamento de uma tecla antes de cada transição.
 ---
 ## Exercício `AsciiArt`
 
-`[console: AsciiArt]` Exiba a arte abaixo.
+Exiba a arte abaixo.
 
 ```
  ||  || 
@@ -66,7 +54,7 @@ Ref.: outras artes [aqui](https://www.asciiart.eu/) e [aqui](http://patorjk.com/
 ---
 ## Exercício `Box`
 
-`[console: Box]` Exiba seu nome enquadrado em uma caixa, como no exemplo abaixo.
+Exiba seu nome enquadrado em uma caixa, como no exemplo abaixo.
 
 ```
 +-----------+

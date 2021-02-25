@@ -1,6 +1,6 @@
 # Exercícios: Entrada de dados e _strings_
 
-Para cada exercício abaixo crie um novo projeto com o template indicado, e o nome indicado.
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
 
 ---
 ## Exercício `OlaUsuario`

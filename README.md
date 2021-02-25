@@ -111,7 +111,7 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 
 **Para alunos presenciais**: ✔ finalizada | 👁‍🗨 atual | 🔥 adicionados recentemente | 🎁 extra
 
-* [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA)
+<!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 * [🤯 Exercícios extras: Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) 🎁
 * [🤖 Exercícios práticos: Saída em console](exercises/saida.md)
 * [🤖 Exercícios práticos: Entrada de dados e Strings](exercises/entrada-strings.md)

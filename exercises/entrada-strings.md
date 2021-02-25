@@ -5,17 +5,17 @@ Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicaç
 ---
 ## Exercício `OlaUsuario`
 
-`[console: OlaUsuario]` Faça um programa solicite que o usuário digite seu nome. Exiba `Olá, ___!` (na lacuna `___` exiba o nome digitado).
+Faça um programa solicite que o usuário digite seu nome. Exiba `Olá, ___!` (na lacuna `___` exiba o nome digitado).
 
 ---
 ## Exercício `Gritador`
 
-`[console: Gritador]` Faça um programa repita exatamente que o usuário digitar, gritando (em CAIXA ALTA).
+Faça um programa repita exatamente que o usuário digitar, gritando (em CAIXA ALTA).
 
 ---
 ## Exercício `NomeCompleto`
 
-`[console: NomeCompleto]` Receba o nome e o sobrenome do usuário separadamente. Exiba o nome completo no formato padrão `Nome Sobrenome` e no formato de catálogo `SOBRENOME, Nome`.
+Receba o nome e o sobrenome do usuário separadamente. Exiba o nome completo no formato padrão `Nome Sobrenome` e no formato de catálogo `SOBRENOME, Nome`.
 
 Exemplo:
 
@@ -30,7 +30,7 @@ Nome de catálogo: PALACIO, Ermogenes
 ---
 ## Exercício `Cebolinha`
 
-`[console: Cebolinha]` Solicite que o usuário digite uma frase. Exiba a frase como se ela fosse dita pelo Cebolinha, da Turma da Mônica.
+Solicite que o usuário digite uma frase. Exiba a frase como se ela fosse dita pelo Cebolinha, da Turma da Mônica.
 
 ![Todos os direitos da imagem para Mauricio de Sousa Produções](https://upload.wikimedia.org/wikipedia/pt/9/98/Cebolinha.png)
 
@@ -41,7 +41,7 @@ Por exemplo, a frase `Eu troco as letras, não falo bem, mas meus amigos não tr
 ---
 ## Exercício `CriancaEducada`
 
-`[console: CriancaEducada]` Solicite que o usuário digite uma frase. Substitua as palavras da lista por uma sequência de símbolos (como `#@$%*!&`, por exemplo).
+Solicite que o usuário digite uma frase. Substitua as palavras da lista por uma sequência de símbolos (como `#@$%*!&`, por exemplo).
 
 chato/chata, bobo/boba, feio/feia, boboca, bocó, tonto/tonta, palerma, paspalho/paspalha, tantã, panaca, pentelho/pentelha, burro/burra, besta
 
@@ -57,7 +57,7 @@ Eu acho que é um #@$%*!&, e que vai ficar #@$%*!& pra sempre.
 ---
 ## Exercício `MemeToNervoso`
 
-`[console: MemeToNervoso]` Peça ao usuário que ele digite o que pensa sobre esse programa. Exiba uma resposta em versão _meme_ no seguinte formato:
+Peça ao usuário que ele digite o que pensa sobre esse programa. Exiba uma resposta em versão _meme_ no seguinte formato:
 
 ```
 Usuário, o que você pensa sobre mim? Você é muito sem graça!
@@ -74,7 +74,7 @@ Para isso, mantenha somente os 10 primeiros caracteres (remova todos os caracter
 ---
 ## Exercício `Leet`
 
-`[console: Leet]` Faça um tradutor simples para a linguagem [Leet Speak](https://pt.wikipedia.org/wiki/Leet).
+Faça um tradutor simples para a linguagem [Leet Speak](https://pt.wikipedia.org/wiki/Leet).
 
 Para isso, faça as seguintes substituições:
 

@@ -76,14 +76,14 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
 * [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
 * [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✔
-* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) 👁‍🗨
-* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) 👁‍🗨
-* [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
-* [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
+* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) ✔
+* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✔
+* [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md) 🎁
+* [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md) 🎁
 
 ### 🚦 Decisão
-* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
-* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
+* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 👁‍🗨
+* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 👁‍🗨
 * [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md)
 * [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 

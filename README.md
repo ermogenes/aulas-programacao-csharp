@@ -84,7 +84,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 ### 🚦 Decisão
 * [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 👁‍🗨
 * [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 👁‍🗨
-* [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md)
+* [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md) 👁‍🗨
 * [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎀 Laços

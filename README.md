@@ -82,11 +82,14 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md) 🎁
 
 ### 🚦 Decisão
-* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 👁‍🗨
-* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 👁‍🗨
-* [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md) 👁‍🗨
-* [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
+* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
+* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
+* [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md) ✔
+* [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 👁‍🗨
 
+### 🎛 Sub-rotinas
+* [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) 👁‍🗨
+* 
 ### 🎀 Laços
 * [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
 
@@ -97,7 +100,6 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 
 * [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md)
 * [📺](https://youtu.be/HtVJc_7FzYs)[📖 Exceções](content/exceptions.md)
-* [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
 * [📺](https://youtu.be/r6EllahDrEQ)[📖 Classes](content/classes.md)
 * [📺](https://youtu.be/qd18FR7a3s4) Listas 🎁
 
@@ -117,7 +119,7 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 * [📌 Entrada de dados e Strings](exercises/entrada-strings.md) ✔
 * [📌 Números e Operadores](exercises/numeros-operadores.md) ✔
 * [📌 Datas e Pacotes](exercises/datas-pacotes.md) 🎁
-* [🚦 Decisão e operações lógicas](exercises/decisao-simples.md) 👁‍🗨
+* [🚦 Decisão e operações lógicas](exercises/decisao-simples.md) ✔
 * [🎀 Laços](exercises/lacos.md)
 * [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md)
 

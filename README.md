@@ -89,7 +89,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 
 ### 🎛 Sub-rotinas
 * [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) 👁‍🗨
-* 
+
 ### 🎀 Laços
 * [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
 

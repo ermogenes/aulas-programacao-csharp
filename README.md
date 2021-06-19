@@ -101,6 +101,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md) 🎁
 * [📺](https://youtu.be/HtVJc_7FzYs)[📖 Exceções](content/exceptions.md) 🎁
 * [📺](https://youtu.be/r6EllahDrEQ)[📖 Classes](content/classes.md) 🎁
+  * [📺](https://youtu.be/p1P_sY8tHnY) [_Live_] Jogos, OOP e Inteligência Artificial ([implementação do jogo Two Dice Pig](https://github.com/ermogenes/TwoDicePig)) 🎁
 * [📺](https://youtu.be/qd18FR7a3s4) Listas 🎁
 * [📺](https://youtu.be/63ocBcx8NXQ) [📖 Bancos de dados - parte 1](https://github.com/ermogenes/aulas-programacao-web/blob/master/content/orm-ef-mysql.md) [Dev Web] 🎁
 * [📺](https://youtu.be/kC-BWUBh6A4) [📖 Bancos de dados - parte 2](https://github.com/ermogenes/aulas-programacao-web/blob/master/content/relacionamentos.md) [Dev Web] 🎁

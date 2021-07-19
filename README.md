@@ -78,7 +78,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
 
 ### ⚡ Publicação e distribuição
-* [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md) ✔
+* [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)
 
 ### 🏄🏻‍♂️ Tópicos adicionais
 

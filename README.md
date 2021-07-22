@@ -128,11 +128,11 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 
 Códigos disponíveis no [repositório oficial](https://github.com/exercicios-aulas-programacao-c-sharp).
 
-## 🗓 Calendário para alunos da Etec Adolpho Berezin
+## 🗓 Alunos da Etec Adolpho Berezin
 
 Turma 1I3, segundo semestre de 2021:
 
-Data | Conteúdo previsto | Material | Entregas
+Data | Conteúdo previsto | Material de apoio | Exercícios
 --- | --- | --- | ---
 23/07/2021 | [Apresentação e introdução](#-introdução) | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)| _a definir_
 30/07/2021 | [Primeiros passos](#-primeiros-passos) | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md) [📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [🐢 Saída em console](exercises/saida.md)
@@ -157,14 +157,19 @@ Data | Conteúdo previsto | Material | Entregas
 10/12/2021 | [Tópicos adicionais](#️-tópicos-adicionais) | _a definir_ | [🚀 Projeto prático](exercises/projeto_2019_1.md)
 17/12/2021 | Conclusão | N/A | [🚀 Projeto prático](exercises/projeto_2019_1.md)
 
-- **Primeiro trimestre**:
-  - Entrega de resultados intermediários: 01 a 07/10/2021
+[Plano de curso](http://eteab.com.br/cms/wp-content/uploads/2020/02/Inform%C3%A1tica-353_CS-1.pdf)
+
+[Calendário Escolar 2021](http://eteab.com.br/cms/wp-content/uploads/2021/02/CALENDARIO-ESCOLAR-2021-ATUAL.pdf)
+
+- Entrega de resultados intermediários: 01 a 07/10/2021
   - Conselho intermediário: 09/10/2021
-- **Segundo trimestre**:
-  - Entrega de resultados finais: 14 a 20/12/2021
+- Entrega de resultados finais: 14 a 20/12/2021
   - Conselho final: 21/12/2021
 
-[Calendário completo](http://eteab.com.br/cms/wp-content/uploads/2021/02/CALENDARIO-ESCOLAR-2021-ATUAL.pdf)
+**Teams**
+- [Equipe única, canal Geral](https://teams.microsoft.com/l/channel/19%3aNUgYp2Ndm1UmcUyBrTDm9UQGxjGyGW0-jK80ma008CE1%40thread.tacv2/Geral?groupId=0f526fae-1786-4ae1-a2b4-b585a14065ac&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94)
+- Aulas síncronas: _em breve_
+- [📺 Playlist com os tutoriais do Teams oficiais do Centro Paula Souza](https://www.youtube.com/playlist?list=PLk6PnAig6xXJqV_M_BEDuEWLIYaiznysz)
 
 ## Outros
 ### 📜 Documentação

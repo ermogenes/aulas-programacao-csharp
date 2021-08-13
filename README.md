@@ -41,44 +41,44 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 
 ### 👔 Introdução
 
-* [📷 (Algumas) Áreas da TI](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing)
-* [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing)
-* [📺](https://youtu.be/N_LsPQGtVCI) Apresentação
-* [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md)
+* [x] [📷 (Algumas) Áreas da TI](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing)
+* [x] [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing)
+* [x] [📺](https://youtu.be/N_LsPQGtVCI) Apresentação
+* [x] [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md)
 
 ### 🐢 Primeiros passos
 
-* [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md)
-* [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode.md)
-* [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md)
-* [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md)
-* [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md)
+* [x] [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md)
+* [x] [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode.md)
+* [x] [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md)
+* [x] [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md)
+* [x] [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md)
 
 ### 📌 Conceitos básicos
-* [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md)
-* [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md)
-* [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
-* [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
-* [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
-* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
-* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
+* [ ] [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md)
+* [ ] [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md)
+* [ ] [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
+* [ ] [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
+* [ ] [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
+* [ ] [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
+* [ ] [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
 * [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
 * [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 
 ### 🚦 Decisão
-* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
-* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
+* [ ] [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
+* [ ] [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
 * [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md)
-* [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
+* [ ] [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎛 Sub-rotinas
-* [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
+* [ ] [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
 
 ### 🎀 Laços
-* [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
+* [ ] [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
 
 ### ⚡ Publicação e distribuição
-* [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)
+* [ ] [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)
 
 ### 🏄🏻‍♂️ Tópicos adicionais
 
@@ -102,13 +102,13 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 
 <!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 * [🤯 Exercícios extras: Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
-* [🐢 Saída em console](exercises/saida.md)
-* [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
-* [📌 Números e Operadores](exercises/numeros-operadores.md)
-* [📌 Datas e Pacotes](exercises/datas-pacotes.md)
-* [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
-* [🎀 Laços](exercises/lacos.md)
-* [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md)
+* [ ] [🐢 Saída em console](exercises/saida.md)
+* [ ] [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
+* [ ] [📌 Números e Operadores](exercises/numeros-operadores.md)
+* [ ] [📌 Datas e Pacotes](exercises/datas-pacotes.md)
+* [ ] [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
+* [ ] [🎀 Laços](exercises/lacos.md)
+* [ ] [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md)
 
 📲 _SOMENTE para quem não tem computador:_ [📺 Faça os exercícios no celular usando o .NET Fiddle](https://youtu.be/y82X7hA5J4s)
 
@@ -134,9 +134,9 @@ Turma 1I3, segundo semestre de 2021:
 
 Data | Conteúdo previsto | Material de apoio | Exercícios
 --- | --- | --- | ---
-23/07/2021 | [Apresentação e introdução](#-introdução) | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)| _a definir_
-30/07/2021 | [Primeiros passos](#-primeiros-passos) | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md) [📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [🐢 Saída em console](exercises/saida.md)
-06/08/2021 | [Primeiros passos](#-primeiros-passos) | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md) [📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [🐢 Saída em console](exercises/saida.md)
+23/07/2021 | ✔ [Apresentação e introdução](#-introdução) | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)| _a definir_
+30/07/2021 | ✔ [Primeiros passos](#-primeiros-passos) | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md) [📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [🐢 Saída em console](exercises/saida.md)
+06/08/2021 | ✔ [Primeiros passos](#-primeiros-passos) | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md) [📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [🐢 Saída em console](exercises/saida.md)
 13/08/2021 | [Saída em console](#-conceitos-básicos) | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [🐢 Saída em console](exercises/saida.md)
 20/08/2021 | [Saída em console](#-conceitos-básicos) | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [🐢 Saída em console](exercises/saida.md)
 27/08/2021 | [Entrada via teclado](#-conceitos-básicos) | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)

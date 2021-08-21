@@ -102,8 +102,8 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 
 <!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 * [🤯 Exercícios extras: Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
-* [ ] [🐢 Saída em console](exercises/saida.md)
-* [ ] [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
+* [x] [🐢 Saída em console](exercises/saida.md)
+* [x] [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
 * [ ] [📌 Números e Operadores](exercises/numeros-operadores.md)
 * [ ] [📌 Datas e Pacotes](exercises/datas-pacotes.md)
 * [ ] [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)

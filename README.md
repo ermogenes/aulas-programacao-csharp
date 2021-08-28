@@ -110,6 +110,8 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 * [ ] [🎀 Laços](exercises/lacos.md)
 * [ ] [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md)
 
+[✔ Correções](https://github.com/ermogenes/correcoes-dev-cs)
+
 📲 _SOMENTE para quem não tem computador:_ [📺 Faça os exercícios no celular usando o .NET Fiddle](https://youtu.be/y82X7hA5J4s)
 
 ### Soluções comentadas
@@ -126,7 +128,7 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
   - [📺 Revisão de exercícios - Decisão Simples](https://youtu.be/RIvcPJWifDI)
   - [📺 Exercício comentado - MediaDecimal](https://youtu.be/vdSU77xCrcA)
 
-Códigos disponíveis no [repositório oficial](https://github.com/exercicios-aulas-programacao-c-sharp).
+Códigos disponíveis [aqui](https://github.com/exercicios-aulas-programacao-c-sharp).
 
 ## 🗓 Alunos da Etec Adolpho Berezin
 
@@ -139,7 +141,7 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 06/08/2021 | ✔ [Primeiros passos](#-primeiros-passos) | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md) [📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [🐢 Saída em console](exercises/saida.md)
 13/08/2021 | ✔ [Saída em console](#-conceitos-básicos) | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [🐢 Saída em console](exercises/saida.md)
 20/08/2021 | ✔ [Saída em console](#-conceitos-básicos) | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [🐢 Saída em console](exercises/saida.md)
-27/08/2021 | [Entrada via teclado](#-conceitos-básicos) | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
+27/08/2021 | ✔ [Entrada via teclado](#-conceitos-básicos) | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
 03/09/2021 | [Entrada via teclado](#-conceitos-básicos) | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
 10/09/2021 | [Variáveis, constantes e tipos de dados](#-conceitos-básicos) | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
 17/09/2021 | [Variáveis, constantes e tipos de dados](#-conceitos-básicos) | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [📌 Números e Operadores](exercises/numeros-operadores.md)

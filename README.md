@@ -59,6 +59,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [x] [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md)
 * [x] [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
 * [x] [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
+* [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios
 * [ ] [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
 * [ ] [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
 * [ ] [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)

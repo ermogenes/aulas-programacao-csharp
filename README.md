@@ -143,7 +143,7 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 13/08/2021 | ✔ [Saída em console](#-conceitos-básicos) | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [🐢 Saída em console](exercises/saida.md)
 20/08/2021 | ✔ [Saída em console](#-conceitos-básicos) | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [🐢 Saída em console](exercises/saida.md)
 27/08/2021 | ✔ [Entrada via teclado](#-conceitos-básicos) | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
-03/09/2021 | [Entrada via teclado](#-conceitos-básicos) | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
+03/09/2021 | ✔ [Entrada via teclado](#-conceitos-básicos) | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
 10/09/2021 | [Variáveis, constantes e tipos de dados](#-conceitos-básicos) | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
 17/09/2021 | [Variáveis, constantes e tipos de dados](#-conceitos-básicos) | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [📌 Números e Operadores](exercises/numeros-operadores.md)
 24/09/2021 | [Números e operações](#-conceitos-básicos) | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [📌 Números e Operadores](exercises/numeros-operadores.md)
@@ -183,6 +183,7 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 
 ### 🏎 _Roadmaps_ para devs
 
+* [📺 Como é ser um desenvolvedor full stack? (Guia 2021 Completo) - Código Fonte TV](https://youtu.be/Vk50Bvk9ojg)
 * [🌍 A Study Path for Software Development](https://github.com/joebew42/study-path)
 * [🌍 Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
 * [🌍 Roadmap to becoming an ASP.NET Core developer in 2019](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)

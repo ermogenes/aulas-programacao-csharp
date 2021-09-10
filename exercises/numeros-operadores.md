@@ -52,6 +52,8 @@ Altura: 5
 Área..: 7.5
 ```
 
+[Entenda a fórmula](https://youtu.be/1Tk3FLDXb1k)
+
 ---
 ## Exercício `Heron`
 

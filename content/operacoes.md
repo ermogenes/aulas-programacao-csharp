@@ -38,7 +38,7 @@ Os operadores `/` e `%` utilizam divisão inteira ou real conforme os valores de
 
 Podemos efetuar diversas operações matemáticas utilizando os métodos da classe `Math`.
 
-* `Sqrt` calcula a raíz quadrada do número.
+* `Sqrt` calcula a [raiz quadrada](https://www.youtube.com/watch?v=AHQxP2G0QTQ) do número.
 * `Pow` retorna um número elevado à uma potência especificada.
 * `Sin`, `Cos` e `Tan` calculam seno, cosseno e tangente de um número.
 * `Log` retorna o logaritmo de um número em uma determinada base.

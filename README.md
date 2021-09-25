@@ -107,7 +107,7 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 * [x] [🐢 Saída em console](exercises/saida.md)
 * [x] [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
 * [x] [📌 Números e Operadores](exercises/numeros-operadores.md)
-* [ ] [📌 Datas e Pacotes](exercises/datas-pacotes.md)
+* [📌 Datas e Pacotes](exercises/datas-pacotes.md)
 * [ ] [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
 * [ ] [🎀 Laços](exercises/lacos.md)
 * [ ] [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md)

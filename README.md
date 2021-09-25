@@ -63,6 +63,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [x] [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
 * [x] [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
 * [x] [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
+* [📺](https://youtu.be/AMUjUfan40Q) [_Live_] Revisão e resolução de exercícios - parte 1
 * [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
 * [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 
@@ -146,7 +147,7 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 03/09/2021 | ✔ [Entrada via teclado](#-conceitos-básicos) | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
 10/09/2021 | ✔ [Variáveis, constantes e tipos de dados](#-conceitos-básicos) | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
 17/09/2021 | ✔ [Variáveis, constantes e tipos de dados](#-conceitos-básicos) | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [📌 Números e Operadores](exercises/numeros-operadores.md)
-24/09/2021 | [Números e operações](#-conceitos-básicos) | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [📌 Números e Operadores](exercises/numeros-operadores.md)
+24/09/2021 | ✔ [Números e operações](#-conceitos-básicos) | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [📌 Números e Operadores](exercises/numeros-operadores.md)
 01/10/2021 | [Números e operações](#-conceitos-básicos) | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [📌 Números e Operadores](exercises/numeros-operadores.md)
 08/10/2021 | [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
 15/10/2021 | _Suspensão de atividades_

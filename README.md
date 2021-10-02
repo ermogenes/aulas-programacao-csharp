@@ -63,8 +63,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [x] [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
 * [x] [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
 * [x] [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
-* [📺](https://youtu.be/AMUjUfan40Q) [_Live_] Revisão e resolução de exercícios - parte 1
-* [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios - parte 2
+* [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios
 * [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
 * [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 

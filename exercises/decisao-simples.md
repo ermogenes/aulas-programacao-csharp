@@ -124,7 +124,7 @@ Você ficou com média 5,5. Resultado: Em recuperação
 ```
 
 ---
-## Exercício `IMC`
+## Exercício `CalculadoraIMC`
 
 Calcule o Índice de Massa Corporal ([IMC](https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal)) do usuário.
 

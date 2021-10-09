@@ -172,7 +172,7 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 
 **Teams**
 - [Equipe única, canal Geral](https://teams.microsoft.com/l/channel/19%3aNUgYp2Ndm1UmcUyBrTDm9UQGxjGyGW0-jK80ma008CE1%40thread.tacv2/Geral?groupId=0f526fae-1786-4ae1-a2b4-b585a14065ac&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94)
-- Aulas síncronas: _em breve_
+- Aulas síncronas: aguardar orientação a cada semana.
 - [📺 Playlist com os tutoriais do Teams oficiais do Centro Paula Souza](https://www.youtube.com/playlist?list=PLk6PnAig6xXJqV_M_BEDuEWLIYaiznysz)
 
 ## Outros

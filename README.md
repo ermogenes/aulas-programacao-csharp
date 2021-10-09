@@ -68,7 +68,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 
 ### 🚦 Decisão
-* [ ] [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
+* [x] [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
 * [ ] [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
 * [📺](https://youtu.be/QEb9G3Hrajk)[📖 Depuração](content/debug.md)
 * [ ] [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
@@ -149,7 +149,7 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 17/09/2021 | ✔ [Variáveis, constantes e tipos de dados](#-conceitos-básicos) | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [📌 Números e Operadores](exercises/numeros-operadores.md)
 24/09/2021 | ✔ [Números e operações](#-conceitos-básicos) | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [📌 Números e Operadores](exercises/numeros-operadores.md)
 01/10/2021 | ✔ [Números e operações](#-conceitos-básicos) | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [📌 Números e Operadores](exercises/numeros-operadores.md)
-08/10/2021 | [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
+08/10/2021 | ✔ [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
 15/10/2021 | _Suspensão de atividades_
 22/10/2021 | [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
 29/10/2021 | [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)

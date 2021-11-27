@@ -80,6 +80,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 
 ### 🎀 Laços
 * [ ] [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
+* [📺](https://youtu.be/qCz28iW5eb4) [_Live_] Revisão e resolução de exercícios
 
 ### ⚡ Publicação e distribuição
 * [ ] [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)

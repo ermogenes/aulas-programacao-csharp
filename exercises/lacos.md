@@ -198,7 +198,7 @@ Altura...: 6
 ---
 ## Exercício `ASCIITable`
 
-Exiba os caracteres imprimíveis da tabela ASCII (entre 32 e 127).
+Exiba os caracteres imprimíveis da tabela ASCII (com código ASCII entre 32 e 126).
 
 Ex.:
 ```

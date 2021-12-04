@@ -76,14 +76,14 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [x] [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎛 Sub-rotinas
-* [ ] [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
+* [x] [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
 
 ### 🎀 Laços
-* [ ] [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
-* [📺](https://youtu.be/qCz28iW5eb4) [_Live_] Revisão e resolução de exercícios
+* [x] [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
+* [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios
 
 ### ⚡ Publicação e distribuição
-* [ ] [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)
+* [x] [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)
 
 ### 🏄🏻‍♂️ Tópicos adicionais
 
@@ -111,8 +111,8 @@ Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda 
 * [x] [📌 Entrada de dados e Strings](exercises/entrada-strings.md)
 * [x] [📌 Números e Operadores](exercises/numeros-operadores.md)
 * [📌 Datas e Pacotes](exercises/datas-pacotes.md)
-* [ ] [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
-* [ ] [🎀 Laços](exercises/lacos.md)
+* [x] [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
+* [x] [🎀 Laços](exercises/lacos.md)
 * [ ] [🚀 Projeto prático: Todo o conteúdo do curso](exercises/projeto_2019_1.md)
 
 [✔ Correções](https://github.com/ermogenes/correcoes-dev-cs)
@@ -156,11 +156,11 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 15/10/2021 | _Suspensão de atividades_
 22/10/2021 | ✔ [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
 29/10/2021 | ✔ [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [🚦 Decisão e operações lógicas](exercises/decisao-simples.md)
-05/11/2021 | [Sub-rotinas](#-sub-rotinas) | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md) | _a definir_
-12/11/2021 | [Sub-rotinas](#-sub-rotinas) | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md) | _a definir_
-19/11/2021 | [Laços](#-laços) | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md) | [🎀 Laços](exercises/lacos.md)
-26/11/2021 | [Laços](#-laços) | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md) | [🎀 Laços](exercises/lacos.md)
-03/12/2021 | [Tópicos adicionais](#️-tópicos-adicionais) | _a definir_ | [🚀 Projeto prático](exercises/projeto_2019_1.md)
+05/11/2021 | ✔ [Sub-rotinas](#-sub-rotinas) | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md) | _a definir_
+12/11/2021 | ✔ [Sub-rotinas](#-sub-rotinas) | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md) | _a definir_
+19/11/2021 | ✔ [Laços](#-laços) | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md) | [🎀 Laços](exercises/lacos.md)
+26/11/2021 | ✔ [Laços](#-laços) | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md) | [🎀 Laços](exercises/lacos.md)
+03/12/2021 | ✔ [Tópicos adicionais](#️-tópicos-adicionais) | _a definir_ | [🚀 Projeto prático](exercises/projeto_2019_1.md)
 10/12/2021 | [Tópicos adicionais](#️-tópicos-adicionais) | _a definir_ | [🚀 Projeto prático](exercises/projeto_2019_1.md)
 17/12/2021 | Conclusão | N/A | [🚀 Projeto prático](exercises/projeto_2019_1.md)
 

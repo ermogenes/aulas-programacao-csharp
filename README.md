@@ -43,7 +43,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 
 ## Conteúdo
 
-**Legenda:** 📷 Slides | 📺 Vídeo-aula no YouTube | 📖 Material em texto e imagens | 🎁 extra | ✔ já estudado neste semestre
+**Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \| 🎁 extra \| ✔ já estudado neste semestre
 
 <!-- **Para alunos presenciais:** ✔ já estudado | 👁‍🗨 semana atual | 🔥 adicionado recentemente | 🎁 extra -->
 

@@ -119,8 +119,8 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [🚀 Projeto prático](exercises/projeto_2019_1.md)
 
 [🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)
-<!-- 
-✔ Soluções comentadas
+
+<!-- ✔ Soluções comentadas
 
 - Prof. Ermogenes
   - [📺 Exercício: AnaliseCredito](https://youtu.be/RCYFPGAEdPA)

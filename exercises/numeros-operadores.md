@@ -2,6 +2,24 @@
 
 Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
 
+Revisão e Correção no YouTube ([parte 1](https://youtu.be/AMUjUfan40Q) e [parte 2](https://youtu.be/NfPfIYOdHNs)) e no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[Soma2Numeros](#Exercício-Soma2Numeros) | [YouTube](https://www.youtube.com/watch?v=AMUjUfan40Q&t=285s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Soma2Numeros) | [Prof. Neri](https://youtu.be/aOaraq0G1oA)
+[MilhasParaKm](#Exercício-MilhasParaKm) | [YouTube](https://www.youtube.com/watch?v=AMUjUfan40Q&t=1161s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/MilhasParaKm) | 
+[Medidas](#Exercício-Medidas) | [YouTube](https://www.youtube.com/watch?v=AMUjUfan40Q&t=1645s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Medidas) | 
+[AreaTrianguloRet](#Exercício-AreaTrianguloRet) | [YouTube](https://www.youtube.com/watch?v=AMUjUfan40Q&t=2152s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AreaTrianguloRet) | 
+[Heron](#Exercício-Heron) | [YouTube](https://www.youtube.com/watch?v=AMUjUfan40Q&t=2710s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Heron) | 
+[GrausCF](#Exercício-GrausCF) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=45s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/GrausCF) | 
+[GrausFC](#Exercício-GrausFC) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=1005s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/GrausFC) | 
+[MediaAritmetica](#Exercício-MediaAritmetica) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=1415s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/MediaAritmetica) | 
+[VelocMedia](#Exercício-VelocMedia) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=1998s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/VelocMedia) | 
+[IMC](#Exercício-IMC) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=2536s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/IMC) | 
+[FGTS](#Exercício-FGTS) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=3075s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/FGTS) | 
+[JurosSimples](#Exercício-JurosSimples) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=3410s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/JurosSimples) | 
+[Projetil](#Exercício-Projetil) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=3996s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Projetil) | 
+
 ---
 ## Exercício `Soma2Numeros`
 

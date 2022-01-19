@@ -2,6 +2,18 @@
 
 Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
 
+Revisão e Correção no [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI) e no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[EtecAB](#Exercício-EtecAB) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=1290s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EtecAB) | 
+[OlaMundo](#Exercício-OlaMundo) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=2050s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/OlaMundo) | 
+[Cidades](#Exercício-Cidades) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=2451s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Cidades) | 
+[Musica](#Exercício-Musica) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=2674s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Musica) | 
+[ContagemRegressiva](#Exercício-ContagemRegressiva) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=3779s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/ContagemRegressiva) | 
+[AsciiArt](#Exercício-AsciiArt) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=3996s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AsciiArt) | [Prof. Neri](https://youtu.be/FhIssxfdyx8)
+[Box](#Exercício-Box) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=4350s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Box) | 
+
 ---
 ## Exercício `EtecAB`
 

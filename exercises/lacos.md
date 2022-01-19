@@ -6,22 +6,22 @@ Revisão e Correção no YouTube ([parte 1](https://youtu.be/qCz28iW5eb4) e [par
 
 Enunciado | Correção | Extras
 --- | --- | ---
-[SequenciaCentena](#Exercício-SequenciaCentena) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=175s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/SequenciaCentena) | 
-[SequenciaPares](#Exercício-SequenciaPares) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=1016s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/yyyy) | 
-[SequenciaLimites](#Exercício-SequenciaLimites) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=1712s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/SequenciaLimites) | 
-[Tabuada](#Exercício-Tabuada) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=2376s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Tabuada) | 
-[MediaDecimal](#Exercício-MediaDecimal) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=2995s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/MediaDecimal) | [Prof. Neri](https://youtu.be/vdSU77xCrcA)
-[Patinhos](#Exercício-Patinhos) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=4938s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Patinhos) | [Prof. Neri](https://youtu.be/qXTz9jKq_gc)
+[SequenciaCentena](#Exercício-SequenciaCentena) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=175s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/SequenciaCentena/Program.cs) | 
+[SequenciaPares](#Exercício-SequenciaPares) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=1016s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/SequenciaPares/Program.cs) | 
+[SequenciaLimites](#Exercício-SequenciaLimites) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=1712s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/SequenciaLimites/Program.cs) | 
+[Tabuada](#Exercício-Tabuada) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=2376s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Tabuada/Program.cs) | 
+[MediaDecimal](#Exercício-MediaDecimal) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=2995s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/MediaDecimal/Program.cs) | [Prof. Neri](https://youtu.be/vdSU77xCrcA)
+[Patinhos](#Exercício-Patinhos) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=4938s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Patinhos/Program.cs) | [Prof. Neri](https://youtu.be/qXTz9jKq_gc)
 [Elefante](#Exercício-Elefante) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=6508s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Elefante) | 
-[RetPreenchido](#Exercício-RetPreenchido) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=7792s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/RetPreenchido) | 
-[RetContorno](#Exercício-RetContorno) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=8641s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/RetContorno) | 
-[ASCIITable](#Exercício-ASCIITable) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=24s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/ASCIITable) | 
-[Fatorial](#Exercício-Fatorial) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=924s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Fatorial) | 
-[EstimaPi](#Exercício-EstimaPi) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=2226s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EstimaPi) | 
-[EstimaEuler](#Exercício-EstimaEuler) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=3657s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EstimaEuler) | 
-[Fibonacci](#Exercício-Fibonacci) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=4531s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Fibonacci) | 
-[MDC](#Exercício-MDC) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=5847s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/MDC) | 
-[SomaDigitos](#Exercício-SomaDigitos) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=7170s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/SomaDigitos) | 
+[RetPreenchido](#Exercício-RetPreenchido) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=7792s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/RetPreenchido/Program.cs) | 
+[RetContorno](#Exercício-RetContorno) | [YouTube](https://www.youtube.com/watch?v=qCz28iW5eb4&t=8641s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/RetContorno/Program.cs) | 
+[ASCIITable](#Exercício-ASCIITable) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=24s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/ASCIITable/Program.cs) | 
+[Fatorial](#Exercício-Fatorial) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=924s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Fatorial/Program.cs) | 
+[EstimaPi](#Exercício-EstimaPi) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=2226s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EstimaPi/Program.cs) | 
+[EstimaEuler](#Exercício-EstimaEuler) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=3657s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EstimaEuler/Program.cs) | 
+[Fibonacci](#Exercício-Fibonacci) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=4531s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Fibonacci/Program.cs) | 
+[MDC](#Exercício-MDC) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=5847s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/MDC/Program.cs) | 
+[SomaDigitos](#Exercício-SomaDigitos) | [YouTube](https://www.youtube.com/watch?v=DNI2qvqN6dU&t=7170s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/SomaDigitos/Program.cs) | 
 
 **Atenção**: Caso o exercício possua um _desafio_, faça-o somente após concluir o exercício principal. Caso seja um exercício marcado para entrega no curso presencial, não é necessário cumprir os desafios.
 

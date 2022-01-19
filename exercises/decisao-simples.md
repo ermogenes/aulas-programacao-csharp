@@ -6,19 +6,19 @@ Revisão e Correção no [YouTube](https://youtu.be/6sTW6isK3Tc) (extra: [revis�
 
 Enunciado | Correção | Extras
 --- | --- | ---
-[Negativo](#Exercício-Negativo) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=158s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Negativo) | 
-[Sinal](#Exercício-Sinal) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=781s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Sinal) | 
-[Divisao](#Exercício-Divisao) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=1705s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Divisao) | [Prof. Neri](https://youtu.be/YQ9ODnGxpzY)
-[Media4Notas](#Exercício-Media4Notas) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=2297s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Media4Notas) | 
-[CalculadoraIMC](#Exercício-CalculadoraIMC) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=3803s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/CalculadoraIMC) | 
-[Maior2Numeros](#Exercício-Maior2Numeros) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=4956s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Maior2Numeros) | 
-[Senha](#Exercício-Senha) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=5506s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Senha) | 
-[DoadorSangue](#Exercício-DoadorSangue) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=5958s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/DoadorSangue) | 
-[ParImpar](#Exercício-ParImpar) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=6354s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/ParImpar) | 
-[PesoIdeal](#Exercício-PesoIdeal) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=6861s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/PesoIdeal) | [Prof. Neri](https://youtu.be/nBMdtEtTMUU)
-[AnaliseCredito](#Exercício-AnaliseCredito) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=7591s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AnaliseCredito) | [Prof. Ermogenes](https://youtu.be/RCYFPGAEdPA)
-[HeronSeTriangulo](#Exercício-HeronSeTriangulo) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=8314s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/HeronSeTriangulo) | 
-[Bhaskara](#Exercício-Bhaskara) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=9326s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Bhaskara) | 
+[Negativo](#Exercício-Negativo) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=158s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Negativo/Program.cs) | 
+[Sinal](#Exercício-Sinal) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=781s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Sinal/Program.cs) | 
+[Divisao](#Exercício-Divisao) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=1705s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Divisao/Program.cs) | [Prof. Neri](https://youtu.be/YQ9ODnGxpzY)
+[Media4Notas](#Exercício-Media4Notas) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=2297s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Media4Notas/Program.cs) | 
+[CalculadoraIMC](#Exercício-CalculadoraIMC) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=3803s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/CalculadoraIMC/Program.cs) | 
+[Maior2Numeros](#Exercício-Maior2Numeros) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=4956s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Maior2Numero/Program.css) | 
+[Senha](#Exercício-Senha) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=5506s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Senha/Program.cs) | 
+[DoadorSangue](#Exercício-DoadorSangue) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=5958s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/DoadorSangue/Program.cs) | 
+[ParImpar](#Exercício-ParImpar) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=6354s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/ParImpar/Program.cs) | 
+[PesoIdeal](#Exercício-PesoIdeal) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=6861s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/PesoIdeal/Program.cs) | [Prof. Neri](https://youtu.be/nBMdtEtTMUU)
+[AnaliseCredito](#Exercício-AnaliseCredito) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=7591s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AnaliseCredito/Program.cs) | [Prof. Ermogenes](https://youtu.be/RCYFPGAEdPA)
+[HeronSeTriangulo](#Exercício-HeronSeTriangulo) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=8314s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/HeronSeTriangulo/Program.cs) | 
+[Bhaskara](#Exercício-Bhaskara) | [YouTube](https://www.youtube.com/watch?v=6sTW6isK3Tc&t=9326s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Bhaskara/Program.cs) | 
 
 ---
 ## Exercício `Negativo`

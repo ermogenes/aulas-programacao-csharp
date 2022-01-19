@@ -6,13 +6,13 @@ Revisão e Correção no [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI) 
 
 Enunciado | Correção | Extras
 --- | --- | ---
-[OlaUsuario](#Exercício-OlaUsuario) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=4563s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/OlaUsuario) | 
-[Gritador](#Exercício-Gritador) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=4795s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Gritador) | 
-[NomeCompleto](#Exercício-NomeCompleto) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=5170s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/NomeCompleto) | 
-[Cebolinha](#Exercício-Cebolinha) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=5499s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Cebolinha) | 
-[CriancaEducada](#Exercício-CriancaEducada) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=5950s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/CriancaEducada) | 
-[MemeToNervoso](#Exercício-MemeToNervoso) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=6737s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/MemeToNervoso) | [Prof. Neri](https://youtu.be/eE9xymvPlj8)
-[Leet](#Exercício-Leet) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=7264s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Leet) | 
+[OlaUsuario](#Exercício-OlaUsuario) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=4563s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/OlaUsuario/Program.cs) | 
+[Gritador](#Exercício-Gritador) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=4795s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Gritador/Program.cs) | 
+[NomeCompleto](#Exercício-NomeCompleto) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=5170s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/NomeCompleto/Program.cs) | 
+[Cebolinha](#Exercício-Cebolinha) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=5499s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Cebolinha/Program.cs) | 
+[CriancaEducada](#Exercício-CriancaEducada) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=5950s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/CriancaEducada/Program.cs) | 
+[MemeToNervoso](#Exercício-MemeToNervoso) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=6737s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/MemeToNervoso/Program.cs) | [Prof. Neri](https://youtu.be/eE9xymvPlj8)
+[Leet](#Exercício-Leet) | [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI&t=7264s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Leet/Program.cs) | 
 
 ---
 ## Exercício `OlaUsuario`

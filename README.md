@@ -78,7 +78,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 ### 🚦 Decisão
 * [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
 * [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
-* [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios
+* 🎁 [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios
 * 🎁 [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md)
 * 🎁 [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
@@ -118,8 +118,8 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [Laços](exercises/lacos.md)
 * [🚀 Projeto prático](exercises/projeto_2019_1.md)
 
-[✔ Correções](https://github.com/ermogenes/correcoes-dev-cs)
-
+[🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)
+<!-- 
 ✔ Soluções comentadas
 
 - Prof. Ermogenes
@@ -134,7 +134,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
   - [📺 Revisão de exercícios - Decisão Simples](https://youtu.be/RIvcPJWifDI)
   - [📺 Exercício comentado - MediaDecimal](https://youtu.be/vdSU77xCrcA)
 
-Alguns dos códigos estão disponíveis [aqui](https://github.com/exercicios-aulas-programacao-c-sharp).
+Alguns dos códigos estão disponíveis [aqui](https://github.com/exercicios-aulas-programacao-c-sharp). -->
 
 ---
 

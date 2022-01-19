@@ -2,6 +2,16 @@
 
 Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
 
+Enunciado | Correções | Extras
+--- | --- | ---
+[HoraSistema](#Exercício-HoraSistema)
+[IdadeAluno](#Exercício-IdadeAluno)
+[MaisTarde](#Exercício-MaisTarde)
+[CalculadoraIdade](#Exercício-CalculadoraIdade)
+[UltimaParcela](#Exercício-UltimaParcela)
+[NomeASCIIArt](#Exercício-NomeASCIIArt)
+[NumeralExtenso](#Exercício-NumeralExtenso)
+
 ---
 ## Exercício `HoraSistema`
 

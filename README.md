@@ -188,6 +188,7 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 * [🌍 Guia do .NET](https://docs.microsoft.com/pt-br/dotnet/core/)
 * [🌍 Introdução ao C# e ao Visual Studio Code](https://docs.microsoft.com/pt-br/dotnet/core/tutorials/with-visual-studio-code)
 * [🌍 Documentação do C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+* [🌍 Tutoriais](https://docs.microsoft.com/pt-br/dotnet/core/tutorials/)
 * [📺 .NET Videos](https://dotnet.microsoft.com/en-us/learn/videos)
 
 ### 🏎 _Roadmaps_ para devs

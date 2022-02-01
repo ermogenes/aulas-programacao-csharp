@@ -179,3 +179,7 @@ Caso continue mostrando erro no código, reinicie o Omnisharp, pressionando `Ctr
 ![](vscode-net6-extension-settings-restart.png)
 
 Em último caso, reinicie o VsCode.
+
+## Quando deve sair outra versão?
+
+Você pode acompanhar por [aqui](https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core) a política de versões da plataforma .NET.

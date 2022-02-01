@@ -100,6 +100,10 @@ Console.WriteLine(tresHorasEQuinze);
 Console.WriteLine(agora + tresHorasEQuinze);
 ```
 
+## `System.DateOnly` e `System.TimeOnly`
+
+O .NET 6 introduziu tipos que tratam separadamente data (como em aniversários) e hora (como em alarmes diários).
+
 [Programa da vídeo-aula](https://youtu.be/KT5B9WSjehc)
 
 ```cs

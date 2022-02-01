@@ -61,6 +61,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md)
 * [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md)
 * [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md)
+* [📖 GitHub em computadores compartilhados](content/github-login.md)
 
 ### 📌 Conceitos básicos
 * [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md)

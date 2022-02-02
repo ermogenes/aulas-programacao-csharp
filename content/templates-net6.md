@@ -1,5 +1,7 @@
 # Novos templates .NET 6
 
+[📽 Veja esta vídeo-aula no YouTube](https://youtu.be/KZGT_pm9UlM)
+
 Com o início do suporte a C# 10, o .NET 6 adaptou seus _templates_ iniciais de vários tipos de projetos para acompanhar a evolução da linguagem.
 
 Com isso, aplicações `console` podem ser substancialmente simplificadas em termos de código inicial requerido. Essa alteração chama-se _top-level statements_, e traz ao C# uma maior simplicidade para aprendizagem e código mais limpo, bem como uma semelhança com outras linguagens populares como JavaScript, PHP e Python, por exemplo (se distanciando de uma de suas inspirações iniciais, a linguagem Java).

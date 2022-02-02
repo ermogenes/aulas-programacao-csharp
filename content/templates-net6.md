@@ -65,7 +65,13 @@ To install additional .NET runtimes or SDKs:
 
 Perceba que esse ambiente está usando o SDK `6.0.101` e o _runtime_ `6.0.1` (veja em _Host_). São as versões mais recente no momento que escrevo esse texto.
 
-[Aqui](https://aka.ms/dotnet-download) você pode ver e baixar versões mais recentes ou mais antigas.
+Descubra quais versões são as mais recentes usando:
+
+```
+dotnet sdk check
+```
+
+[Aqui](https://aka.ms/dotnet-download) você pode ver e baixar versões mais recentes ou mais antigas. Você pode acompanhar por [aqui](https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core) a política de versões da plataforma .NET.
 
 ## Diferenças nos _templates_ de aplicação `console` em .NET 5 e 6
 
@@ -147,26 +153,99 @@ Assim, só precisamos escrever o código que iria no bloco `Main` diretamente no
 
 O código gerado com esses itens explícitos continua funcionando.
 
+## Rodando código no modelo .NET 5 tendo somente o SDK .NET 6
+
+Você pode instalar somente o _runtime_ da versão 5 ([baixando aqui](https://aka.ms/dotnet-download)) e executar normalmente, ou então:
+
+Em `.csproj`:
+- mude o `TargetFramework` para `net6.0`;
+
+Execute os procedimentos necessários no [VsCode](#VsCode).
+
+Execute normalmente.
+
+_Esse procedimento precisará de adaptações em programas que usem pacotes NuGet. Se isso ocorrer, faça as mudanças pontualmente. Nesse curso, tenha atenção com o exemplos das aulas de [Pacotes](../content/pacotes.md) e [Publicação e distribuição](../content/publish_dist.md) e em alguns dos Tópicos Adicionais._
+
+## Migrando código no modelo .NET 5 para o modelo .NET 6
+
 Para migrar um código no modelo .NET 5 para um em modelo .NET 6, faça o seguinte:
 
 Em `.csproj`:
 - mude o `TargetFramework` para `net6.0`;
-- adicione as diretivas` <ImplicitUsings>enable</ImplicitUsings>` e `<Nullable>enable</Nullable>`.
+- adicione as diretivas `<ImplicitUsings>enable</ImplicitUsings>` e `<Nullable>enable</Nullable>`.
 
 Em `Program.cs`:
 - Exclua todas as linhas exceto aquelas no bloco `Main`.
 
-Esse procedimento precisará de adaptações em programas que usem diretivas `using` diferentes daquelas implícitas, que usem pacotes NuGet, e que modifiquem membros da classe que contém `Main` (dados ou comportamentos). Se isso ocorrer, faça as mudanças pontualmente. Nesse curso, tenha atenção com o exemplos das aulas de [Pacotes](../content/pacotes.md), [Publicação e distribuição](../content/publish_dist.md), [Sub-rotinas](../content/subroutines.md) e na maioria dos Tópicos Adicionais.
+Execute os procedimentos necessários no [VsCode](#VsCode).
 
-## Diferenças no VsCode
+Execute normalmente.
 
-Até o presente momento, o plugin do C# para o VsCode ainda não trabalha bem com _top-level statements_ por padrão. Faça o seguinte procedimento para garantir que tudo estará OK em seu ambiente.
+_Esse procedimento precisará de adaptações em programas que usem diretivas `using` diferentes daquelas implícitas, que usem pacotes NuGet, e que modifiquem membros da classe que contém `Main` (dados ou comportamentos). Se isso ocorrer, faça as mudanças pontualmente. Nesse curso, tenha atenção com o exemplos das aulas de [Pacotes](../content/pacotes.md), [Publicação e distribuição](../content/publish_dist.md), [Sub-rotinas](../content/subroutines.md) e na maioria dos Tópicos Adicionais._
+
+## Usando o _template_ do modelo .NET 5 tendo também o .NET 6 instalado
+
+Você pode usar o comando abaixo para criar um programa no modelo .NET 5 se tiver ambos os SDKs instalados:
+
+```
+dotnet new console --framework net5.0
+```
+
+Em `.csproj`:
+- mude o `TargetFramework` para `net6.0`;
+
+Execute os procedimentos necessários no [VsCode](#VsCode).
+
+Execute normalmente.
+
+## Como usar os exemplos de aula escritos no modelo .NET 5 tendo somente o .NET 6 instalado
+
+Crie o projeto normalmente, no _template_ novo, usando `dotnet new console`.
+
+Execute os procedimentos necessários no [VsCode](#VsCode).
+
+Ao digitar os códigos, ignore o que estiver fora de `Main`. Digite somente os códigos que estão dentro de `Main` em seu `Program.cs`.
+
+Por exemplo, [nesta correção](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Cidades/Program.cs) é usado o código abaixo:
+
+```cs
+using System;
+
+namespace Cidades
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Praia Grande");
+            Console.WriteLine("Mongaguá");
+            Console.WriteLine("Itanhaém");
+            Console.WriteLine("Peruíbe");
+        }
+    }
+}
+```
+
+Ao fazer em seu computador, deve ficar algo assim:
+
+```cs
+Console.WriteLine("Praia Grande");
+Console.WriteLine("Mongaguá");
+Console.WriteLine("Itanhaém");
+Console.WriteLine("Peruíbe");
+```
+
+Execute normalmente.
+
+## VsCode
+
+Até o presente momento, a extensão do C# para o VsCode ainda não trabalha bem com _top-level statements_ por padrão. Faça o seguinte procedimento para garantir que tudo estará OK em seu ambiente.
 
 Primeiro, garante que o VsCode está atualizado.
 
 ![](vscode-net6-update.png)
 
-Instale o plugin oficial do C# (_C# for Visual Studio Code (powered by OmniSharp)._) procurando por `ms-dotnettools.csharp`.
+Instale a extensão oficial do C# (_C# for Visual Studio Code (powered by OmniSharp)._) procurando por `ms-dotnettools.csharp`.
 
 ![](vscode-net6-extension.png)
 
@@ -179,7 +258,3 @@ Caso continue mostrando erro no código, reinicie o Omnisharp, pressionando `Ctr
 ![](vscode-net6-extension-settings-restart.png)
 
 Em último caso, reinicie o VsCode.
-
-## Quando deve sair outra versão?
-
-Você pode acompanhar por [aqui](https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core) a política de versões da plataforma .NET.

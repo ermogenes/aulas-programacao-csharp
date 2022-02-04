@@ -42,9 +42,9 @@ Caso volte posteriormente, somente será possível excluir o _token_ e criar out
 
 ![](github-login-settings-dev-pat-new-key-02.png)
 
-## Logar com o `git` no console
+## Configuração do ambiente
 
-Três coisas devem ser feitas para garantir aue você tem um ambiente funcional para trabalho:
+Três coisas devem ser feitas para garantir que você tem um ambiente funcional para trabalho:
 
 1. Seu usuário deve estar configurado no `git`;
 2. Não deve haver outra credencial do GitHub ativa no Windows;

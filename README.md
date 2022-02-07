@@ -181,7 +181,7 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
   - Conselho final: 07/07/2022
 
 **Teams**
-- [Equipe única, canal Geral (a definir)]()
+- [Equipe única, canal Geral](https://teams.microsoft.com/l/team/19%3ahEUmb9W64XhT1JK_z1IYt_-tKjR1tSd22Hw5SVnSKw01%40thread.tacv2/conversations?groupId=b5c46f29-4301-4d3f-8143-5904fb644977&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94)
 - [📺 Playlist com os tutoriais do Teams oficiais do Centro Paula Souza](https://www.youtube.com/playlist?list=PLk6PnAig6xXJqV_M_BEDuEWLIYaiznysz)
 
 ---

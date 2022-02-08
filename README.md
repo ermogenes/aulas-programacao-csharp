@@ -104,7 +104,7 @@ Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a
 * 🎁 [📺](https://youtu.be/JI1-f04navk) [📖 Bancos de dados com MySQL](content/db-mysql.md) 🔥
 * 🎁 [📺](https://youtu.be/tLkxJHqUDxk) [📖 CRUD com EF Core](content/crud-efcore.md) 🔥
 
-[🌍 Links úteis e outros recursos](content/links.md).
+[🌍 Links úteis e outros recursos](content/links.md)
 
 ---
 

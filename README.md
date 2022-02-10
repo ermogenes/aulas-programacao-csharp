@@ -44,7 +44,7 @@ Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu compu
 
  [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Passo-a-passo para a criação do ambiente](content/ambiente.md)
 
-Obs.: Os materiais citam a versão 3 do .NET Core SDK, mas você deve utilizar a mais recente disponível.
+Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você deve utilizar as mais recentes disponíveis.
 
 📲 _SOMENTE para quem não tem computador:_ [📺 Faça os exercícios no celular usando o .NET Fiddle](https://youtu.be/y82X7hA5J4s)
 

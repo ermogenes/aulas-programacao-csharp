@@ -76,8 +76,8 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 ### 📌 Conceitos básicos
 * [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✔
 * [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✔
-* [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
-* [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
+* [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
+* [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
 * 🎁 [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios
 * [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
 * [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
@@ -162,8 +162,8 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 18/02/2022 ✔ | [Primeiros passos](#-primeiros-passos) ✔ | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md) [📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Saída em console](exercises/saida.md)
 25/02/2022 ✔ | [Saída em console](#-conceitos-básicos) ✔ | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [Saída em console](exercises/saida.md)
 04/03/2022 ✔ | [Saída em console](#-conceitos-básicos) ✔ | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [Saída em console](exercises/saida.md)
-11/03/2022 | [Entrada via teclado](#-conceitos-básicos) | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
-18/03/2022 | [Entrada via teclado](#-conceitos-básicos) | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
+11/03/2022 ✔ | [Entrada via teclado](#-conceitos-básicos) ✔ | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
+18/03/2022 | [Entrada via teclado](#-conceitos-básicos) ✔ | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
 25/03/2022 | [Variáveis, constantes e tipos de dados](#-conceitos-básicos) | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
 01/04/2022 | [Números e operações](#-conceitos-básicos) | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)
 08/04/2022 | [Números e operações](#-conceitos-básicos) | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)

@@ -130,6 +130,18 @@ Procure em _Credenciais Genéricas_ por alguma credencial do GitHub, como essa:
 
 Clique em _Remover_ (2). Faça isso ANTES de criar outra, e DEPOIS de utilizá-la (por exemplo, antes de ir embora da escola ao final da aula). Não é necessário fazer isso em seu computador pessoal, no qual somente você tem acesso.
 
+Você também pode fazer isso pelo terminal usando o comando `cmdkey`:
+
+Listar as credenciais salvas:
+```
+cmdkey /list
+```
+
+Excluir a credencial do git:
+```
+cmdkey /delete git:https://github.com
+```
+
 #### Criando credenciais
 
 Quando uma credencial for necessária, alguma forma de login será apresentada. O mais comum é a apresentação de uma tela como essa:

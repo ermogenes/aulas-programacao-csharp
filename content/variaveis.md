@@ -27,6 +27,7 @@ Os tipos numéricos que mais utilizaremos neste curso:
 Tipo | Classe | Descrição
 -- | -- | --
 `int` | `System.Int32` | Número inteiro com sinal, entre -2.147.483.648 a 2.147.483.647, armazenado em 32 bits 
+`double`| `System.Double` | Número real (com casas decimais) em ponto flutuante, entre 	-1,7 × 10<sup>308</sup> e +1,7 × 10<sup>308</sup>, com precisão de 15 dígitos, armazenado em 8 bytes.
 `decimal` | `System.Decimal` | Número real (com casas decimais) em ponto flutuante de alta precisão, entre ±1,0 x 10<sup>-28</sup> e ±7,9228 x 10<sup>28</sup>, com precisão de 28 a 29 dígitos, armazenado em 16 bytes
 
 Mais detalhes sobre os tipos numéricos [aqui](https://docs.microsoft.com/pt-br/dotnet/standard/numerics) e [aqui](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/integral-numeric-types).

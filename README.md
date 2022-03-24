@@ -79,9 +79,9 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 * [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
 * [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
 * 🎁 [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios
-* [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
-* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
-* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
+* [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✔
+* [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) ✔
+* [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✔
 * 🎁 [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios
 * 🎁 [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
 * 🎁 [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
@@ -163,10 +163,10 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 25/02/2022 ✔ | [Saída em console](#-conceitos-básicos) ✔ | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [Saída em console](exercises/saida.md)
 04/03/2022 ✔ | [Saída em console](#-conceitos-básicos) ✔ | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md) | [Saída em console](exercises/saida.md)
 11/03/2022 ✔ | [Entrada via teclado](#-conceitos-básicos) ✔ | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
-18/03/2022 | [Entrada via teclado](#-conceitos-básicos) ✔ | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
-25/03/2022 | [Variáveis, constantes e tipos de dados](#-conceitos-básicos) | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
-01/04/2022 | [Números e operações](#-conceitos-básicos) | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)
-08/04/2022 | [Números e operações](#-conceitos-básicos) | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)
+18/03/2022 ✔ | [Entrada via teclado](#-conceitos-básicos) ✔ | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
+25/03/2022 | [Variáveis, constantes e tipos de dados](#-conceitos-básicos) ✔ | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
+01/04/2022 | [Números e operações](#-conceitos-básicos) ✔ | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)
+08/04/2022 | [Números e operações](#-conceitos-básicos) ✔ | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)
 15/04/2022 | _Feriado - Paixão de Cristo_
 22/04/2022 | _Suspensão de atividades_
 29/04/2022 | [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)

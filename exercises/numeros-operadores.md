@@ -18,7 +18,7 @@ Enunciado | Correção | Extras
 [IMC](#Exercício-IMC) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=2536s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/IMC/Program.cs) | 
 [FGTS](#Exercício-FGTS) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=3075s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/FGTS/Program.cs) | 
 [JurosSimples](#Exercício-JurosSimples) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=3410s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/JurosSimples/Program.cs) | 
-[Projetil](#Exercício-Projetil) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=3996s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Projetil/Program.cs) | 
+[Projetil](#Exercício-Projetil) | [YouTube](https://www.youtube.com/watch?v=NfPfIYOdHNs&t=3996s) • [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Projetil/Program.cs) | [Versão avançada](https://github.com/ermogenes/ProjetilImagem)
 
 ---
 ## Exercício `Soma2Numeros`

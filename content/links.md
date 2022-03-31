@@ -36,7 +36,6 @@
 * [🌍 A principal medida de progresso em projetos de software](https://medium.com/software-zen/a-principal-medida-de-progresso-em-projetos-de-software-2f89b7efb454)
 * [🌍 Teach Yourself Programming in Ten Years, by Peter Norvig](https://norvig.com/21-days.html)
 * [🎥 Como é ser um desenvolvedor full stack? (Guia 2021 Completo) - Código Fonte TV](https://youtu.be/Vk50Bvk9ojg)
-* [📺 Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
 
 ## 🌎 Links úteis
 
@@ -45,7 +44,8 @@
 * [🌍 Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf)
 * [🌍 Git Supervisual Cheatsheet](https://github.com/mattharrison/Git-Supervisual-Cheatsheet/blob/master/gitcheat.png)
 * [🌍 Git data transport commands](https://www.patrickzahnd.ch/uploads/git-transport-v1.png)
-
+* [📺 Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
+* 
 ## 🏆 Top linguagens
 
 * [🌍 IEEE Spectrum](https://spectrum.ieee.org/computing/software/the-top-programming-languages-2019)

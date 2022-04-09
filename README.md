@@ -87,10 +87,10 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 * 🎁 [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 
 ### 🚦 Decisão
-* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
+* [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
 * [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
 * 🎁 [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios
-* 🎁 [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md)
+* 🎁 [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md) ✔
 * 🎁 [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎛 Sub-rotinas
@@ -165,13 +165,13 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 11/03/2022 ✔ | [Entrada via teclado](#-conceitos-básicos) ✔ | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
 18/03/2022 ✔ | [Entrada via teclado](#-conceitos-básicos) ✔ | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
 25/03/2022 ✔ | [Variáveis, constantes e tipos de dados](#-conceitos-básicos) ✔ | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) | [Entrada de dados e Strings](exercises/entrada-strings.md)
-01/04/2022 | [Números e operações](#-conceitos-básicos) ✔ | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)
-08/04/2022 | [Números e operações](#-conceitos-básicos) ✔ | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)
+01/04/2022 ✔ | [Números e operações](#-conceitos-básicos) ✔ | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)
+08/04/2022 ✔ | [Números e operações](#-conceitos-básicos) ✔ | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)
 15/04/2022 | _Feriado - Paixão de Cristo_
 22/04/2022 | _Suspensão de atividades_
-29/04/2022 | [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
-06/05/2022 | [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
-13/05/2022 | [Decisão](#-decisão) | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
+29/04/2022 | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
+06/05/2022 | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
+13/05/2022 | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
 14/05/2022 (sábado) | _Reposição de 17/06/2022, a definir_
 20/05/2022 | [Sub-rotinas](#-sub-rotinas) | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md)
 27/05/2022 | [Laços](#-laços) | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md) | [Laços](exercises/lacos.md)

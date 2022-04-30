@@ -88,10 +88,10 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 
 ### 🚦 Decisão
 * [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
-* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
+* [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
 * 🎁 [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios
 * 🎁 [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md) ✔
-* 🎁 [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
+* 🎁 [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) ✔
 
 ### 🎛 Sub-rotinas
 * [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
@@ -169,7 +169,7 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 08/04/2022 ✔ | [Números e operações](#-conceitos-básicos) ✔ | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md) | [Números e Operadores](exercises/numeros-operadores.md)
 15/04/2022 ✔ | _Feriado - Paixão de Cristo_
 22/04/2022 ✔ | _Suspensão de atividades_
-29/04/2022 | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
+29/04/2022 ✔ | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
 06/05/2022 | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
 13/05/2022 | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
 14/05/2022 (sábado) | _Evento Baixada Nerd 2022_ | _Reposição de 17/06/2022_

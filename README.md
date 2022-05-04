@@ -95,6 +95,7 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 
 ### 🎛 Sub-rotinas
 * [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
+* 🎁 [📖 Bibliotecas e testes automatizados](content/bibliotecas-testes.md) 🔥
 
 ### 🎀 Laços
 * [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)

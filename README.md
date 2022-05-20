@@ -98,7 +98,7 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 * 🎁 [📖 Bibliotecas e testes automatizados](content/bibliotecas-testes.md) 🔥 ✔
 
 ### 🎀 Laços
-* [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
+* [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) ✔
 * 🎁 [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios
 
 ### ⚡ Publicação e distribuição
@@ -172,10 +172,10 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 22/04/2022 ✔ | _Suspensão de atividades_
 29/04/2022 ✔ | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
 06/05/2022 ✔ | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
-13/05/2022 | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
+13/05/2022 ✔ | [Decisão](#-decisão) ✔ | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md) | [Decisão e operações lógicas](exercises/decisao-simples.md)
 14/05/2022 (sábado) | _Evento Baixada Nerd 2022_ | _Reposição de 17/06/2022_
 20/05/2022 | [Sub-rotinas](#-sub-rotinas) ✔ | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md)
-27/05/2022 | [Laços](#-laços) | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md) | [Laços](exercises/lacos.md)
+27/05/2022 | [Laços](#-laços) ✔ | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md) | [Laços](exercises/lacos.md)
 03/06/2022 | [Laços](#-laços) | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md) | [Laços](exercises/lacos.md)
 10/06/2022 | Projeto final | | [🚀 Projeto prático](exercises/projeto_2019_1.md)
 17/06/2022 | _Suspensão de atividades_

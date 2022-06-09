@@ -168,3 +168,43 @@ namespace AulaListas
     }
 }
 ```
+
+**Saída**:
+```
+Quantidade = 4
+Quantidade = 5
+Elemento da posição 3: 0
+Elemento da posição 1: -35
+Posição de -295: 4
+Posição de 651591: -1
+Elemento da posição 3: 0
+Elemento da posição 3: -295
+Lista:
+-35 42 -295
+Itens após limpeza = 0
+Nome = Joana
+Nome = Maria
+Nome = Josefa
+Nome = João
+Nome = Mario
+Nome = José
+amigo = Neri (25)
+amigo = Ermogenes (17)
+amigo = Ronaldo (30)
+menor número = -167
+maior número = 280
+média dos números = 48,6
+soma dos números = 243
+nome com J = Joana
+nome com J = João
+nome com J = José
+nome com J = Josefa
+amigo velho = Ronaldo (30)
+amigo velho = Neri (25)
+tamanho da fila do pão = 3
+Atendendo Anastacia
+tamanho da fila do pão = 2
+Tamanho do caminhão de mudança = 3
+Retirado Plantas
+Retirado Sofá
+```

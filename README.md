@@ -110,7 +110,7 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 * 🎁 [📺](https://youtu.be/HtVJc_7FzYs)[📖 Exceções](content/exceptions.md)
 * 🎁 [📺](https://youtu.be/r6EllahDrEQ)[📖 Classes](content/classes.md)
 * 🎁 [📺](https://youtu.be/p1P_sY8tHnY) [_Live_] Jogos, OOP e Inteligência Artificial ([implementação do jogo Two Dice Pig](https://github.com/ermogenes/TwoDicePig))
-* 🎁 [📺](https://youtu.be/qd18FR7a3s4) Listas
+* 🎁 [📺](https://youtu.be/qd18FR7a3s4)[📖 Listas](content/lists.md)
 * 🎁 [📺](https://youtu.be/JI1-f04navk) [📖 Bancos de dados com MySQL](content/db-mysql.md) 🔥
 * 🎁 [📺](https://youtu.be/tLkxJHqUDxk) [📖 CRUD com EF Core](content/crud-efcore.md) 🔥
 

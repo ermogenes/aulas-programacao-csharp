@@ -107,7 +107,7 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 ### 🏄🏻‍♂️ Tópicos adicionais
 
 * 🎁 [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md)
-* 🎁 [📺](https://youtu.be/HtVJc_7FzYs)[📖 Exceções](content/exceptions.md)
+* 🎁 [📺](https://youtu.be/HtVJc_7FzYs)[📖 Exceções](content/exceptions.md) ✔
 * 🎁 [📺](https://youtu.be/r6EllahDrEQ)[📖 Classes](content/classes.md)
 * 🎁 [📺](https://youtu.be/p1P_sY8tHnY) [_Live_] Jogos, OOP e Inteligência Artificial ([implementação do jogo Two Dice Pig](https://github.com/ermogenes/TwoDicePig))
 * 🎁 [📺](https://youtu.be/qd18FR7a3s4)[📖 Listas](content/lists.md)
@@ -177,9 +177,9 @@ Data | Conteúdo previsto | Material de apoio | Exercícios
 20/05/2022 ✔ | [Sub-rotinas](#-sub-rotinas) ✔ | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md)
 27/05/2022 ✔ | [Laços](#-laços) ✔ | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md) | [Laços](exercises/lacos.md)
 03/06/2022 ✔ | [Laços](#-laços) ✔ | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md) | [Laços](exercises/lacos.md)
-10/06/2022 | Projeto final | | [🚀 Projeto prático](exercises/projeto_2019_1.md)
+10/06/2022 | Projeto final ✔ | | [🚀 Projeto prático](exercises/projeto_2019_1.md)
 17/06/2022 | _Suspensão de atividades_
-24/06/2022 | Projeto final | | [🚀 Projeto prático](exercises/projeto_2019_1.md)
+24/06/2022 | Projeto final ✔ | | [🚀 Projeto prático](exercises/projeto_2019_1.md)
 01/07/2022 | Conclusão
 
 [Plano de curso](http://eteab.com.br/cms/wp-content/uploads/2020/02/Inform%C3%A1tica-353_CS-1.pdf)

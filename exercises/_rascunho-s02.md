@@ -1,5 +1,34 @@
-# Strings
+- [Saída em console](#Exercícios-Saída-em-console) x 0
+- [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 1
+- [Números e Operadores](#Exercícios-Números-e-Operadores) x 3
+- [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 9
+- [Sub-rotinas](#Exercícios-Sub-rotinas) x 0
+- [Laços](#Exercícios-Laços) x 5
+- [Arranjos](#Exercícios-Arranjos) x 2
+- [Classes](#Exercícios-Classes) x 0
+- [Listas](#Exercícios-Listas) x 1
 
+# Exercícios: Saída em console
+
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
+
+Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[xxxxxxx](#Exercício-xxxxxxx) | _em breve_ | 
+
+# Exercícios: Entrada de dados e Strings
+
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
+
+Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[PrimeroCaractere](#Exercício-PrimeroCaractere) | _em breve_ | 
+
+---
 ## Exercício `PrimeroCaractere`
 
 Faça um programa que exiba o primeiro caractere digitado, ignorando espaços em branco.
@@ -12,8 +41,19 @@ Digitação | Resultado esperado
 
 ************* Adicionar Substring em https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/string.md
 
-# Números
+# Exercícios: Números e Operadores
 
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
+
+Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[TempoDownload](#Exercício-TempoDownload) | _em breve_ | 
+[Troco](#Exercício-Troco) | _em breve_ | 
+[IndependenciaFinanceira](#Exercício-IndependenciaFinanceira) | _em breve_ | 
+
+---
 ## Exercício `TempoDownload`
 
 Calcule o tempo estimado para _download_ de um arquivo. Para isso, receba o tamanho do arquivo em _megabytes_ (MB) e a velocidade da conexão em _megabits_ por segundo (Mbps). Exiba o tempo em minutos.
@@ -60,8 +100,25 @@ Rendimentos mensais (%)...: 0,5
 Para receber R$3500,00 por mês com rendimentos de 0,5% você precisa ter investido R$700000,00.
 ```
 
-# Decisão
+# Exercícios: Decisão e operações lógicas
 
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
+
+Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[InteiroOuDecimal](#Exercício-InteiroOuDecimal) | _em breve_ | 
+[PescaAmadora](#Exercício-PescaAmadora) | _em breve_ | 
+[CasaDeTintas](#Exercício-CasaDeTintas) | _em breve_ | 
+[MaiorDeTres](#Exercício-MaiorDeTres) | _em breve_ | 
+[Multiplo](#Exercício-Multiplo) | _em breve_ | 
+[Bissexto](#Exercício-Bissexto) | _em breve_ | 
+[FluxogramaEngenharia](#Exercício-FluxogramaEngenharia) | _em breve_ | 
+[Estacionamento](#Exercício-Estacionamento) | _em breve_ | 
+[CaixaEletronico](#Exercício-CaixaEletronico) | _em breve_ | 
+
+---
 ## Exercício `InteiroOuDecimal`
 
 Solicite que o usuário digite o valor real. Exiba se ele é um número inteiro ou decimal.
@@ -295,8 +352,31 @@ O caixa deve entregar:
 1 nota(s) de R$1,00
 ```
 
-# Laços
+# Exercícios: Sub-rotinas
 
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
+
+Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[xxxxxxx](#Exercício-xxxxxxx) | _em breve_ | 
+
+# Exercícios: Laços
+
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
+
+Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[EntradaValida](#Exercício-EntradaValida) | _em breve_ | 
+[UrnaPlebiscito](#Exercício-UrnaPlebiscito) | _em breve_ | 
+[Potencia](#Exercício-Potencia) | _em breve_ | 
+[AmortizacaoConstante](#Exercício-AmortizacaoConstante) | _em breve_ | 
+[AmortizacaoFrancesa](#Exercício-AmortizacaoFrancesa) | _em breve_ | 
+
+---
 ## Exercício `EntradaValida`
 
 Solicite que o usuário entre com um valor inteiro entre 1 e 9, inclusive. Informe que a entrada 0 sinaliza um cancelamento. Não finalize o programa enquanto não houver uma entrada válida ou um cancelamento.
@@ -459,8 +539,18 @@ Período | Prestação | Juros | Amortização | Valor Pago | Saldo Devedor
 
 Você pode simular valores para teste [aqui](http://drcalc.net/price.asp).
 
-# Arranjos
+# Exercícios: Arranjos
 
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
+
+Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[InverteString](#Exercício-InverteString) | _em breve_ | 
+[Palindromo](#Exercício-Palindromo) | _em breve_ | 
+
+---
 ## Exercício `InverteString`
 
 Receba uma string. Exiba a string reversa (do final para o início).
@@ -491,7 +581,25 @@ Faça um programa que receba uma frase e avalie se ela é um palíndromo ou não
 
 Dica: Antes de verificar se é um palíndromo remova pontuações, espaços e caracteres especiais, converta letras acentuadas em suas versões sem acentuação e transforme as letras para um caso único (minúsculas, por exemplo).
 
-# Listas
+# Exercícios: Classes
+
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
+
+Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[xxxxxxx](#Exercício-xxxxxxx) | _em breve_ | 
+
+# Exercícios: Listas
+
+Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
+
+Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
+
+Enunciado | Correção | Extras
+--- | --- | ---
+[BateriaSurf](#Exercício-BateriaSurf) | _em breve_ | 
 
 ## Exercício `BateriaSurf`
 

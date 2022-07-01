@@ -76,7 +76,7 @@ Tempo estimado de download: 3,5 minutos
 Solicite que o usuário digite o valor da compra e o valor pago. Exiba o valor do troco.
 
 ---
-## `IndependenciaFinanceira`
+## Exercício `IndependenciaFinanceira`
 
 Faça um programa que calcule quanto dinheiro é necessário possuir em um investimento para conseguir sua independência financeira com dividendos (ou seja, os dividendos deverão pagar todos os seus custos). Receba os gastos mensais e o rendimento dos dividendos (_dividend yield_). O valor necessário investido para receber X reais de dividendo todo mês com Y% de _dividend yield_ é `X / (Y / 100)`.
 
@@ -294,16 +294,16 @@ Um estacionamento possui a seguinte política de preços:
 
 - Primeira hora: R$ 20,00
 - Horas adicionais:
-	- Carros grandes...: R$ 20,00/hora adicional
-	- Carros pequenos..: R$ 10,00/hora adicional
+	- Carros grandes: R$ 20,00/hora adicional
+	- Carros pequenos: R$ 10,00/hora adicional
 - Diária (5 horas ou mais):
-	- Carros grandes...: R$ 80,00
-	- Carros pequenos..: R$ 50,00
+	- Carros grandes: R$ 80,00
+	- Carros pequenos: R$ 50,00
 - Tolerância (na saída): 5min
 - _Valet_ (manobrista): 20% adicional no valor final
 - Lavagem:
-	- Carros grandes...: R$ 100,00
-	- Carros pequenos..: R$ 50,00
+	- Carros grandes: R$ 100,00
+	- Carros pequenos: R$ 50,00
 
 Faça um programa que receba o tamanho do veículo (P/G), o total de minutos que o veículo ficou estacionado, se foi utilizado o serviço de _valet_ (S/N) e a inclusão de serviço de lavagem (S/N). Exiba o valor final a ser pago.
 

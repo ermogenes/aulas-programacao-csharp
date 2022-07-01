@@ -1,4 +1,4 @@
-- [Saída em console](#Exercícios-Saída-em-console) x 7
+- [Saída em console](#Exercícios-Saída-em-console) x 9
 - [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 1
 - [Números e Operadores](#Exercícios-Números-e-Operadores) x 3
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 9
@@ -23,6 +23,8 @@ Enunciado | Correção | Extras
 [Piada](#Exercício-Piada) | _em breve_ | 
 [Adivinha](#Exercício-Adivinha) | _em breve_ | 
 [TimeDoCoracao](#Exercício-TimeDoCoracao) | _em breve_ | 
+[PoemaConcreto](#Exercício-PoemaConcreto) | _em breve_ | 
+[BebaCocaCola](#Exercício-BebaCocaCola) | _em breve_ | 
 
 ---
 ## Exercício `Continue`
@@ -58,6 +60,8 @@ Contando até dez: 0 1 2
 ```
 
 ... e assim sucessivamente.
+
+************************************** adicionar Thread.Sleep em console
 
 ---
 ## Exercício `FrutasPreferidas`
@@ -103,6 +107,22 @@ Nada.
 ```
 
 ************************************** adicionar Thread.Sleep em console
+
+---
+## Exercício `PoemaConcreto`
+
+Faça um programa que exiba o seguinte poema concreto:
+
+![](exemplo-PoemaConcreto.jpg)
+
+Saiba mais [aqui](https://www.todamateria.com.br/poesia-concreta/) e [aqui](https://mundoeducacao.uol.com.br/literatura/poesia-concreta.htm).
+
+---
+## Exercício `BebaCocaCola`
+
+Faça um programa que exiba o poema concreto _Beba Coca-Cola_, de Décio Pignatari.
+
+![](exemplo-BebaCocaCola.webp)
 
 ---
 ## Exercício `TimeDoCoracao`

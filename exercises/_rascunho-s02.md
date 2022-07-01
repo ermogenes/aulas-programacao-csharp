@@ -1,4 +1,4 @@
-- [Saída em console](#Exercícios-Saída-em-console) x 0
+- [Saída em console](#Exercícios-Saída-em-console) x 7
 - [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 1
 - [Números e Operadores](#Exercícios-Números-e-Operadores) x 3
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 9
@@ -16,7 +16,102 @@ Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
 
 Enunciado | Correção | Extras
 --- | --- | ---
-[xxxxxxx](#Exercício-xxxxxxx) | _em breve_ | 
+[Continue](#Exercício-Continue) | _em breve_ | 
+[DezSegundos](#Exercício-DezSegundos) | _em breve_ | 
+[Haikai](#Exercício-Haikai) | _em breve_ | 
+[FrutasPreferidas](#Exercício-FrutasPreferidas) | _em breve_ | 
+[Piada](#Exercício-Piada) | _em breve_ | 
+[Adivinha](#Exercício-Adivinha) | _em breve_ | 
+[TimeDoCoracao](#Exercício-TimeDoCoracao) | _em breve_ | 
+
+---
+## Exercício `Continue`
+
+Faça um programa que exiba a seguinte mensagem:
+
+```
+Pressione uma tecla para continuar...
+```
+
+Após o usuário pressionar uma tecla, agradeça ao usuário e finalize o programa.
+
+---
+## Exercício `DezSegundos`
+
+Faça um programa que exiba uma contagem de 0 a 10 na mesma linha, aguardando um segundo entre cada número.
+
+Exemplo:
+```
+Contando até dez: 0
+```
+
+(um segundo depois)
+
+```
+Contando até dez: 0 1
+```
+
+(um segundo depois)
+
+```
+Contando até dez: 0 1 2
+```
+
+... e assim sucessivamente.
+
+---
+## Exercício `FrutasPreferidas`
+
+Faça um programa que exiba as suas 5 frutas preferidas.
+
+Exemplo:
+```
+--- Minhas frutas preferidas ---
+
+1. Pitaia
+2. Mirtilo
+3. Atemoia
+4. Ingá
+5. Araçá
+```
+
+---
+## Exercício `Piada`
+
+Faça um programa que exiba uma piada.
+
+Exemplo:
+```
+O professor:
+– Quem se acha burro fique em pé.
+Joãozinho se levanta:
+– Você se acha burro, Joãozinho?
+– Não, mas fiquei com dó de ver o senhor em pé sozinho.
+```
+
+---
+## Exercício `Adivinha`
+
+Faça um programa que exiba um adivinha, no formato "_o que é, o que é?_". Faça uma pausa de 5 segundos para que usuário possa pensar na resposta.
+
+Exemplo:
+```
+O que é, o que é... 
+... que o nadador faz para bater o recorde?
+
+Nada.
+```
+
+************************************** adicionar Thread.Sleep em console
+
+---
+## Exercício `TimeDoCoracao`
+
+Faça um programa que exiba o nome do seu time do coração (ou um time qualquer, não importa o esporte). Utilize as cores do time.
+
+Exemplos:
+
+![](exemplo-TimeDoCoracao.png)
 
 # Exercícios: Entrada de dados e Strings
 

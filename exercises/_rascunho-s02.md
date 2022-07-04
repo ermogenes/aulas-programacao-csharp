@@ -447,10 +447,10 @@ Horas (com decimais) | Saída
 1,3253 | 1h 19min 31,24s
 
 Cálculo:
-`Horas Inteiras` = parte inteira de `Entrada`
-`Minutos Restantes` = (parte decimal da `Entrada`) * 60
-`Minutos Inteiros` =  parte inteira de `Minutos Restantes`
-`Segundos Restantes` = (parte decimal de `Minutos Inteiros`) * 60
+- `Horas Inteiras` = parte inteira de `Entrada`
+- `Minutos Restantes` = (parte decimal da `Entrada`) * 60
+- `Minutos Inteiros` =  parte inteira de `Minutos Restantes`
+- `Segundos Restantes` = (parte decimal de `Minutos Inteiros`) * 60
 
 ---
 ## Exercício `FormulaDoPadeiro`
@@ -1093,6 +1093,7 @@ Em uma noite de terror, os monstros buscam suas vítimas após ouvir o chamado d
 Descubra qual o mostro que perseguirá a vítima de acordo com uma data de nascimento e a tabela abaixo.
 
 Nome | Mês de nascimento
+--- | ---
 Janeiro | O Zumbi
 Fevereiro | O Assassino
 Março | O Psicopata
@@ -1107,6 +1108,7 @@ Novembro | O Bruxo
 Dezembro | O Demônio
 
 Sobrenome | Dia de nascimento
+--- | ---
 1 | Endiabrado
 2 | Radioativo
 3 | Endemoniado

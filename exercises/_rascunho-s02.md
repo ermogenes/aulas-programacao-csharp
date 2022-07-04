@@ -1,6 +1,6 @@
 # Índice Geral
 
-- [Saída em console](#Exercícios-Saída-em-console) x 9
+- [Saída em console](#Exercícios-Saída-em-console) x 10
 - [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 3
 - [Números e Operadores](#Exercícios-Números-e-Operadores) x 11
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 9
@@ -13,13 +13,12 @@
 
 - Água
 - Cervejaria
-- Número em intervalo
+- Número em intervalo --- decisão
 - Diversidade
-- Carrinho de compras
+- Carrinho de compras --- classes e listas
 - 3 desejos
-- gráfico ascii
-- barra de progresso
-- efeito de digitação
+- barra de progresso --- laços
+- efeito de digitação --- laços
 - personagem d&d --- classes e listas
 
 # Exercícios: Saída em console
@@ -39,6 +38,7 @@ Enunciado | Correção | Extras
 [TimeDoCoracao](#Exercício-TimeDoCoracao) | _em breve_ | 
 [PoemaConcreto](#Exercício-PoemaConcreto) | _em breve_ | 
 [BebaCocaCola](#Exercício-BebaCocaCola) | _em breve_ | 
+[Pastorzinho](#Exercício-Pastorzinho) | _em breve_ | 
 
 ---
 ## Exercício `Continue`
@@ -146,6 +146,22 @@ Faça um programa que exiba o nome do seu time do coração (ou um time qualquer
 Exemplos:
 
 ![](exemplo-TimeDoCoracao.png)
+
+---
+## Exercício `Pastorzinho`
+
+Faça um programa que emita _beeps_ no tom da canção citada em "O Pastorzinho".
+
+```
+Dó, ré, mi, fá, fá, fá,
+Dó, ré, do, ré, ré, ré,
+Do, sol, fá, mi, mi, mi,
+Do, ré, mi, fá, fá, fá (2x)
+```
+
+Exiba a nota que está sendo tocada no momento.
+
+Ref.: https://www.youtube.com/watch?v=gAu7PphBIRU e https://www.youtube.com/watch?v=S9UwYm3hJ7o
 
 # Exercícios: Entrada de dados e Strings
 

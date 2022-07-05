@@ -1,9 +1,9 @@
 # Índice Geral
 
 - [Saída em console](#Exercícios-Saída-em-console) x 10
-- [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 6
-- [Números e Operadores](#Exercícios-Números-e-Operadores) x 11
-- [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 10
+- [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 7
+- [Números e Operadores](#Exercícios-Números-e-Operadores) x 12
+- [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 12
 - [Sub-rotinas](#Exercícios-Sub-rotinas) x 0
 - [Laços](#Exercícios-Laços) x 10
 - [Arranjos](#Exercícios-Arranjos) x 5
@@ -13,13 +13,20 @@
 
 - Água
 - Cervejaria
-- Carrinho de compras --- classes e listas
 - 3 desejos
 - comparacao de preços em quantidades diferentes
-- distância a percorrer
-- adicionar de lista para lista
-- pilha e fila -- listas
-- conta bancaria --- classes
+
+- distância a percorrer -- arranjos
+- xadrez, movimento do rei -- arranjos
+
+- fila --- classes e listas
+- pilha --- classes e listas
+- conta bancaria --- classes e listas
+- ff - combate --- classes e listas
+- adicionar de lista para lista --- classes e listas
+- Carrinho de compras --- classes e listas
+- mao de cartas de truco --- classes e listas
+- paradas no metro --- classes e listas
 
 # Exercícios: Saída em console
 
@@ -177,6 +184,7 @@ Enunciado | Correção | Extras
 [TextoVazio](#Exercício-TextoVazio) | _em breve_ | 
 [AlinhamentoDireita](#Exercício-AlinhamentoDireita) | _em breve_ | 
 [Forca](#Exercício-Forca) | _em breve_ | 
+[PetHotel](#Exercício-PetHotel) | _em breve_ | 
 
 ---
 ## Exercício `PrimeroCaractere`
@@ -282,6 +290,24 @@ Qual a letra? e
 A letra "e" existe na palavra secreta => False
 ```
 
+---
+## Exercício `PetHotel`
+
+Faça um programa que receba dados de um _pet_ ao dar entrada em um _pet_ hotel. Exiba os dados ao final do cadastro, seguindo o exemplo.
+
+```
++=========================================================+
+|                 Pet Hotel "Nem um pio"                  |
++=========================================================+
+| Espécie: ............CÃO | Raça: ............INDEFINIDA |
++=========================================================+
+| Atende pela alcunha de: ...........................ZECA |
+| Idade: 03 anos | Pelagem/cor: .................CARAMELO |
++=========================================================+
+```
+
+Use cores destacadas para o título e para os dados do _pet_, e cores neutras para as bordas.
+
 # Exercícios: Números e Operadores
 
 Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
@@ -301,6 +327,7 @@ Enunciado | Correção | Extras
 [Churrasco](#Exercício-Churrasco) | _em breve_ | 
 [HorasDecimais](#Exercício-HorasDecimais) | _em breve_ | 
 [FormulaDoPadeiro](#Exercício-FormulaDoPadeiro) | _em breve_ | 
+[ColoniaDeBacterias](#Exercício-ColoniaDeBacterias) | _em breve_ | 
 
 ---
 ## Exercício `InteiroEDecimal`
@@ -556,6 +583,24 @@ Fermento...: 943 g
 Sal........: 47 g
 ```
 
+---
+## Exercício `ColoniaDeBacterias`
+
+Um grupo de biólogos está estudando o desenvolvimento de uma determinada colônia de bactérias e descobriu que sob condições ideais, o número de bactérias `n` pode ser encontrado através da expressão `n = 2000 . 2^(0,5t)`, `t` em horas.
+
+Busca-se saber em quanto tempo a colônia atinge um certo número de indivíduos `n`. Isolando a variável `t`, obtemos a relação `t = 2 . log2( n / 2000 )`.
+
+Faça um programa que receba `n` e exiba `t`.
+
+Exemplo:
+```
+--- Colônia de Bactérias ---
+
+Qual o número de indivíduos? 8192000
+
+A colônia atingirá 8192000 indivíduos em 24 horas.
+```
+
 # Exercícios: Decisão e operações lógicas
 
 Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
@@ -574,6 +619,8 @@ Enunciado | Correção | Extras
 [CaixaEletronico](#Exercício-CaixaEletronico) | _em breve_ | 
 [DiabetesGestacional](#Exercício-DiabetesGestacional) | _em breve_ | 
 [TriagemCovid](#Exercício-TriagemCovid) | _em breve_ | 
+[GeneticaMendeliana](#Exercício-GeneticaMendeliana) | _em breve_ | 
+[LuzDeAdvertencia](#Exercício-LuzDeAdvertencia) | _em breve_ | 
 
 ---
 ## Exercício `PescaAmadora`
@@ -828,6 +875,84 @@ Exiba um dos resultados abaixo:
 - _Encaminhar ambulância para o local_ (em vermelho)
 
 ¹ Adaptado de https://www.slmandic.edu.br/tudo-sobre-coronavirus/.
+
+---
+## Exercício `GeneticaMendeliana`
+
+A lei da dominância de Mendel afirma que todos os descendentes de progenitores que diferem em apenas uma característica terão o fenótipo de apenas um deles, o dominante (expressado comumente por `A`). A outra característica é chamada recessiva (`a`), e só se manifesta caso ambos os fatores sejam recessivos.
+
+Tipos de dominâncias:
+- dominância completa: albinismo em humanos só ocorre em indivíduos `aa`.
+- dominância incompleta: coloração de boca-de-leão (_Antirrhinum majus_) é vermelha quando `AA`, branca quando `aa` e rosa quando `Aa`.
+
+![](https://1.bp.blogspot.com/-30CSmN41YOo/WsL5F-ctd3I/AAAAAAAAAVQ/A8XbKxgWVaMhoPFXf_JkyPoYkw7HaD3jgCLcBGAs/s1600/flores%2Bde%2Btres%2Bfenotipos.jpg)
+
+Faça um programa que receba os alelos de dois indivíduos e as probabilidades de cada alelo se manifestar em seus descendentes diretos. Considere o caso como dominância completa ou incompleta, conforme seleção do usuário.
+
+Exemplos:
+```
+--- Genética Mendeliana ---
+
+Tipo de dominância do fenótipo (C/I)...: C
+Alelos do indivíduo 1 (AA, Aa ou aa)...: Aa
+Alelos do indivíduo 2 (AA, Aa ou aa)...: aa
+
+  | A  | a
+-----------
+a | Aa | aa
+-----------
+a | Aa | aa
+
+AA:   0% - não apresenta a característica recessiva
+Aa:  50% - não apresenta a característica recessiva
+aa:  50% - apresenta a característica recessiva
+``` 
+
+```
+--- Genética Mendeliana ---
+
+Tipo de dominância do fenótipo (C/I)...: I
+Alelos do indivíduo 1 (AA, Aa ou aa)...: Aa
+Alelos do indivíduo 2 (AA, Aa ou aa)...: Aa
+
+  | A  | a
+-----------
+A | AA | Aa
+-----------
+a | Aa | aa
+
+AA:  25% - apresenta a característica de `A`
+Aa:  50% - apresenta característica distinta de `A` e de `a`
+aa:  25% - apresenta a característica de `a`
+```
+
+---
+## Exercício `LuzDeAdvertencia`
+
+Uma luz de advertência `W` é acessa no painel de um automóvel somente quando:
+- o sensor `T` de temperatura está ativado, e...
+- ...pelo menos uma das duas situações seguintes ocorrem:
+	- o sensor `P` de pressão está ativado.
+	- o sensor `R` de rotação está desativado.
+
+![](luzadvertencia-automovel.png)
+
+Faça um simulador do circuito que controla a luz `W`. Receba o estado de cada um dos sensores ([A]tivado, [D]esativado) e calcule o estado da luz de advertência.
+
+Exemplo:
+```
+--- Simulador de Luz de Advertência ---
+
+[A]tivado, [D]esativado
+
+Sensor de temperatura...: A
+Sensor de pressão.......: D
+Sensor de rotação.......: D
+
+A luz de advertência estará ATIVADA.
+```
+
+Imagem: [lbertini@UFF](https://www.professores.uff.br/lbertini/wp-content/uploads/sites/108/2017/08/Capitulo-3-Portas-Logicas-e-Algebra-Booleana.pdf)
 
 # Exercícios: Sub-rotinas
 

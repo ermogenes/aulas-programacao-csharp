@@ -1548,6 +1548,7 @@ Em sua atual 5ª edição, uma das maneiras recomendadas para criação de perso
 
 Faça um programa que gere os 6 valores de atributos e os exiba juntamente com seus modificadores. Repita a rolagem caso a soma dos valores mantidos não atinja 70. Apresente o maior e o menor atributos.
 
+Exemplo:
 ```
 --- Gerador de Personagem D&D 5e ---
 

@@ -7,20 +7,19 @@
 - [Sub-rotinas](#Exercícios-Sub-rotinas) x 0
 - [Laços](#Exercícios-Laços) x 10
 - [Arranjos](#Exercícios-Arranjos) x 5
-- [Classes e Listas](#Exercícios-Classes-e-Listas) x 1
+- [Classes e Listas](#Exercícios-Classes-e-Listas) x 2
 
 # Ideias
 
 - Água
 - Cervejaria
-- Número em intervalo --- decisão
-- Diversidade
 - Carrinho de compras --- classes e listas
 - 3 desejos
-- barra de progresso --- laços
-- efeito de digitação --- laços
-- personagem d&d --- classes e listas
 - comparacao de preços em quantidades diferentes
+- distância a percorrer
+- adicionar de lista para lista
+- pilha e fila -- listas
+- conta bancaria --- classes
 
 # Exercícios: Saída em console
 
@@ -527,9 +526,9 @@ Cálculo:
 ---
 ## Exercício `FormulaDoPadeiro`
 
-Faça um programa que calcule a quantidade de ingredientes necessários para a confecção de pães, de acordo com o peso final desejado.
+Em panificação, as receitas são sempre formuladas em razão da quantidade de farinha (chamada de _cem porcento_).
 
-Considere a seguinte receita:
+Considere, por exemplo, a seguinte receita de pão italiano:
 
 Ingrediente | Quantidade (em gramas) | Fórmula do Padeiro
 --- | --- | ---
@@ -538,9 +537,11 @@ Farinha | 500 g | 100%
 Fermento | 200 g | 40%
 Sal | 10 g | 2%
 
-- `Coeficiente Do Pão` = soma dos percentuais da fórmula (no exemplo, 1 + 0,7 + 0,4 + 0,02 = 2,12)
-- `Percentual da Farinha` = `Peso Desejado` * `Coeficiente Do Pão`
-- Demais percentuais = `Percentual do Ingrediente` * `Percentual da Farinha`
+Faça um programa que calcule a quantidade de ingredientes necessários para a confecção de um pão italiano (a partir da receita acima) para que a o peso obtido ao final coincida com o peso desejado.
+
+- `Peso do pão em relação ao peso da farinha` = soma dos percentuais da receita (no exemplo, 1 + 0,7 + 0,4 + 0,02 = 2,12)
+- `Percentual da farinha em relação ao peso final` (o chamado  _cem porcento_) = `Peso desejado` * `Peso do pão em relação ao peso da farinha`
+- Demais percentuais em relação ao peso final = `Percentual do ingrediente na receita` * `Percentual da farinha em relação ao peso final`
 
 Exemplo:
 ```
@@ -1463,6 +1464,7 @@ Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
 Enunciado | Correção | Extras
 --- | --- | ---
 [BateriaSurf](#Exercício-BateriaSurf) | _em breve_ | 
+[PersonagemDnD](#Exercício-PersonagemDnD) | _em breve_ | 
 
 ## Exercício `BateriaSurf`
 
@@ -1527,6 +1529,47 @@ Mais uma onda (S/N)? N
 Pontos na bateria = 20.00
 
 BATERIA PERFEITA!
+```
+
+---
+## Exercício `PersonagemDnD`
+
+No clássico RPG "Dungeons & Dragons" cada personagem possui 6 atributos, com valores iniciais entre 3 e 18:
+- Força (STR), mensurando o poder físico;
+- Destreza (DEX), mensurando a agilidade;
+- Constituição (CON), mensurando a resistência;
+- Inteligência (INT), mensurando o raciocínio e a memória;
+- Sabedoria (WIS), mensurando percepção e intuição;
+- Carisma (CHA), mensurando a força da personalidade.
+
+Os atributos geram modificadores em rolagens durante o jogo, sendo seu modificador calculado subtraindo 10 do valor de habilidade e dividindo o total por 2 (arredondado para baixo).
+
+Em sua atual 5ª edição, uma das maneiras recomendadas para criação de personagens é o método _4d6 drop lowest_, que consiste em rolar 4 dados de 6 faces ("d6"), descartar o menor valor e somar os restantes, gerando assim valores na faixa correta.
+
+Faça um programa que gere os 6 valores de atributos e os exiba juntamente com seus modificadores. Repita a rolagem caso a soma dos valores mantidos não atinja 70. Apresente o maior e o menor atributos.
+
+```
+--- Gerador de Personagem D&D 5e ---
+
+Rolagens (método 4d6 drop lowest):
+STR: 3, 5, 5, 1, descartado o valor 1
+DEX: 2, 2, 4, 3, descartado o valor 2
+CON: 6, 6, 4, 5, descartado o valor 4
+INT: 1, 1, 6, 3, descartado o valor 1
+WIS: 3, 3, 3, 4, descartado o valor 3
+CHA: 5, 2, 6, 5, descartado o valor 2
+
+A soma das rolagens mantidas é 75, portanto não é necessário re-rolar.
+
+Atributo (Modificador):
+STR: 13 (+1)
+DEX: 09 (-1)
+CON: 17 (+3)
+INT: 10 (+0)
+WIS: 10 (+0)
+CHA: 16 (+3)
+
+O maior atributo é Constituição e o menor é Destreza.
 ```
 
 # TODO

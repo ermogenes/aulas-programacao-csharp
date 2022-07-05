@@ -6,8 +6,8 @@
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 12
 - [Sub-rotinas](#Exercícios-Sub-rotinas) x 0
 - [Laços](#Exercícios-Laços) x 10
-- [Arranjos](#Exercícios-Arranjos) x 5
-- [Classes e Listas](#Exercícios-Classes-e-Listas) x 2
+- [Arranjos](#Exercícios-Arranjos) x 8
+- [Classes e Listas](#Exercícios-Classes-e-Listas) x 4
 
 # Ideias
 
@@ -16,16 +16,9 @@
 - 3 desejos
 - comparacao de preços em quantidades diferentes
 
-- distância a percorrer -- arranjos
-- xadrez, movimento do rei -- arranjos
-
 - fila --- classes e listas
-- pilha --- classes e listas
-- conta bancaria --- classes e listas
 - ff - combate --- classes e listas
-- adicionar de lista para lista --- classes e listas
 - Carrinho de compras --- classes e listas
-- mao de cartas de truco --- classes e listas
 - paradas no metro --- classes e listas
 
 # Exercícios: Saída em console
@@ -1382,7 +1375,10 @@ Enunciado | Correção | Extras
 [Palindromo](#Exercício-Palindromo) | _em breve_ | 
 [NoiteDeTerror](#Exercício-NoiteDeTerror) | _em breve_ | 
 [GeradorDeNomes](#Exercício-GeradorDeNomes) | _em breve_ | 
+[Surpresinha](#Exercício-Surpresinha) | _em breve_ | 
 [Mandelbrot](#Exercício-Mandelbrot) | _em breve_ | 
+[DreamTeam](#Exercício-DreamTeam) | _em breve_ | 
+[DistanciaPercorrida](#Exercício-DistanciaPercorrida) | _em breve_ | 
 
 ---
 ## Exercício `InverteString`
@@ -1580,6 +1576,86 @@ z(9) = 1.947.270.476.915.296.285.689.291.011.464.375.055.838.871.552
 
 Saiba mais [aqui](https://pt.wikipedia.org/wiki/Conjunto_de_Mandelbrot), [aqui](https://pt.wikipedia.org/wiki/Fractal), [aqui](http://galileo.phys.virginia.edu/compfac/courses/practical-c/12.pdf), [aqui](https://rosettacode.org/wiki/Mandelbrot_set), [aqui](https://loiseaujc.github.io/Scientific_Computing_on_a_Laptop/Maths/Mandelbrot/binary_mandelbrot.html) e [aqui](https://www.javatpoint.com/how-to-draw-the-mandelbrot-set-in-python).
 
+---
+## Exercício `DreamTeam`
+
+Uma equipe de basquete é formada por 5 jogadores.
+
+Faça um programa para indicação de um time dos sonhos somente com jogadores Top 20 da lista de [75 maiores de todos os tempos da ESPN](https://www.torcedores.com/noticias/2022/02/espn-lista-75-melhores-nba).
+
+Top 20:
+20 - Elgin Baylor (Ala)
+19 - Jerry West (Armador)
+18 - Giannis Antetokounmpo (Ala-pivô)
+17 - Dirk Nowitzki (Ala-pivô)
+16 - Stephen Curry (Armador)
+15 - Moses Malone (Pivô)
+14 - Julius Erving (Ala)
+13 - Hakeem Olajuwon (Pivô)
+12 - Kevin Durant (Ala)
+11 - Shaquille O’Neal (Pivô)
+10 - Kobe Bryant (Armador)
+09 - Oscar Robertson (Armador)
+08 - Tim Duncan (Ala-pivô)
+07 - Larry Bird (Ala)
+06 - Bill Russell (Pivô)
+05 - Wilt Chamberlain (Pivô)
+04 - Magic Johnson (Armador)
+03 - Kareem Abdul Jabbar (Pivô)
+02 - LeBron James (Ala)
+01 - Michael Jordan (Armador)
+
+O usuário selecionará os seus preferidos indicando sua posição. Um jogador não pode ser adicionado mais de uma vez.
+
+Ao final, exiba o time escolhido em ordem crescente de posição no Top 75.
+
+Exemplo:
+```
+--- Time dos Sonhos da NBA ---
+
+0 jogador(es) selecionados até o momento. Posição a adicionar: 11
+1 jogador(es) selecionados até o momento. Posição a adicionar: 1
+2 jogador(es) selecionados até o momento. Posição a adicionar: 10
+3 jogador(es) selecionados até o momento. Posição a adicionar: 10 ERRO
+3 jogador(es) selecionados até o momento. Posição a adicionar: 2
+4 jogador(es) selecionados até o momento. Posição a adicionar: 4
+5 jogadores selecionados.
+
+Seu time dos sonhos é:
+
+01 - Michael Jordan (Armador)
+02 - LeBron James (Ala)
+04 - Magic Johnson (Armador)
+10 - Kobe Bryant (Armador)
+11 - Shaquille O’Neal (Pivô)
+```
+
+---
+## Exercício `DistanciaPercorrida`
+
+O quadro abaixo indica as distâncias rodoviárias entre as capitais do sudoeste brasileiro (em km):
+
+Origem / Destino | Belo Horizonte | Rio de Janeiro | São Paulo | Vitória
+--- | --- | --- | --- | ---
+**Belo Horizonte** | 0 | 434 | 586 | 524
+**Rio de Janeiro** | 434 | 0 | 429 | 521
+**São Paulo** | 586 | 429 | 0 | 882
+**Vitória** | 524 | 521 | 882 | 0
+
+Considere a codificação 0 = Belo Horizonte, 1 = Rio de Janeiro, 2 = São Paulo e 3 = Vitória, e crie uma matriz contendo o quadro de distâncias.
+
+Solicite que o usuário digite uma sequência de números entre 0 e 3, indicando uma rota percorrida em uma viagem. Por exemplo, a entrada `1,2,0,1` indica uma viagem partindo do Rio de Janeiro, passando por São Paulo e Belo Horizonte e voltando ao Rio.
+
+Exiba a distância percorrida na viagem.
+
+Exemplo:
+- Entrada = `1,2,0,1`
+  - Trecho de `1` para `2` = 420km
+  - Trecho de `2` para `0` = 586km
+  - Trecho de `0` para `1` = 434km
+- Percorrido: 1440km
+
+
 # Exercícios: Classes e Listas
 
 Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
@@ -1590,7 +1666,10 @@ Enunciado | Correção | Extras
 --- | --- | ---
 [BateriaSurf](#Exercício-BateriaSurf) | _em breve_ | 
 [PersonagemDnD](#Exercício-PersonagemDnD) | _em breve_ | 
+[MaoDeTruco](#Exercício-MaoDeTruco) | _em breve_ | 
+[ContasBancarias](#Exercício-ContasBancarias) | _em breve_ | 
 
+---
 ## Exercício `BateriaSurf`
 
 Faça um programa que calcule a nota de um surfista em uma bateria.
@@ -1697,6 +1776,46 @@ CHA: 16 (+3)
 
 O maior atributo é Constituição e o menor é Destreza.
 ```
+
+---
+## Exercício `MaoDeTruco`
+
+Um jogo de truco com baralho limpo é formado pelas cartas A, 2, 3, Q, J e K, nos naipes paus `♣`, copas `♥`, espadas `♠` e ouros `♦`.
+
+Escreva um programa que armazene em uma lista um baralho limpo de truco, carta a carta. Implemente uma funcionalidade de embaralhamento, gerando como resultado uma pilha de compras. Forme quatro conjuntos de 3 cartas cada retiradas do topo da pilha de compras e os exiba. Vire uma carta para ser o indicador das manilhas da mão.
+
+Exemplo:
+```
+--- Mão de Truco ---
+
+1º jogador: A♣ J♥ 2♥
+2º jogador: K♦ K♠ Q♣
+3º jogador: A♠ 2♠ 3♣
+4º jogador: 3♦ Q♥ J♠
+
+Vira: J♦
+```
+
+---
+## Exercício `ContasBancarias`
+
+Represente duas contas bancárias utilizando objetos que contenham os nomes do titular e saldos abaixo:
+
+Titular | Saldo
+--- | ---
+Ermogenes | R$0,00
+Neri | R$1000,00
+
+Crie um menu que permita executar as seguintes operações na conta do Ermogenes:
+- Depositar uma quantia informada pelo usuário;
+- Retirar uma quantia informada pelo usuário;
+- Fazer uma Pix de quantia informada pelo usuário para a conta do Neri;
+- Receber um Pix de quantia informada pelo usuário da conta do Neri;
+- Exibir o extrato da conta (contendo o tipo das operações e seus valores).
+
+Não permita saques ou Pix quando o saldo não é suficiente.
+
+A cada ação, exiba o saldo atual das duas contas. Finalize o programa por indicação do usuário.
 
 # TODO
 sons

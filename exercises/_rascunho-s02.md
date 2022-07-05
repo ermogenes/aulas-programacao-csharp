@@ -1133,7 +1133,7 @@ Enunciado | Correção | Extras
 [Palindromo](#Exercício-Palindromo) | _em breve_ | 
 [NoiteDeTerror](#Exercício-NoiteDeTerror) | _em breve_ | 
 [GeradorDeNomes](#Exercício-GeradorDeNomes) | _em breve_ | 
-[Surpresinha](#Exercício-Surpresinha) | _em breve_ | 
+[Mandelbrot](#Exercício-Mandelbrot) | _em breve_ | 
 
 ---
 ## Exercício `InverteString`
@@ -1275,6 +1275,61 @@ Quantas jogadas? 4
 ```
 
 ******************** adicionar Array.Sort
+
+---
+## Exercício `Mandelbrot`
+
+Um fractal é um objeto geométrico que pode ser dividido em partes, cada uma das quais semelhante ao objeto original, infinitamente. São encontrados frequentemente na natureza:
+
+Brássica oleracea (brócolis romanescos)
+![](https://paisagismodigital.com/Noticias/img/439-000.jpg)
+
+Girassol
+![](https://paisagismodigital.com/Noticias/img/439-004.jpg)
+
+Floco de neve
+![](https://www.nsf.gov/news/mmg/media/images/Snowflake1.jpg)
+
+Repolho
+![](https://paisagismodigital.com/Noticias/img/439-008.jpg)
+
+Pulmões
+![](https://www.marcelouva.com.br/wp-content/uploads/2019/08/fractal.png)
+
+Imagens: [PaisagismoDigital](https://paisagismodigital.com/noticias/?id=plantas-matematicas:-os-fractais-na-natureza-|-paisagismo-digital&in=439) e [NSF](https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=80874&from=)
+
+Benoit Mandelbrot foi o primeiro a obter imagens em alta qualidade geradas por computador em 1980, baseado no estudo de Robert W. Brooks e Peter Matelski de 1978.
+
+Parte do algoritmo que gera fractais é baseado na geração de números com aquela que ficou conhecida como a série de Mandelbrot:
+- o primero número da série é `0`;
+- o próximo número da série é o quadrado do item anterior somado com o número `c`.
+
+![](https://static.packt-cdn.com/products/9781787120495/graphics/33907ca6-9f25-439c-bb21-4e0ddbc9272e.jpg)
+
+Faça um programa que preencha um arranjo com os 10 primeiros números da série de Mandelbrot para um número `c` informado pelo usuário (aceite números reais no intervalo `0 > c >= 10`).
+
+Exiba o arranjo.
+
+Exemplo:
+
+```
+--- Série de Mandelbrot ---
+
+Para c = 1:
+
+z(0) = 0
+z(1) = 1
+z(2) = 2
+z(3) = 5
+z(4) = 26
+z(5) = 677
+z(6) = 458.330
+z(7) = 210.066.388.901
+z(8) = 44.127.887.745.906.175.377.408
+z(9) = 1.947.270.476.915.296.285.689.291.011.464.375.055.838.871.552
+```
+
+Saiba mais [aqui](https://pt.wikipedia.org/wiki/Conjunto_de_Mandelbrot), [aqui](https://pt.wikipedia.org/wiki/Fractal), [aqui](http://galileo.phys.virginia.edu/compfac/courses/practical-c/12.pdf), [aqui](https://rosettacode.org/wiki/Mandelbrot_set) e [aqui](https://www.javatpoint.com/how-to-draw-the-mandelbrot-set-in-python)
 
 # Exercícios: Classes e Listas
 

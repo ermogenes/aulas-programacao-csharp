@@ -1,11 +1,11 @@
 # Índice Geral
 
 - [Saída em console](#Exercícios-Saída-em-console) x 10
-- [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 3
+- [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 6
 - [Números e Operadores](#Exercícios-Números-e-Operadores) x 11
-- [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 9
+- [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 10
 - [Sub-rotinas](#Exercícios-Sub-rotinas) x 0
-- [Laços](#Exercícios-Laços) x 9
+- [Laços](#Exercícios-Laços) x 10
 - [Arranjos](#Exercícios-Arranjos) x 5
 - [Classes e Listas](#Exercícios-Classes-e-Listas) x 1
 
@@ -175,6 +175,9 @@ Enunciado | Correção | Extras
 [PrimeroCaractere](#Exercício-PrimeroCaractere) | _em breve_ | 
 [Phonewords](#Exercício-Phonewords) | _em breve_ | 
 [NomeNinja](#Exercício-NomeNinja) | _em breve_ | 
+[TextoVazio](#Exercício-TextoVazio) | _em breve_ | 
+[AlinhamentoDireita](#Exercício-AlinhamentoDireita) | _em breve_ | 
+[Forca](#Exercício-Forca) | _em breve_ | 
 
 ---
 ## Exercício `PrimeroCaractere`
@@ -213,6 +216,7 @@ Telefone...: 555-PIZZA
 O número digitado é 555-74992.
 ```
 
+---
 ## Exercício `NomeNinja`
 
 Receba o nome do usuário. Escreva seu nome ninja:
@@ -226,6 +230,57 @@ Exemplo:
 Digite seu nome: Ermogenes
 
 Seu nome ninja é Kushirinmojikutokuari.
+```
+
+---
+## Exercício `TextoVazio`
+
+Receba um texto via teclado. Avalie se o texto é vazio ou não.
+
+*********************** IsNullOrEmpty 
+
+---
+## Exercício `AlinhamentoDireita`
+
+Receba três palavras via teclado. Exiba uma em cada linha, todas alinhadas à direita no 20 caractere.
+
+Exemplo:
+```
+--- Alinhamento à direita ---
+
+Digite a primeira palavra...: batata
+Digite a segunda palavra....: intransigente
+Digite a terceira palavra...: caramelo
+
+              batata
+       intransigente
+            caramelo
+```
+
+---
+## Exercício `Forca`
+
+No jogo de Forca, uma palavra é mantida secreta e tenta-se adivinhar quais letras compõe a palavra.
+
+Faça um programa que receba a palavra secreta e uma letra. Avalie se a letra existe ou não na palavra secreta.
+
+Exemplos:
+```
+--- Forca ---
+
+Qual a palavra secreta? Jabuticaba
+Qual a letra? j
+
+A letra "j" existe na palavra secreta => True 
+```
+
+```
+--- Forca ---
+
+Qual a palavra secreta? Jabuticaba
+Qual a letra? e
+
+A letra "e" existe na palavra secreta => False
 ```
 
 # Exercícios: Números e Operadores
@@ -517,6 +572,7 @@ Enunciado | Correção | Extras
 [Estacionamento](#Exercício-Estacionamento) | _em breve_ | 
 [CaixaEletronico](#Exercício-CaixaEletronico) | _em breve_ | 
 [DiabetesGestacional](#Exercício-DiabetesGestacional) | _em breve_ | 
+[TriagemCovid](#Exercício-TriagemCovid) | _em breve_ | 
 
 ---
 ## Exercício `PescaAmadora`
@@ -749,6 +805,29 @@ Faça um programa que receba o valor de glicemia (em mg/dL), a semana de gestaç
 
 ¹ International Association of the Diabetes and Pregnancy Study Groups (IADPSG), OMS DIRETRIZES DA SOCIEDADE BRASILEIRA DE DIABETES 2017-2018.
 
+---
+## Exercício `TriagemCovid`
+
+Um possível procedimento¹ para triagem de pacientes com COVID-19:
+
+Pacientes que não apresentem febre², tosse² ou outros sintomas respiratórios² não recebem nenhuma recomendação específica.
+
+Avalia-se a presença de fatores de risco ou sinais de alarme. Caso presentes, são encaminhados para o sistema de saúde ou para uma ambulância de acordo com a gravidade². Caso contrário, recomenda-se isolamento domiciliar.
+
+- Sinais de alarme: falta de ar², aumento de frequência respiratória², dor torácica² e sensação de desmaio².
+- Fatores de risco para menores: hipertensão arterial sistêmica², diabetes melito² e outras doenças crônicas².
+- Fatores de risco para maiores: 65 anos ou mais, doença coronariana prévia², doença crônica descompensada² e aumento de frequência respiratória².
+
+Faça um programa que conduza um operador ao telefone a efetuar as perguntas necessárias para realização da triagem. Comece pela idade, e faça perguntas diretas que possam ser respondidas com [S]im ou [N]ão (itens sinalizados com a marcação ²). Evite duplicar perguntas.
+
+Exiba um dos resultados abaixo:
+- _Nenhuma recomendação específica_ (em verde)
+- _Recomendar isolamento domiciliar_ (em amarelo)
+- _Encaminhar para o sistema de saúde_ (em magenta)
+- _Encaminhar ambulância para o local_ (em vermelho)
+
+¹ Adaptado de https://www.slmandic.edu.br/tudo-sobre-coronavirus/.
+
 # Exercícios: Sub-rotinas
 
 Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
@@ -776,6 +855,7 @@ Enunciado | Correção | Extras
 [EspertoContraSabido](#Exercício-EspertoContraSabido) | _em breve_ | 
 [TrintaESeis](#Exercício-TrintaESeis) | _em breve_ | 
 [Ursos](#Exercício-Ursos) | _em breve_ | 
+[BarraDeProgresso](#Exercício-BarraDeProgresso) | _em breve_ | 
 
 ---
 ## Exercício `EntradaValida`
@@ -1121,6 +1201,49 @@ P  |***************
 MP |**********
 ```
 
+---
+## Exercício `BarraDeProgresso`
+
+Faça um programa que exiba uma barra de progresso para uma cópia de arquivo simulada, onde a quantidade de bytes copiados e o tempo gasto serão gerados aleatoriamente. 
+
+Receba o tamanho do arquivo em bytes.
+
+Em um loop, gere a quantidade de bytes a ser copiada na iteração (algo entre 2% e 10% do tamanho total). Aguarde um tempo aleatório (100ms e dois segundos) e considere a iteração finalizada, atualizando a barra de progresso. Continue fazendo novas iterações até que 100% do arquivo seja copiado.
+
+Ao final, exiba o tempo gasto (soma dos tempos de espera simulados) e a taxa de transmissão em bytes por segundo.
+
+Exemplo:
+
+```
+--- Cópia de Arquivo ---
+
+Tamanho (em bytes)...: 1000000
+
+...10...20...30...40...50...60...70...80...90..100
+***********
+```
+(alguns segundos depois...)
+```
+--- Cópia de Arquivo ---
+
+Tamanho (em bytes)...: 1000000
+
+...10...20...30...40...50...60...70...80...90..100
+*********************************
+```
+(alguns segundos depois...)
+```
+--- Cópia de Arquivo ---
+
+Tamanho (em bytes)...: 1000000
+
+...10...20...30...40...50...60...70...80...90..100
+**************************************************
+
+Taxa = 50.000,00bps
+Tempo = 20s
+```
+
 # Exercícios: Arranjos
 
 Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
@@ -1329,7 +1452,7 @@ z(8) = 44.127.887.745.906.175.377.408
 z(9) = 1.947.270.476.915.296.285.689.291.011.464.375.055.838.871.552
 ```
 
-Saiba mais [aqui](https://pt.wikipedia.org/wiki/Conjunto_de_Mandelbrot), [aqui](https://pt.wikipedia.org/wiki/Fractal), [aqui](http://galileo.phys.virginia.edu/compfac/courses/practical-c/12.pdf), [aqui](https://rosettacode.org/wiki/Mandelbrot_set) e [aqui](https://www.javatpoint.com/how-to-draw-the-mandelbrot-set-in-python)
+Saiba mais [aqui](https://pt.wikipedia.org/wiki/Conjunto_de_Mandelbrot), [aqui](https://pt.wikipedia.org/wiki/Fractal), [aqui](http://galileo.phys.virginia.edu/compfac/courses/practical-c/12.pdf), [aqui](https://rosettacode.org/wiki/Mandelbrot_set), [aqui](https://loiseaujc.github.io/Scientific_Computing_on_a_Laptop/Maths/Mandelbrot/binary_mandelbrot.html) e [aqui](https://www.javatpoint.com/how-to-draw-the-mandelbrot-set-in-python).
 
 # Exercícios: Classes e Listas
 

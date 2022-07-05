@@ -5,7 +5,7 @@
 - [Números e Operadores](#Exercícios-Números-e-Operadores) x 11
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 9
 - [Sub-rotinas](#Exercícios-Sub-rotinas) x 0
-- [Laços](#Exercícios-Laços) x 8
+- [Laços](#Exercícios-Laços) x 9
 - [Arranjos](#Exercícios-Arranjos) x 5
 - [Classes e Listas](#Exercícios-Classes-e-Listas) x 1
 
@@ -20,6 +20,7 @@
 - barra de progresso --- laços
 - efeito de digitação --- laços
 - personagem d&d --- classes e listas
+- comparacao de preços em quantidades diferentes
 
 # Exercícios: Saída em console
 
@@ -216,7 +217,7 @@ O número digitado é 555-74992.
 
 Receba o nome do usuário. Escreva seu nome ninja:
 
-![](https://4.bp.blogspot.com/-r5aVd5EpSZk/UNNX5PB_UFI/AAAAAAAAOd8/_eXtAD1jIqY/s1600/essa+%C3%A9+especial+pra+quem+n%C3%A3o+tem+o+que+fazer+=).jpg)
+![](https://4.bp.blogspot.com/-r5aVd5EpSZk/UNNX5PB_UFI/AAAAAAAAOd8/_eXtAD1jIqY/s1600/essa+%C3%A9+especial+pra+quem+n%C3%A3o+tem+o+que+fazer+=)
 
 Exemplo:
 ```
@@ -774,6 +775,7 @@ Enunciado | Correção | Extras
 [AnelDeCoracao](#Exercício-AnelDeCoracao) | _em breve_ | 
 [EspertoContraSabido](#Exercício-EspertoContraSabido) | _em breve_ | 
 [TrintaESeis](#Exercício-TrintaESeis) | _em breve_ | 
+[Ursos](#Exercício-Ursos) | _em breve_ | 
 
 ---
 ## Exercício `EntradaValida`
@@ -1054,6 +1056,69 @@ Dados: 1
 Pontos = 37
 
 HUMANO VENCEU!
+```
+
+---
+## Exercício `Ursos`
+
+Faça um programa para análise de dados coletados de ursos selvagens.
+
+Para cada urso, receba o peso (kg) e o sexo (M/F). Finalize a coleta ao receber um peso zero, negativo ou acima de 250kg.
+
+Para cada sexo, classifique os ursos em 5 categorias de peso:
+
+Categoria | Intervalo
+--- | ---
+Muito Leve   | `]0, 50]`
+Leve         | `]50, 100]`
+Médio        | `]100, 150]`
+Pesado       | `]150, 200]`
+Muito Pesado | `]200, 250]`
+
+Exiba:
+
+- o sexo e o peso do urso mais pesado;
+- a média de peso por sexo;
+- uma tabela de distribuição de frequência;
+- histogramas para ambos os sexos.
+
+Exemplo de tabela de distribuição de frequências:
+
+Categoria | Ursos | Ursos (%) | Machos | Machos (%) | Fêmeas | Fêmeas (%)
+--- | --- | --- | --- | --- | --- | --- 
+ML | 1 | 10% | 0 | 0% | 1 | 20%
+L  | 2 | 20% | 1 | 20% | 1 | 20%
+M  | 3 | 30% | 1 | 20% | 2 | 40%
+P  | 3 | 30% | 2 | 40% | 1 | 20%
+MP | 1 | 20% | 1 | 20% | 0 | 0%
+Total | 10 | 100% | 5 | 100% | 5 | 100%
+
+Exemplo de histogramas:
+
+```
+----- Ursos Machos -----
+   +...10...20...30...40...50...60...70...80...90..100
+ML |
+L  |**********
+M  |**********
+P  |********************
+MP |**********
+
+----- Ursos Fêmeas -----
+   +...10...20...30...40...50...60...70...80...90..100
+ML |**********
+L  |**********
+M  |********************
+P  |**********
+MP |
+
+----- Ursos (todos) -----
+   +...10...20...30...40...50...60...70...80...90..100
+ML |*****
+L  |**********
+M  |***************
+P  |***************
+MP |**********
 ```
 
 # Exercícios: Arranjos

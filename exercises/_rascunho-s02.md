@@ -1832,6 +1832,26 @@ N RGRP NQBYCUB ORERMVA É N ZRYUBE!
 
 Mais exemplos [aqui](https://rot13.com/).
 
+---
+## Exercício `PedraPapelTesoura`
+
+WIP
+```
+	pedra	papel	tesoura
+pedra	Houve um empate.	A pedra é coberta pelo papel.	A pedra quebra a tesoura.
+papel	O papel cobre a pedra.	Houve um empate.	O papel é cortado pela tesoura.
+tesoura	A tesoura é quebrada pela pedra.	A tesoura corta o papel.	Houve um empate.
+			
+jogadas	pedra	papel	tesoura
+			
+	pedra	papel	tesoura
+pedra	0	-1	1
+papel	1	0	-1
+tesoura	-1	1	0
+			
+TESOURA corta PAPEL cobre PEDRA quebra TESOURA			
+```
+
 # Exercícios: Classes e Listas
 
 Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.

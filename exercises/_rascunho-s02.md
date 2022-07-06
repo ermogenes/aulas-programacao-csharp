@@ -11,7 +11,7 @@
 
 # Ideias
 
-
+classes e listas
 - ff - combate
 - fila buffer de beeps
 - Carrinho de compras
@@ -22,11 +22,11 @@
 --- falta 1
 
 ---
-
+arranjos
 - pedra papel tesoura
 
 ---
-
+outros
 - explosão em bolha jogos
 - pacote ip
 

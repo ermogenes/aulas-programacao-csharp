@@ -6,20 +6,35 @@
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 12
 - [Sub-rotinas](#Exercícios-Sub-rotinas) x 0
 - [Laços](#Exercícios-Laços) x 10
-- [Arranjos](#Exercícios-Arranjos) x 8
+- [Arranjos](#Exercícios-Arranjos) x 11
 - [Classes e Listas](#Exercícios-Classes-e-Listas) x 4
 
 # Ideias
+
+
+- ff - combate
+- fila buffer de beeps
+- Carrinho de compras
+- pontuação no thanks
+- av solo
+- viloes dmg pg 94
+- paradas no metro
+--- falta 1
+
+---
+
+- pedra papel tesoura
+
+---
+
+- explosão em bolha jogos
+- pacote ip
 
 - Água
 - Cervejaria
 - 3 desejos
 - comparacao de preços em quantidades diferentes
 
-- fila --- classes e listas
-- ff - combate --- classes e listas
-- Carrinho de compras --- classes e listas
-- paradas no metro --- classes e listas
 
 # Exercícios: Saída em console
 
@@ -1379,6 +1394,9 @@ Enunciado | Correção | Extras
 [Mandelbrot](#Exercício-Mandelbrot) | _em breve_ | 
 [DreamTeam](#Exercício-DreamTeam) | _em breve_ | 
 [DistanciaPercorrida](#Exercício-DistanciaPercorrida) | _em breve_ | 
+[RLE](#Exercício-RLE) | _em breve_ | 
+[ExibeMatriz](#Exercício-ExibeMatriz) | _em breve_ | 
+[CifraDeCesar](#Exercício-CifraDeCesar) | _em breve_ | 
 
 ---
 ## Exercício `InverteString`
@@ -1655,6 +1673,164 @@ Exemplo:
   - Trecho de `0` para `1` = 434km
 - Percorrido: 1440km
 
+---
+## Exercício `RLE`
+
+O arranjo abaixo contém uma imagem compactada usando a [técnica RLE](https://pt.wikipedia.org/wiki/Codifica%C3%A7%C3%A3o_run-length).
+
+```csharp
+
+int [,] imagem = {
+	{  2, 44, 207 },
+	{ 14, 35,   7 },
+	{  2, 44,  49 },
+	{ 14, 35,  15 },
+	{  2, 44,  41 },
+	{ 14, 35,   5 },
+	{ 14, 47,   1 },
+	{  9, 44,  11 },
+	{ 14, 40,   1 },
+	{ 14, 35,   5 },
+	{  2, 44,  33 },
+	{ 14, 35,   7 },
+	{  9, 44,  19 },
+	{ 14, 35,   8 },
+	{  2, 44,  26 },
+	{ 14, 35,  10 },
+	{ 15, 64,   1 },
+	{  2, 44,   1 },
+	{ 15, 64,   1 },
+	{  8, 40,   1 },
+	{  8, 47,   1 },
+	{  2, 44,   1 },
+	{ 15, 64,   1 },
+	{  2, 44,   1 },
+	{ 15, 64,   2 },
+	{  9, 44,   9 },
+	{ 14, 35,  10 },
+	{  2, 44,  17 },
+	{  2, 47,   1 },
+	{ 14, 35,  12 },
+	{  9, 44,  14 },
+	{  3, 42,   1 },
+	{  8, 47,   1 },
+	{ 15, 64,   1 },
+	{  9, 44,   4 },
+	{ 14, 35,  12 },
+	{  2, 42,   1 },
+	{  2, 44,  16 },
+	{ 14, 35,  12 },
+	{  9, 44,  18 },
+	{ 15, 64,   3 },
+	{ 14, 35,  12 },
+	{  2, 44,  18 },
+	{ 14, 35,  10 },
+	{  2, 44,  18 },
+	{ 15, 64,   1 },
+	{ 14, 35,  10 },
+	{  2, 44,  25 },
+	{ 14, 35,   7 },
+	{  9, 44,  12 },
+	{ 15, 64,   1 },
+	{  9, 44,   4 },
+	{ 14, 35,   7 },
+	{  2, 44,  33 },
+	{ 14, 35,   6 },
+	{  9, 44,  11 },
+	{ 14, 35,   6 },
+	{  2, 44,  41 },
+	{ 14, 35,  15 },
+	{  2, 44,  49 },
+	{ 14, 35,   7 },
+	{  2, 44, 146 }
+}
+```
+
+<!--
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,#######,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,###############,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,#####/,,,,,,,,,,,(#####,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,#######,,,,,,,,,,,,,,,,,#######,,,,,,,,,,,,,,
+,,,,,,,,,,,##########@,@(/,@,@@,,,,,,,,,##########,,,,,,,,,,
+,,,,,,,/############,,,,,,,,,,,,,,*/@,,,,############*,,,,,,
+,,,,,,,,############,,,,,,,,,,,,,,,,,,@@@############,,,,,,,
+,,,,,,,,,,,##########,,,,,,,,,,,,,,,,,,@##########,,,,,,,,,,
+,,,,,,,,,,,,,,,#######,,,,,,,,,,,,@,,,,#######,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,######,,,,,,,,,,,######,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,###############,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,#######,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-->
+
+Cada elemento da matriz possui 3 números inteiros:
+- A cor para exibição, no formato [ConsoleColor](../content/saida-console.md#mudar-a-cor-da-letra);
+- O código ASCII do caractere a ser exibido;
+- A quantidade de vezes a repetições.
+
+Por exemplo, `{ 12, 65, 10}` significa uma sequência de 10 caracteres `A` em letra vermelha.
+
+Exiba a imagem no console. A imagem possui 60 caracteres de largura (faça as quebras manualmente).
+
+---
+## Exercício `ExibeMatriz`
+
+Considere a matriz abaixo:
+
+```csharp
+string[,] imagem ={
+  { " "," "," "," "," "," ","_","_"," "," "," "," "," "," "," " },
+  { " ","w"," "," ","c","(",".",".",")","o"," "," "," ","("," " },
+  { " "," ","\\","_","_","(","-",")"," "," "," "," ","_","_",")" },
+  { " "," "," "," "," "," ","/","\\"," "," "," ","("," "," "," " },
+  { " "," "," "," "," ","/","(","_",")","_","_","_",")"," "," " },
+  { " "," "," "," "," ","w"," ","/","|"," "," "," "," "," "," " },
+  { " "," "," "," "," "," ","|"," ","\\"," "," "," "," "," "," " },
+  { " "," "," "," "," ","m"," "," ","m"," "," "," "," "," "," " }
+};
+```
+
+<!-- 
+      __       
+ w  c(..)o   ( 
+  \__(-)    __)
+      /\   (   
+     /(_)___)  
+     w /|      
+      | \      
+     m  m      
+-->
+
+Exiba no console a imagem _ASCII Art_ contida na matriz.
+
+---
+## Exercício `CifraDeCesar`
+
+Em criptografia, a [Cifra de César](https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar) é uma das mais simples e conhecidas técnicas de criptografia. É um tipo de cifra de substituição na qual cada letra do texto é substituída por outra, que se apresenta no alfabeto abaixo dela um número fixo de vezes. Por exemplo, com uma troca de três posições, A seria substituído por D, B se tornaria E, e assim por diante. O nome do método é em homenagem a Júlio César, que o usou para se comunicar com os seus generais.
+
+Como há 26 letras (2 × 13) no alfabeto latino básico, o [ROT13](https://pt.wikipedia.org/wiki/ROT13) (_ROTacionar 13 vezes_) é sua própria inversão; isto é, para desfazer ROT13, o mesmo algoritmo é aplicado, então a mesma ação pode ser usada para codificação e decodificação.
+
+Implemente um programa que cifre/decifre uma string digitada pelo usuário usando ROT13.
+
+Para isso transforme o texto em maiúsculas e substitua cada letra pela letra 13 posições à frente no alfabeto (após `Z` volte para `A`). Repita os demais caracteres na saída (espaços, pontuações, acentuações, etc.).
+
+![](https://datagenetics.com/blog/july42015/rot13.png)
+
+Imagem: [DataGenetics](https://datagenetics.com/blog/july42015/index.html)
+
+Exemplos:
+```
+ERMOGENES
+REZBTRARF
+
+A ETEC ADOLPHO BEREZIN É A MELHOR!
+N RGRP NQBYCUB ORERMVA É N ZRYUBE!
+```
+
+Mais exemplos [aqui](https://rot13.com/).
 
 # Exercícios: Classes e Listas
 

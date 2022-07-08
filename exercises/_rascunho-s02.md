@@ -11,6 +11,8 @@
 
 # Ideias
 
+- strings 3d6+2
+
 classes e listas
 - ff - combate
 - fila buffer de beeps
@@ -25,6 +27,9 @@ classes e listas
 arranjos
 - pedra papel tesoura
 
+- campo minado https://www.puzzle-minesweeper.com/minesweeper-5x5-easy/
+- nonograma https://www.puzzle-nonograms.com/
+
 ---
 outros
 - explosão em bolha jogos
@@ -34,6 +39,18 @@ outros
 - Cervejaria
 - 3 desejos
 - comparacao de preços em quantidades diferentes
+
+- benford
+- unidade dezena centena
+- dv mod11
+- paradoxo do aniversario
+- firewall tabela
+- iniciais do nome
+- mês extenso
+- soletrar
+- nyquist, shannon -- redes
+- multiplicação egípcia etíope
+- queridos (???)
 
 
 # Exercícios: Saída em console

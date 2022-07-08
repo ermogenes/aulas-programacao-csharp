@@ -1,17 +1,15 @@
 # Índice Geral
 
 - [Saída em console](#Exercícios-Saída-em-console) x 10
-- [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 7
+- [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 10
 - [Números e Operadores](#Exercícios-Números-e-Operadores) x 12
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 12
 - [Sub-rotinas](#Exercícios-Sub-rotinas) x 0
 - [Laços](#Exercícios-Laços) x 10
-- [Arranjos](#Exercícios-Arranjos) x 11
+- [Arranjos](#Exercícios-Arranjos) x 12
 - [Classes e Listas](#Exercícios-Classes-e-Listas) x 4
 
 # Ideias
-
-- strings 3d6+2
 
 classes e listas
 - ff - combate
@@ -24,13 +22,6 @@ classes e listas
 --- falta 1
 
 ---
-arranjos
-- pedra papel tesoura
-
-- campo minado https://www.puzzle-minesweeper.com/minesweeper-5x5-easy/
-- nonograma https://www.puzzle-nonograms.com/
-
----
 outros
 - explosão em bolha jogos
 - pacote ip
@@ -40,17 +31,42 @@ outros
 - 3 desejos
 - comparacao de preços em quantidades diferentes
 
-- benford
-- unidade dezena centena
-- dv mod11
-- paradoxo do aniversario
-- firewall tabela
-- iniciais do nome
-- mês extenso
-- soletrar
-- nyquist, shannon -- redes
-- multiplicação egípcia etíope
+livros e afins
+
+- unidade dezena centena --- numeros
+- nyquist, shannon redes --- numeros
+- paradoxo do aniversario --- numeros
+- bayes falso positivo --- numeros
+- raio trovão distância --- numeros
+- detector de colisão (quadrado e círculo) --- numeros
+- altura escada --- numeros
+- intervalo em lista de valores (max menos min) --- numeros
+- polinomio y dado x --- funcao
+
+- mês extenso --- decisao
+
+- acerto de dardo --- decisao ou laços
+
+- dv mod11 --- laços
+- iniciais do nome --- laços
+- divisores --- laços
+- collatz série --- laços
+- raiz quad via heron --- laços
+- soletrar --- laços
+- multiplicação egípcia etíope --- laços
+
+- firewall tabela --- arranjo
+- benford --- arranjos
+- maquina de estados --- arranjos
+- campo minado https://www.puzzle-minesweeper.com/minesweeper-5x5-easy/ --- arranjos
+- nonograma https://www.puzzle-nonograms.com/ --- arranjos
+
 - queridos (???)
+
+--- sons
+
+https://dfilitto.com.br/desenvolvimento/c-sharp/c-modo-console-musicas-com-o-console-beep/
+http://www.dsc.ufcg.edu.br/~jacques/cursos/p2/html/listaexer.htm
 
 
 # Exercícios: Saída em console
@@ -210,6 +226,9 @@ Enunciado | Correção | Extras
 [AlinhamentoDireita](#Exercício-AlinhamentoDireita) | _em breve_ | 
 [Forca](#Exercício-Forca) | _em breve_ | 
 [PetHotel](#Exercício-PetHotel) | _em breve_ | 
+[TrocaVariaveis](#Exercício-TrocaVariaveis) | _em breve_ | 
+[RolagemComposta](#Exercício-RolagemComposta) | _em breve_ | 
+[ImitandoDory](#Exercício-ImitandoDory) | _em breve_ | 
 
 ---
 ## Exercício `PrimeroCaractere`
@@ -332,6 +351,57 @@ Faça um programa que receba dados de um _pet_ ao dar entrada em um _pet_ hotel.
 ```
 
 Use cores destacadas para o título e para os dados do _pet_, e cores neutras para as bordas.
+
+---
+## Exercício `TrocaVariaveis`
+
+Faça um programa que armazene em duas variáveis os nomes de pessoas fornecidos pelo usuário. Troque os nomes contidos nas variáveis (o primeiro nome vira o segundo e _vice-versa_).
+
+Exiba as variáveis na ordem que foram digitadas, de forma a mostrar os nomes em ordem inversa.
+
+Exemplo:
+```
+--- Troca de Valores ---
+
+Nome 1...: Ermogenes
+Nome 2...: Neri
+
+Após trocar os valores temos:
+
+Nome 1 = Neri
+Nome 2 = Ermogenes
+```
+
+---
+## Exercício `RolagemComposta`
+
+Na pesquisa do Google podemos efetuar rolagens aleatórias de dados usando a sintaxe `NdF+X`, sendo `N` a quantidade de dados a rolar, `F` a quantidade de faces em cada dado e `X` o valor a acrescentar à soma dos dados.
+
+Por exemplo, digite `2d20+3` para [rolar 2 dados de 20 lados, somá-los e acrescentar 3 ao resultado](https://www.google.com/search?q=2d20%2b3).
+
+Faça um programa que receba uma string nesse formato, grave em variáveis a quantidade de dados, de faces e o valor a acrescentar. Exiba os valores ao usuário.
+
+Exemplo:
+```
+--- Rolagem de Dados ---
+
+Digite a rolagem desejada...: 4d6+1
+
+4 dado(s) de 6 face(s) mais 1
+```
+
+---
+## Exercício `ImitandoDory`
+
+Em [uma cena antológica](https://www.youtube.com/watch?v=UjWFVm1loPQ) de "Procurando Nemo" (Pixar, 2003), a personagem Dory (uma cirurgião-patela) tenta se comunicar com uma baleia falando "_baleiês_".
+
+![](https://s2.glbimg.com/g8B8x6xuzZVitl1fvsFWMD-S8ruBBV4p8bNWxMqmazRIoz-HdGixxa_8qOZvMp3w/e.glbimg.com/og/ed/f/original/2013/04/02/dor01.jpg)
+
+Faça um programa que traduza o testo digitado pelo usuário em _baleiês_, substituindo cada vogal por 3 cópias dela mesma.
+
+Exemplo:
+- Em português: "Procurando Nemo"
+- Em _baleiês_: "Prooocuuuraaandooo Neeemooo"
 
 # Exercícios: Números e Operadores
 
@@ -1414,6 +1484,7 @@ Enunciado | Correção | Extras
 [RLE](#Exercício-RLE) | _em breve_ | 
 [ExibeMatriz](#Exercício-ExibeMatriz) | _em breve_ | 
 [CifraDeCesar](#Exercício-CifraDeCesar) | _em breve_ | 
+[PedraPapelTesoura](#Exercício-PedraPapelTesoura) | _em breve_ | 
 
 ---
 ## Exercício `InverteString`
@@ -1852,22 +1923,33 @@ Mais exemplos [aqui](https://rot13.com/).
 ---
 ## Exercício `PedraPapelTesoura`
 
-WIP
-```
-	pedra	papel	tesoura
-pedra	Houve um empate.	A pedra é coberta pelo papel.	A pedra quebra a tesoura.
-papel	O papel cobre a pedra.	Houve um empate.	O papel é cortado pela tesoura.
-tesoura	A tesoura é quebrada pela pedra.	A tesoura corta o papel.	Houve um empate.
+[Jokenpô](https://pt.wikipedia.org/wiki/Pedra,_papel_e_tesoura), também conhecido como _Pedra papel e tesoura_ ou _escoteirinho_, é um jogo de mãos para duas pessoas, onde os jogadores devem simultaneamente esticar a mão, na qual cada um formou um símbolo (que significa pedra, papel ou tesoura). Então, os jogadores comparam os símbolos para decidir quem ganhou, da seguinte forma:
+
+- Pedra ganha da tesoura (quebrando-a).
+- Tesoura ganha do papel (cortando-o).
+- Papel ganha da pedra (cobrindo-a).
+
+A pedra é simbolizada por um punho fechado; a tesoura, por dois dedos esticados; e o papel, pela mão aberta. Caso dois jogadores façam o mesmo gesto, ocorre um empate, e geralmente se joga de novo até desempatar. Este jogo possui uma única regra: não é permitido mostrar pedra duas vezes seguidas.
+
+Implemente o jogo utilizando as dicas abaixo. Ganha o jogador que primeiro ganhar 5 mãos.
+
+Represente as jogadas usando `0` para pedra, `1` para papel e `2` para tesoura. A jogada humana é feita via teclado e a IA realiza uma jogada aleatória.
+
+A tabela abaixo mapeia as frases a serem exibidas de acordo com as jogadas:
+
+Jogada | Pedra | Papel | Tesoura
+--- | --- | --- | ---
+Pedra | Houve um empate. | A pedra é coberta pelo papel. | A pedra quebra a tesoura.
+Papel | O papel cobre a pedra. | Houve um empate. | O papel é cortado pela tesoura.
+Tesoura | A tesoura é quebrada pela pedra. | A tesoura corta o papel. | Houve um empate.
+
+O jogador vitorioso pode ser avaliado a partir da tabela abaixo, onde `1` significa vitória, `0` empate e `-1` derrota:
 			
-jogadas	pedra	papel	tesoura
-			
-	pedra	papel	tesoura
-pedra	0	-1	1
-papel	1	0	-1
-tesoura	-1	1	0
-			
-TESOURA corta PAPEL cobre PEDRA quebra TESOURA			
-```
+Resultado | Pedra | Papel | Tesoura
+--- | --- | --- | ---
+Pedra | 0 | -1 | 1
+Papel | 1 | 0 | -1
+Tesoura | -1 | 1 | 0
 
 # Exercícios: Classes e Listas
 
@@ -2029,9 +2111,3 @@ Crie um menu que permita executar as seguintes operações na conta do Ermogenes
 Não permita saques ou Pix quando o saldo não é suficiente.
 
 A cada ação, exiba o saldo atual das duas contas. Finalize o programa por indicação do usuário.
-
-# TODO
-sons
-
-https://dfilitto.com.br/desenvolvimento/c-sharp/c-modo-console-musicas-com-o-console-beep/
-http://www.dsc.ufcg.edu.br/~jacques/cursos/p2/html/listaexer.htm

@@ -4,7 +4,7 @@
 - [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 10
 - [Números e Operadores](#Exercícios-Números-e-Operadores) x 12
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 14
-- [Sub-rotinas](#Exercícios-Sub-rotinas) x 0
+- [Sub-rotinas](#Exercícios-Sub-rotinas) x 7
 - [Laços](#Exercícios-Laços) x 12
 - [Arranjos](#Exercícios-Arranjos) x 13
 - [Classes e Listas](#Exercícios-Classes-e-Listas) x 8
@@ -31,17 +31,12 @@ livros e afins
 - nyquist, shannon redes --- numeros
 
 - bayes falso positivo --- numeros
-- paradoxo do aniversario --- numeros
-- raio trovão distância --- numeros
-- detector de colisão (quadrado e círculo) --- numeros
-- altura escada --- numeros
 - intervalo em lista de valores (max menos min) --- numeros
 - polinomio y dado x --- funcao
 
 - dv mod11 --- laços
 - iniciais do nome --- laços
 - divisores --- laços
-- collatz série --- laços
 - raiz quad via heron --- laços
 - multiplicação egípcia etíope --- laços
 
@@ -1099,7 +1094,125 @@ Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
 
 Enunciado | Correção | Extras
 --- | --- | ---
-[xxxxxxx](#Exercício-xxxxxxx) | _em breve_ | 
+[ParadoxoDoAniversario](#Exercício-ParadoxoDoAniversario) | _em breve_ | 
+[AlarmeFalso](#Exercício-AlarmeFalso) | _em breve_ | 
+[Escada](#Exercício-Escada) | _em breve_ | 
+[HorasExtras](#Exercício-HorasExtras) | _em breve_ | 
+[ColisaoCircular2D](#Exercício-ColisaoCircular2D) | _em breve_ | 
+[RaioETrovao](#Exercício-RaioETrovao) | _em breve_ | 
+[Granizo](#Exercício-Granizo) | _em breve_ | 
+
+---
+## Exercício `ParadoxoDoAniversario`
+
+O paradoxo do aniversário afirma que dado um grupo de 23 pessoas escolhidas aleatoriamente, a chance de que duas pessoas terão a mesma data de aniversário é de mais de 50%. Para 57 ou mais pessoas, a probabilidade é maior do que 99%, entretanto, ela não pode ser exatamente 100% exceto que se tenha pelo menos 367 pessoas. Calcular essa probabilidade (e as relacionadas a ela) é o problema do aniversário, apresentado pela primeira vez pelo matemático polonês Richard von Mises (irmão mais novo do famoso economista Ludwig von Mises).
+
+Escreva uma função que calcule a probabilidade de um grupo de tamanho `n` possuir duas ou mais pessoas com a mesma data de aniversário. Desconsidere variações como anos bissextos e gêmeos.
+
+Essa probabilidade é dada por:
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/c9d215da459cb58833058a449c2aba29f0d25f25)
+
+Valores para teste:
+`n` | `f(n)`
+--- | ---
+10 | 12%
+20 | 41%
+23 | 50.7%
+30 | 70%
+50 | 97%
+100 | 99.99996%
+200 | 99.9999999999999999999999999998%
+367 | 100%
+
+---
+## Exercício `AlarmeFalso`
+
+Imagine que um paciente faz um exame para uma doença e recebe um resultado positivo. Tal exame apresenta uma precisão de 87%, e a doença incide em 1% da população. O médico, conhecedor de estatística, diz ao paciente para que não se preocupe, já que provavelmente é um alarme falso (chances de exatamente 93.7%).
+
+A intuição errada de resultados sem levar em consideração a base de incidência é conhecida como _mito de probabilidade de base_.
+
+Escreva uma função que calcule a probabilidade de um exame médico positivo indicar um alarme falso `f` dados a precisão do exame (`p`) e a incidência na população (`i`).
+
+Usando o [teorema de Bayes](https://pt.wikipedia.org/wiki/Teorema_de_Bayes), temos que `f = (1-p)(1-i) / ( pi + (1-p)(1-i) )`.
+
+Valores para teste:
+`p` | `i` | `f`
+--- | --- | ---
+0,87 | 0,01 | 0,937
+0,999 | 0,01 | 0,09
+0,999 | 0,0001 | 0,91
+
+---
+## Exercício `Escada`
+
+Uma escada ficará enconstada em uma parede caso forme entre ela e o chão um ângulo menor do que 90˚.
+
+Escreva uma função que calcule a altura alcançada pela escada, dados o comprimento da escada (em m) e o ângulo em que está encostada (em graus).
+
+Converta o ângulo em graus para radianos, fazendo `(π graus) / 180`.
+
+Para calcular a altura, saiba que o comprimento da escada equivale à razão entre a altura e o seno do ângulo.
+
+Em ![](escada-1.svg), `b = c.senβ`.
+
+Valores para teste:
+escada | ângulo | parede
+--- | --- | ---
+4 | 70 | 3,76
+4 | 45 | 2,83
+5 | 70 | 4,70
+
+Mais valores de teste [aqui](https://www.calculat.org/pt/area-perimetro/triangulo-retangulo.html).
+
+---
+## Exercício `HorasExtras`
+
+Escreva uma função que calcule o salário de um funcionário a partir salário-hora base e do número de horas-extras executadas. Considere que cada hora-extra é paga com acréscimo de 40%.
+
+---
+## Exercício `ColisaoCircular2D`
+
+Chamamos de algoritmos de detecção de colisão 2D os procedimentos que permitem avaliar se dois objetos em um mesmo plano se sobrepõe. A principal aplicação é a computação gráfica, em especial para simulações de física em jogos.
+
+Escreva uma função que recebe as coordenadas cartesianas e o raio de duas circunferências, que representam o espaço ocupado por dois objetos. Retorne um _booleano_ indicando se os objetos colidem ou não.
+
+Exemplos com os objetos `A` de raio 4 e `B` de raio 2:
+ 
+Com `A` centrado em `(-2,0)` e `B` centrado em `(4,4)` não há colisão.
+![](colisao-circ-1.png)
+
+Com `A` centrado em `(-2,0)` e `B` centrado em `(2,4)` há colisão.
+![](colisao-circ-2.png)
+
+Saiba mais [aqui](https://developer.mozilla.org/pt-BR/docs/Games/Techniques/2D_collision_detection).
+
+---
+## Exercício `RaioETrovao`
+
+Escreva uma função que retorne a distância (em km) entre um observador e o local de queda de um raio. Receba como entrada o tempo decorrido entre o raio e o trovão (em segundos).
+
+Aproxime a velocidade do som para 340,29m/s.
+
+Valores para teste
+
+Tempo (s) | Distância (km)
+--- | ---
+3 | 1,02087
+6 | 2.04174
+
+---
+## Exercício `Granizo`
+
+Em 1937, o matemático alemão Lothar Collatz propôs uma [sequência numérica](https://pt.wikipedia.org/wiki/Conjectura_de_Collatz) que seria conhecida posteriormente como __números de granizo__, pois "_como o granizo nas nuvens antes de cair, os números saltam de um lugar ao outro antes de chegar ao 4, 2, 1_". O problema chega sempre ao mesmo ponto, não importa como.
+
+Escreva uma sub-rotina que receba um número inteiro `x` e exiba a sequência de Collatz iniciando em `x`.
+
+- Se `x` é par, divida-o por 2;
+- Se `x``é ímpar, multiplique-o por 3 e some 1;
+- Repita o processo enquanto `x` for maior que 1.
+
+Saiba mais [aqui](https://www.bbc.com/portuguese/geral-36702054).
 
 # Exercícios: Laços
 

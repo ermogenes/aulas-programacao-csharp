@@ -53,6 +53,13 @@ livros e afins
 https://dfilitto.com.br/desenvolvimento/c-sharp/c-modo-console-musicas-com-o-console-beep/
 http://www.dsc.ufcg.edu.br/~jacques/cursos/p2/html/listaexer.htm
 
+************************************** adicionar Thread.Sleep em console
+
+************* Adicionar Substring em https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/string.md
+
+*********************** IsNullOrEmpty 
+
+******************** adicionar Array.Sort
 
 # Exercícios: Saída em console
 
@@ -82,7 +89,7 @@ Faça um programa que exiba a seguinte mensagem:
 Pressione uma tecla para continuar...
 ```
 
-Após o usuário pressionar uma tecla, agradeça ao usuário e finalize o programa.
+Após o usuário pressionar uma tecla, agradeça e finalize o programa.
 
 ---
 ## Exercício `DezSegundos`
@@ -108,8 +115,6 @@ Contando até dez: 0 1 2
 
 ... e assim sucessivamente.
 
-************************************** adicionar Thread.Sleep em console
-
 ---
 ## Exercício `FrutasPreferidas`
 
@@ -129,7 +134,7 @@ Exemplo:
 ---
 ## Exercício `Piada`
 
-Faça um programa que exiba uma piada.
+Faça um programa que exiba uma piada à sua escolha.
 
 Exemplo:
 ```
@@ -143,7 +148,7 @@ Joãozinho se levanta:
 ---
 ## Exercício `Adivinha`
 
-Faça um programa que exiba um adivinha, no formato "_o que é, o que é?_". Faça uma pausa de 5 segundos para que usuário possa pensar na resposta.
+Faça um programa que exiba um adivinha no formato "_o que é, o que é?_". Faça uma pausa de 5 segundos para que usuário possa pensar na resposta.
 
 Exemplo:
 ```
@@ -152,8 +157,6 @@ O que é, o que é...
 
 Nada.
 ```
-
-************************************** adicionar Thread.Sleep em console
 
 ---
 ## Exercício `PoemaConcreto`
@@ -174,7 +177,7 @@ Faça um programa que exiba o poema concreto _Beba Coca-Cola_, de Décio Pignata
 ---
 ## Exercício `TimeDoCoracao`
 
-Faça um programa que exiba o nome do seu time do coração (ou um time qualquer, não importa o esporte). Utilize as cores do time.
+Faça um programa que exiba o nome do seu time do coração (ou um time qualquer, independente do esporte). Utilize as cores do time.
 
 Exemplos:
 
@@ -189,12 +192,12 @@ Faça um programa que emita _beeps_ no tom da canção citada em "O Pastorzinho"
 Dó, ré, mi, fá, fá, fá,
 Dó, ré, do, ré, ré, ré,
 Do, sol, fá, mi, mi, mi,
-Do, ré, mi, fá, fá, fá (2x)
+Do, ré, mi, fá, fá, fá.
 ```
 
 Exiba a nota que está sendo tocada no momento.
 
-Ref.: https://www.youtube.com/watch?v=gAu7PphBIRU e https://www.youtube.com/watch?v=S9UwYm3hJ7o
+Ref.: [aqui](https://www.youtube.com/watch?v=gAu7PphBIRU) e [aqui](https://www.youtube.com/watch?v=S9UwYm3hJ7o)
 
 # Exercícios: Entrada de dados e Strings
 
@@ -227,15 +230,11 @@ Digitação | Resultado esperado
 `···xyz·····` | `x`
 
 ---
-
-************* Adicionar Substring em https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/string.md
-
----
 ## Exercício `Phonewords`
 
 _Phonewords_ são palavras ou frases representadas com caracteres alfanuméricos em substituição aos seus números equivalentes em um teclado telefônico. Tem a função de facilitar a memorização.
 
-Ex.: Um hotel _Holiday Inn_ com o número `1-800-HOLIDAY` (equivalente a `1-800-465-4329`).
+Exemplo: Um hotel _Holiday Inn_ com o número `1-800-HOLIDAY` (equivalente a `1-800-465-4329`).
 
 Faça um programa que receba um número telefônico. Converta as _phonewords_ nos números equivalentes.
 
@@ -273,8 +272,6 @@ Seu nome ninja é Kushirinmojikutokuari.
 
 Receba um texto via teclado. Avalie se o texto é vazio ou não.
 
-*********************** IsNullOrEmpty 
-
 ---
 ## Exercício `AlinhamentoDireita`
 
@@ -296,7 +293,7 @@ Digite a terceira palavra...: caramelo
 ---
 ## Exercício `Forca`
 
-No jogo de Forca, uma palavra é mantida secreta e tenta-se adivinhar quais letras compõe a palavra.
+No jogo de Forca uma palavra é mantida secreta e tenta-se adivinhar quais letras compõem a palavra.
 
 Faça um programa que receba a palavra secreta e uma letra. Avalie se a letra existe ou não na palavra secreta.
 
@@ -342,19 +339,19 @@ Use cores destacadas para o título e para os dados do _pet_, e cores neutras pa
 
 Faça um programa que armazene em duas variáveis os nomes de pessoas fornecidos pelo usuário. Troque os nomes contidos nas variáveis (o primeiro nome vira o segundo e _vice-versa_).
 
-Exiba as variáveis na ordem que foram digitadas, de forma a mostrar os nomes em ordem inversa.
+Exiba as variáveis na ordem que foram digitadas de forma a mostrar os nomes em ordem inversa.
 
 Exemplo:
 ```
 --- Troca de Valores ---
 
-Nome 1...: Ermogenes
-Nome 2...: Neri
+Nome 1...: Barbie
+Nome 2...: Polly
 
 Após trocar os valores temos:
 
-Nome 1 = Neri
-Nome 2 = Ermogenes
+Nome 1 = Polly
+Nome 2 = Barbie
 ```
 
 ---
@@ -364,7 +361,7 @@ Na pesquisa do Google podemos efetuar rolagens aleatórias de dados usando a sin
 
 Por exemplo, digite `2d20+3` para [rolar 2 dados de 20 lados, somá-los e acrescentar 3 ao resultado](https://www.google.com/search?q=2d20%2b3).
 
-Faça um programa que receba uma string nesse formato, grave em variáveis a quantidade de dados, de faces e o valor a acrescentar. Exiba os valores ao usuário.
+Faça um programa que receba uma string nesse formato e grave em variáveis a quantidade de dados, de faces e o valor a acrescentar. Exiba os valores ao usuário.
 
 Exemplo:
 ```
@@ -412,7 +409,7 @@ Enunciado | Correção | Extras
 ---
 ## Exercício `InteiroEDecimal`
 
-Solicite que o usuário digite um valor real. Exiba separadamente os valores dos componentes inteiros e decimais.
+Solicite que o usuário digite um valor real. Exiba separadamente os valores dos componentes inteiro e decimal do número digitado.
 
 Exemplos:
 ```
@@ -438,7 +435,7 @@ Parte decimal: 0,5
 
 Um dado comum possui seis faces numeradas de 1 a 6. Existem dados poliédricos com as mais diversas contagens de faces, sendo as mais comuns 4, 6, 8, 10, 12, e 20.
 
-Faça um programa que receba a quantidade de faces do dado, e sorteie aleatoriamente um valor entre 1 e a quantidade de faces informada, simulando uma rolagem.
+Faça um programa que receba a quantidade de faces do dado e sorteie aleatoriamente um valor entre 1 e a quantidade de faces informada, simulando uma rolagem.
 
 Exemplos:
 ```
@@ -482,7 +479,7 @@ Solicite que o usuário digite o valor da compra e o valor pago. Exiba o valor d
 ---
 ## Exercício `IndependenciaFinanceira`
 
-Faça um programa que calcule quanto dinheiro é necessário possuir em um investimento para conseguir sua independência financeira com dividendos (ou seja, os dividendos deverão pagar todos os seus custos). Receba os gastos mensais e o rendimento dos dividendos (_dividend yield_). O valor necessário investido para receber X reais de dividendo todo mês com Y% de _dividend yield_ é `X / (Y / 100)`.
+Faça um programa que calcule quanto dinheiro é necessário possuir em um investimento para conseguir sua independência financeira com dividendos (ou seja, os dividendos deverão pagar todos os seus custos). Receba os gastos mensais e o rendimento dos dividendos (_dividend yield_). O valor necessário investido para receber `X` reais de dividendo todo mês com `Y`% de _dividend yield_ é `X / (Y / 100)`.
 
 Valores para teste:
 Para receber mensalmente | com _dividend yield_ de | é necessário investir 
@@ -507,7 +504,7 @@ Para receber R$3500,00 por mês com rendimentos de 0,5% você precisa ter invest
 ---
 ## Exercício `GinasticaArtistica`
 
-Em uma competição de ginástica artística a pontuação de um ginasta é dada pela soma de sua nota de partida com a nota dada pela banca de jurados.
+Em uma competição de ginástica artística a pontuação de um(a) ginasta é dada pela soma de sua nota de partida com a nota de execução dada pela banca de jurados.
 
 Faça um programa que receba o nome do(a) ginasta, a nota de partida e a nota de execução. Exiba a nota final.
 
@@ -529,9 +526,9 @@ Um aparelho _Ar Condicionado Split LG DUAL Inverter 9.000 Frio_ consome 17,1 kWh
 
 ![](https://www.lg.com/br/images/ar-condicionado-residencial/md06014456/gallery/DZ-E.jpg)
 
-Isso significa que se utilizado 8h por dia, consome 136,8 kWh/mês. Considerando o custo por kWh de R$0,62258, teríamos um custo estimado de R$85,168944.
+Isso significa que, se utilizado 8h por dia, consome 136,8 kWh/mês. Considerando o custo por kWh de R$0,62258, teríamos um custo estimado de R$85,168944.
 
-Faça um programa que estime o custo de consumo de energia de um aparelho elétrico, dado o seu consumo em kWh/mês e o uso diário (em horas).
+Faça um programa que estime o custo de consumo de energia de um aparelho elétrico dado o seu consumo em kWh/mês e o uso diário (em horas).
 
 - `Tempo de uso diário (h)` x `Consumo do aparelho (kWh/mês)` x `Custo da energia (R$/kWh)` = `Custo de um mês de uso (R$)`
 
@@ -578,7 +575,7 @@ Custo do crédito rotativo.........: R$81,82
 ---
 ## Exercício `Churrasco`
 
-Faça um programa que calcule e quantidade de itens necessários para um churrasco, a partir da quantidade de adultos (que consomem e que não consomem bebidas alcoólicas) e de crianças.
+Faça um programa que calcule a quantidade de itens necessários para um churrasco a partir da quantidade de adultos (que consomem e que não consomem bebidas alcoólicas) e de crianças.
 
 Item | Por adulto | Por criança
 --- | --- | ---
@@ -588,7 +585,7 @@ Cerveja | 2l | --
 Refrigerante | 500ml | 500ml
 Água | 400ml | 400ml
 
-Estime cerveja ou refrigerante, de acordo com a indicação de consumo dos adultos. Estime refrigerante para todas as crianças. Estime água para todos.
+Estime cerveja e refrigerantes de acordo com a indicação de consumo dos adultos. Estime refrigerante para todas as crianças. Estime água para todos.
 
 Exemplo:
 ```
@@ -633,7 +630,7 @@ Cálculo:
 ---
 ## Exercício `FormulaDoPadeiro`
 
-Em panificação, as receitas são sempre formuladas em razão da quantidade de farinha (chamada de _cem porcento_).
+Em panificação, as receitas são geralmente formuladas em razão da quantidade de farinha (chamada de _cem porcento_).
 
 Considere, por exemplo, a seguinte receita de pão italiano:
 
@@ -644,7 +641,7 @@ Farinha | 500 g | 100%
 Fermento | 200 g | 40%
 Sal | 10 g | 2%
 
-Faça um programa que calcule a quantidade de ingredientes necessários para a confecção de um pão italiano (a partir da receita acima) para que a o peso obtido ao final coincida com o peso desejado.
+Faça um programa que calcule a quantidade de ingredientes necessários para a confecção de um pão italiano (a partir da receita acima) para que o peso obtido ao final coincida com o peso desejado.
 
 - `Peso do pão em relação ao peso da farinha` = soma dos percentuais da receita (no exemplo, 1 + 0,7 + 0,4 + 0,02 = 2,12)
 - `Percentual da farinha em relação ao peso final` (o chamado  _cem porcento_) = `Peso desejado` * `Peso do pão em relação ao peso da farinha`
@@ -666,7 +663,7 @@ Sal........: 47 g
 ---
 ## Exercício `ColoniaDeBacterias`
 
-Um grupo de biólogos está estudando o desenvolvimento de uma determinada colônia de bactérias e descobriu que sob condições ideais, o número de bactérias `n` pode ser encontrado através da expressão `n = 2000 . 2^(0,5t)`, `t` em horas.
+Um grupo de biólogos está estudando o desenvolvimento de uma determinada colônia de bactérias e descobriu que, sob condições ideais, o número de bactérias `n` existente na colônia pode ser encontrado através da expressão `n = 2000 . 2^(0,5t)`, com `t` em horas.
 
 Busca-se saber em quanto tempo a colônia atinge um certo número de indivíduos `n`. Isolando a variável `t`, obtemos a relação `t = 2 . log2( n / 2000 )`.
 
@@ -694,7 +691,7 @@ Enunciado | Correção | Extras
 [MaiorDeTres](#Exercício-MaiorDeTres) | _em breve_ | 
 [Multiplo](#Exercício-Multiplo) | _em breve_ | 
 [Bissexto](#Exercício-Bissexto) | _em breve_ | 
-[FluxogramaEngenharia](#Exercício-FluxogramaEngenharia) | _em breve_ | 
+[FluxogramaDaEngenharia](#Exercício-FluxogramaDaEngenharia) | _em breve_ | 
 [Estacionamento](#Exercício-Estacionamento) | _em breve_ | 
 [CaixaEletronico](#Exercício-CaixaEletronico) | _em breve_ | 
 [DiabetesGestacional](#Exercício-DiabetesGestacional) | _em breve_ | 
@@ -707,7 +704,7 @@ Enunciado | Correção | Extras
 ---
 ## Exercício `PescaAmadora`
 
-Um pescador amador solicita um software avaliação da legalidade de sua pesca. Faça um programa que receba um peso em kg e o local da pesca (`C` ou `M`) e exiba, conforme o caso:
+Um pescador amador solicita um software para avaliação da legalidade de sua pesca. Faça um programa que receba o peso do pescado em kg e o local da pesca (`C` ou `M`) e exiba, conforme o caso:
 
  - `Pescaria dentro dos limites legais.`, ou
  - `Pescaria excede os limites legais em XXX kg. Sujeito a multa de R$ YYY.`
@@ -743,7 +740,7 @@ Pescaria dentro dos limites legais.
 ---
 ## Exercício `CasaDeTintas`
 
-Faça uma calculadora para uma casa de tintas. O usuário fornecerá a área a ser pintada (em m²), e será informado sobre a quantidade de produtos necessários para cobrir a área indicada.
+Faça uma calculadora para uma casa de tintas. O usuário fornecerá a área a ser pintada (em m²) e será informado sobre a quantidade de produtos necessários para cobrir a área indicada.
 
 Acrescente 10% à tinta necessária, como folga para erros.
 
@@ -816,7 +813,7 @@ Exemplos de valores para teste:
 - Bissextos pela regra 3: 4, 8, 12, ..., 1992, 1996, 2004, ..., 2092, 2096, 2104
 
 ---
-## Exercício `FluxogramaEngenharia`
+## Exercício `FluxogramaDaEngenharia`
 
 Faça um programa que implemente o meme _Fluxograma da Engenharia_.
 
@@ -897,7 +894,7 @@ Valor total: R$148,00
 ---
 ## Exercício `CaixaEletronico`
 
-Ao realizar um saque, um caixa eletrônico calcula a quantidade de notas a entregar ao solicitante. Faça um programa que dado um valor desejado para saque (o número deve ser positivo e não pode conter centavos), calcule a quantidade de cada nota a ser entregue. Dê preferência para notas de valor mais alto.
+Ao realizar um saque um caixa eletrônico calcula a quantidade de notas a entregar ao solicitante. Faça um programa que dado um valor desejado para saque (o número deve ser positivo e não pode conter centavos), calcule a quantidade de cada nota a ser entregue. Dê preferência para notas de valor mais alto.
 
 Notas disponíveis: 1, 2, 5, 10, 20, 50, 100 e 200 reais
 
@@ -919,7 +916,7 @@ O caixa deve entregar:
 ---
 ## Exercício `DiabetesGestacional`
 
-Segundo a Sociedade Brasileira de Diabetes¹, a avaliação de Diabetes em grávidas é realizada através de um exame de glicemia conforme a tabela abaixo:
+Segundo a Sociedade Brasileira de Diabetes¹, a avaliação de Diabetes em grávidas é realizada através de um exame de glicemia comparado com a tabela abaixo:
 
 ```
 < 92 mg/dL (reavaliar entre 24 e 28 semanas com TTOG 75g de glicose)
@@ -927,13 +924,13 @@ Segundo a Sociedade Brasileira de Diabetes¹, a avaliação de Diabetes em gráv
 = ou > 126 mg/dL = Diabetes Mellitus na Gravidez
 ```
 
-Faça um programa que receba o valor de glicemia (em mg/dL), a semana de gestação, e um indicador de prévio Teste de Tolerância a Glicose Oral (S/N). Exiba o diagnóstico adequado, conforme a situação:
+Faça um programa que receba o valor de glicemia (em mg/dL), a semana de gestação e um indicador de prévio de Teste de Tolerância a Glicose Oral (S/N). Exiba o diagnóstico adequado, conforme a situação:
 - _Diabetes Mellitus_ (quando glicemia > 126 mg/dL);
 - _Compatível com Diabetes Gestacional_ (quando glicemia entre 92 mg/dL e 126 mg/dL);
-- _Reavaliar entre 24 e 28 semanas com TTOG 75g de glicose_ (quando glicemia < 92 mg/dL, sem TTOG ou antes da 24 semana);
-- _Normal_ (quando gllicemia < 92 mg/dL com TTOG a partir da 24 semana).
+- _Reavaliar entre 24 e 28 semanas com TTOG 75g de glicose_ (quando glicemia < 92 mg/dL, sem TTOG ou antes da 24ª semana);
+- _Normal_ (quando gllicemia < 92 mg/dL com TTOG a partir da 24ª semana).
 
-¹ International Association of the Diabetes and Pregnancy Study Groups (IADPSG), OMS DIRETRIZES DA SOCIEDADE BRASILEIRA DE DIABETES 2017-2018.
+¹ _International Association of the Diabetes and Pregnancy Study Groups_ (IADPSG), OMS Diretrizes da Sociedade Brasileira de Diabetes 2017-2018.
 
 ---
 ## Exercício `TriagemCovid`
@@ -964,8 +961,8 @@ Exiba um dos resultados abaixo:
 A lei da dominância de Mendel afirma que todos os descendentes de progenitores que diferem em apenas uma característica terão o fenótipo de apenas um deles, o dominante (expressado comumente por `A`). A outra característica é chamada recessiva (`a`), e só se manifesta caso ambos os fatores sejam recessivos.
 
 Tipos de dominâncias:
-- dominância completa: albinismo em humanos só ocorre em indivíduos `aa`.
-- dominância incompleta: coloração de boca-de-leão (_Antirrhinum majus_) é vermelha quando `AA`, branca quando `aa` e rosa quando `Aa`.
+- dominância completa: o albinismo em humanos só ocorre em indivíduos `aa`.
+- dominância incompleta: a coloração da boca-de-leão (_Antirrhinum majus_) é vermelha quando `AA`, branca quando `aa` e rosa quando `Aa`.
 
 ![](https://1.bp.blogspot.com/-30CSmN41YOo/WsL5F-ctd3I/AAAAAAAAAVQ/A8XbKxgWVaMhoPFXf_JkyPoYkw7HaD3jgCLcBGAs/s1600/flores%2Bde%2Btres%2Bfenotipos.jpg)
 
@@ -1041,7 +1038,7 @@ Imagem: [lbertini@UFF](https://www.professores.uff.br/lbertini/wp-content/upload
 
 [Dardos](https://pt.wikipedia.org/wiki/Dardos) é um esporte em que se arremessam pequenas flechas contra um alvo circular com pontuações específicas atribuídas ao acerto em cada região.
 
-Implemente um programa em que o usuário informe o ponto de acerto do dardo através de sua coordenada cartesiana (com o centro em `(0, 0)`). Calcule a distância em relação ao centro (utilizando o [Teorema de Pitágoras](https://pt.wikipedia.org/wiki/Teorema_de_Pit%C3%A1goras)).
+Implemente um programa em que o usuário informe o ponto de acerto do dardo através de sua coordenada cartesiana (com o centro do alvo em `(0, 0)`). Calcule a distância em relação ao centro (utilizando o [teorema de Pitágoras](https://pt.wikipedia.org/wiki/Teorema_de_Pit%C3%A1goras)).
 - Arremessos distantes [0, 1] acertam "na mosca" (exemplo: o `Dardo1`);
 - Arremessos distantes ]1, 3] são "bons" (exemplo: o `Dardo2`);
 - Arremessos distantes ]3, 5] são "ruins" (exemplo: o `Dardo3`);
@@ -1128,11 +1125,11 @@ Valores para teste:
 ---
 ## Exercício `AlarmeFalso`
 
-Imagine que um paciente faz um exame para uma doença e recebe um resultado positivo. Tal exame apresenta uma precisão de 87%, e a doença incide em 1% da população. O médico, conhecedor de estatística, diz ao paciente para que não se preocupe, já que provavelmente é um alarme falso (chances de exatamente 93.7%).
+Imagine que um paciente faz um exame para uma doença e recebe um resultado positivo. Tal exame apresenta uma precisão de 87% e a doença incide em 1% da população. O médico, conhecedor de estatística, diz ao paciente que não se preocupe, já que provavelmente é um alarme falso (chances de exatamente 93.7%).
 
 A intuição errada de resultados sem levar em consideração a base de incidência é conhecida como _mito de probabilidade de base_.
 
-Escreva uma função que calcule a probabilidade de um exame médico positivo indicar um alarme falso `f` dados a precisão do exame (`p`) e a incidência na população (`i`).
+Escreva uma função que calcule a probabilidade de um exame médico positivo indicar um alarme falso `f` dados a precisão do exame `p` e a incidência na população `i`.
 
 Usando o [teorema de Bayes](https://pt.wikipedia.org/wiki/Teorema_de_Bayes), temos que `f = (1-p)(1-i) / ( pi + (1-p)(1-i) )`.
 
@@ -1148,7 +1145,7 @@ Valores para teste:
 
 Uma escada ficará enconstada em uma parede caso forme entre ela e o chão um ângulo menor do que 90˚.
 
-Escreva uma função que calcule a altura alcançada pela escada, dados o comprimento da escada (em m) e o ângulo em que está encostada (em graus).
+Escreva uma função que calcule a altura alcançada pela escada dados o comprimento da escada (em m) e o ângulo em que está encostada (em graus).
 
 Converta o ângulo em graus para radianos, fazendo `(π graus) / 180`.
 
@@ -1173,7 +1170,7 @@ Escreva uma função que calcule o salário de um funcionário a partir salário
 ---
 ## Exercício `ColisaoCircular2D`
 
-Chamamos de algoritmos de detecção de colisão 2D os procedimentos que permitem avaliar se dois objetos em um mesmo plano se sobrepõe. A principal aplicação é a computação gráfica, em especial para simulações de física em jogos.
+Chamamos de algoritmos de detecção de colisão 2D os procedimentos que permitem avaliar se dois objetos em um mesmo plano se sobrepõem. A principal aplicação é a computação gráfica, em especial para simulações de física em jogos.
 
 Escreva uma função que recebe as coordenadas cartesianas e o raio de duas circunferências, que representam o espaço ocupado por dois objetos. Retorne um _booleano_ indicando se os objetos colidem ou não.
 
@@ -1209,7 +1206,7 @@ Em 1937, o matemático alemão Lothar Collatz propôs uma [sequência numérica]
 Escreva uma sub-rotina que receba um número inteiro `x` e exiba a sequência de Collatz iniciando em `x`.
 
 - Se `x` é par, divida-o por 2;
-- Se `x``é ímpar, multiplique-o por 3 e some 1;
+- Se `x` é ímpar, multiplique-o por 3 e some 1;
 - Repita o processo enquanto `x` for maior que 1.
 
 Saiba mais [aqui](https://www.bbc.com/portuguese/geral-36702054).
@@ -1238,14 +1235,14 @@ Enunciado | Correção | Extras
 ---
 ## Exercício `EntradaValida`
 
-Solicite que o usuário entre com um valor inteiro entre 1 e 9, inclusive. Informe que a entrada 0 sinaliza um cancelamento. Não finalize o programa enquanto não houver uma entrada válida ou um cancelamento.
+Solicite que o usuário entre com um valor inteiro entre 1 e 9 (inclusive). Informe que a entrada 0 sinaliza um cancelamento. Não finalize o programa enquanto não houver uma entrada válida ou um cancelamento.
 
 ---
 ## Exercício `UrnaPlebiscito`
 
 Faça uma urna eletrônica para um plebiscito organizado pelo grêmio estudantil de uma escola  _fictícia_.
 
-A pergunta a ser realizada é: _Você é a favor da aprovação automática de alunos carecas canhotos?_
+A pergunta a ser realizada é: _Você é a favor da proibição do uso de boné em sala de aula?_
 
 As alternativas possíveis são:
 - `S` - Sim, sou a favor
@@ -1261,7 +1258,7 @@ Antes de cada voto, o mesário deverá liberar o voto para o eleitor. Peça que 
 - `P` - Liberar votação do próximo eleitor
 - `s234f$WR` - Código secreto para fechar a urna (finalizar votação)
 
-Ao finalizar, exibir a contagem de votos em cada opção, o percentual de votos válidos (abstenção não conta como _válido_), e o resultado final:
+Ao finalizar, exibir a contagem de votos em cada opção, o percentual de votos válidos (abstenção não conta como _válido_) e o resultado final:
 
 - O total de `SIM` + `NÃO` deve ser maior do que a metade do total de votos. Caso não seja, o resultado é `INDETERMINADO`.
 - Caso contrário, o maior vence: `APROVADO` ou `REPROVADO`.
@@ -1273,7 +1270,7 @@ _(limpa a tela)_
 ```
 --- Urna Eletrônica ---
 
-Plebiscito: Você é a favor da aprovação automática de alunos carecas canhotos?
+Plebiscito: Você é a favor da proibição do uso de boné em sala de aula?
 
 Aguarde a intervenção do mesário... _
 ```
@@ -1285,7 +1282,7 @@ _(limpa a tela)_
 ```
 --- Urna Eletrônica ---
 
-Você é a favor da aprovação automática de alunos carecas canhotos? S
+Você é a favor da proibição do uso de boné em sala de aula? S
 
 Você votou "Sim, sou a favor"
 
@@ -1307,7 +1304,7 @@ _(limpa a tela)_
 ```
 --- Urna Eletrônica ---
 
-Plebiscito: Você é a favor da aprovação automática de alunos carecas canhotos?
+Plebiscito: Você é a favor da proibição do uso de boné em sala de aula?
 
 Eleição finalizada com o total de 1 voto(s).
 
@@ -1424,7 +1421,7 @@ Exemplo:
 ---
 ## Exercício `EspertoContraSabido`
 
-Em um genial episódio¹ da animação Pica-Pau (Woody Woodpecker) a personagem Raposinha (Fink Fox) divide uma certa quantidade de comida "_igualmente_" com o protagonista.
+Em um genial episódio¹ da animação Pica-Pau (_Woody Woodpecker_) a personagem Raposinha (_Fink Fox_) divide uma certa quantidade de comida "_igualmente_" com o protagonista.
 
 ![](https://static.wikia.nocookie.net/walterlantz/images/f/f6/WW_-_Dumb_Like_A_Fox_-_03.jpg/revision/latest/scale-to-width-down/480?cb=20210504223920)
 
@@ -1435,7 +1432,7 @@ Em um genial episódio¹ da animação Pica-Pau (Woody Woodpecker) a personagem 
 ...
 ```
 
-Seguindo a lógica da Raposinha, faça um programa que receba a quantidade inicial de comida, e exiba o passo-a-passo da contagem. Ao final, exiba a quantidade de itens entregues à Raposinha e ao Pica-Pau.
+Seguindo a lógica da Raposinha, faça um programa que receba a quantidade inicial de comida e exiba o passo-a-passo da contagem. Ao final, exiba a quantidade de itens entregues à Raposinha e ao Pica-Pau.
 
 Exemplo:
 ```
@@ -1454,14 +1451,14 @@ Pica-pau recebeu 6 alimento(s).
 Raposinha recebeu 16 alimento(s).
 ```
 
-¹ Walter Lantz, 1964. [Pica-Pau: Esperto Contra Sabido (Dumb Like a Fox)](https://walterlantz.fandom.com/wiki/Dumb_Like_a_Fox). Episódio 133. Universal. (Esquete em https://www.youtube.com/watch?v=Xyq1Ou_bTJQ, episódio completo em https://www.youtube.com/watch?v=8oS3bm2OEHs).
+¹ Walter Lantz, 1964. [Pica-Pau: Esperto Contra Sabido (Dumb Like a Fox)](https://walterlantz.fandom.com/wiki/Dumb_Like_a_Fox). Episódio 133. Universal. ([Esquete](https://www.youtube.com/watch?v=Xyq1Ou_bTJQ), [episódio completo](https://www.youtube.com/watch?v=8oS3bm2OEHs)).
 
 ---
 ## Exercício `TrintaESeis`
 
 Implemente uma versão modificada do jogo de dados `36` para um jogador contra a CPU.
 
-No jogo `36` primeiro sorteia-se o jogador inicial. Os jogadores alternam suas rodadas. Em sua rodada o jogador pode rolar 1, 2 ou 3 dados. Ao rolar, o valor da soma dos dados é somado ao placar do jogador. Se ele atingir 36, vence. Se ele passar de 36, perde o jogo.
+Primeiro sorteia-se o jogador inicial. Os jogadores alternam suas rodadas. Em sua rodada o jogador pode rolar 1, 2 ou 3 dados. Ao rolar, o valor da soma dos dados é somado ao placar do jogador. Se ele atingir 36, vence. Se ele passar de 36, perde o jogo.
 
 Uma possível IA para a CPU: A CPU joga 3 dados se tiver 0-20 pontos, 2 dados se tiver 21-27 pontos, e 1 dado caso 28-35 pontos.
 
@@ -1586,7 +1583,7 @@ Faça um programa que exiba uma barra de progresso para uma cópia de arquivo si
 
 Receba o tamanho do arquivo em bytes.
 
-Em um loop, gere a quantidade de bytes a ser copiada na iteração (algo entre 2% e 10% do tamanho total). Aguarde um tempo aleatório (100ms e dois segundos) e considere a iteração finalizada, atualizando a barra de progresso. Continue fazendo novas iterações até que 100% do arquivo seja copiado.
+Em um loop, gere a quantidade de bytes a ser copiada na iteração (algo entre 2% e 10% do tamanho total). Aguarde um tempo aleatório (entre  100ms e dois segundos) e considere a iteração finalizada, atualizando a barra de progresso. Continue fazendo novas iterações até que 100% do arquivo seja copiado.
 
 Ao final, exiba o tempo gasto (soma dos tempos de espera simulados) e a taxa de transmissão em bytes por segundo.
 
@@ -1627,7 +1624,7 @@ Tempo = 20s
 
 Implemente a inteligência artificial de um NPC (_Non-player character_ - Personagem não-jogador) para um jogo com combate.
 
-Neste jogo um NPC pode estar em 3 estados diferentes:
+Neste jogo um NPC pode estar em 4 estados diferentes:
 
 Estado | Descrição
 --- | ---
@@ -1636,9 +1633,10 @@ Estado | Descrição
 `Fugindo` | Desiste do combate e foge pela sobrevivência
 `Morto` | Não sobreviveu ao combate e deve ser retirado do jogo
 
-O estado atual do NPC depende de dois indicadores:
+O estado atual do NPC depende de 3 indicadores:
 - `InimigoProximo`: `True` se há um inimigo a vista do NPC;
 - `Ferido`: `True` se o NPC está ferido gravemente.
+- `Morto`: `True` se o NPC foi eliminado do jogo.
 
 A máquina de estados abaixo indica as transições possíveis entre os estados.
 ![](fsm-npc.png)
@@ -1657,7 +1655,7 @@ De | Para | Condição
 `Fugindo` | `Procurando` | `!Morto` e `!Ferido`
 `Fugindo` | `Morto` | `Morto`
 
-A cada transição, simular os acontecimentos:
+A cada transição, simule os acontecimentos:
 - `Procurando`:
   - 50% de chances de curar-se (`Ferido = False`).
   - 50% de chances de encontrar o inimigo (`InimigoProximo = True`).
@@ -1875,26 +1873,29 @@ Quantas jogadas? 4
 30 - 35 - 40 - 44 - 45 - 56
 ```
 
-******************** adicionar Array.Sort
-
 ---
 ## Exercício `Mandelbrot`
 
 Um fractal é um objeto geométrico que pode ser dividido em partes, cada uma das quais semelhante ao objeto original, infinitamente. São encontrados frequentemente na natureza:
 
 Brássica oleracea (brócolis romanescos)
+
 ![](https://paisagismodigital.com/Noticias/img/439-000.jpg)
 
 Girassol
+
 ![](https://paisagismodigital.com/Noticias/img/439-004.jpg)
 
 Floco de neve
+
 ![](https://www.nsf.gov/news/mmg/media/images/Snowflake1.jpg)
 
 Repolho
+
 ![](https://paisagismodigital.com/Noticias/img/439-008.jpg)
 
 Pulmões
+
 ![](https://www.marcelouva.com.br/wp-content/uploads/2019/08/fractal.png)
 
 Imagens: [PaisagismoDigital](https://paisagismodigital.com/noticias/?id=plantas-matematicas:-os-fractais-na-natureza-|-paisagismo-digital&in=439) e [NSF](https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=80874&from=)
@@ -1940,26 +1941,26 @@ Uma equipe de basquete é formada por 5 jogadores.
 Faça um programa para indicação de um time dos sonhos somente com jogadores Top 20 da lista de [75 maiores de todos os tempos da ESPN](https://www.torcedores.com/noticias/2022/02/espn-lista-75-melhores-nba).
 
 Top 20:
-20 - Elgin Baylor (Ala)
-19 - Jerry West (Armador)
-18 - Giannis Antetokounmpo (Ala-pivô)
-17 - Dirk Nowitzki (Ala-pivô)
-16 - Stephen Curry (Armador)
-15 - Moses Malone (Pivô)
-14 - Julius Erving (Ala)
-13 - Hakeem Olajuwon (Pivô)
-12 - Kevin Durant (Ala)
-11 - Shaquille O’Neal (Pivô)
-10 - Kobe Bryant (Armador)
-09 - Oscar Robertson (Armador)
-08 - Tim Duncan (Ala-pivô)
-07 - Larry Bird (Ala)
-06 - Bill Russell (Pivô)
-05 - Wilt Chamberlain (Pivô)
-04 - Magic Johnson (Armador)
-03 - Kareem Abdul Jabbar (Pivô)
-02 - LeBron James (Ala)
-01 - Michael Jordan (Armador)
+- 20 - Elgin Baylor (Ala)
+- 19 - Jerry West (Armador)
+- 18 - Giannis Antetokounmpo (Ala-pivô)
+- 17 - Dirk Nowitzki (Ala-pivô)
+- 16 - Stephen Curry (Armador)
+- 15 - Moses Malone (Pivô)
+- 14 - Julius Erving (Ala)
+- 13 - Hakeem Olajuwon (Pivô)
+- 12 - Kevin Durant (Ala)
+- 11 - Shaquille O’Neal (Pivô)
+- 10 - Kobe Bryant (Armador)
+- 09 - Oscar Robertson (Armador)
+- 08 - Tim Duncan (Ala-pivô)
+- 07 - Larry Bird (Ala)
+- 06 - Bill Russell (Pivô)
+- 05 - Wilt Chamberlain (Pivô)
+- 04 - Magic Johnson (Armador)
+- 03 - Kareem Abdul Jabbar (Pivô)
+- 02 - LeBron James (Ala)
+- 01 - Michael Jordan (Armador)
 
 O usuário selecionará os seus preferidos indicando sua posição. Um jogador não pode ser adicionado mais de uma vez.
 
@@ -1972,7 +1973,8 @@ Exemplo:
 0 jogador(es) selecionados até o momento. Posição a adicionar: 11
 1 jogador(es) selecionados até o momento. Posição a adicionar: 1
 2 jogador(es) selecionados até o momento. Posição a adicionar: 10
-3 jogador(es) selecionados até o momento. Posição a adicionar: 10 ERRO
+3 jogador(es) selecionados até o momento. Posição a adicionar: 10
+ERRO
 3 jogador(es) selecionados até o momento. Posição a adicionar: 2
 4 jogador(es) selecionados até o momento. Posição a adicionar: 4
 5 jogadores selecionados.
@@ -1989,7 +1991,7 @@ Seu time dos sonhos é:
 ---
 ## Exercício `DistanciaPercorrida`
 
-O quadro abaixo indica as distâncias rodoviárias entre as capitais do sudoeste brasileiro (em km):
+O quadro abaixo indica as distâncias rodoviárias entre as capitais do sudeste brasileiro (em km):
 
 Origem / Destino | Belo Horizonte | Rio de Janeiro | São Paulo | Vitória
 --- | --- | --- | --- | ---
@@ -2014,7 +2016,7 @@ Exemplo:
 ---
 ## Exercício `RLE`
 
-O arranjo abaixo contém uma imagem compactada usando a [técnica RLE](https://pt.wikipedia.org/wiki/Codifica%C3%A7%C3%A3o_run-length).
+O arranjo abaixo contém uma imagem _ASCII Art_ compactada usando a [técnica RLE](https://pt.wikipedia.org/wiki/Codifica%C3%A7%C3%A3o_run-length).
 
 ```csharp
 
@@ -2107,9 +2109,9 @@ int [,] imagem = {
 Cada elemento da matriz possui 3 números inteiros:
 - A cor para exibição, no formato [ConsoleColor](../content/saida-console.md#mudar-a-cor-da-letra);
 - O código ASCII do caractere a ser exibido;
-- A quantidade de vezes a repetições.
+- A quantidade de repetições.
 
-Por exemplo, `{ 12, 65, 10}` significa uma sequência de 10 caracteres `A` em letra vermelha.
+Por exemplo, `{12, 65, 10}` significa uma sequência de 10 caracteres `A` em letra vermelha.
 
 Exiba a imagem no console. A imagem possui 60 caracteres de largura (faça as quebras manualmente).
 
@@ -2147,9 +2149,9 @@ Exiba no console a imagem _ASCII Art_ contida na matriz.
 ---
 ## Exercício `CifraDeCesar`
 
-Em criptografia, a [Cifra de César](https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar) é uma das mais simples e conhecidas técnicas de criptografia. É um tipo de cifra de substituição na qual cada letra do texto é substituída por outra, que se apresenta no alfabeto abaixo dela um número fixo de vezes. Por exemplo, com uma troca de três posições, A seria substituído por D, B se tornaria E, e assim por diante. O nome do método é em homenagem a Júlio César, que o usou para se comunicar com os seus generais.
+A [Cifra de César](https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar) é uma das mais simples e conhecidas técnicas de criptografia. É um tipo de cifra de substituição na qual cada letra do texto é substituída por outra, que se apresenta no alfabeto abaixo dela um número fixo de vezes. Por exemplo, com uma troca de três posições, A seria substituído por D, B se tornaria E, e assim por diante. O nome do método é em homenagem a Júlio César, que o usou para se comunicar com os seus generais.
 
-Como há 26 letras (2 × 13) no alfabeto latino básico, o [ROT13](https://pt.wikipedia.org/wiki/ROT13) (_ROTacionar 13 vezes_) é sua própria inversão; isto é, para desfazer ROT13, o mesmo algoritmo é aplicado, então a mesma ação pode ser usada para codificação e decodificação.
+Como há 26 letras (2 × 13) no alfabeto latino básico, [ROT13](https://pt.wikipedia.org/wiki/ROT13) (_ROTacionar 13 vezes_) é sua própria inversão; isto é, para desfazer ROT13, o mesmo algoritmo é aplicado, então a mesma ação pode ser usada para codificação e decodificação.
 
 Implemente um programa que cifre/decifre uma string digitada pelo usuário usando ROT13.
 
@@ -2338,7 +2340,7 @@ O maior atributo é Constituição e o menor é Destreza.
 ---
 ## Exercício `MaoDeTruco`
 
-Um jogo de truco com baralho limpo é formado pelas cartas A, 2, 3, Q, J e K, nos naipes paus `♣`, copas `♥`, espadas `♠` e ouros `♦`.
+Um baralho limpo de truco é formado pelas cartas `A`, `2`, `3`, `Q`, `J` e `K`, nos naipes paus `♣`, copas `♥`, espadas `♠` e ouros `♦`.
 
 Escreva um programa que armazene em uma lista um baralho limpo de truco, carta a carta. Implemente uma funcionalidade de embaralhamento, gerando como resultado uma pilha de compras. Forme quatro conjuntos de 3 cartas cada retiradas do topo da pilha de compras e os exiba. Vire uma carta para ser o indicador das manilhas da mão.
 
@@ -2361,14 +2363,14 @@ Represente duas contas bancárias utilizando objetos que contenham os nomes do t
 
 Titular | Saldo
 --- | ---
-Ermogenes | R$0,00
-Neri | R$1000,00
+João | R$0,00
+Maria | R$1000,00
 
-Crie um menu que permita executar as seguintes operações na conta do Ermogenes:
+Crie um menu que permita executar as seguintes operações na conta do João:
 - Depositar uma quantia informada pelo usuário;
 - Retirar uma quantia informada pelo usuário;
-- Fazer uma Pix de quantia informada pelo usuário para a conta do Neri;
-- Receber um Pix de quantia informada pelo usuário da conta do Neri;
+- Fazer uma Pix de quantia informada pelo usuário para a conta da Maria;
+- Receber um Pix de quantia informada pelo usuário da conta da Maria;
 - Exibir o extrato da conta (contendo o tipo das operações e seus valores).
 
 Não permita saques ou Pix quando o saldo não é suficiente.
@@ -2693,8 +2695,8 @@ aventura[40] = new Entrada
 };
 ```
 
-Faça um programa que navegue na aventura-solo, exibindo os textos e navegando pelas alternativas escolhidas pelo usuário entre as alternativas possíveis. 
+Faça um programa que implemente a aventura-solo, exibindo os textos e navegando pelas opções do usuário entre as alternativas possíveis. 
 
-Comece pela entrada `0`. Ao informar que deseja ir para `99`, o susuário indica que quer desistir. A entrada `-1` simboliza que o final do jogo foi alcançado.
+Comece pela entrada `0`. Ao informar que deseja ir para `99`, o usuário indica que quer desistir. A alternativa `-1` simboliza que o final do jogo foi alcançado.
 
 _Os textos foram adaptados de [vbuaraujo](https://elmord.org/misc/complexo-alfa.html). Todos os direitos sobre o texto da aventura-solo são reservados à [Jambô Editora](https://jamboeditora.com.br/)._

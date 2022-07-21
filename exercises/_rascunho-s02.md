@@ -191,8 +191,8 @@ Faça um programa que emita _beeps_ no tom da canção citada em "O Pastorzinho"
 ```
 Dó, ré, mi, fá, fá, fá,
 Dó, ré, do, ré, ré, ré,
-Do, sol, fá, mi, mi, mi,
-Do, ré, mi, fá, fá, fá.
+Dó, sol, fá, mi, mi, mi,
+Dó, ré, mi, fá, fá, fá.
 ```
 
 Exiba a nota que está sendo tocada no momento.

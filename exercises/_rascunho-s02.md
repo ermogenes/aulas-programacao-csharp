@@ -272,6 +272,20 @@ Seu nome ninja é Kushirinmojikutokuari.
 
 Receba um texto via teclado. Avalie se o texto é vazio ou não.
 
+Exemplos:
+```--- Texto Vazio ---
+
+Digite um texto qualquer:    um texto qualquer
+False
+```
+
+```
+--- Texto Vazio ---
+
+Digite um texto qualquer:             
+True
+```
+
 ---
 ## Exercício `AlinhamentoDireita`
 

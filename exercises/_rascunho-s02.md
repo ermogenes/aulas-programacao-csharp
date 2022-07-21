@@ -230,13 +230,13 @@ Digitação | Resultado esperado
 `···xyz·····` | `x`
 
 ---
-## Exercício `Phonewords`
+## Exercício `PhoneWords`
 
-_Phonewords_ são palavras ou frases representadas com caracteres alfanuméricos em substituição aos seus números equivalentes em um teclado telefônico. Tem a função de facilitar a memorização.
+_Phone words_ são palavras ou frases representadas com caracteres alfanuméricos em substituição aos seus números equivalentes em um teclado telefônico. Tem a função de facilitar a memorização.
 
 Exemplo: Um hotel _Holiday Inn_ com o número `1-800-HOLIDAY` (equivalente a `1-800-465-4329`).
 
-Faça um programa que receba um número telefônico. Converta as _phonewords_ nos números equivalentes.
+Faça um programa que receba um número telefônico. Converta as _phone words_ nos números equivalentes.
 
 Teclado telefônico padrão ITU-T E.161:
 
@@ -244,7 +244,7 @@ Teclado telefônico padrão ITU-T E.161:
 
 Exemplo:
 ```
---- Conversor de PhoneWords ---
+--- Conversor de Phone Words ---
 
 Telefone...: 555-PIZZA
 

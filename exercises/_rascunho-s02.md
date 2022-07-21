@@ -4,9 +4,9 @@
 - [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 10
 - [Números e Operadores](#Exercícios-Números-e-Operadores) x 12
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 14
-- [Sub-rotinas](#Exercícios-Sub-rotinas) x 7
+- [Sub-rotinas](#Exercícios-Sub-rotinas) x 8
 - [Laços](#Exercícios-Laços) x 12
-- [Arranjos](#Exercícios-Arranjos) x 13
+- [Arranjos](#Exercícios-Arranjos) x 14
 - [Classes e Listas](#Exercícios-Classes-e-Listas) x 8
 
 # Ideias
@@ -1098,6 +1098,7 @@ Enunciado | Correção | Extras
 [ColisaoCircular2D](#Exercício-ColisaoCircular2D) | _em breve_ | 
 [RaioETrovao](#Exercício-RaioETrovao) | _em breve_ | 
 [Granizo](#Exercício-Granizo) | _em breve_ | 
+[AlcoolOuGasolina](#Exercício-AlcoolOuGasolina) | _em breve_ | 
 
 ---
 ## Exercício `ParadoxoDoAniversario`
@@ -1210,6 +1211,37 @@ Escreva uma sub-rotina que receba um número inteiro `x` e exiba a sequência de
 - Repita o processo enquanto `x` for maior que 1.
 
 Saiba mais [aqui](https://www.bbc.com/portuguese/geral-36702054).
+
+## Exercício `AlcoolOuGasolina`
+
+Um automóvel _flex_ pode ser abastecido com gasolina ou com etanol (_álcool_). O senso comum diz que é mais vantajoso abastecer com gasolina caso a relação entre os preços seja maior do que 70%. [Esta pesquisa](https://autopapo.uol.com.br/noticia/porcentagem-gasolina-ou-etanol/) diz que o percentual ideal deve ser próximo de 73%.
+
+Escreva uma sub-rotina que retorne a razão entre o preço do etanol e da gasolina (etanol ÷ gasolina). Escreva outra sub-rotina que utilize o resultado da primeira para retornar um booleano indicando se vale a pena ou não abastecer com gasolina (_considere o percentual de 73%_).
+
+Escreva um programa que recebe o valor do etanol e o valor da gasolina. Exiba a razão entre os preços e a recomendação de uso. Utilize as sub-rotinas criadas.
+
+Exemplos:
+```
+--- Etanol ou Gasolina? ---
+
+Digite o preço do etanol (R$).....: 4,00
+Digite o preço da gasolina (R$)...: 6,00
+
+O preço do etanol corresponde a 66,7% do preço da gasolina.
+
+Recomendação: Abasteça com ETANOL.
+```
+
+```
+--- Etanol ou Gasolina? ---
+
+Digite o preço do etanol (R$).....: 5,20
+Digite o preço da gasolina (R$)...: 7,00
+
+O preço do etanol corresponde a 74,2% do preço da gasolina.
+
+Recomendação: Abasteça com GASOLINA.
+```
 
 # Exercícios: Laços
 
@@ -1720,6 +1752,7 @@ Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
 
 Enunciado | Correção | Extras
 --- | --- | ---
+[PreencheVetor](#Exercício-PreencheVetor) | _em breve_ | 
 [InverteString](#Exercício-InverteString) | _em breve_ | 
 [Palindromo](#Exercício-Palindromo) | _em breve_ | 
 [NoiteDeTerror](#Exercício-NoiteDeTerror) | _em breve_ | 
@@ -1735,12 +1768,25 @@ Enunciado | Correção | Extras
 [NoThanks](#Exercício-NoThanks) | _em breve_ | 
 
 ---
+## Exercício `PreencheVetor`
+
+Receba um número inteiro. Preencha um vetor com os 100 primeiros números pares a partir do número digitado. Exiba os 5 primeiros e os 5 últimos números.
+
+Exemplo:
+```
+--- Preenche Vetor ---
+
+Digite um número: 523
+
+524 526 528 530 532 (...) 714 716 718 720 722
+```
+
+---
 ## Exercício `InverteString`
 
 Receba uma string. Exiba a string reversa (do final para o início).
 
 Exemplo:
-
 ```
 --- Inversor de strings ---
 

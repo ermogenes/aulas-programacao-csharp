@@ -208,7 +208,7 @@ Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
 Enunciado | Correção | Extras
 --- | --- | ---
 [PrimeroCaractere](#Exercício-PrimeroCaractere) | _em breve_ | 
-[Phonewords](#Exercício-Phonewords) | _em breve_ | 
+[PhoneWords](#Exercício-PhoneWords) | _em breve_ | 
 [NomeNinja](#Exercício-NomeNinja) | _em breve_ | 
 [TextoVazio](#Exercício-TextoVazio) | _em breve_ | 
 [AlinhamentoDireita](#Exercício-AlinhamentoDireita) | _em breve_ | 

@@ -493,7 +493,7 @@ Solicite que o usuário digite o valor da compra e o valor pago. Exiba o valor d
 ---
 ## Exercício `IndependenciaFinanceira`
 
-Faça um programa que calcule quanto dinheiro é necessário possuir em um investimento para conseguir sua independência financeira com dividendos (ou seja, os dividendos deverão pagar todos os seus custos). Receba os gastos mensais e o rendimento dos dividendos (_dividend yield_). O valor necessário investido para receber `X` reais de dividendo todo mês com `Y`% de _dividend yield_ é `X / (Y / 100)`.
+Faça um programa que calcule quanto dinheiro é necessário possuir em um investimento para conseguir sua independência financeira com dividendos (ou seja, os dividendos deverão pagar todos os seus custos). Receba os gastos mensais e o rendimento dos dividendos (_dividend yield_). O valor necessário investido para receber `X` reais de dividendo todo mês com `Y`% de _dividend yield_ é `X ÷ (Y ÷ 100)`.
 
 Valores para teste:
 Para receber mensalmente | com _dividend yield_ de | é necessário investir 

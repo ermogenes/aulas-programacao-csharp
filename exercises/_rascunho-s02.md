@@ -512,7 +512,7 @@ Exemplo:
 Gastos mensais (em R$)....: 3500
 Rendimentos mensais (%)...: 0,5
 
-Para receber R$3500,00 por mês com rendimentos de 0,5% você precisa ter investido R$700000,00.
+Para receber R$ 3.500,00 por mês com rendimentos de 0,5% você precisa ter investido R$ 700.000,00.
 ```
 
 ---

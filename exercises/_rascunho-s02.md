@@ -609,9 +609,9 @@ Adultos (que consomem bebidas alcoólicas).......: 5
 Adultos (que não consomem bebidas alcoólicas)...: 3
 Crianças........................................: 6
 
-Carne.............: 4,8kg
+Carne.............: 4,4kg
 Acompanhamentos...: 2,8kg
-Cerveja...........: 10l
+Cerveja...........: 10,0l
 Refrigerante......: 4,5l
 Água..............: 5,6l
 ```

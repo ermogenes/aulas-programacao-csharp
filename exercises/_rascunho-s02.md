@@ -701,7 +701,7 @@ Exemplo:
 
 Qual o número de indivíduos? 8192000
 
-A colônia atingirá 8192000 indivíduos em 24,0 horas.
+A colônia atingirá 8.192.000 indivíduos em 24,0 horas.
 ```
 
 # Exercícios: Decisão e operações lógicas

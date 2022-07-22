@@ -4,7 +4,7 @@
 - [Entrada de dados e Strings](#Exercícios-Entrada-de-dados-e-Strings) x 10
 - [Números e Operadores](#Exercícios-Números-e-Operadores) x 12
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 14
-- [Sub-rotinas](#Exercícios-Sub-rotinas) x 8
+- [Sub-rotinas](#Exercícios-Sub-rotinas) x 7
 - [Laços](#Exercícios-Laços) x 12
 - [Arranjos](#Exercícios-Arranjos) x 14
 - [Classes e Listas](#Exercícios-Classes-e-Listas) x 8
@@ -1142,7 +1142,7 @@ Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
 
 Enunciado | Correção | Extras
 --- | --- | ---
-[ParadoxoDoAniversario](#Exercício-ParadoxoDoAniversario) | _em breve_ | 
+<!-- [ParadoxoDoAniversario](#Exercício-ParadoxoDoAniversario) | _em breve_ |  -->
 [AlarmeFalso](#Exercício-AlarmeFalso) | _em breve_ | 
 [Escada](#Exercício-Escada) | _em breve_ | 
 [HorasExtras](#Exercício-HorasExtras) | _em breve_ | 
@@ -1151,6 +1151,7 @@ Enunciado | Correção | Extras
 [Granizo](#Exercício-Granizo) | _em breve_ | 
 [AlcoolOuGasolina](#Exercício-AlcoolOuGasolina) | _em breve_ | 
 
+<!--
 ---
 ## Exercício `ParadoxoDoAniversario`
 
@@ -1173,6 +1174,7 @@ Valores para teste:
 100 | 99.99996%
 200 | 99.9999999999999999999999999998%
 367 | 100%
+-->
 
 ---
 ## Exercício `AlarmeFalso`

@@ -689,7 +689,7 @@ Sal........: 10 g
 ---
 ## Exercício `ColoniaDeBacterias`
 
-Um grupo de biólogos está estudando o desenvolvimento de uma determinada colônia de bactérias e descobriu que, sob condições ideais, o número de bactérias `n` existente na colônia pode ser encontrado através da expressão `n = 2000 . 2^(0,5t)`, com `t` em horas.
+Um grupo de biólogos está estudando o desenvolvimento de uma determinada colônia de bactérias e descobriu que, sob condições ideais, o número de bactérias `n` existente na colônia, considerando uma população inicial de 2000 indivíduos, pode ser encontrado através da expressão `n = 2000 . 2^(0,5t)`, com `t` em horas.
 
 Busca-se saber em quanto tempo a colônia atinge um certo número de indivíduos `n`. Isolando a variável `t`, obtemos a relação `t = 2 . log2( n / 2000 )`.
 
@@ -701,7 +701,7 @@ Exemplo:
 
 Qual o número de indivíduos? 8192000
 
-A colônia atingirá 8192000 indivíduos em 24 horas.
+A colônia atingirá 8192000 indivíduos em 24,0 horas.
 ```
 
 # Exercícios: Decisão e operações lógicas

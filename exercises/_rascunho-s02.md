@@ -1219,7 +1219,7 @@ Mais valores de teste [aqui](https://www.calculat.org/pt/area-perimetro/triangul
 ---
 ## Exercício `HorasExtras`
 
-Escreva uma função que calcule o salário de um funcionário a partir salário-hora base e do número de horas-extras executadas. Considere que cada hora-extra é paga com acréscimo de 40%.
+Escreva uma função que calcule o salário de um funcionário a partir salário-hora base, o total de horas trabalhadas e número de horas-extras executadas. Considere que cada hora-extra é paga com acréscimo de 40%.
 
 ---
 ## Exercício `ColisaoCircular2D`

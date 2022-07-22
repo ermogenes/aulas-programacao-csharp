@@ -668,8 +668,8 @@ Exemplos:
 Peso desejado de pão italiano (em gramas)...: 5000
 
 Ingredientes:
-Farinha....: 2358 g
-Água.......: 1651 g
+Farinha....: 2.358 g
+Água.......: 1.651 g
 Fermento...: 943 g
 Sal........: 47 g
 ```

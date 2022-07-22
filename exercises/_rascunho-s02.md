@@ -657,11 +657,11 @@ Sal | 10 g | 2%
 
 Faça um programa que calcule a quantidade de ingredientes necessários para a confecção de um pão italiano (a partir da receita acima) para que o peso obtido ao final coincida com o peso desejado.
 
-- `Peso do pão em relação ao peso da farinha` = soma dos percentuais da receita (no exemplo, 1 + 0,7 + 0,4 + 0,02 = 2,12)
-- `Percentual da farinha em relação ao peso final` (o chamado  _cem porcento_) = `Peso desejado` * `Peso do pão em relação ao peso da farinha`
-- Demais percentuais em relação ao peso final = `Percentual do ingrediente na receita` * `Percentual da farinha em relação ao peso final`
+- `Percentual do pão em relação ao peso da farinha` = soma dos percentuais da receita (no exemplo, 1 + 0,7 + 0,4 + 0,02 = 2,12)
+- `Quantidade de farinha` (o chamado  _cem porcento_) = `Peso desejado` / `Percentual do pão em relação ao peso da farinha`
+- Demais quantidades = `Quantidade de farinha` * `Percentual do ingrediente na receita`
 
-Exemplo:
+Exemplos:
 ```
 --- Padaria ---
 
@@ -672,6 +672,18 @@ Farinha....: 2358 g
 Água.......: 1651 g
 Fermento...: 943 g
 Sal........: 47 g
+```
+
+```
+--- Padaria ---
+
+Peso desejado de pão italiano (em gramas)...: 1060
+
+Ingredientes:
+Farinha....: 500 g
+Água.......: 350 g
+Fermento...: 200 g
+Sal........: 10 g
 ```
 
 ---

@@ -1090,9 +1090,9 @@ Imagem: [lbertini@UFF](https://www.professores.uff.br/lbertini/wp-content/upload
 [Dardos](https://pt.wikipedia.org/wiki/Dardos) é um esporte em que se arremessam pequenas flechas contra um alvo circular com pontuações específicas atribuídas ao acerto em cada região.
 
 Implemente um programa em que o usuário informe o ponto de acerto do dardo através de sua coordenada cartesiana (com o centro do alvo em `(0, 0)`). Calcule a distância em relação ao centro (utilizando o [teorema de Pitágoras](https://pt.wikipedia.org/wiki/Teorema_de_Pit%C3%A1goras)).
-- Arremessos distantes [0, 1] acertam "na mosca" (exemplo: o `Dardo1`);
-- Arremessos distantes ]1, 3] são "bons" (exemplo: o `Dardo2`);
-- Arremessos distantes ]3, 5] são "ruins" (exemplo: o `Dardo3`);
+- Arremessos distantes `[0, 1]` acertam "na mosca" (exemplo: o `Dardo1`);
+- Arremessos distantes `]1, 3]` são "bons" (exemplo: um dardo na área azul);
+- Arremessos distantes `]3, 5]` são "ruins" (exemplo: os `Dardo2` e `Dardo3`);
 - Arremessos a distâncias maiores que 5 são considerados "erros" (exemplo: o `Dardo4`).
 
 ![](dardo-alvo.png)

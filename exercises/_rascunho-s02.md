@@ -1199,9 +1199,9 @@ Valores para teste:
 
 Uma escada ficará enconstada em uma parede caso forme entre ela e o chão um ângulo menor do que 90˚.
 
-Escreva uma função que calcule a altura alcançada pela escada dados o comprimento da escada (em m) e o ângulo em que está encostada (em graus).
+Escreva uma função que calcule a altura alcançada pela escada dados o comprimento da escada (em m) e o ângulo em relação ao chão (em graus).
 
-Converta o ângulo em graus para radianos, fazendo `(π graus) / 180`.
+_Converta o ângulo em graus para radianos, fazendo `(π graus) / 180`._
 
 Para calcular a altura, saiba que o comprimento da escada equivale à razão entre a altura e o seno do ângulo.
 

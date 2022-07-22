@@ -751,7 +751,7 @@ Peso (em kg)...: 50
 Águas [c]ontinentais ou [m]arinhas? m
 
 Pescaria excede os limites legais em 35kg.
-Sujeito a multa de R$1.700,00.
+Sujeito a multa de R$ 1.700,00.
 ```
 
 ```

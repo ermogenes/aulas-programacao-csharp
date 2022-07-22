@@ -639,7 +639,7 @@ Cálculo:
 - `Horas Inteiras` = parte inteira de `Entrada`
 - `Minutos Restantes` = (parte decimal da `Entrada`) * 60
 - `Minutos Inteiros` =  parte inteira de `Minutos Restantes`
-- `Segundos Restantes` = (parte decimal de `Minutos Inteiros`) * 60
+- `Segundos Restantes` = (parte decimal de `Minutos Restantes`) * 60
 
 ---
 ## Exercício `FormulaDoPadeiro`

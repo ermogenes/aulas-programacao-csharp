@@ -906,34 +906,44 @@ Um estacionamento possui a seguinte política de preços:
 	- Carros grandes: R$ 80,00
 	- Carros pequenos: R$ 50,00
 - Tolerância (na saída): 5min
-- _Valet_ (manobrista): 20% adicional no valor final
+- _Valet_ (manobrista): 20% adicional no valor do estacionamento
 - Lavagem:
 	- Carros grandes: R$ 100,00
 	- Carros pequenos: R$ 50,00
 
-Faça um programa que receba o tamanho do veículo (P/G), o total de minutos que o veículo ficou estacionado, se foi utilizado o serviço de _valet_ (S/N) e a inclusão de serviço de lavagem (S/N). Exiba o valor final a ser pago.
+Faça um programa que receba o tamanho do veículo (P/G), o total de minutos que o veículo ficou estacionado, se foi utilizado o serviço de _valet_ (S/N) e a inclusão de serviço de lavagem (S/N). Exiba o valor final a ser pago, com os valores parciais.
+
+_Não aceite tempos de permanência maiores do que 12 horas._ 
 
 Exemplos:
 ```
 --- Estacionamento ---
 
-Tamanho do veículo (P/G).....: P
+Tamanho do veículo (P/G).....: p
 Tempo de permanência (min)...: 473
-Serviço de valet (S/N).......: N
-Serviço de lavagem (S/N).....: N
+Serviço de valet (S/N).......: n
+Serviço de lavagem (S/N).....: n
 
-Valor total: R$50,00
+Estacionamento..:       R$ 50,00
+Valet...........:        R$ 0,00
+Lavagem.........:        R$ 0,00
+--------------------------------
+Valor total.....:       R$ 50,00
 ```
 
 ```
 --- Estacionamento ---
 
-Tamanho do veículo (P/G).....: G
+Tamanho do veículo (P/G).....: g
 Tempo de permanência (min)...: 123
-Serviço de valet (S/N).......: S
-Serviço de lavagem (S/N).....: S
+Serviço de valet (S/N).......: s
+Serviço de lavagem (S/N).....: s
 
-Valor total: R$148,00
+Estacionamento..:       R$ 40,00
+Valet...........:        R$ 8,00
+Lavagem.........:      R$ 100,00
+--------------------------------
+Valor total.....:      R$ 148,00
 ```
 
 ---

@@ -659,7 +659,7 @@ Faça um programa que calcule a quantidade de ingredientes necessários para a c
 
 - `Percentual do pão em relação ao peso da farinha` = soma dos percentuais da receita (no exemplo, 1 + 0,7 + 0,4 + 0,02 = 2,12)
 - `Quantidade de farinha` (o chamado  _cem porcento_) = `Peso desejado` / `Percentual do pão em relação ao peso da farinha`
-- Demais quantidades = `Quantidade de farinha` * `Percentual do ingrediente na receita`
+- Demais quantidades = `Quantidade de farinha` x `Percentual do ingrediente na receita`
 
 Exemplos:
 ```

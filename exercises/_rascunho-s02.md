@@ -1027,7 +1027,7 @@ Alelos do indivíduo 1 (AA, Aa ou aa)...: Aa
 Alelos do indivíduo 2 (AA, Aa ou aa)...: aa
 Tipo de dominância (C/I)...............: C
 
-  | A  | a
+  | A  |  a
 -----------
 a | Aa | aa
 -----------
@@ -1045,7 +1045,7 @@ Alelos do indivíduo 1 (AA, Aa ou aa)...: Aa
 Alelos do indivíduo 2 (AA, Aa ou aa)...: Aa
 Tipo de dominância (C/I)...............: I
 
-  | A  | a
+  | A  |  a
 -----------
 A | AA | Aa
 -----------

@@ -773,6 +773,15 @@ Pescaria excede os limites legais em 0,5kg.
 Sujeito a multa de R$ 1.010,00.
 ```
 
+```
+--- Pesca Amadora ---
+
+Peso (em kg)...: 5666
+Águas [c]ontinentais ou [m]arinhas? x
+
+Local não reconhecido.
+```
+
 ---
 ## Exercício `CasaDeTintas`
 

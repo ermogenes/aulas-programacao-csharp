@@ -787,7 +787,7 @@ Local não reconhecido.
 
 Faça uma calculadora para uma casa de tintas. O usuário fornecerá a área a ser pintada (em m²) e será informado sobre a quantidade de produtos necessários para cobrir a área indicada.
 
-Acrescente 10% à tinta necessária, como folga para erros.
+Acrescente 10% à tinta necessária, como margem para erros.
 
 As tintas são vendidas em dois tipos de recipientes:
 
@@ -802,13 +802,13 @@ Exemplo:
 ```
 --- Casa de Tintas ---
 
-Área a ser pintada (m²)...: 60m²
+Área a ser pintada (m²)...: 60
 
-Serão necessários 22 litros de tinta.
+Total de 22,0 litro(s) de tinta.
 
 Distribuição:
-Latas...: 1
-Galões..: 2
+Latas...: 1 unidade(s)
+Galões..: 2 unidade(s)
 ```
 
 ---

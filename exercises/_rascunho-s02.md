@@ -1009,23 +1009,23 @@ Exiba um dos resultados abaixo:
 ---
 ## Exercício `GeneticaMendeliana`
 
-A lei da dominância de Mendel afirma que todos os descendentes de progenitores que diferem em apenas uma característica terão o fenótipo de apenas um deles, o dominante (expressado comumente por `A`). A outra característica é chamada recessiva (`a`), e só se manifesta caso ambos os fatores sejam recessivos.
+A lei da dominância de Mendel afirma que todos os descendentes de progenitores que diferem em uma característica terão o fenótipo de apenas um deles, o dominante (expressado comumente pelo alelo `A`). A característica preterida é chamada recessiva (`a`), e só se manifesta caso ambos os fatores sejam recessivos.
 
-Tipos de dominâncias:
-- dominância completa: o albinismo em humanos só ocorre em indivíduos `aa`.
-- dominância incompleta: a coloração da boca-de-leão (_Antirrhinum majus_) é vermelha quando `AA`, branca quando `aa` e rosa quando `Aa`.
+Considere dois tipos de dominância:
+- dominância completa: há duas possibilidades, e a característica só ocorre em indivíduos `aa` (ex.: o albinismo em humanos).
+- dominância incompleta: há três possibilidades, sendo uma delas intermediária (ex.: a coloração da boca-de-leão (_Antirrhinum majus_) é vermelha quando `AA`, branca quando `aa` e rosa quando `Aa`).
 
 ![](https://1.bp.blogspot.com/-30CSmN41YOo/WsL5F-ctd3I/AAAAAAAAAVQ/A8XbKxgWVaMhoPFXf_JkyPoYkw7HaD3jgCLcBGAs/s1600/flores%2Bde%2Btres%2Bfenotipos.jpg)
 
-Faça um programa que receba os alelos de dois indivíduos e as probabilidades de cada alelo se manifestar em seus descendentes diretos. Considere o caso como dominância completa ou incompleta, conforme seleção do usuário.
+Faça um programa que receba os alelos de dois indivíduos e as probabilidades da característica se manifestar em seus descendentes diretos. Considere o caso como dominância completa ou incompleta, conforme seleção do usuário.
 
 Exemplos:
 ```
 --- Genética Mendeliana ---
 
-Tipo de dominância do fenótipo (C/I)...: C
 Alelos do indivíduo 1 (AA, Aa ou aa)...: Aa
 Alelos do indivíduo 2 (AA, Aa ou aa)...: aa
+Tipo de dominância (C/I)...............: C
 
   | A  | a
 -----------
@@ -1041,9 +1041,9 @@ aa:  50% - apresenta a característica recessiva
 ```
 --- Genética Mendeliana ---
 
-Tipo de dominância do fenótipo (C/I)...: I
 Alelos do indivíduo 1 (AA, Aa ou aa)...: Aa
 Alelos do indivíduo 2 (AA, Aa ou aa)...: Aa
+Tipo de dominância (C/I)...............: I
 
   | A  | a
 -----------

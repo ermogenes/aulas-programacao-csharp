@@ -979,11 +979,7 @@ Segundo a Sociedade Brasileira de Diabetes¹, a avaliação de Diabetes em gráv
 = ou > 126 mg/dL = Diabetes Mellitus na Gravidez
 ```
 
-Faça um programa que receba o valor de glicemia (em mg/dL), a semana de gestação e um indicador de prévio Teste de Tolerância a Glicose Oral (S/N). Exiba o diagnóstico adequado, conforme a situação:
-- _Diabetes Mellitus_ (quando glicemia > 126 mg/dL);
-- _Compatível com Diabetes Gestacional_ (quando glicemia entre 92 mg/dL e 126 mg/dL);
-- _Reavaliar entre 24 e 28 semanas com TTOG 75g de glicose_ (quando glicemia < 92 mg/dL, sem TTOG ou antes da 24ª semana);
-- _Normal_ (quando gllicemia < 92 mg/dL com TTOG a partir da 24ª semana).
+Faça um programa que receba o valor de glicemia (em mg/dL) e exiba o diagnóstico adequado.
 
 ¹ _International Association of the Diabetes and Pregnancy Study Groups_ (IADPSG), OMS Diretrizes da Sociedade Brasileira de Diabetes 2017-2018.
 

@@ -1142,7 +1142,6 @@ Correção no [GitHub](https://github.com/ermogenes/correcoes-dev-cs).
 
 Enunciado | Correção | Extras
 --- | --- | ---
-<!-- [ParadoxoDoAniversario](#Exercício-ParadoxoDoAniversario) | _em breve_ |  -->
 [AlarmeFalso](#Exercício-AlarmeFalso) | _em breve_ | 
 [Escada](#Exercício-Escada) | _em breve_ | 
 [HorasExtras](#Exercício-HorasExtras) | _em breve_ | 
@@ -1150,6 +1149,7 @@ Enunciado | Correção | Extras
 [RaioETrovao](#Exercício-RaioETrovao) | _em breve_ | 
 [Granizo](#Exercício-Granizo) | _em breve_ | 
 [AlcoolOuGasolina](#Exercício-AlcoolOuGasolina) | _em breve_ | 
+<!-- [ParadoxoDoAniversario](#Exercício-ParadoxoDoAniversario) | _em breve_ |  -->
 
 <!--
 ---

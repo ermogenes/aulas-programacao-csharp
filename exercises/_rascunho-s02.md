@@ -1322,6 +1322,30 @@ Enunciado | Correção | Extras
 
 Solicite que o usuário entre com um valor inteiro entre `1` e `9` (inclusive). Informe que a entrada `0` sinaliza um cancelamento. Não finalize o programa enquanto não houver uma entrada válida ou um cancelamento.
 
+Exemplos:
+```
+--- Entrada Válida ---
+
+Digite um número entre 1 e 9 (ou 0 para cancelar)...: -5
+Digite um número entre 1 e 9 (ou 0 para cancelar)...: 12
+Digite um número entre 1 e 9 (ou 0 para cancelar)...: 10
+Digite um número entre 1 e 9 (ou 0 para cancelar)...: 0
+
+Operação cancelada.
+
+Volte sempre!
+```
+
+```
+--- Entrada Válida ---
+
+Digite um número entre 1 e 9 (ou 0 para cancelar)...: 2
+
+Número selecionado = 2
+
+Volte sempre!
+```
+
 ---
 ## Exercício `UrnaPlebiscito`
 
@@ -1345,8 +1369,8 @@ Antes de cada voto, o mesário deverá liberar o voto para o eleitor. Peça que 
 
 Ao finalizar, exibir a contagem de votos em cada opção, o percentual de votos válidos (abstenção não conta como _válido_) e o resultado final:
 
-- O total de `SIM` + `NÃO` deve ser maior do que a metade do total de votos. Caso não seja, o resultado é `INDETERMINADO`.
-- Caso contrário, o maior vence: `APROVADO` ou `REPROVADO`.
+- Deve haver maioria simples de votos válidos (o total de `SIM` + `NÃO` deve ser maior do que a metade do total de votos). Caso não haja, o resultado é `INDETERMINADO`.
+- O plebiscito então é `APROVADO` se possuir mais aprovações do que desaprovações. Caso contrário é `REPROVADO`.
 
 Exemplo:
 
@@ -1367,7 +1391,13 @@ _(limpa a tela)_
 ```
 --- Urna Eletrônica ---
 
-Você é a favor da proibição do uso de boné em sala de aula? S
+Plebiscito: Você é a favor da proibição do uso de boné em sala de aula?
+
+    S - Sim, sou a favor
+    N - Não, sou contra
+    A - Me abstenho de responder
+
+Digite a opção desejada e pressione [ENTER]: S
 
 Você votou "Sim, sou a favor"
 
@@ -1391,14 +1421,14 @@ _(limpa a tela)_
 
 Plebiscito: Você é a favor da proibição do uso de boné em sala de aula?
 
-Eleição finalizada com o total de 1 voto(s).
+Finalizado com o total de 1 voto(s).
 
 Contagem de votos:
-S - Sim, sou a favor         - 1 
-N - Não, sou contra          - 0
-A - Me abstenho de responder - 0
+S - Sim, sou a favor         - 1 (100,0%)
+N - Não, sou contra          - 0 (0,0%)
+A - Me abstenho de responder - 0 (0,0%)
 
-Votos válidos: 100%
+Votos válidos: 1 (100,0%)
 
 Resultado do plebiscito: APROVADO
 ```

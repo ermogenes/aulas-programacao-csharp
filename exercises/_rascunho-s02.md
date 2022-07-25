@@ -1436,7 +1436,11 @@ Resultado do plebiscito: APROVADO
 ---
 ## Exercício `Potencia`
 
-Receba dois números positivos informados pelo usuário, base e expoente. Calcule e exiba o valor do primeiro número elevado ao segundo número. Não utilize `Math.Pow`.
+Receba dois números inteiros positivos, base e expoente. Calcule e exiba o valor do primeiro número elevado ao segundo número. Não utilize `Math.Pow`.
+
+Lembre-se que, por definição, se o expoente for zero a potência será 1.
+
+_Quando em uma iteração a potência se tornar zero ou negativa, foi estourado o limite do tipo inteiro e não será possível realizar a operação. _
 
 ---
 ## Exercício `AmortizacaoConstante`

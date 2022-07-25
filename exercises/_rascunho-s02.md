@@ -1456,7 +1456,7 @@ Valores variáveis por período:
 - `Juros` = (`SaldoDevedor` do período anterior) * `Taxa`
 - `Prestação` = `Amortização` + `Juros`
 - `ValorPago` = Soma dos valores de todas as prestações anteriores
-- `SaldoDevedor` = `Principal` - `Amortização`
+- `SaldoDevedor` = (`SaldoDevedor` do período anterior) - `Amortização`
 
 Exemplo:
 ```

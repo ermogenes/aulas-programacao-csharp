@@ -1485,14 +1485,13 @@ Simule um financiamento utilizando o sistema de amortização francês (Tabela P
 Receba o valor total do financiamento (`Principal`), a quantidade de meses (`Períodos`) e a taxa de juros (`Taxa`). Exiba uma tabela com período, prestação, juros, amortização, valor pago e saldo devedor.
 
 Valor constante em todos os períodos:
-- `CoeficientePrice` = [(1 + `Taxa`)<sup>`Períodos`</sup> x `Taxa`] / [(1 + `Taxa`)<sup>`Períodos`</sup> - 1]
-- `Prestação` = `Principal` x `CoeficientePrice`
+- `Prestação` = `Principal` x [(1 + `Taxa`)<sup>`Períodos`</sup> x `Taxa`] / [(1 + `Taxa`)<sup>`Períodos`</sup> - 1]
 
 Valores variáveis por período:
 - `Juros` = (`SaldoDevedor` do período anterior) * `Taxa`
 - `Amortização` = `Prestação` - `Juros`
 - `ValorPago` = Soma dos valores de todas as prestações anteriores
-- `SaldoDevedor` = `Principal` - `Amortização`
+- `SaldoDevedor` = (`SaldoDevedor` do período anterior) - `Amortização`
 
 Exemplo:
 ```
@@ -1503,14 +1502,13 @@ Períodos...........: 4
 Taxa (em %)........: 5
 ```
 
-Período | Prestação | Juros | Amortização | Valor Pago | Saldo Devedor
---- | --- | --- | --- | --- | ---
-0 |  |  |  |  | 1000,00
-1 | 282,01 | 50,00 | 232,01 | 282,01 | 767,99
-2 | 282,01 | 38,40 | 243,61 | 564,02 | 524,38
-3 | 282,01 | 26,22 | 255,79 | 846,04 | 268,58
-4 | 282,01 | 13,43 | 268,58 | 1128,05 | 0,00
-
+Período | Amortização | Juros | Prestação | Valor Pago | Saldo Devedor
+--- | ---  | ---  | ---  | ---  | ---
+0 |  |  |  |  | R$ 1.000,00
+1 | R$ 232,01 | R$ 50,00 | R$ 282,01 | R$ 282,01 | R$ 767,99
+2 | R$ 243,61 | R$ 38,40 | R$ 282,01 | R$ 564,02 | R$ 524,38
+3 | R$ 255,79 | R$ 26,22 | R$ 282,01 | R$ 846,04 | R$ 268,58
+4 | R$ 268,58 | R$ 13,43 | R$ 282,01 | R$ 1.128,05 | R$ 0,00
 
 Você pode simular valores para teste [aqui](http://drcalc.net/price.asp).
 

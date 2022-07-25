@@ -1291,7 +1291,7 @@ Recomendação: Abasteça com ETANOL.
 Digite o preço do etanol (R$).....: 5,20
 Digite o preço da gasolina (R$)...: 7,00
 
-O preço do etanol corresponde a 74,2% do preço da gasolina.
+O preço do etanol corresponde a 74,3% do preço da gasolina.
 
 Recomendação: Abasteça com GASOLINA.
 ```

@@ -1436,7 +1436,7 @@ Resultado do plebiscito: APROVADO
 ---
 ## Exercício `Potencia`
 
-Receba dois números positivos informados pelo usuário, base e expoente. Calcule o valor do primeiro número elevado ao segundo número. Não utilize `Math.Pow`.
+Receba dois números positivos informados pelo usuário, base e expoente. Calcule e exiba o valor do primeiro número elevado ao segundo número. Não utilize `Math.Pow`.
 
 ---
 ## Exercício `AmortizacaoConstante`

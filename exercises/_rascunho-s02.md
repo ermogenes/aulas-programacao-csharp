@@ -1748,7 +1748,7 @@ Estado | Descrição
 `Procurando` | Se recupera de seus ferimentos e procura por inimigos
 `Atacando` | Entra em combate aberto contra o inimigo
 `Fugindo` | Desiste do combate e foge pela sobrevivência
-`Morto` | Não sobreviveu ao combate e deve ser retirado do jogo
+`Eliminado` | Não sobreviveu ao combate e deve ser retirado do jogo
 
 O estado atual do NPC depende de 3 indicadores:
 - `InimigoProximo`: `True` se há um inimigo a vista do NPC;
@@ -1767,10 +1767,10 @@ De | Para | Condição
 `Atacando` | `Atacando` |  `!Morto` e `!Ferido` e `InimigoProximo`
 `Atacando` | `Procurando` | `!Morto` e `!InimigoProximo`
 `Atacando` | `Fugindo` | `!Morto` e `Ferido`
-`Atacando` | `Morto` | `Morto`
+`Atacando` | `Eliminado` | `Morto`
 `Fugindo` | `Fugindo` | `!Morto` e `Ferido`
 `Fugindo` | `Procurando` | `!Morto` e `!Ferido`
-`Fugindo` | `Morto` | `Morto`
+`Fugindo` | `Eliminado` | `Morto`
 
 A cada transição, simule os acontecimentos:
 - `Procurando`:
@@ -1783,7 +1783,7 @@ A cada transição, simule os acontecimentos:
   - 25% de chances de morrer com o ferimento (`Morto = True`).
   - 25% de chances de curar-se (`Ferido = False`).
   - 50% de chances do inimigo desistir (`InimigoProximo = False`).
-- `Morto`:
+- `Eliminado`:
   - Finalizar a simulação.
 
 Simule transições partindo de `Procurando` até que o NPC morra. Exiba a quantidade de transições pelas quais o NPC sobreviveu.

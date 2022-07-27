@@ -5,8 +5,8 @@
 - [Números e Operadores](#Exercícios-Números-e-Operadores) x 12
 - [Decisão e operações lógicas](#Exercícios-Decisão-e-operações-lógicas) x 14
 - [Sub-rotinas](#Exercícios-Sub-rotinas) x 7
-- [Laços](#Exercícios-Laços) x 12
-- [Arranjos](#Exercícios-Arranjos) x 14
+- [Laços](#Exercícios-Laços) x 11
+- [Arranjos](#Exercícios-Arranjos) x 15
 - [Classes e Listas](#Exercícios-Classes-e-Listas) x 8
 
 # Ideias
@@ -1315,7 +1315,6 @@ Enunciado | Correção | Extras
 [Ursos](#Exercício-Ursos) | _em breve_ | 
 [BarraDeProgresso](#Exercício-BarraDeProgresso) | _em breve_ | 
 [NPC](#Exercício-NPC) | _em breve_ | 
-[Virtudes](#Exercício-Virtudes) | _em breve_ | 
 
 ---
 ## Exercício `EntradaValida`
@@ -1800,34 +1799,6 @@ Exemplo:
 
 O NPC sobreviveu por 4 transições.
 ```
-
----
-## Exercício `Virtudes`
-
-André Comte-Sponville enumera¹ 18 virtudes:
-- a polidez;
-- a fidelidade;
-- a prudência;
-- a temperança;
-- a coragem;
-- a justiça;
-- a generosidade;
-- a compaixão;
-- a misericórdia;
-- a gratidão;
-- a humildade;
-- a simplicidade;
-- a tolerância;
-- a pureza;
-- a doçura;
-- a boa-fé;
-- o humor;
-- o amor.
-
-Faça um programa que sorteie três virtudes e exiba o "conselho do dia" no formato `Pratique <virtude1> e cultive <virtude2>, sem esperar em troca <virtude3>`.
-
-¹ Pequeno Tratado das Grandes Virtudes, França, 1995. Publicado no Brasil pela [Martins Fontes](https://www.martinsfontespaulista.com.br/pequeno-tratado-das-grandes-virtudes-776504/p).
-
 # Exercícios: Arranjos
 
 Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
@@ -1839,6 +1810,7 @@ Enunciado | Correção | Extras
 [PreencheVetor](#Exercício-PreencheVetor) | _em breve_ | 
 [InverteString](#Exercício-InverteString) | _em breve_ | 
 [Palindromo](#Exercício-Palindromo) | _em breve_ | 
+[Virtudes](#Exercício-Virtudes) | _em breve_ | 
 [NoiteDeTerror](#Exercício-NoiteDeTerror) | _em breve_ | 
 [GeradorDeNomes](#Exercício-GeradorDeNomes) | _em breve_ | 
 [Surpresinha](#Exercício-Surpresinha) | _em breve_ | 
@@ -1894,6 +1866,33 @@ Exemplos: osso, arara, Ana, reviver, omissíssimo (superlativo de omisso, a maio
 Faça um programa que receba uma frase e avalie se ela é um palíndromo ou não.
 
 Dica: Antes de verificar se é um palíndromo remova pontuações, espaços e caracteres especiais, converta letras acentuadas em suas versões sem acentuação e transforme as letras para um caso único (minúsculas, por exemplo).
+
+---
+## Exercício `Virtudes`
+
+André Comte-Sponville enumera¹ 18 virtudes:
+- a polidez;
+- a fidelidade;
+- a prudência;
+- a temperança;
+- a coragem;
+- a justiça;
+- a generosidade;
+- a compaixão;
+- a misericórdia;
+- a gratidão;
+- a humildade;
+- a simplicidade;
+- a tolerância;
+- a pureza;
+- a doçura;
+- a boa-fé;
+- o humor;
+- o amor.
+
+Faça um programa que sorteie três virtudes e exiba o "conselho do dia" no formato `Pratique <virtude1> e cultive <virtude2>, sem esperar em troca <virtude3>`.
+
+¹ Pequeno Tratado das Grandes Virtudes, França, 1995. Publicado no Brasil pela [Martins Fontes](https://www.martinsfontespaulista.com.br/pequeno-tratado-das-grandes-virtudes-776504/p).
 
 ---
 ## Exercício `NoiteDeTerror`

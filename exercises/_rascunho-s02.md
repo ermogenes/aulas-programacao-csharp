@@ -2161,11 +2161,22 @@ Solicite que o usuário digite uma sequência de números entre 0 e 3, indicando
 Exiba a distância percorrida na viagem.
 
 Exemplo:
-- Entrada = `1,2,0,1`
-  - Trecho de `1` para `2` = 420km
-  - Trecho de `2` para `0` = 586km
-  - Trecho de `0` para `1` = 434km
-- Percorrido: 1440km
+```
+--- Distância Percorrida ---
+
+0 = Belo Horizonte
+1 = Rio de Janeiro
+2 = São Paulo
+3 = Vitória
+
+Digite o percurso (ex.: 1,2,0,1): 1,2,0,1
+
+429km de Rio de Janeiro a São Paulo
+586km de São Paulo a Belo Horizonte
+434km de Belo Horizonte a Rio de Janeiro
+
+1449km percorridos.
+```
 
 ---
 ## Exercício `RLE`

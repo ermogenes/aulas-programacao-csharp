@@ -1792,14 +1792,13 @@ Exemplo:
 ```
 --- Simulação de IA de NPC ---
 
--- #1 Procurando... Ferido = N, InimigoProximo = N, Eliminado = N
--- #2 Procurando... Ferido = N, InimigoProximo = S, Eliminado = N
--- #3 Atacando..... Ferido = N, InimigoProximo = S, Eliminado = N
--- #4 Atacando..... Ferido = S, InimigoProximo = S, Eliminado = N
--- #5 Fugindo...... Ferido = S, InimigoProximo = S, Eliminado = N
--- #6 Fugindo...... Ferido = S, InimigoProximo = S, Eliminado = S
+-- #  1 Procurando: Ferido = N, InimigoProximo = S, Eliminado = N => Atacando
+-- #  2   Atacando: Ferido = N, InimigoProximo = S, Eliminado = N => Atacando
+-- #  3   Atacando: Ferido = N, InimigoProximo = S, Eliminado = N => Atacando
+-- #  4   Atacando: Ferido = N, InimigoProximo = S, Eliminado = N => Atacando
+-- #  5   Atacando: Ferido = S, InimigoProximo = N, Eliminado = S => Morto
 
-O NPC sobreviveu por 5 transições.
+O NPC sobreviveu por 4 transições.
 ```
 
 ---

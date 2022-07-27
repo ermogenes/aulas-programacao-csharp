@@ -1864,7 +1864,7 @@ Exemplos: osso, arara, Ana, reviver, omissíssimo (superlativo de omisso, a maio
 
 Faça um programa que receba uma frase e avalie se ela é um palíndromo ou não.
 
-Dica: Antes de verificar se é um palíndromo remova pontuações, espaços e caracteres especiais, converta letras acentuadas em suas versões sem acentuação e transforme as letras para um caso único (minúsculas, por exemplo).
+Dica: Antes de verificar se é um palíndromo remova pontuações e espaços, converta letras acentuadas em suas versões sem acentuação e transforme as letras para um caso único (minúsculas, por exemplo).
 
 ---
 ## Exercício `Virtudes`

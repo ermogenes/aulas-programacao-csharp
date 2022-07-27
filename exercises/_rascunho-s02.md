@@ -2045,18 +2045,20 @@ Exemplo:
 ```
 --- Série de Mandelbrot ---
 
+Entre com o valor de [c] (entre 0 e 10)...:1
+
 Para c = 1:
 
-z(0) = 0
-z(1) = 1
-z(2) = 2
-z(3) = 5
-z(4) = 26
-z(5) = 677
-z(6) = 458.330
-z(7) = 210.066.388.901
-z(8) = 44.127.887.745.906.175.377.408
-z(9) = 1.947.270.476.915.296.285.689.291.011.464.375.055.838.871.552
+z(0) = 0,0000
+z(1) = 1,0000
+z(2) = 2,0000
+z(3) = 5,0000
+z(4) = 26,0000
+z(5) = 677,0000
+z(6) = 458.330,0000
+z(7) = 210.066.388.901,0000
+z(8) = 44.127.887.745.906.175.377.408,0000
+z(9) = 1.947.270.476.915.296.285.689.291.011.464.375.055.838.871.552,0000
 ```
 
 Saiba mais [aqui](https://pt.wikipedia.org/wiki/Conjunto_de_Mandelbrot), [aqui](https://pt.wikipedia.org/wiki/Fractal), [aqui](http://galileo.phys.virginia.edu/compfac/courses/practical-c/12.pdf), [aqui](https://rosettacode.org/wiki/Mandelbrot_set), [aqui](https://loiseaujc.github.io/Scientific_Computing_on_a_Laptop/Maths/Mandelbrot/binary_mandelbrot.html) e [aqui](https://www.javatpoint.com/how-to-draw-the-mandelbrot-set-in-python).

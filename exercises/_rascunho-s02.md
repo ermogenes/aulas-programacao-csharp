@@ -1953,8 +1953,8 @@ Exemplo:
 ```
 --- Noite de Terror ---
 
-Qual o mês de nascimento da vítima: 5
-Qual o dia de nascimento da vítima: 27
+Qual o dia de nascimento da vítima (1 a 31): 27
+Qual o mês de nascimento da vítima (1 a 12): 5
 
 Fuja! Lá vem O Carniceiro do Velho Poço!
 ```

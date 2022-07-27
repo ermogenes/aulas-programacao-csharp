@@ -1923,13 +1923,13 @@ Sobrenome | Dia de nascimento
 4 | Vermelho
 5 | Possuído
 6 | Macabro
-7 | Negro
+7 | Sombrio
 8 | Sem Cabeça
 9 | Desconhecido
 10 | Inconsciente
 11 | Oculto
 12 | Esquecido
-13 | Obscuro
+13 | Lúgubre
 14 | Invocado
 15 | Caído
 16 | Costurado

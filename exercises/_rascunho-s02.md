@@ -1762,8 +1762,8 @@ Condições para transição:
 
 De | Para | Condição
 --- | --- | ---
-`Procurando` | `Procurando` | `Ferido` ou `!InimigoProximo`
-`Procurando` | `Atacando` | `!Ferido` e `InimigoProximo`
+`Procurando` | `Procurando` | `!Eliminado` e (`Ferido` ou `!InimigoProximo`)
+`Procurando` | `Atacando` | `!Eliminado` e `!Ferido` e `InimigoProximo`
 `Atacando` | `Atacando` |  `!Eliminado` e `!Ferido` e `InimigoProximo`
 `Atacando` | `Procurando` | `!Eliminado` e `!InimigoProximo`
 `Atacando` | `Fugindo` | `!Eliminado` e `Ferido`

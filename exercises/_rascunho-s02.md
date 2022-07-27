@@ -1748,12 +1748,12 @@ Estado | Descrição
 `Procurando` | Se recupera de seus ferimentos e procura por inimigos
 `Atacando` | Entra em combate aberto contra o inimigo
 `Fugindo` | Desiste do combate e foge pela sobrevivência
-`Eliminado` | Não sobreviveu ao combate e deve ser retirado do jogo
+`Morto` | Não sobreviveu ao combate e deve ser retirado do jogo
 
 O estado atual do NPC depende de 3 indicadores:
 - `InimigoProximo`: `True` se há um inimigo a vista do NPC;
 - `Ferido`: `True` se o NPC está ferido gravemente.
-- `Morto`: `True` se o NPC foi eliminado do jogo.
+- `Eliminado`: `True` se o NPC foi eliminado do jogo.
 
 A máquina de estados abaixo indica as transições possíveis entre os estados.
 ![](fsm-npc.png)
@@ -1764,26 +1764,26 @@ De | Para | Condição
 --- | --- | ---
 `Procurando` | `Procurando` | `Ferido` ou `!InimigoProximo`
 `Procurando` | `Atacando` | `!Ferido` e `InimigoProximo`
-`Atacando` | `Atacando` |  `!Morto` e `!Ferido` e `InimigoProximo`
-`Atacando` | `Procurando` | `!Morto` e `!InimigoProximo`
-`Atacando` | `Fugindo` | `!Morto` e `Ferido`
-`Atacando` | `Eliminado` | `Morto`
-`Fugindo` | `Fugindo` | `!Morto` e `Ferido`
-`Fugindo` | `Procurando` | `!Morto` e `!Ferido`
-`Fugindo` | `Eliminado` | `Morto`
+`Atacando` | `Atacando` |  `!Eliminado` e `!Ferido` e `InimigoProximo`
+`Atacando` | `Procurando` | `!Eliminado` e `!InimigoProximo`
+`Atacando` | `Fugindo` | `!Eliminado` e `Ferido`
+`Atacando` | `Morto` | `Eliminado`
+`Fugindo` | `Fugindo` | `!Eliminado` e `Ferido`
+`Fugindo` | `Procurando` | `!Eliminado` e `!Ferido`
+`Fugindo` | `Morto` | `Eliminado`
 
 A cada transição, simule os acontecimentos:
 - `Procurando`:
   - 50% de chances de curar-se (`Ferido = False`).
   - 50% de chances de encontrar o inimigo (`InimigoProximo = True`).
 - `Atacando`:
-  - 50% de chances se ferir (`Ferido = True`), e então 50% de chances de morrer com o ferimento (`Morto = True`).
+  - 50% de chances se ferir (`Ferido = True`), e então 50% de chances de morrer com o ferimento (`Eliminado = True`).
   - 50% de chances matar o inimigo ou o inimigo fugir (`InimigoProximo = False`).
 - `Fugindo`:
-  - 25% de chances de morrer com o ferimento (`Morto = True`).
+  - 25% de chances de morrer com o ferimento (`Eliminado = True`).
   - 25% de chances de curar-se (`Ferido = False`).
   - 50% de chances do inimigo desistir (`InimigoProximo = False`).
-- `Eliminado`:
+- `Morto`:
   - Finalizar a simulação.
 
 Simule transições partindo de `Procurando` até que o NPC morra. Exiba a quantidade de transições pelas quais o NPC sobreviveu.
@@ -1792,12 +1792,12 @@ Exemplo:
 ```
 --- Simulação de IA de NPC ---
 
--- #1 Procurando... Ferido = N, InimigoProximo = N, Morto = N
--- #2 Procurando... Ferido = N, InimigoProximo = S, Morto = N
--- #3 Atacando..... Ferido = N, InimigoProximo = S, Morto = N
--- #4 Atacando..... Ferido = S, InimigoProximo = S, Morto = N
--- #5 Fugindo...... Ferido = S, InimigoProximo = S, Morto = N
--- #6 Fugindo...... Ferido = S, InimigoProximo = S, Morto = S
+-- #1 Procurando... Ferido = N, InimigoProximo = N, Eliminado = N
+-- #2 Procurando... Ferido = N, InimigoProximo = S, Eliminado = N
+-- #3 Atacando..... Ferido = N, InimigoProximo = S, Eliminado = N
+-- #4 Atacando..... Ferido = S, InimigoProximo = S, Eliminado = N
+-- #5 Fugindo...... Ferido = S, InimigoProximo = S, Eliminado = N
+-- #6 Fugindo...... Ferido = S, InimigoProximo = S, Eliminado = S
 
 O NPC sobreviveu por 5 transições.
 ```

@@ -2100,22 +2100,46 @@ Exemplo:
 ```
 --- Time dos Sonhos da NBA ---
 
-0 jogador(es) selecionados até o momento. Posição a adicionar: 11
-1 jogador(es) selecionados até o momento. Posição a adicionar: 1
-2 jogador(es) selecionados até o momento. Posição a adicionar: 10
-3 jogador(es) selecionados até o momento. Posição a adicionar: 10
-ERRO
-3 jogador(es) selecionados até o momento. Posição a adicionar: 2
-4 jogador(es) selecionados até o momento. Posição a adicionar: 4
-5 jogadores selecionados.
+Top 20 jogadores:
+
+         1 - Michael Jordan (Armador)
+         2 - LeBron James (Ala)
+         3 - Kareem Abdul Jabbar (Pivô)       
+         4 - Magic Johnson (Armador)
+         5 - Wilt Chamberlain (Pivô)
+         6 - Bill Russell (Pivô)
+         7 - Larry Bird (Ala)
+         8 - Tim Duncan (Ala-pivô)
+         9 - Oscar Robertson (Armador)        
+        10 - Kobe Bryant (Armador)
+        11 - Shaquille O'Neal (Pivô)
+        12 - Kevin Durant (Ala)
+        13 - Hakeem Olajuwon (Pivô)
+        14 - Julius Erving (Ala)
+        15 - Moses Malone (Pivô)
+        16 - Stephen Curry (Armador)
+        17 - Dirk Nowitzki (Ala-pivô)
+        18 - Giannis Antetokounmpo (Ala-pivô) 
+        19 - Jerry West (Armador)
+        20 - Elgin Baylor (Ala)
+
+0 jogador(es) selecionados. Adicionar o Top # 1
+1 jogador(es) selecionados. Adicionar o Top # 10
+2 jogador(es) selecionados. Adicionar o Top # 2
+3 jogador(es) selecionados. Adicionar o Top # 1
+Atleta já incluído no seu time.
+3 jogador(es) selecionados. Adicionar o Top # 4
+4 jogador(es) selecionados. Adicionar o Top # 25
+Entrada inválida.
+4 jogador(es) selecionados. Adicionar o Top # 11
 
 Seu time dos sonhos é:
 
-01 - Michael Jordan (Armador)
-02 - LeBron James (Ala)
-04 - Magic Johnson (Armador)
-10 - Kobe Bryant (Armador)
-11 - Shaquille O’Neal (Pivô)
+         1 - Michael Jordan (Armador)
+         2 - LeBron James (Ala)
+         4 - Magic Johnson (Armador)
+        10 - Kobe Bryant (Armador)
+        11 - Shaquille O'Neal (Pivô)
 ```
 
 ---

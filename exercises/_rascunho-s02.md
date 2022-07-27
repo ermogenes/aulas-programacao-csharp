@@ -1848,11 +1848,10 @@ Exemplo:
 
 Digite algo: Olá Mundo
 
-Reverso:
 odnuM álO
 ```
 
-Dica: use o método `ToCharArray()` para converter uma string em um `char[]`.
+Dicas: use o método `ToCharArray()` para converter uma string em um `char[]`. Use `String.Join("", <char[]>)` para fazer o processo inverso.
 
 ---
 ## Exercício `Palindromo`

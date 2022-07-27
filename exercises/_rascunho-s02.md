@@ -1970,11 +1970,11 @@ Exemplo:
 ```
 --- Gerador de Nomes ---
 
-Maria dos Santos
-João Pereira
-Cleide Nascimento
-João dos Santos
-Juliana Costa
+Vitor Borges
+Ana Nascimento
+Julia Ramos
+Gabriela Costa
+Larissa Andrade
 ```
 
 ---

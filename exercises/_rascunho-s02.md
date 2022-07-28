@@ -2374,7 +2374,7 @@ Em No Thanks! (Thorsten Gimmler, 2004, lançado no Brasil pela [Papergames](http
 
 Por exemplo, na sequência `8`, `13`, `14`, `15`, `17` não pontuam-se `14` e `15` pois estão presentes seus antecessores diretos. Assim, a pontuação é `8` + `13` + `17` = `38`.
 
-Faça um programa que receba uma sequência com 2 a 10 números inteiros entre 3 e 35. Exiba a pontuação da sequência.
+Faça um programa que receba uma sequência com 2 a 10 números inteiros únicos entre 3 e 35. Exiba a pontuação da sequência.
 
 # Exercícios: Classes e Listas
 

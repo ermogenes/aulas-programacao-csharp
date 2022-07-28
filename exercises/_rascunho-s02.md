@@ -2370,11 +2370,30 @@ Tesoura | -1 | 1 | 0
 ---
 ## Exercício `NoThanks`
 
-Em No Thanks! (Thorsten Gimmler, 2004, lançado no Brasil pela [Papergames](https://papergames.com.br/no-thanks/)) o baralho é formado por cartas numeradas de 3 a 35. Nesse jogo, a pontuação de uma sequência de cartas é dada pela soma dos valores das cartas, ignorando os valores de cartas imediatamente subsequentes.
+Em No Thanks! (Thorsten Gimmler, 2004, lançado no Brasil pela [PaperGames](https://papergames.com.br/no-thanks/)) o baralho é formado por cartas numeradas de 3 a 35. Nesse jogo, a pontuação de uma sequência de cartas é dada pela soma dos valores das cartas, ignorando os valores de cartas imediatamente subsequentes.
 
 Por exemplo, na sequência `8`, `13`, `14`, `15`, `17` não pontuam-se `14` e `15` pois estão presentes seus antecessores diretos. Assim, a pontuação é `8` + `13` + `17` = `38`.
 
 Faça um programa que receba uma sequência com 2 a 10 números inteiros únicos entre 3 e 35. Exiba a pontuação da sequência.
+
+Exemplo:
+```
+--- No Thanks ---
+
+1º número (-1 para finalizar): 13
+2º número (-1 para finalizar): 17
+3º número (-1 para finalizar): 8
+4º número (-1 para finalizar): 13
+Número já está na sequência. Entradas: 13 17 8 
+4º número (-1 para finalizar): 15
+5º número (-1 para finalizar): 14
+6º número (-1 para finalizar): 14
+Número já está na sequência. Entradas: 13 17 8 15 14 
+6º número (-1 para finalizar): -1
+
+Sequência: 8 13 14 15 17
+Pontos na sequência = 38
+```
 
 # Exercícios: Classes e Listas
 

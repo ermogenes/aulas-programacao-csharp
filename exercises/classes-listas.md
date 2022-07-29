@@ -236,7 +236,7 @@ Ao derrotar todos os monstros a aventura é finalizada e o jogo termina com a vi
 
 _Um dia no Complexo Alfa_ é uma [aventura-solo](https://pt.wikipedia.org/wiki/Livro-jogo) baseada no RPG [Paranoia](<https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)>) publicada nos anos 90 na [_Revista Dragão Brasil_](<(https://jamboeditora.com.br/tag/dragao-brasil/)>) número 18.
 
-![](https://wiki.daemon.com.br/images/Dragao-Brasil-018.jpg)
+<img src="Dragao-Brasil-018.jpg" alt="https://wiki.daemon.com.br/images/Dragao-Brasil-018.jpg">
 
 A aventura é modelada como um arranjo de entradas, onde cada uma possui um texto a exibir e uma lista de índices válidos para a próxima entrada.
 

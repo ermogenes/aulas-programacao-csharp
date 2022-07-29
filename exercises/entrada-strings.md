@@ -154,7 +154,7 @@ Faça um programa que receba um número telefônico. Converta as _phone words_ n
 
 Teclado telefônico padrão ITU-T E.161:
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Telephone-keypad2.svg/296px-Telephone-keypad2.svg.png)
+<img src="fone-teclado.png" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Telephone-keypad2.svg/296px-Telephone-keypad2.svg.png">
 
 Exemplo:
 
@@ -172,7 +172,7 @@ O número digitado é 555-74992.
 
 Receba o nome do usuário. Escreva seu nome ninja:
 
-![](https://4.bp.blogspot.com/-r5aVd5EpSZk/UNNX5PB_UFI/AAAAAAAAOd8/_eXtAD1jIqY/s1600/essa+%C3%A9+especial+pra+quem+n%C3%A3o+tem+o+que+fazer+=)
+<img height="400" src="nome-ninja.jpg" alt="https://4.bp.blogspot.com/-r5aVd5EpSZk/UNNX5PB_UFI/AAAAAAAAOd8/_eXtAD1jIqY/s1600/essa+%C3%A9+especial+pra+quem+n%C3%A3o+tem+o+que+fazer+=">
 
 Exemplo:
 
@@ -281,7 +281,7 @@ Nome 2 = Barbie
 
 Em [uma cena antológica](https://www.youtube.com/watch?v=UjWFVm1loPQ) de "Procurando Nemo" (Pixar, 2003), a personagem Dory (uma cirurgião-patela) tenta se comunicar com uma baleia falando "_baleiês_".
 
-![](https://s2.glbimg.com/g8B8x6xuzZVitl1fvsFWMD-S8ruBBV4p8bNWxMqmazRIoz-HdGixxa_8qOZvMp3w/e.glbimg.com/og/ed/f/original/2013/04/02/dor01.jpg)
+<img src="dori.webp" alt="https://s2.glbimg.com/g8B8x6xuzZVitl1fvsFWMD-S8ruBBV4p8bNWxMqmazRIoz-HdGixxa_8qOZvMp3w/e.glbimg.com/og/ed/f/original/2013/04/02/dor01.jpg">
 
 Faça um programa que traduza o texto digitado pelo usuário em _baleiês_, substituindo cada vogal por 3 cópias dela mesma.
 

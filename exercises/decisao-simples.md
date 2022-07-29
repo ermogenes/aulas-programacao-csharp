@@ -480,7 +480,7 @@ Exemplos de valores para teste:
 
 Faça um programa que implemente o meme _Fluxograma da Engenharia_.
 
-![](https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/e0c42862553bc72e5f217b247b3212e1ea913e08617232137a533299d6d0d3f5_1.jpg)
+<img height="400" src="Fluxograma-engenharia.jpg" alt="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/e0c42862553bc72e5f217b247b3212e1ea913e08617232137a533299d6d0d3f5_1.jpg">
 
 Exemplos:
 
@@ -650,7 +650,7 @@ Uma luz de advertência `W` é acessa no painel de um automóvel somente quando:
   - o sensor `P` de pressão está ativado.
   - o sensor `R` de rotação está desativado.
 
-![](luzadvertencia-automovel.png)
+<img height="200" src="luzadvertencia-automovel.png" alt="">
 
 Faça um simulador do circuito que controla a luz `W`. Receba o estado de cada um dos sensores ([A]tivado, [D]esativado) e calcule o estado da luz de advertência.
 
@@ -683,7 +683,7 @@ Implemente um programa em que o usuário informe o ponto de acerto do dardo atra
 - Arremessos distantes `]3, 5]` são "ruins" (exemplo: os `Dardo2` e `Dardo3`);
 - Arremessos a distâncias maiores que 5 são considerados "erros" (exemplo: o `Dardo4`).
 
-![](dardo-alvo.png)
+<img height="700" src="dardo-alvo.png" alt="">
 
 Exemplos:
 
@@ -816,7 +816,7 @@ Considere dois tipos de dominância:
 - dominância completa: há duas possibilidades, e a característica só ocorre em indivíduos `aa` (ex.: o albinismo em humanos).
 - dominância incompleta: há três possibilidades, sendo uma delas intermediária (ex.: a coloração da boca-de-leão (_Antirrhinum majus_) é vermelha quando `AA`, branca quando `aa` e rosa quando `Aa`).
 
-![](https://1.bp.blogspot.com/-30CSmN41YOo/WsL5F-ctd3I/AAAAAAAAAVQ/A8XbKxgWVaMhoPFXf_JkyPoYkw7HaD3jgCLcBGAs/s1600/flores%2Bde%2Btres%2Bfenotipos.jpg)
+<img src="flores-de-tres-fenotipos.jpg" alt="https://1.bp.blogspot.com/-30CSmN41YOo/WsL5F-ctd3I/AAAAAAAAAVQ/A8XbKxgWVaMhoPFXf_JkyPoYkw7HaD3jgCLcBGAs/s1600/flores%2Bde%2Btres%2Bfenotipos.jpg">
 
 Faça um programa que receba os alelos de dois indivíduos e as probabilidades da característica se manifestar em seus descendentes diretos. Considere o caso como dominância completa ou incompleta, conforme seleção do usuário.
 

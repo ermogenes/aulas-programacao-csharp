@@ -393,7 +393,7 @@ A nota de Rebeca Andrade foi 14,066.
 
 Um aparelho _Ar Condicionado Split LG DUAL Inverter 9.000 Frio_ consome 17,1 kWh/mês de energia enquanto ligado, [segundo seu fabricante](https://www.lg.com/br/ar-condicionado-residencial/lg-S4-Q09WA5WB#).
 
-![](https://www.lg.com/br/images/ar-condicionado-residencial/md06014456/gallery/DZ-E.jpg)
+<img height="500" src="ac-lg-energia.webp" alt="https://www.lg.com/br/images/ar-condicionado-residencial/md06014456/gallery/DZ-E.jpg">
 
 Isso significa que, se utilizado 8h por dia, consome 136,8 kWh/mês. Considerando o custo por kWh de R$0,62258, teríamos um custo estimado de R$85,168944.
 

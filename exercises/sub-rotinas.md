@@ -144,10 +144,12 @@ Escreva uma função que recebe as coordenadas cartesianas e o raio de duas circ
 Exemplos com os objetos `A` de raio 4 e `B` de raio 2:
 
 Com `A` centrado em `(-2,0)` e `B` centrado em `(4,4)` não há colisão.
-![](colisao-circ-1.png)
+
+<img height="500" src="colisao-circ-1.png" alt="">
 
 Com `A` centrado em `(-2,0)` e `B` centrado em `(2,4)` há colisão.
-![](colisao-circ-2.png)
+
+<img height="570" src="colisao-circ-2.png" alt="">
 
 Saiba mais [aqui](https://developer.mozilla.org/pt-BR/docs/Games/Techniques/2D_collision_detection).
 

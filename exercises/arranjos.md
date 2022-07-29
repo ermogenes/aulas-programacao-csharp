@@ -102,7 +102,7 @@ Um palíndromo é uma palavra ou frase que se pode ler, indiferentemente, da esq
 
 Exemplos: osso, arara, Ana, reviver, omissíssimo (superlativo de omisso, a maior da língua portuguesa), "a base do teto desaba", "a dama amada", "a mala na lama", "assim a aia ia à missa", "a cara rajada da jararaca", "socorram-me, subi no ônibus em Marrocos", "[Sator Arepo Tenet Opera Rotas](https://en.wikipedia.org/wiki/Sator_Square)" (_o semeador, com o seu carro, mantém com destreza as rodas_, em latim), "Was it a car or a cat I saw?" (_Foi um carro ou um gato que eu vi?_, em inglês).
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sator_Square_at_Opp%C3%A8de.jpg/485px-Sator_Square_at_Opp%C3%A8de.jpg)
+<img size="250" src="sator-arepo.jpg" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sator_Square_at_Opp%C3%A8de.jpg/485px-Sator_Square_at_Opp%C3%A8de.jpg" >
 
 Faça um programa que receba uma frase e avalie se ela é um palíndromo ou não.
 
@@ -258,25 +258,17 @@ Quantas jogadas? 4
 
 Um fractal é um objeto geométrico que pode ser dividido em partes, cada uma das quais semelhante ao objeto original, infinitamente. São encontrados frequentemente na natureza:
 
-Brássica oleracea (brócolis romanescos)
-
-![](https://paisagismodigital.com/Noticias/img/439-000.jpg)
-
 Girassol
 
-![](https://paisagismodigital.com/Noticias/img/439-004.jpg)
+<img height="250" src="fractal-girassol.jpg" alt="https://paisagismodigital.com/Noticias/img/439-004.jpg">
 
 Floco de neve
 
-![](https://www.nsf.gov/news/mmg/media/images/Snowflake1.jpg)
+<img height="250" src="fractal-neve.jpg" alt="https://www.nsf.gov/news/mmg/media/images/Snowflake1.jpg">
 
 Repolho
 
-![](https://paisagismodigital.com/Noticias/img/439-008.jpg)
-
-Pulmões
-
-![](https://www.marcelouva.com.br/wp-content/uploads/2019/08/fractal.png)
+<img height="250" src="fractal-repolho.jpg" alt="https://paisagismodigital.com/Noticias/img/439-008.jpg">
 
 Imagens: [PaisagismoDigital](https://paisagismodigital.com/noticias/?id=plantas-matematicas:-os-fractais-na-natureza-|-paisagismo-digital&in=439) e [NSF](https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=80874&from=)
 
@@ -287,7 +279,7 @@ Parte do algoritmo que gera fractais é baseado na geração de números com aqu
 - o primero número da série é `0`;
 - o próximo número da série é o quadrado do item anterior somado com o número `c`.
 
-![](https://static.packt-cdn.com/products/9781787120495/graphics/33907ca6-9f25-439c-bb21-4e0ddbc9272e.jpg)
+<img src="Mandelbrot-formula.jpg" alt="https://static.packt-cdn.com/products/9781787120495/graphics/33907ca6-9f25-439c-bb21-4e0ddbc9272e.jpg">
 
 Faça um programa que preencha um arranjo com os 10 primeiros números da série de Mandelbrot para um número `c` informado pelo usuário (aceite números reais no intervalo `0 > c >= 10`).
 
@@ -448,7 +440,7 @@ Implemente um programa que cifre/decifre uma string digitada pelo usuário usand
 
 Para isso transforme o texto em maiúsculas e substitua cada letra pela letra 13 posições à frente no alfabeto (após `Z` volte para `A`). Repita os demais caracteres na saída (espaços, pontuações, acentuações, etc.).
 
-![](https://datagenetics.com/blog/july42015/rot13.png)
+<img src="rot13.png" alt="https://datagenetics.com/blog/july42015/rot13.png">
 
 Imagem: [DataGenetics](https://datagenetics.com/blog/july42015/index.html)
 

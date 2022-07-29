@@ -567,7 +567,7 @@ Você pode simular valores para teste [aqui](http://drcalc.net/price.asp).
 
 Na DLC _The Delicious Last Course_ (2022) do premiado game _Cuphead_ (Studio MDHR), o item _Anel de Coração_ concede benefícios ao seu portador na primeira, terceira e sexta ocorrências de um evento.
 
-![](AnelDeCoracao.png)
+<img height="300" src="AnelDeCoracao.png" alt="">
 
 A ideia é que a obtenção de cada novo benefício se torne mais difícil do que a anterior, aumentando em 1 a quantidade necessária de ocorrências do evento em relação ao benefício anterior.
 
@@ -593,7 +593,7 @@ Exemplo:
 
 Em um genial episódio¹ da animação Pica-Pau (_Woody Woodpecker_) a personagem Raposinha (_Fink Fox_) divide uma certa quantidade de comida "_igualmente_" com o protagonista.
 
-![](https://static.wikia.nocookie.net/walterlantz/images/f/f6/WW_-_Dumb_Like_A_Fox_-_03.jpg/revision/latest/scale-to-width-down/480?cb=20210504223920)
+<img src="esperto-e-sabido.webp" alt="https://static.wikia.nocookie.net/walterlantz/images/f/f6/WW_-_Dumb_Like_A_Fox_-_03.jpg/revision/latest/scale-to-width-down/480?cb=20210504223920">
 
 ```
 1 para você. 1 para mim.
@@ -820,6 +820,7 @@ O estado atual do NPC depende de 3 indicadores:
 - `Eliminado`: `True` se o NPC foi eliminado do jogo.
 
 A máquina de estados abaixo indica as transições possíveis entre os estados.
+
 ![](fsm-npc.png)
 
 Condições para transição:

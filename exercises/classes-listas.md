@@ -46,21 +46,21 @@ Exemplo:
 
 -- 1ª onda --
 Juiz 1: 5
-Juiz 2: 8.3
-Juiz 3: 7.0
+Juiz 2: 8,3
+Juiz 3: 7,0
 Juiz 4: 10
-Juiz 5: 8.5
-Nota obtida = 7.93
+Juiz 5: 8,5
+Nota obtida = 8,93
 
 Mais uma onda (S/N)? S
 
 -- 2ª onda --
-Juiz 1: 9.5
+Juiz 1: 9,5
 Juiz 2: 10
 Juiz 3: 10
 Juiz 4: 10
 Juiz 5: 10
-Nota obtida = 10.00
+Nota obtida = 10,00
 
 Mais uma onda (S/N)? S
 
@@ -70,7 +70,7 @@ Juiz 2: 0
 Juiz 3: 0
 Juiz 4: 0
 Juiz 5: 0
-Nota obtida = 0.00
+Nota obtida = 0,00
 
 Mais uma onda (S/N)? S
 
@@ -80,11 +80,11 @@ Juiz 2: 10
 Juiz 3: 10
 Juiz 4: 10
 Juiz 5: 10
-Nota obtida = 10.00
+Nota obtida = 10,00
 
 Mais uma onda (S/N)? N
 
-Pontos na bateria = 20.00
+Pontos na bateria = 20,00
 
 BATERIA PERFEITA!
 ```

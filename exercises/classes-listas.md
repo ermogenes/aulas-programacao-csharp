@@ -466,7 +466,7 @@ aventura[31] = new Entrada
 
 aventura[32] = new Entrada
 {
-    Texto = "Você pega a fila da direita, e passa 3 longas horas divertidas nela. O único incômodo é que o cidadão que está na frente deve estar sofrendo de alguma disfunção intestinal, tornando o ar um muito agradável ao seu olfato.\n\nQuando chega a sua vez de ser atendido, o balconista pede para você esperar um minutinho e abandona a sala. Ele retorna 1 hora depois dizendo:\n\n- Ah, nada como um bom almoço! Muito bem, o que você quer?\n\nSe você quer uma chave ALF, não vai consegui-la aqui e terá que pegar outra fila; vá para 29.\nSe quer uma autorização OGF43B-5, vá para 18.",
+    Texto = "Você pega a fila da direita, e passa 3 longas horas divertidas nela. O único incômodo é que o cidadão que está na frente deve estar sofrendo de alguma disfunção intestinal, tornando o ar muito agradável ao seu olfato.\n\nQuando chega a sua vez de ser atendido, o balconista pede para você esperar um minutinho e abandona a sala. Ele retorna 1 hora depois dizendo:\n\n- Ah, nada como um bom almoço! Muito bem, o que você quer?\n\nSe você quer uma chave ALF, não vai consegui-la aqui e terá que pegar outra fila; vá para 29.\nSe quer uma autorização OGF43B-5, vá para 18.",
     Alternativas = new List<int> { 29, 18 }
 };
 

@@ -15,7 +15,7 @@ Nenhum exercício disponível.
 | [BateriaSurf](#Exercício-BateriaSurf)             | _em breve_ |
 | [PersonagemDnD](#Exercício-PersonagemDnD)         | _em breve_ |
 | [MaoDeTruco](#Exercício-MaoDeTruco)               | _em breve_ |
-| [ContasBancarias](#Exercício-FinTech)             | _em breve_ |
+| [Fintech](#Exercício-Fintech)                     | _em breve_ |
 | [FilaDeNotas](#Exercício-FilaDeNotas)             | _em breve_ |
 | [CarrinhoDeCompras](#Exercício-CarrinhoDeCompras) | _em breve_ |
 | [Masmorra](#Exercício-Masmorra)                   | _em breve_ |
@@ -176,7 +176,7 @@ Vira: J♦
 
 ---
 
-## Exercício `FinTech`
+## Exercício `Fintech`
 
 Represente duas contas bancárias utilizando objetos que contenham os nomes do titular e saldos abaixo:
 

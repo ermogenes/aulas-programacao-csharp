@@ -230,24 +230,24 @@ Ao finalizar a compra, somente exiba o valor total.
 
 Faça um programa que implemente o combate no sistema dos livros-jogos da série _Fighting Fantasy_ ([lançados no Brasil pela Jambô](https://jamboeditora.com.br/produto-tag/fighting-fantasy/)).
 
-O herói possuirá valores aleatórios de `habilidade` (1d6+6), `sorte` (2d6+12) e `energia` (1d6+6). Os monstros não possuem sorte, e seus valores de `habilidade` e `energia` são pré-determinados.
+O herói possuirá valores aleatórios de `habilidade` (1d6+6), `sorte` (2d6+12) e `energia` (1d6+6). As criaturas não possuem sorte, e seus valores de `habilidade` e `energia` são pré-determinados.
 
-Durante uma rodada de combate, calcule a _força de ataque_ de cada oponente, somando 2d6 à sua `habilidade`. O oponente com a menor _força de ataque_ sofre dano, reduzindo 2 pontos de sua `energia`. Repita as rodadas até que o inimigo seja derrotado ou o personagem morra (ficando sem `energia`).
+Durante uma rodada de combate, calcule a _força de ataque_ de cada oponente, somando 2d6 à sua `habilidade`. O oponente com a menor _força de ataque_ sofre dano, reduzindo 2 pontos de sua `energia` (em caso de empate os dois erram). Repita as rodadas até que o inimigo seja derrotado ou o personagem morra (ficando sem `energia`).
 
 O jogador pode optar por testar a sua sorte para aumentar o dano causado ou reduzir o dano recebido. Ao testar sua sorte, o jogador soma o resultado de 2d6. Caso obtenha um valor igual ou menor do que sua sorte atual, foi _sortudo_ e causa 4 danos em vez de 2, ou sofre 1 dano em vez de 2. Caso contrário, foi _azarado_ e causa 1 dano em vez de 2, ou sofre 3 danos em vez de 2. Após aplicar o resultado, reduza em um ponto sua `sorte`.
 
-Faça com que o usuário enfrente os seguintes monstros em uma masmorra, em sequência, sem recuperar `energia` ou `sorte` entre combates:
+Faça com que o usuário enfrente as seguintes criaturas em uma masmorra, em sequência, sem recuperar `energia` ou `sorte` entre combates:
 
-| Monstro | Habilidade | Energia |
-| ------- | ---------- | ------- |
-| Lobo    | 3          | 3       |
-| Goblin  | 5          | 4       |
-| Orc     | 5          | 5       |
-| Zumbi   | 6          | 7       |
-| Troll   | 8          | 7       |
-| Ogro    | 8          | 9       |
+| Criatura | Habilidade | Energia |
+| -------- | ---------- | ------- |
+| Lobo     | 3          | 3       |
+| Goblin   | 5          | 4       |
+| Orc      | 5          | 5       |
+| Zumbi    | 6          | 7       |
+| Troll    | 8          | 7       |
+| Ogro     | 8          | 9       |
 
-Ao derrotar todos os monstros a aventura é finalizada e o jogo termina com a vitória do jogador.
+Ao derrotar todas as criaturas a aventura é finalizada e o jogo termina com a vitória do jogador.
 
 ---
 

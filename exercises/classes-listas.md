@@ -111,27 +111,46 @@ Faça um programa que gere os 6 valores de atributos e os exiba juntamente com s
 Exemplo:
 
 ```
---- Gerador de Personagem D&D 5e ---
+--- Gerador de Personagem para D&D Quinta Edição ---
 
 Rolagens (método 4d6 drop lowest):
-STR: 3, 5, 5, 1, descartado o valor 1
-DEX: 2, 2, 4, 3, descartado o valor 2
-CON: 6, 6, 4, 5, descartado o valor 4
-INT: 1, 1, 6, 3, descartado o valor 1
-WIS: 3, 3, 3, 4, descartado o valor 3
-CHA: 5, 2, 6, 5, descartado o valor 2
+5, 1, 2, 6, descartado o valor 1
+3, 3, 5, 4, descartado o valor 3
+5, 2, 2, 3, descartado o valor 2
+2, 4, 1, 3, descartado o valor 1
+1, 2, 4, 3, descartado o valor 1
+2, 1, 3, 6, descartado o valor 1
 
-A soma das rolagens mantidas é 75, portanto não é necessário re-rolar.
+A soma das rolagens mantidas é 64, portanto é necessário re-rolar.
 
-Atributo (Modificador):
-STR: 13 (+1)
-DEX: 09 (-1)
+Rolagens (método 4d6 drop lowest):
+1, 5, 2, 3, descartado o valor 1
+4, 3, 6, 1, descartado o valor 1
+1, 4, 2, 6, descartado o valor 1
+5, 4, 2, 3, descartado o valor 2
+5, 4, 1, 1, descartado o valor 1
+6, 6, 5, 3, descartado o valor 3
+
+A soma das rolagens mantidas é 74, portanto é necessário re-rolar.
+
+Rolagens (método 4d6 drop lowest):
+5, 6, 6, 1, descartado o valor 1
+1, 4, 4, 6, descartado o valor 1
+5, 6, 4, 6, descartado o valor 4
+1, 1, 4, 5, descartado o valor 1
+6, 2, 6, 2, descartado o valor 2
+2, 2, 3, 1, descartado o valor 1
+
+A soma das rolagens mantidas é 79, portanto não é necessário re-rolar.
+
+STR: 17 (+3)
+DEX: 14 (+2)
 CON: 17 (+3)
 INT: 10 (+0)
-WIS: 10 (+0)
-CHA: 16 (+3)
+WIS: 14 (+2)
+CHA:  7 (-1)
 
-O maior atributo é Constituição e o menor é Destreza.
+Os maiores atributos são Força e Constituição e o menor atributo é Carisma.
 ```
 
 ---

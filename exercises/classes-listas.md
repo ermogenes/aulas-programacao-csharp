@@ -209,7 +209,7 @@ Execute os _beeps_ equivalentes a cada nota pelo tempo especificado, em sequênc
 
 ## Exercício `CarrinhoDeCompras`
 
-Faça um programa que implemente o carrinho de compras de uma loja virtual. Permita que o usuário veja a lista de produtos, adicione produtos ao carrinho, visualize o estado atual do carrinho e finalize a compra.
+Faça um programa que implemente o carrinho de compras de uma loja virtual. Permita que o usuário veja a lista de produtos, adicione produtos ao carrinho, visualize o estado atual do carrinho, limpe o carrinho e finalize a compra.
 
 Lista de produtos:
 
@@ -220,7 +220,9 @@ Lista de produtos:
 | 3      | Camiseta G  | R$50,00        |
 | 4      | Camiseta GG | R$55,00        |
 
-Ao finalizar a compra, exiba o valor total.
+Ao adicionar um produto no carrinho garanta que não há entradas repetidas. Nessa situação, altere a quantidade do produto adicionado anteriomente.
+
+Ao finalizar a compra, somente exiba o valor total.
 
 ---
 

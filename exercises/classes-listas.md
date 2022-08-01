@@ -304,7 +304,7 @@ aventura[4] = new Entrada
 
 aventura[5] = new Entrada
 {
-    Texto = "O cientista ordena que você espere aqui. Ele vai até a sala de testes buscar um novo equipamento, algo que não irá transformá-lo em cinzas, você espera. Felizmente você não está sozinho. CHUÁ TIB-1, seu melhor amigo, também fica aqui, e vocês podem ficar conversando enquanto ZECA não chega.\n\nDurante a conversa, CHUÁ pede licença para ir ao banheiro. Mas você nota que ele entra em uma sala que não tem banheiro. Lembra-se também que, antes de sair, ele estava mexendo em uma estranha caixa preta sobre a mesa. Esquisito!\n\nSe quiser seguir seu amigo, vá para 24. Se quer ficar esperando, vá para 39. Se quer examinar a caixa, vá para 22.",
+    Texto = "O cientista ordena que você espere aqui. Ele vai até a sala de testes buscar um novo equipamento, algo que não irá transformá-lo em cinzas, você espera. Felizmente você não está sozinho. CHUÁ TIB-1, seu melhor amigo, também fica aqui, e vocês podem ficar conversando enquanto ZECA não chega.\n\nDurante a conversa, CHUÁ pede licença para ir ao banheiro. Mas você nota que ele entra em uma sala que não tem banheiro. Lembra-se também que, antes de sair, ele estava mexendo em uma estranha caixa preta sobre a mesa. Esquisito!\n\nSe quiser seguir seu amigo, vá para 24.\nSe quer ficar esperando, vá para 39.\nSe quer examinar a caixa, vá para 22.",
     Alternativas = new List<int> { 24, 39, 22 }
 };
 
@@ -430,7 +430,7 @@ aventura[25] = new Entrada
 
 aventura[26] = new Entrada
 {
-    Texto = "Você persegue o robô até que ele entra num corredor vermelho, onde sua presença não é permitida. O safado pára a poucos metros de você e começa solenemente a limpar o chão.\n\nParece que você está mesmo sem sorte. Não fosse o corredor vermelho, seria só pegar a chave na lata de lixo e ir embora. Bem, você pode arriscar, pode ser que ninguém veja, e que nenhuma das câmeras de vídeo do Computador esteja por aí. Por outro lado, não vai ser possível conseguir outra autorização para pegar uma chave ALF, pois você já recebeu uma. Voltar sem ela significa desobediência a um cidadão de Nível superior ao seu, o que é traição. E traição é punida com a morte.\n\nQuer entrar e pegar a chave? vá para 13.\n\nQuer ficar esperando um milagre? vá para 31.",
+    Texto = "Você persegue o robô até que ele entra num corredor vermelho, onde sua presença não é permitida. O safado pára a poucos metros de você e começa solenemente a limpar o chão.\n\nParece que você está mesmo sem sorte. Não fosse o corredor vermelho, seria só pegar a chave na lata de lixo e ir embora. Bem, você pode arriscar, pode ser que ninguém veja, e que nenhuma das câmeras de vídeo do Computador esteja por aí. Por outro lado, não vai ser possível conseguir outra autorização para pegar uma chave ALF, pois você já recebeu uma. Voltar sem ela significa desobediência a um cidadão de Nível superior ao seu, o que é traição. E traição é punida com a morte.\n\nQuer entrar e pegar a chave? vá para 13.\nQuer ficar esperando um milagre? vá para 31.",
     Alternativas = new List<int> { 13, 31 }
 };
 
@@ -496,7 +496,7 @@ aventura[36] = new Entrada
 
 aventura[37] = new Entrada
 {
-    Texto = "Sem que CHUÁ perceba, você chama seu chefe de lado e conta tudo a ele. O cientista vai até a sala dos robôs e desliga todos. Ele examina um por um e ordena que vocês esperem na outra sala. Depois de algum tempo, ele volta e diz:\n\n- Muito bem, cidadão! Suas suspeitas estavam corretas. Descobri que seu amigo sabotou um robô.\n\nCHUÁ apenas tem tempo de olhar pra você antes de ser pulverizado pela pistola laser do cientista. Você recebe congratulações do Computador e é promovido: agora você pertence ao Nível de Segurança vermelho. Você se torna um Agente Atirador. Sua missão é encontrar traidores e eliminá-los. Infelizmente, pouca gente sobrevive por muito tempo nesse trabalho... mas no Complexo Alfa, as coisas são assim mesmo.\n\nSeja feliz, cidadão.",
+    Texto = "Sem que CHUÁ perceba, você chama seu chefe de lado e conta tudo a ele. O cientista vai até a sala dos robôs e desliga todos. Ele examina um por um e ordena que vocês esperem na outra sala. Depois de algum tempo, ele volta e diz:\n\n- Muito bem, cidadão! Suas suspeitas estavam corretas. Descobri que seu amigo sabotou um robô.\n\nCHUÁ apenas tem tempo de olhar pra você antes de ser pulverizado pela pistola laser do cientista. Você recebe congratulações do Computador e é promovido: agora você pertence ao Nível de Segurança vermelho. Você se torna um Agente Atirador. Sua missão é encontrar traidores e eliminá-los. Infelizmente, pouca gente sobrevive por muito tempo nesse trabalho... mas no Complexo Alfa, as coisas são assim mesmo.\n\nSeja feliz, cidadão.\n\nFIM!\nVá para 99 para sair do jogo.",
     Alternativas = new List<int> { -1 }
 };
 
@@ -514,7 +514,7 @@ aventura[39] = new Entrada
 
 aventura[40] = new Entrada
 {
-    Texto = "O soldado revista você e não encontra nada suspeito.\n\n- Muito bem cidadão. Parece que você não é um traidor. Mas, por via das dúvidas, este episódio será gravado em seus registros para referências futuras. Tenha um bom dia.\n\nA Segurança Interna deixa você livre para voltar para seus alojamentos. Este foi apenas mais um dia tranquilo em sua vida no Complexo Alfa. Agora pode dormir e começar tudo de novo amanhã. Você está feliz, não está?!",
+    Texto = "O soldado revista você e não encontra nada suspeito.\n\n- Muito bem cidadão. Parece que você não é um traidor. Mas, por via das dúvidas, este episódio será gravado em seus registros para referências futuras. Tenha um bom dia.\n\nA Segurança Interna deixa você livre para voltar para seus alojamentos. Este foi apenas mais um dia tranquilo em sua vida no Complexo Alfa. Agora pode dormir e começar tudo de novo amanhã. Você está feliz, não está?!\n\nFIM!\nVá para 99 para sair do jogo.",
     Alternativas = new List<int> { -1 }
 };
 ```

@@ -189,7 +189,6 @@ Crie um menu que permita executar as seguintes operações na conta do João:
 
 - Depositar uma quantia informada pelo usuário;
 - Fazer um Pix de quantia informada pelo usuário para a conta da Maria;
-- Receber um Pix de quantia informada pelo usuário da conta da Maria;
 - Exibir o extrato da conta (contendo o tipo das operações e seus valores).
 
 Não permita ações com redução de saldo quando o saldo não é suficiente.

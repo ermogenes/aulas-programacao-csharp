@@ -10,16 +10,16 @@ Nenhum exercício disponível.
 
 **Temporada 2**
 
-| Enunciado                                         | Correção   | Extras |
-| ------------------------------------------------- | ---------- | ------ |
-| [BateriaSurf](#Exercício-BateriaSurf)             | _em breve_ |
-| [PersonagemDnD](#Exercício-PersonagemDnD)         | _em breve_ |
-| [MaoDeTruco](#Exercício-MaoDeTruco)               | _em breve_ |
-| [Fintech](#Exercício-Fintech)                     | _em breve_ |
-| [FilaDeNotas](#Exercício-FilaDeNotas)             | _em breve_ |
-| [CarrinhoDeCompras](#Exercício-CarrinhoDeCompras) | _em breve_ |
-| [Masmorra](#Exercício-Masmorra)                   | _em breve_ |
-| [Paranoia](#Exercício-Paranoia)                   | _em breve_ |
+| Enunciado                                         | Correção                                                                                       | Extras |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------ |
+| [BateriaSurf](#exercício-bateriasurf)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/BateriaSurf/Program.cs)       |
+| [PersonagemDnD](#exercício-personagemdnd)         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/PersonagemDnD/Program.cs)     |
+| [MaoDeTruco](#exercício-maodetruco)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/MaoDeTruco/Program.cs)        |
+| [Fintech](#exercício-fintech)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Fintech/Program.cs)           |
+| [FilaDeNotas](#exercício-filadenotas)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/FilaDeNotas/Program.cs)       |
+| [CarrinhoDeCompras](#exercício-carrinhodecompras) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/CarrinhoDeCompras/Program.cs) |
+| [Masmorra](#exercício-masmorra)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Masmorra/Program.cs)          |
+| [Paranoia](#exercício-paranoia)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Paranoia/Program.cs)          |
 
 ---
 
@@ -238,19 +238,19 @@ O jogador pode optar por testar a sua sorte para aumentar o dano causado ou redu
 
 Faça com que o usuário enfrente as seguintes criaturas em uma masmorra, em sequência, sem recuperar `energia` ou `sorte` entre combates:
 
-| Criatura | Habilidade | Energia |
-| -------- | ---------- | ------- |
-| Lobo Cinzento | 3 | 3 |
-| Lobo Branco | 3 | 3 |
-| Goblin | 5 | 4 |
-| Orc Vesgo | 5 | 5 |
-| Orc Barbudo | 5 | 5 |
-| Zumbi Manco | 6 | 7 |
-| Zumbi Balofo | 6 | 7 |
-| Troll | 8 | 7 |
-| Ogro | 8 | 9 |
-| Ogro Furioso | 10 | 9 |
-| Necromante Maligno | 12 | 12 |
+| Criatura           | Habilidade | Energia |
+| ------------------ | ---------- | ------- |
+| Lobo Cinzento      | 3          | 3       |
+| Lobo Branco        | 3          | 3       |
+| Goblin             | 5          | 4       |
+| Orc Vesgo          | 5          | 5       |
+| Orc Barbudo        | 5          | 5       |
+| Zumbi Manco        | 6          | 7       |
+| Zumbi Balofo       | 6          | 7       |
+| Troll              | 8          | 7       |
+| Ogro               | 8          | 9       |
+| Ogro Furioso       | 10         | 9       |
+| Necromante Maligno | 12         | 12      |
 
 Ao derrotar todas as criaturas a aventura é finalizada e o jogo termina com a vitória do jogador.
 

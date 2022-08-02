@@ -240,12 +240,17 @@ Faça com que o usuário enfrente as seguintes criaturas em uma masmorra, em seq
 
 | Criatura | Habilidade | Energia |
 | -------- | ---------- | ------- |
-| Lobo     | 3          | 3       |
-| Goblin   | 5          | 4       |
-| Orc      | 5          | 5       |
-| Zumbi    | 6          | 7       |
-| Troll    | 8          | 7       |
-| Ogro     | 8          | 9       |
+| Lobo Cinzento | 3 | 3 |
+| Lobo Branco | 3 | 3 |
+| Goblin | 5 | 4 |
+| Orc Vesgo | 5 | 5 |
+| Orc Barbudo | 5 | 5 |
+| Zumbi Manco | 6 | 7 |
+| Zumbi Balofo | 6 | 7 |
+| Troll | 8 | 7 |
+| Ogro | 8 | 9 |
+| Ogro Furioso | 10 | 9 |
+| Necromante Maligno | 12 | 12 |
 
 Ao derrotar todas as criaturas a aventura é finalizada e o jogo termina com a vitória do jogador.
 

@@ -122,20 +122,20 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 
 ## 🥋 Exercícios
 
-Legenda: 🔥 novos exercícios adicionados | 🔥🔥 lista nova | 🎁 extra
+Legenda:  ⚡ novos exercícios adicionados | 🔥 conteúdo inédito
 
 <!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 
-- [Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) 🎁
-- [Saída em console](exercises/saida.md) 🔥
-- [Entrada de dados e Strings](exercises/entrada-strings.md) 🔥
-- [Números e Operadores](exercises/numeros-operadores.md) 🔥
-- [Datas e Pacotes](exercises/datas-pacotes.md) 🎁
-- [Decisão e operações lógicas](exercises/decisao-simples.md) 🔥
-- [Sub-rotinas](exercises/sub-rotinas.md) 🔥🔥
-- [Laços](exercises/lacos.md) 🔥
-- [Arranjos](exercises/arranjos.md) 🎁 🔥🔥
-- [Classes e Listas](exercises/classes-listas.md) 🎁 🔥🔥
+- [Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
+- [Saída em console](exercises/saida.md) ⚡
+- [Entrada de dados e Strings](exercises/entrada-strings.md) ⚡
+- [Números e Operadores](exercises/numeros-operadores.md) ⚡
+- [Datas e Pacotes](exercises/datas-pacotes.md)
+- [Decisão e operações lógicas](exercises/decisao-simples.md) ⚡
+- [Sub-rotinas](exercises/sub-rotinas.md) 🔥
+- [Laços](exercises/lacos.md) ⚡
+- [Arranjos](exercises/arranjos.md) 🔥
+- [Classes e Listas](exercises/classes-listas.md) 🔥
 - [🚀 Projetos práticos](exercises/projetos.md) 🔥
 
 [🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)

@@ -28,25 +28,10 @@
 
 <!-- [📷](https://drive.google.com/file/d/1_Tg7udFQxFlMAx80DgW9yHa2YUPAXV0x/view?usp=sharing)[📽 Faça seus exercícios pelo celular](https://www.youtube.com/watch?v=VePpmsHWqqI&feature=youtu.be) usando o [🌍 Repl.it](https://repl.it/). -->
 
-## 🎞 Este curso no YouTube
-
+🎞 Este curso no YouTube:
 - [Canal: Prof. Ermogenes Palacio](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw)
 - [Canal: Prof. Diego Neri](https://www.youtube.com/channel/UCDOt7T8TvMmYLKkqXGUIMHg)
 - [Playlist com todos os vídeos](https://www.youtube.com/playlist?list=PLk6PnAig6xXKg988f8Ewq1iFm4_ZH9nA5)
-
-## 🛠 Ferramentas
-
-Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu computador.
-
-- Kit de desenvolvimento: [.NET SDK 📥](https://dotnet.microsoft.com/download)
-- IDE: [Visual Studio Code 📥](https://code.visualstudio.com/download)
-- Controle de versão: [Git 📥](https://git-scm.com/downloads)
-
-[📺](https://youtu.be/QIK8Tt5m1v0) [📖 Passo-a-passo para a criação do ambiente](content/ambiente.md)
-
-Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você deve utilizar as mais recentes disponíveis.
-
-📲 _SOMENTE para quem não tem computador:_ [📺 Faça os exercícios no celular usando o .NET Fiddle](https://youtu.be/y82X7hA5J4s)
 
 ---
 
@@ -199,6 +184,22 @@ Turma 1I3 da Etec Adolpho Berezin, segundo semestre de 2022:
 
 - [Equipe única, canal Geral](#)
 - [📺 Playlist com os tutoriais do Teams oficiais do Centro Paula Souza](https://www.youtube.com/playlist?list=PLk6PnAig6xXJqV_M_BEDuEWLIYaiznysz)
+
+---
+
+## 🛠 Ferramentas
+
+Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu computador.
+
+- Kit de desenvolvimento: [.NET SDK 📥](https://dotnet.microsoft.com/download)
+- IDE: [Visual Studio Code 📥](https://code.visualstudio.com/download)
+- Controle de versão: [Git 📥](https://git-scm.com/downloads)
+
+[📺](https://youtu.be/QIK8Tt5m1v0) [📖 Passo-a-passo para a criação do ambiente](content/ambiente.md)
+
+Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você deve utilizar as mais recentes disponíveis.
+
+📲 _SOMENTE para quem não tem computador:_ [📺 Faça os exercícios no celular usando o .NET Fiddle](https://youtu.be/y82X7hA5J4s)
 
 ---
 

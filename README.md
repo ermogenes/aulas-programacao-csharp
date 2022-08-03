@@ -79,11 +79,11 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 - [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md)
 - [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
 - [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
-- 🎁 [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios
+- 🎁 [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1)
 - [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
 - [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
 - [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
-- 🎁 [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios
+- 🎁 [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1)
 - 🎁 [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
 - 🎁 [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 
@@ -91,7 +91,7 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 
 - [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
 - [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
-- 🎁 [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios
+- 🎁 [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1)
 - 🎁 [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md)
 - 🎁 [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
@@ -103,7 +103,7 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 ### 🎀 Laços
 
 - [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
-- 🎁 [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios
+- 🎁 [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1)
 
 ### 🏄🏻‍♂️ Tópicos adicionais
 

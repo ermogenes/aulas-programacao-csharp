@@ -29,11 +29,11 @@ Faça um programa que calcule a nota de um surfista em uma bateria.
 
 A nota de um surfista em uma onda surfada é dada por 5 juízes, em valores entre 0 e 10 incluindo decimais. A maior e a menor nota são descartadas, e a nota obtida na onda é dada pela média das notas restantes.
 
-Exemplo: Foram dadas as notas ~~5~~, 8.3, 7.0, ~~10~~ e 8.5. Nota da onda = (8.3 + 7.0 + 8.5)/3 = 7.93
+Exemplo: Foram dadas as notas ~~`5`~~, `8,3`, `7`, ~~`10`~~ e `8,5`. Nota da onda = (`8.3` + `7` + `8.5`) ÷ `3` = `7,93`.
 
 Em uma bateria, um surfista pode pegar quantas ondas conseguir. As duas maiores pontuações serão somadas, constituindo a pontuação final.
 
-Exemplo: O surfista obteve as seguintes notas na sua bateria: ~~7.93~~, 10.0, ~~0.0~~ e 10.0. Pontos na bateria = 20.0
+Exemplo: O surfista obteve as seguintes notas na sua bateria: ~~`7,93`~~, `10`, ~~`0`~~ e `10`. Pontos na bateria = `20`.
 
 A maior pontuação possível em uma bateria é 20 pontos, situação conhecida como _bateria perfeita_ ([feito atingido somente 8 vezes na história](https://pt.wikipedia.org/wiki/Bateria_perfeita)).
 
@@ -45,44 +45,44 @@ Exemplo:
 --- Bateria de Surf ---
 
 -- 1ª onda --
-Juiz 1: 5
+Juiz 1: 5    
 Juiz 2: 8,3
-Juiz 3: 7,0
+Juiz 3: 7
 Juiz 4: 10
 Juiz 5: 8,5
-Nota obtida = 8,93
+Nota obtida = 7,93   
 
-Mais uma onda (S/N)? S
+Mais uma onda (S/N)? s
 
 -- 2ª onda --
-Juiz 1: 9,5
+Juiz 1: 9,5  
 Juiz 2: 10
 Juiz 3: 10
 Juiz 4: 10
 Juiz 5: 10
-Nota obtida = 10,00
+Nota obtida = 10,00  
 
-Mais uma onda (S/N)? S
+Mais uma onda (S/N)? s
 
 -- 3ª onda --
-Juiz 1: 0
+Juiz 1: 10   
 Juiz 2: 0
 Juiz 3: 0
 Juiz 4: 0
 Juiz 5: 0
-Nota obtida = 0,00
+Nota obtida = 0,00   
 
-Mais uma onda (S/N)? S
+Mais uma onda (S/N)? s
 
 -- 4ª onda --
-Juiz 1: 10
+Juiz 1: 10   
 Juiz 2: 10
 Juiz 3: 10
 Juiz 4: 10
 Juiz 5: 10
 Nota obtida = 10,00
 
-Mais uma onda (S/N)? N
+Mais uma onda (S/N)? n
 
 Pontos na bateria = 20,00
 

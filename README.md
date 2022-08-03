@@ -107,7 +107,7 @@
 
 ## 🥋 Exercícios
 
-Legenda:  ⚡ novos exercícios adicionados | 🔥 conteúdo inédito
+**Legenda:** ⚡ novos exercícios adicionados \| 🔥 conteúdo inédito
 
 <!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 

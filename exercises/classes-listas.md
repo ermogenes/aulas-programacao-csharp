@@ -258,9 +258,9 @@ Ao derrotar todas as criaturas a aventura é finalizada e o jogo termina com a v
 
 ## Exercício `Paranoia`
 
-_Um dia no Complexo Alfa_ é uma [aventura-solo](https://pt.wikipedia.org/wiki/Livro-jogo) baseada no RPG [Paranoia](<https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)>) publicada nos anos 90 na [_Revista Dragão Brasil_](<(https://jamboeditora.com.br/tag/dragao-brasil/)>) número 18.
+_Um dia no Complexo Alfa_ é uma [aventura-solo](https://pt.wikipedia.org/wiki/Livro-jogo) baseada no RPG [Paranoia](https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)) publicada nos anos 90 na [_Revista Dragão Brasil_](https://pt.wikipedia.org/wiki/Drag%C3%A3o_Brasil) número 18 pela Trama Editorial.
 
-<img src="Dragao-Brasil-018.jpg" alt="https://wiki.daemon.com.br/images/Dragao-Brasil-018.jpg">
+[![https://wiki.daemon.com.br/images/Dragao-Brasil-018.jpg](Dragao-Brasil-018.jpg)](https://jamboeditora.com.br/tag/dragao-brasil/)
 
 A aventura é modelada como um arranjo de entradas, onde cada uma possui um texto a exibir e uma lista de índices válidos para a próxima entrada.
 
@@ -528,7 +528,7 @@ Faça um programa que implemente a aventura-solo, exibindo os textos e navegando
 
 Comece pela entrada `0`. Ao informar que deseja ir para `99`, o usuário indica que quer desistir. A alternativa `-1` simboliza que o final do jogo foi alcançado.
 
-_Os textos foram adaptados de [vbuaraujo](https://elmord.org/misc/complexo-alfa.html). Todos os direitos sobre o texto da aventura-solo são reservados à [Jambô Editora](https://jamboeditora.com.br/)._
+_Os textos foram adaptados de [vbuaraujo](https://elmord.org/misc/complexo-alfa.html) e são utilizados neste curso com propósito unicamente educacional. Todos os direitos sobre o texto da aventura-solo são reservados aos seus detentores legais. Autor do texto creditado como Grahal. As versões atuais da Dragão Brasil são publicadas pela [Jambô Editora](https://jamboeditora.com.br/)._
 
 ---
 

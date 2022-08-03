@@ -105,12 +105,9 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 - [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
 - 🎁 [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios
 
-### ⚡ Publicação e distribuição
-
-- [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)
-
 ### 🏄🏻‍♂️ Tópicos adicionais
 
+- 🎁 [📺](https://youtu.be/k_pH9sWxyTc)[📖 Publicação e distribuição](content/publish_dist.md)
 - 🎁 [📺](https://youtu.be/0pYKPcDL0IU)[📖 Arranjos](content/arrays.md)
 - 🎁 [📺](https://youtu.be/HtVJc_7FzYs)[📖 Exceções](content/exceptions.md)
 - 🎁 [📺](https://youtu.be/r6EllahDrEQ)[📖 Classes](content/classes.md)
@@ -139,7 +136,7 @@ Legenda: 🔥 novos exercícios adicionados | 🔥🔥 lista nova | 🎁 extra
 - [Laços](exercises/lacos.md) 🔥
 - [Arranjos](exercises/arranjos.md) 🎁 🔥🔥
 - [Classes e Listas](exercises/classes-listas.md) 🎁 🔥🔥
-- [🚀 Projeto prático](exercises/projeto_2019_1.md)
+- [🚀 Projetos práticos](exercises/projetos.md) 🔥
 
 [🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)
 

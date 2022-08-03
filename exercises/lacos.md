@@ -31,6 +31,7 @@ Revisão e Correção no YouTube ([parte 1](https://youtu.be/qCz28iW5eb4) e [par
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------ |
 | [EntradaValida](#exercício-entradavalida)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EntradaValida/Program.cs)        |
 | [Potencia](#exercício-potencia)                         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Potencia/Program.cs)             |
+| [QuatroOperacoes](#exercício-quatrooperacoes)           | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/QuatroOperacoes/Program.cs)      |
 | [AmortizacaoConstante](#exercício-amortizacaoconstante) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AmortizacaoConstante/Program.cs) |
 | [AmortizacaoFrancesa](#exercício-amortizacaofrancesa)   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AmortizacaoFrancesa/Program.cs)  |
 | [AnelDeCoracao](#exercício-aneldecoracao)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AnelDeCoracao/Program.cs)        |
@@ -482,6 +483,14 @@ Receba dois números inteiros positivos, base e expoente. Calcule e exiba o valo
 Lembre-se que, por definição, se o expoente for zero a potência será 1.
 
 _Quando em uma iteração a potência se tornar zero ou negativa, foi estourado o limite do tipo inteiro e não será possível realizar a operação. _
+
+---
+
+## Exercício `QuatroOperacoes`
+
+Implemente uma calculadora com as quatro operações aritméticas básicas (soma, subtração, multiplicação e divisão).
+
+O programa deverá conter um menu de opções selecionáveis pelo usuário, incluindo as quatro operações e uma opção para o usuário sair do programa.
 
 ---
 

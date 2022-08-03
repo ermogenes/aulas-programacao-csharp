@@ -18,34 +18,34 @@ Desejável:
 
 ## Opções de projetos
 
-| Enunciado                                                             | Dificuldade | Lista                                             |
-| --------------------------------------------------------------------- | ----------- | ------------------------------------------------- |
-| [Projetil](numeros-operadores.md#Exercício-Projetil)                  | ☕          | [Números e operadores](numeros-operadores.md)     |
-| [FormulaDoPadeiro](numeros-operadores.md#exercício-formuladopadeiro)  | ☕          | [Números e operadores](numeros-operadores.md)     |
-| [Bhaskara](decisao-simples.md#Exercício-Bhaskara)                     | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
-| [CasaDeTintas](decisao-simples.md#exercício-casadetintas)             | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
-| [CaixaEletronico](decisao-simples.md#exercício-caixaeletronico)       | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
-| [NaMosca](decisao-simples.md#exercício-namosca)                       | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
-| [Estacionamento](decisao-simples.md#exercício-estacionamento)         | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
-| [GeneticaMendeliana](decisao-simples.md#exercício-geneticamendeliana) | ☕☕☕      | [Decisão e operações lógicas](decisao-simples.md) |
-| [ColisaoCircular2D](sub-rotinas.md#exercício-colisaocircular2d)       | ☕☕        | [Sub-rotinas](sub-rotinas.md)                     |
-| [Fibonacci](lacos.md#Exercício-Fibonacci)                             | ☕          | [Laços](lacos.md)                                 |
-| [AmortizacaoConstante](lacos.md#exercício-amortizacaoconstante)       | ☕☕        | [Laços](lacos.md)                                 |
-| [AmortizacaoFrancesa](lacos.md#exercício-amortizacaofrancesa)         | ☕☕        | [Laços](lacos.md)                                 |
-| [EspertoContraSabido](lacos.md#exercício-espertocontrasabido)         | ☕☕        | [Laços](lacos.md)                                 |
-| [Ursos](lacos.md#exercício-ursos)                                     | ☕☕☕      | [Laços](lacos.md)                                 |
-| [NPC](lacos.md#exercício-npc)                                         | ☕☕☕      | [Laços](lacos.md)                                 |
-| [UrnaPlebiscito](lacos.md#exercício-urnaplebiscito)                   | ☕☕        | [Laços](lacos.md)                                 |
-| [Palindromo](arranjos.md#exercício-palindromo)                        | ☕          | [Arranjos](arranjos.md)                           |
-| [Surpresinha](arranjos.md#exercício-surpresinha)                      | ☕☕        | [Arranjos](arranjos.md)                           |
-| [CifraDeCesar](arranjos.md#exercício-cifradecesar)                    | ☕          | [Arranjos](arranjos.md)                           |
-| [RLE](arranjos.md#exercício-rle)                                      | ☕          | [Arranjos](arranjos.md)                           |
-| [PedraPapelTesoura](arranjos.md#exercício-pedrapapeltesoura)          | ☕☕        | [Arranjos](arranjos.md)                           |
-| [PersonagemDnD](classes-listas.md#exercício-personagemdnd)            | ☕☕        | [Classes e Listas](classes-listas.md)             |
-| [MaoDeTruco](classes-listas.md#exercício-maodetruco)                  | ☕☕        | [Classes e Listas](classes-listas.md)             |
-| [Fintech](classes-listas.md#exercício-fintech)                        | ☕☕        | [Classes e Listas](classes-listas.md)             |
-| [CarrinhoDeCompras](classes-listas.md#exercício-carrinhodecompras)    | ☕☕        | [Classes e Listas](classes-listas.md)             |
-| [Masmorra](classes-listas.md#exercício-masmorra)                      | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
-| [Paranoia](classes-listas.md#exercício-paranoia)                      | ☕          | [Classes e Listas](classes-listas.md)             |
+| Enunciado                                                                                                                                         | Dificuldade | Lista                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------- |
+| [Projetil](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#Exercício-Projetil)                  | ☕          | [Números e operadores](numeros-operadores.md)     |
+| [FormulaDoPadeiro](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exercício-formuladopadeiro)  | ☕          | [Números e operadores](numeros-operadores.md)     |
+| [Bhaskara](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#Exercício-Bhaskara)                     | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
+| [CasaDeTintas](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exercício-casadetintas)             | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
+| [CaixaEletronico](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exercício-caixaeletronico)       | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
+| [NaMosca](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exercício-namosca)                       | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
+| [Estacionamento](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exercício-estacionamento)         | ☕☕        | [Decisão e operações lógicas](decisao-simples.md) |
+| [GeneticaMendeliana](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exercício-geneticamendeliana) | ☕☕☕      | [Decisão e operações lógicas](decisao-simples.md) |
+| [ColisaoCircular2D](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exercício-colisaocircular2d)       | ☕☕        | [Sub-rotinas](sub-rotinas.md)                     |
+| [Fibonacci](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#Exercício-Fibonacci)                             | ☕          | [Laços](lacos.md)                                 |
+| [AmortizacaoConstante](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-amortizacaoconstante)       | ☕☕        | [Laços](lacos.md)                                 |
+| [AmortizacaoFrancesa](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-amortizacaofrancesa)         | ☕☕        | [Laços](lacos.md)                                 |
+| [EspertoContraSabido](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-espertocontrasabido)         | ☕☕        | [Laços](lacos.md)                                 |
+| [Ursos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-ursos)                                     | ☕☕☕      | [Laços](lacos.md)                                 |
+| [NPC](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-npc)                                         | ☕☕☕      | [Laços](lacos.md)                                 |
+| [UrnaPlebiscito](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-urnaplebiscito)                   | ☕☕        | [Laços](lacos.md)                                 |
+| [Palindromo](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-palindromo)                        | ☕          | [Arranjos](arranjos.md)                           |
+| [Surpresinha](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-surpresinha)                      | ☕☕        | [Arranjos](arranjos.md)                           |
+| [CifraDeCesar](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-cifradecesar)                    | ☕          | [Arranjos](arranjos.md)                           |
+| [RLE](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-rle)                                      | ☕          | [Arranjos](arranjos.md)                           |
+| [PedraPapelTesoura](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-pedrapapeltesoura)          | ☕☕        | [Arranjos](arranjos.md)                           |
+| [PersonagemDnD](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-personagemdnd)            | ☕☕        | [Classes e Listas](classes-listas.md)             |
+| [MaoDeTruco](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-maodetruco)                  | ☕☕        | [Classes e Listas](classes-listas.md)             |
+| [Fintech](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-fintech)                        | ☕☕        | [Classes e Listas](classes-listas.md)             |
+| [CarrinhoDeCompras](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-carrinhodecompras)    | ☕☕        | [Classes e Listas](classes-listas.md)             |
+| [Masmorra](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-masmorra)                      | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
+| [Paranoia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-paranoia)                      | ☕          | [Classes e Listas](classes-listas.md)             |
 
 Exercícios mais fáceis sofrerão uma correção mais rígida. Exercícios mais difíceis potencialmente valem uma nota mais alta.

@@ -112,7 +112,7 @@
 
 <!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 
-- [Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
+- 🤯 [Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
 - [Saída em console](exercises/saida.md) ⚡
 - [Entrada de dados e Strings](exercises/entrada-strings.md) ⚡
 - [Números e Operadores](exercises/numeros-operadores.md) ⚡

@@ -40,6 +40,8 @@ Desejável:
 | [UrnaPlebiscito](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-urnaplebiscito)                   | ☕☕        | [Laços](lacos.md)                                 |
 | [Palindromo](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-palindromo)                        | ☕          | [Arranjos](arranjos.md)                           |
 | [Surpresinha](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-surpresinha)                      | ☕☕        | [Arranjos](arranjos.md)                           |
+| [DreamTeam](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-dreamteam)                          | ☕☕        | [Arranjos](arranjos.md)                           |
+| [DistanciaPercorrida](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-distanciapercorrida)      | ☕☕        | [Arranjos](arranjos.md)                           |
 | [CifraDeCesar](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-cifradecesar)                    | ☕          | [Arranjos](arranjos.md)                           |
 | [RLE](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-rle)                                      | ☕          | [Arranjos](arranjos.md)                           |
 | [PedraPapelTesoura](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/arranjos.md#exercício-pedrapapeltesoura)          | ☕☕        | [Arranjos](arranjos.md)                           |

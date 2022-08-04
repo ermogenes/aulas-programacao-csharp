@@ -9,7 +9,6 @@ _Opcionalmente_, publique o repositório utilizando GitHub Pages incluindo um li
 Obrigatório:
 
 - Um _software_ correto, fácil de usar e de _interface_ agradável.
-- Um _site_ de divulgação funcional, informativo, bem organizado e agradável.
 - Um programa sem _bugs_, legível e bem organizado.
 - Uso de boas práticas de programação.
 
@@ -17,6 +16,7 @@ Desejável:
 
 - Uso dos recursos adequados a cada situação (incluindo comandos ensinados após a lista em que o exercício está contido).
 - Melhorias em relação ao que foi proposto no enunciado.
+- Um _site_ de divulgação funcional, informativo, bem organizado e agradável.
 
 ## Opções de projetos
 

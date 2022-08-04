@@ -21,14 +21,14 @@ Console.ReadLine();
 ## Guardar o conteúdo digitado em uma variável
 
 ```cs
-string textoDigitado = Console.ReadLine();
+string textoDigitado = Console.ReadLine()!;
 ```
 
 ## Exibir o conteúdo da variável
 
 ```cs
 Console.Write("Digite seu nome: ");
-string textoDigitado = Console.ReadLine();
+string textoDigitado = Console.ReadLine()!;
 Console.Write("Olá, ");
 Console.Write(textoDigitado);
 Console.WriteLine("!");
@@ -43,5 +43,5 @@ PS C:\Users\ermogenes\Desktop\code\ExemploConsole> dotnet run
 Digite seu nome: Ermogenes
 Olá, Ermogenes!
 Pressione uma tecla para continuar...
-PS C:\Users\ermogenes\Desktop\code\ExemploConsole> 
+PS C:\Users\ermogenes\Desktop\code\ExemploConsole>
 ```

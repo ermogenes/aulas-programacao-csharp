@@ -28,43 +28,36 @@ São criados 2 arquivos e uma pasta:
 
 ![](000031.png)
 
-* `ExemploConsole.csproj` contém as configurações do seu projeto.
-* `Program.cs` contém o código-fonte principal do seu programa.
-* `obj` contém arquivos diversos, na maioria binários, necessários à compilação do projeto.
+- `ExemploConsole.csproj` contém as configurações do seu projeto.
+- `Program.cs` contém o código-fonte principal do seu programa.
+- `obj` contém arquivos diversos, na maioria binários, necessários à compilação do projeto.
 
 Vejamos o conteúdo de `ExemploConsole.csproj`:
 
- ```xml
- <Project Sdk="Microsoft.NET.Sdk">
+```xml
+<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-  </PropertyGroup>
+ <PropertyGroup>
+   <OutputType>Exe</OutputType>
+   <TargetFramework>net6.0</TargetFramework>
+   <ImplicitUsings>enable</ImplicitUsings>
+   <Nullable>enable</Nullable>
+ </PropertyGroup>
 
 </Project>
- ```
+```
 
 Este arquivo está escrito em XML, e contém algumas configurações.
 
-* `OutputType` indica o tipo de assembly resultante.
-* `TargetFramework` indica qual a versão do _runtime_ será necessária para rodar o aplicativo.
+- `OutputType` indica o tipo de assembly resultante.
+- `TargetFramework` indica qual a versão do _runtime_ será necessária para rodar o aplicativo.
+- `ImplicitUsings` e `Nullable` são configurações de como a linguagem se comportará (não se preocupe com isso agora).
 
 Agora, vejamos `Program.cs`:
 
 ```cs
-using System;
-
-namespace ExemploConsole
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 ```
 
 Este sim, código escrito em C#. Voltaremos nele em breve.
@@ -84,14 +77,14 @@ Compilação com êxito.
     0 Erro(s)
 
 Tempo Decorrido 00:00:02.76
-PS C:\Users\ermogenes\Desktop\code\ExemploConsole> 
+PS C:\Users\ermogenes\Desktop\code\ExemploConsole>
 ```
 
 Foi criada a pasta `bin`.
 
 ![](000032.png)
 
-Dentro dela, em `bin\Debug\netcoreapp3.1` encontramos os assemblies.
+Dentro dela, em `bin\Debug\net6.0` encontramos os assemblies.
 
 ![](000033.png)
 
@@ -106,22 +99,9 @@ C# é uma linguagem orientada a objetos, o que significa que (quase) tudo em nos
 Voltemos ao código:
 
 ```cs
-using System;
-
-namespace ExemploConsole
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 ```
 
-* `class Program { ... }`: Todos nossos códigos estarão vinculados a uma classe. Nesse exemplo, a classe se chama `Program`. Tudo que está entre as chaves `{}` faz parte da classe `Program`.
-* `namespace ExemploConsole`: Podemos organizar nossos arquivos logicamente, independentemente das organizações em pastas. Namespaces permitem essa organização. Nesse exemplo, o 'nome completo' da classe `Program` é `ExemploConsole.Program`.
-* `using System`: Indica que vamos utilizar elementos contidos no namespace `System`, existentes em todas as instalações do .NET.
-* `static void Main(string[] args)`: Define uma funcionalidade (chamada método) dentro da classe `Program` chamada `Main`. Em aplicações do tipo console, `Main` é a primeira ação a ser efetuada assim que o programa é executado. Devemos escrever nesse bloco a funcionalidade desejada nos nossos programas.
-* `Console.WriteLine("Hello World!")`: Executamos o método `WriteLine` contido na classe `Console` do namespace `System`. Esse comando exibe uma sequência de texto em uma nova linha na saída do console.
+- `// See https://aka.ms/new-console-template for more information`: Um comentário, que é ignorado pelo compilador. Simplesmente exclua essa linha.
+- `Console.WriteLine("Hello, World!")`: Executamos o método `WriteLine` contido na classe `Console` do namespace `System`. Esse comando exibe uma sequência de texto (_Hello, World!_) em uma nova linha na saída do console.

@@ -1,6 +1,8 @@
 # Projeto
 
-Crie um _software_ que atenda a especificação de um dos exercícios abaixo. Compartilhe o código-fonte no GitHub e publique o repositório utilizando GitHub Pages. Inclua um link de _download_, imagens do programa sendo executado e um breve manual do usuário.
+Crie um _software_ que atenda a especificação de um dos exercícios abaixo. Compartilhe o código-fonte no GitHub.
+
+_Opcionalmente_, publique o repositório utilizando GitHub Pages incluindo um link de _download_, imagens do programa sendo executado e um breve manual do usuário.
 
 ## Objetivos
 
@@ -48,4 +50,4 @@ Desejável:
 | [Masmorra](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-masmorra)                      | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
 | [Paranoia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-paranoia)                      | ☕          | [Classes e Listas](classes-listas.md)             |
 
-Exercícios mais fáceis sofrerão uma correção mais rígida. Exercícios mais difíceis potencialmente valem uma nota mais alta.
+🦥 Exercícios mais fáceis sofrerão uma correção mais rígida.<br>🐱‍👤 Exercícios mais difíceis potencialmente valem uma nota mais alta.

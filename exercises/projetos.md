@@ -1,4 +1,4 @@
-# Projeto
+# 🚀 Projeto Prático
 
 Crie um _software_ que atenda a especificação de um dos exercícios abaixo. Compartilhe o código-fonte no GitHub.
 

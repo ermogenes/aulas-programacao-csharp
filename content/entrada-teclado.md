@@ -10,6 +10,38 @@
 Console.ReadKey();
 ```
 
+Para não exibir a tecla pressionada:
+
+```cs
+Console.ReadKey(true);
+```
+
+Para guardar informações sobre a tecla pressionada:
+
+```cs
+ConsoleKeyInfo teclaPressionada = Console.ReadKey(true);
+```
+
+- `teclaPressionada.Keychar` armazena o caractere visível da tecla pressionada (ex.: `g` ao pressionar `ALT+G`, `<vazio>` ao pressionar `F12`);
+- `teclaPressionada.Key` armazena um código representando a tecla exata que foi pressionada (ex.: `ConsoleKey.Enter` para `ENTER`, `ConsoleKey.UpArrow` caso `Seta para Cima`), [segundo esta tabela](https://docs.microsoft.com/pt-br/dotnet/api/system.consolekey?view=net-6.0).
+- `teclaPressionada.Modifiers` permite verificar se as teclas `ALT`, `SHIFT` e `CTRL` estavam pressionadas em conjunto com `teclaPressionada.Key`.
+
+```cs
+Console.Write("Pressione uma tecla...");
+var tecla = Console.ReadKey(true);
+
+Console.Write("\nFoi pressionado ");
+
+bool pressionadoAlt = (tecla.Modifiers & ConsoleModifiers.Alt) != 0;
+bool pressionadoShift = (tecla.Modifiers & ConsoleModifiers.Shift) != 0;
+bool pressionadoControl = (tecla.Modifiers & ConsoleModifiers.Control) != 0;
+
+if (pressionadoAlt) Console.Write("ALT+");
+if (pressionadoShift) Console.Write("SHIFT+");
+if (pressionadoControl) Console.Write("CTRL+");
+Console.WriteLine(tecla.Key);
+```
+
 ## Aguardar o usuário digitar uma sequência de teclas finalizadas por `ENTER`
 
 `Console.ReadLine`

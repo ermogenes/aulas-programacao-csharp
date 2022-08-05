@@ -19,6 +19,9 @@ classes e listas
 - paradas no metro
   --- falta 1
 
+- jogo da memória genius
+- jogo do mico
+
 ---
 
 outros

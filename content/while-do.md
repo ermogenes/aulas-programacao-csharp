@@ -8,9 +8,9 @@ Permitem que comandos sejam executados repetidamente. Por exemplo, desejo aguard
 
 São laços que permitem controlar a execução utilizando um teste. A linguagem C# permite três construções:
 
-* Laços pré-testados ou "faça enquanto": comandos `while` e `do`
-* Laços com variável de controle ou "faça para": comando `for`
-* Laços para iteração em coleções: comando `foreach`
+- Laços pré-testados ou "faça enquanto": comandos `while` e `do`
+- Laços com variável de controle ou "faça para": comando `for`
+- Laços para iteração em coleções: comando `foreach`
 
 ### Laço "faça enquanto"
 
@@ -25,23 +25,25 @@ while (testeExecucao)
 
 <img src="while.svg" width="250">
 
-* Se `testeExecucao` for avaliado como falso, `comandoCondicaoVerdadeira` nunca será executado.
-* Após executar `comandoCondicaoVerdadeira`, o programa volta para avaliar novamente `testeExecucao`, como no passo acima.
-* Se `comandoCondicaoVerdadeira` nunca alterar o resultado de `testeExecucao`, o programa entrará em um _loop infinito_.
+- Se `testeExecucao` for avaliado como falso, `comandoCondicaoVerdadeira` nunca será executado.
+- Após executar `comandoCondicaoVerdadeira`, o programa volta para avaliar novamente `testeExecucao`, como no passo acima.
+- Se `comandoCondicaoVerdadeira` nunca alterar o resultado de `testeExecucao`, o programa entrará em um _loop infinito_.
 
 Exemplos:
 
 Repetir um bloco até que seja selecionada uma opção:
+
 ```cs
 string tecla = "";
 while(tecla != "S")
 {
     Console.WriteLine("Digite S para sair, qualquer outra tecla para continuar: ");
-    tecla = Console.ReadLine();
+    tecla = Console.ReadLine()!;
 }
 ```
 
 Repetir um bloco 10 vezes:
+
 ```cs
 int contador = 1;
 while(contador <= 10)
@@ -52,6 +54,7 @@ while(contador <= 10)
 ```
 
 Entrar em loop infinito:
+
 ```cs
 while (true);
 ```
@@ -70,19 +73,20 @@ while (testeRepeticao);
 
 <img src="do.svg" width="250">
 
-* Sempre executa a primeira iteração, fazendo uma vez `comandoAExecutar`.
-* Se `testeRepeticao` for avaliado como verdadeiro, `comandoAExecutar` será executado novamente.
-* Se `comandoAExecutar` nunca alterar o resultado de `testeRepeticao`, o programa entrará em um _loop infinito_.
+- Sempre executa a primeira iteração, fazendo uma vez `comandoAExecutar`.
+- Se `testeRepeticao` for avaliado como verdadeiro, `comandoAExecutar` será executado novamente.
+- Se `comandoAExecutar` nunca alterar o resultado de `testeRepeticao`, o programa entrará em um _loop infinito_.
 
 Exemplos:
 
 Repetir um bloco até que seja selecionada uma opção:
+
 ```cs
 string tecla = "";
 do
 {
     Console.WriteLine("Digite S para sair, qualquer outra tecla para continuar: ");
-    tecla = Console.ReadLine();
+    tecla = Console.ReadLine()!;
 }
 while(tecla != "S");
 ```
@@ -110,7 +114,7 @@ while(true)
 ```
 
 ```cs
-do 
+do
 {
     comandoASerRepetido;
 }
@@ -186,7 +190,6 @@ Podemos utilizar uma variável - chamada de _flag_ (bandeira em inglês) - para 
 
 Por exemplo, queremos que o usuário digite números inteiros positivos não-nulos até que sua soma ultrapasse 20. Também queremos que o programa seja interrompido em caso de entradas zero ou negativas.
 
-
 ```cs
 int total = 0;
 bool terminar = false; // essa é nossa flag
@@ -220,6 +223,7 @@ Console.WriteLine("Fim!");
 ```
 
 Uma das condições de saída:
+
 ```
 Valor a adicionar: 1
    Total: 1
@@ -257,8 +261,8 @@ Fim!
 
 Você pode interferir no controle de um laço finalizando uma iteração ou finalizando a execução do laço.
 
-* `break` finaliza o laço como um todo.
-* `continue` finaliza a iteração atual, mas segue para a próxima iteração.
+- `break` finaliza o laço como um todo.
+- `continue` finaliza a iteração atual, mas segue para a próxima iteração.
 
 ```cs
 while (condicao)

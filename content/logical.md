@@ -6,32 +6,32 @@
 
 Comparam dois valores e retornam um resultado booleano.
 
-Operador | Descrição | Exemplo
--- | -- | -- 
-`==` | Igual a | `7.2 == -3` retorna `false`
-`!=` | Diferente de | `7.2 != -3` retorna `true`
-`<` | Menor que | `7.2 < -3` retorna `false`
-`>` | Maior que | `7.2 > -3` retorna `true`
-`<=` | Menor ou igual a | `5 <= 5` retorna `true`
-`>=` | Maior ou igual a | `4 >= 5` retorna `false`
+| Operador | Descrição        | Exemplo                     |
+| -------- | ---------------- | --------------------------- |
+| `==`     | Igual a          | `7.2 == -3` retorna `false` |
+| `!=`     | Diferente de     | `7.2 != -3` retorna `true`  |
+| `<`      | Menor que        | `7.2 < -3` retorna `false`  |
+| `>`      | Maior que        | `7.2 > -3` retorna `true`   |
+| `<=`     | Menor ou igual a | `5 <= 5` retorna `true`     |
+| `>=`     | Maior ou igual a | `4 >= 5` retorna `false`    |
 
 ## Operadores lógicos (booleanos)
 
-Operador | Descrição
--- | -- 
-`!` | Negação lógica (troca entre `true` e `false`)
-`&&` | "E" lógico (`true` se ambos `true`, senão `false`)
-`\|\|` | "OU" lógico (`false` se ambos `false`, senão `true`)
-`^` | "OU EXCLUSIVO" lógico (`true` se somente um valor é `true`, senão `false`)
+| Operador | Descrição                                                                  |
+| -------- | -------------------------------------------------------------------------- |
+| `!`      | Negação lógica (troca entre `true` e `false`)                              |
+| `&&`     | "E" lógico (`true` se ambos `true`, senão `false`)                         |
+| `\|\|`   | "OU" lógico (`false` se ambos `false`, senão `true`)                       |
+| `^`      | "OU EXCLUSIVO" lógico (`true` se somente um valor é `true`, senão `false`) |
 
 Tabela-verdade:
 
-`x` | `y` | `!x` | `x && y` | `x \|\| y` | `x ^ y`
--- | -- | -- | -- | -- | --
-`false` | `false` | `true` | `false` | `false` | `false`
-`false` | `true` | `true` | `false` | `true` | `true`
-`true` | `false` | `false` | `false` | `true` | `true`
-`true` | `true` | `false` | `true` | `true` | `false`
+| `x`     | `y`     | `!x`    | `x && y` | `x \|\| y` | `x ^ y` |
+| ------- | ------- | ------- | -------- | ---------- | ------- |
+| `false` | `false` | `true`  | `false`  | `false`    | `false` |
+| `false` | `true`  | `true`  | `false`  | `true`     | `true`  |
+| `true`  | `false` | `false` | `false`  | `true`     | `true`  |
+| `true`  | `true`  | `false` | `true`   | `true`     | `false` |
 
 [Programa da vídeo-aula](https://youtu.be/70RI1a5wN78)
 
@@ -61,9 +61,9 @@ namespace AulaOperacoesLogicas
             Console.WriteLine("-- Triagem para Covid-19 --");
             Console.WriteLine("\nAdaptado de https://www.slmandic.edu.br/tudo-sobre-coronavirus/");
             Console.WriteLine("RESULTADO ESTRITAMENTE EDUCACIONAL. PROCURE AJUDA ESPECIALIZADA.\n");
-            
+
             Console.Write("Qual a idade do paciente? ");
-            
+
             bool idadeNumerica = Int32.TryParse(Console.ReadLine(), out idade);
 
             if (!idadeNumerica || idade < 0 || idade > 130)
@@ -75,7 +75,7 @@ namespace AulaOperacoesLogicas
             Console.WriteLine("\nResponda [S] para SIM, ou outro para NÃO.\n");
 
             Console.Write("Paciente com febre? ");
-            febre = Console.ReadLine().ToUpper() == "S";
+            febre = Console..ToUpper() == "S";
 
             Console.Write("Paciente com tosse? ");
             tosse = Console.ReadLine().ToUpper() == "S";
@@ -114,14 +114,14 @@ namespace AulaOperacoesLogicas
                     Console.WriteLine("\n-- Fatores de risco para menores --");
 
                     Console.Write("Paciente com hipertensão arterial sistêmica? ");
-                    hipertensao = Console.ReadLine().ToUpper() == "S";    
+                    hipertensao = Console.ReadLine().ToUpper() == "S";
 
                     Console.Write("Paciente com diabetes melito? ");
-                    diabetes = Console.ReadLine().ToUpper() == "S";     
+                    diabetes = Console.ReadLine().ToUpper() == "S";
 
                     Console.Write("Paciente com outras doenças crônicas? ");
-                    outrasDoencasCronicas = Console.ReadLine().ToUpper() == "S";    
-                    
+                    outrasDoencasCronicas = Console.ReadLine().ToUpper() == "S";
+
                     possuiFatorDeRisco = hipertensao || diabetes || outrasDoencasCronicas;
                 }
                 else
@@ -129,7 +129,7 @@ namespace AulaOperacoesLogicas
                     Console.WriteLine("\n-- Fatores de risco para maiores --");
 
                     Console.Write("Paciente com doença coronariana prévia? ");
-                    doencaCoronariana = Console.ReadLine().ToUpper() == "S";      
+                    doencaCoronariana = Console.ReadLine().ToUpper() == "S";
 
                     Console.Write("Paciente com doença crônica descompensada? ");
                     doencaCronica = Console.ReadLine().ToUpper() == "S";
@@ -139,7 +139,7 @@ namespace AulaOperacoesLogicas
                         || doencaCoronariana
                         || doencaCronica;
                 }
-                
+
                 if (possuiSinalDeAlarme || possuiFatorDeRisco)
                 {
                     Console.WriteLine("\n-- Situação --");
@@ -147,21 +147,21 @@ namespace AulaOperacoesLogicas
                     Console.Write("Paciente com situação grave? ");
                     situacaoGrave = Console.ReadLine().ToUpper() == "S";
 
-                    if (situacaoGrave)           
+                    if (situacaoGrave)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("\n* Encaminhar ambulância para o local.");  
+                        Console.WriteLine("\n* Encaminhar ambulância para o local.");
                     }
                     else
                     {
                         Console.ForegroundColor = ConsoleColor.Magenta;
-                        Console.WriteLine("\n* Encaminhar para o sistema de saúde.");  
+                        Console.WriteLine("\n* Encaminhar para o sistema de saúde.");
                     }
                 }
                 else
                 {
                     Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine("\n* Recomendar isolamento domiciliar.");                    
+                    Console.WriteLine("\n* Recomendar isolamento domiciliar.");
                 }
 
             }

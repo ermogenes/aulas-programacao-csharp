@@ -42,14 +42,14 @@ switch (expressaoTeste)
 }
 ```
 
-* `switch`: comando de decisão múltipla
-* `expressaoTeste`: expressão a ser avaliada pelos testes
-* `case`: um teste de igualdade em relação a `expressaoTeste`
-* `expressaoCaso1` e `expressaoCaso2`: valores inteiros a serem testados contra `expressaoTeste`
-* `comandosCaso1Verdadeiro` e `comandosCaso2Verdadeiro`: listas de comandos a serem executados caso seus testes avaliem como verdadeiro
-* `break`: indica não deve mais executar comandos do bloco `switch`
-* `default` (opcional): caso padrão, se nenhum dos casos anteriores for verdadeiro
-* `comandosTodosCasosFalsos` (opcional): comandos a serem executados no caso padrão
+- `switch`: comando de decisão múltipla
+- `expressaoTeste`: expressão a ser avaliada pelos testes
+- `case`: um teste de igualdade em relação a `expressaoTeste`
+- `expressaoCaso1` e `expressaoCaso2`: valores inteiros a serem testados contra `expressaoTeste`
+- `comandosCaso1Verdadeiro` e `comandosCaso2Verdadeiro`: listas de comandos a serem executados caso seus testes avaliem como verdadeiro
+- `break`: indica não deve mais executar comandos do bloco `switch`
+- `default` (opcional): caso padrão, se nenhum dos casos anteriores for verdadeiro
+- `comandosTodosCasosFalsos` (opcional): comandos a serem executados no caso padrão
 
 Exemplo:
 
@@ -64,7 +64,7 @@ Console.WriteLine("H. Ajuda");
 Console.WriteLine("X. Sair");
 
 Console.WriteLine("\nDigite a sua opção: ");
-opcaoUsuario = Console.ReadLine();
+opcaoUsuario = Console.ReadLine()!;
 
 Console.WriteLine($"\nOPÇÃO SELECIONADA: {opcaoUsuario}\n");
 

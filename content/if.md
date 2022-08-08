@@ -25,6 +25,7 @@ p1 = Convert.ToDecimal(Console.ReadLine());
 Console.Write("Nota da P2: ");
 p2 = Convert.ToDecimal(Console.ReadLine());
 ```
+
 Em seguida, podemos calcular a média.
 
 ```cs
@@ -42,6 +43,7 @@ Agora, para exibir a mensagem final, temos duas alternativas:
 ```cs
 Console.WriteLine("Aprovado");
 ```
+
 e
 
 ```cs
@@ -75,6 +77,7 @@ if (media >= 5)
 else
     Console.WriteLine("Reprovado");
 ```
+
 ### Construções possíveis
 
 Nas imagens abaixo, `comando___` representa um comando qualquer, `Alternativa` e `alternativa___` representam uma expressão lógica.
@@ -339,7 +342,7 @@ namespace AulaDecisaoSimples
 
             Console.Write("Financiamento de R$1.000,00 em quantas vezes? ");
 
-            quantidadeDigitada = Console.ReadLine();
+            quantidadeDigitada = Console.ReadLine()!;
 
             numeroValido = Int32.TryParse(quantidadeDigitada, out quantidadeParcelas);
 
@@ -354,7 +357,7 @@ namespace AulaDecisaoSimples
             else
             {
                 decimal valorParcela = valorTotal / quantidadeParcelas;
-                Console.WriteLine($"Você pagará {quantidadeParcelas} parcela(s) fixa(s) de {valorParcela:C}.");                
+                Console.WriteLine($"Você pagará {quantidadeParcelas} parcela(s) fixa(s) de {valorParcela:C}.");
             }
 
             Console.WriteLine("\nObrigado por utilizar nosso programa!");

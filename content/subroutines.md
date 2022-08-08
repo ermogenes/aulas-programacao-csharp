@@ -47,9 +47,9 @@ Em C# (e na maioria das linguagens orientadas a objetos) uma sub-rotina é chama
 
 Um método pode ou não retornar um resultado. Um exemplo de método que não retorna resultado é `Console.WriteLine`. Ele exibe algo na saída padrão e pronto, não há mais nada a fazer. Uma situação totalmente diferente acontece com `Console.ReadLine` onde o seu processamento requer o retorno de um resultado: a string digitada pelo usuário.
 
-* Sub-rotinas _sem_ retorno são chamadas de **procedimentos**.
-* Sub-rotinas _com_ retorno são chamadas de **funções**.
-* Ambas são criadas em C# utilizando **métodos**.
+- Sub-rotinas _sem_ retorno são chamadas de **procedimentos**.
+- Sub-rotinas _com_ retorno são chamadas de **funções**.
+- Ambas são criadas em C# utilizando **métodos**.
 
 ## Assinatura
 
@@ -100,31 +100,20 @@ Métodos não estáticos serão tratados no tópico sobre classes.
 
 ## Criando um procedimento
 
-O exemplo abaixo mostra um procedimento `ExibeHoraAtual` criado na classe padrão `Program` sendo executado duas vezes.
+O exemplo abaixo mostra um procedimento estático `ExibeHoraAtual` criado na classe padrão `Program` sendo executado duas vezes.
 
 ```cs
-using System;
+// Usando procedimentos para não repetir código
+ExibeHoraAtual();
+Console.WriteLine("Pressione uma tecla...");
+Console.ReadKey();
+ExibeHoraAtual();
 
-namespace ExemploProcedimento
+void ExibirHoraAtual()
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            // Usando procedimentos para não repetir código
-            Program.ExibeHoraAtual();
-            Console.WriteLine("Pressione uma tecla...");
-            Console.ReadKey();
-            Program.ExibeHoraAtual();
-        }
-
-        static void ExibirHoraAtual()
-        {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine(DateTime.Now.ToLongTimeString());
-            Console.ResetColor();
-        }
-    }
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine(DateTime.Now.ToLongTimeString());
+    Console.ResetColor();
 }
 ```
 
@@ -135,26 +124,15 @@ Com isso evitamos a duplicidade de código e facilitamos a manutenção do progr
 Estudemos agora o exemplo abaixo:
 
 ```cs
-using System;
+double a = 3, b = 4, c = 5;
 
-namespace ExemploFuncao
+double area = AreaTriangulo(a, b, c);
+Console.WriteLine($"O triângulo possui área de {area:N2}.");
+
+double AreaTriangulo(double lado1, double lado2, double lado3)
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            double a = 3, b = 4, c = 5;
-
-            double area = AreaTriangulo(a, b, c);
-            Console.WriteLine($"O triângulo possui área de {area:N2}.");
-        }
-
-        static double AreaTriangulo(double lado1, double lado2, double lado3)
-        {
-            double s = (lado1 + lado2 + lado3) / 2;
-            return Math.Sqrt(s * (s - lado1) * (s - lado2) * (s - lado3));
-        }
-    }
+    double s = (lado1 + lado2 + lado3) / 2;
+    return Math.Sqrt(s * (s - lado1) * (s - lado2) * (s - lado3));
 }
 ```
 
@@ -163,6 +141,16 @@ São criadas 3 variáveis `double`, `a`, `b` e `c`, com os valores `3`, `4` e `5
 Quando chamada, a função terá os valores dos argumentos acessíveis através dos parâmetros `lado1`, `lado2` e `lado3`. Ela trabalha com essas variáveis normalmente, executa o cálculo do resultado e o retorna ao chamador através do comando `return`.
 
 `AreaTriangulo` permite que seja calculada a área de um triângulo a partir de quaisquer valores de lados informados. Essa é uma forma de se reaproveitar código e tornar seu programa mais legível e manutenível.
+
+## Funções de seta (_arrow functions_) / expressões _lambda_
+
+Provêm uma sintaxe simplificada para funções que retornam valore a partir de cálculos simples.
+
+```cs
+int Soma(int a, int b) => a + b;
+```
+
+Para saber mais, veja [expressões lambda](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/lambda-expressions) na documentação oficial.
 
 ## Escopo de variáveis
 
@@ -180,29 +168,18 @@ Uma função pode chamar a si mesma quando necessário. Essa funcionalidade cham
 Exemplo de função recursiva:
 
 ```cs
-using System;
+Console.WriteLine($"Fatorial de 1 = {Fatorial(1)}");
+Console.WriteLine($"Fatorial de 5 = {Fatorial(5)}");
+Console.WriteLine($"Fatorial de 7 = {Fatorial(7)}");
+Console.WriteLine($"Fatorial de 13 = {Fatorial(13)}");
 
-namespace FatorialRecursivo
+int Fatorial (int n)
 {
-    class Program
+    if (n == 1)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine($"Fatorial de 1 = {Fatorial(1)}");
-            Console.WriteLine($"Fatorial de 5 = {Fatorial(5)}");
-            Console.WriteLine($"Fatorial de 7 = {Fatorial(7)}");
-            Console.WriteLine($"Fatorial de 13 = {Fatorial(13)}");
-        }
-
-        static int Fatorial (int n)
-        {
-            if (n == 1)
-            {
-                return 1;
-            }
-            return n * Fatorial(n - 1);
-        }
+        return 1;
     }
+    return n * Fatorial(n - 1);
 }
 ```
 

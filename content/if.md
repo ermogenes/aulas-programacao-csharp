@@ -322,6 +322,26 @@ else
 }
 ```
 
+## Decisão _inline_
+
+Podemos utilizar o operador ternário `?:` para retornar um entre dois valores possíveis em uma expressão.
+
+Sintaxe:
+
+```cs
+Alternativa ? valorVerdadeiro : valorFalso
+```
+
+Exemplo:
+
+```cs
+int idade = 17;
+
+string mensagem = idade >= 18 ? "Maior de idade" : "Menor de idade";
+```
+
+---
+
 [Programa da vídeo-aula](https://youtu.be/0HPxji8lL_Ms)
 
 ```cs

@@ -91,3 +91,42 @@ Environment.Exit(0); // Código de sucesso
 ```
 
 [Lista completa de códigos de erro do Windows](https://docs.microsoft.com/pt-br/windows/win32/debug/system-error-codes)
+
+## Expressão `switch`
+
+Assim como para decisão simples temos o operador `?:`, também temos o operador `switch` para decisão múltipla _inline_.
+
+Exemplo:
+
+```cs
+int opcao = 1;
+
+string mensagem = opcao switch
+{
+    0 => "Solteiro(a)",
+    1 => "Casado(a)",
+    2 => "Divorciado(a)",
+    3 => "Viúvo(a)",
+    _ => "Outro"
+};
+
+Console.WriteLine(mensagem); // Casado(a)
+```
+
+Exemplo 2:
+
+```cs
+using System.Security.Cryptography;
+
+int naipeSorteado = RandomNumberGenerator.GetInt32(1, 5);
+
+string naipe = naipeSorteado switch
+{
+    1 => "Paus",
+    2 => "Copas",
+    3 => "Espadas",
+    4 => "Ouros"
+};
+
+Console.WriteLine(naipe);
+```

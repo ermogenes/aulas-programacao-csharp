@@ -75,7 +75,7 @@ namespace AulaOperacoesLogicas
             Console.WriteLine("\nResponda [S] para SIM, ou outro para NÃO.\n");
 
             Console.Write("Paciente com febre? ");
-            febre = Console..ToUpper() == "S";
+            febre = Console.ReadLine().ToUpper() == "S";
 
             Console.Write("Paciente com tosse? ");
             tosse = Console.ReadLine().ToUpper() == "S";

@@ -2,6 +2,58 @@
 
 [📽 Veja esta vídeo-aula no Youtube](https://youtu.be/2WdAlMvExE8)
 
+## Literais numéricos
+
+Números escritos em código-fonte serão interpretados pelo compilador de acordo com o contexto. Sempre utilizaremos o formato com ponto no separador de decimal, opcionalmente com separador de milhar `_`.
+
+Caso seja necessário, podemos indicar o tipo utilizando prefixos (inteiros) e sufixos (inteiros e reais).
+
+- Prefixos para literais inteiros: `0x` para valores hexadecimais, `0b` para binários.
+- Sufixos mais utilizados: `d` para double, `m` para decimal.
+
+Números em notação científica são criados usando ao final do número o caractere `e` seguido da parte exponencial.
+
+Exemplos:
+
+```cs
+int um = 1;
+int umMilhao = 1_000_000;
+int quarentaEDois = 0x2A;
+int centoENoventaEDois = 0b_1100_0000;
+
+double zero = 0;
+double umQuarto = 0.25;
+double milEDezEMeio = 1_010.5;
+double cinco = 5d;
+double doisEMeio = 0.25e1;
+
+decimal trinta = 30m;
+decimal milETrezentosComCinquenta = 1300.5m;
+```
+
+## Números aleatórios
+
+Podemos gerar números aleatórios `int` ou `double` usando a classe `Random`.
+
+```cs
+var gerador = new Random();
+
+int inteiroEntreTresENove = gerador.Next(3, 10);
+double realEntreZeroEUm = gerador.NextDouble();
+```
+
+Para gerar um inteiro, use a classe `RandomNumberGenerator`:
+
+```cs
+using System.Security.Cryptography;
+
+// ...
+
+int inteiroEntreUmESeis = RandomNumberGenerator.GetInt32(1, 7);
+```
+
+---
+
 Programa da [vídeo-aula](https://youtu.be/2WdAlMvExE8):
 
 ```cs
@@ -85,7 +137,7 @@ namespace AulaNumeros
             double doubleConversao = doubleX + Convert.ToDouble(decimalX);
             decimal decimalConversao = Convert.ToDecimal(doubleX) + decimalX;
             Console.WriteLine($"Double = {doubleConversao} | Decimal = {decimalConversao}");
-            
+
             // Conversões com string
             Console.WriteLine("--- Conversões com string");
             double doubleString = Convert.ToDouble("5,3");

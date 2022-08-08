@@ -11,21 +11,11 @@
 
 # Ideias
 
-saidas --- haikai
-
-classes e listas
+- haikai
 
 - viloes dmg pg 94
 - paradas no metro
-  --- falta 1
-
-- jogo da memória genius
-- jogo do mico
-
----
-
-outros
-
+- 
 - explosão em bolha jogos
 - pacote ip
 
@@ -33,6 +23,9 @@ outros
 - Cervejaria
 - 3 desejos
 - comparacao de preços em quantidades diferentes
+
+- jogo da memória genius
+- jogo do mico
 
 livros e afins
 
@@ -56,19 +49,6 @@ livros e afins
 - firewall tabela --- arranjo
 
 - queridos (???)
-
---- sons
-
-https://dfilitto.com.br/desenvolvimento/c-sharp/c-modo-console-musicas-com-o-console-beep/
-http://www.dsc.ufcg.edu.br/~jacques/cursos/p2/html/listaexer.htm
-
-********\*\*********\*\*********\*\********* adicionar Thread.Sleep em console
-
-**\*\***\***\*\*** Adicionar Substring em https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/string.md
-
-****\*\*****\*\*\*****\*\***** IsNullOrEmpty
-
-**\*\*\*\***\*\*\*\***\*\*\*\*** adicionar Array.Sort
 
 # Exercícios: Saída em console
 

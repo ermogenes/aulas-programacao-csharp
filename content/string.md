@@ -4,7 +4,7 @@
 
 ## O básico
 
-Uma _string_ é uma cadeia (sequência) de caracteres individuais. Por exemplo, a string `Etec` é formada pelos caracteres `E`, `t`, `e` e `c`. No .NET, por padrão, é utilizada a codificação UTF-16.
+Uma _string_ é uma cadeia (sequência, arranjo) de [caracteres individuais](#tipo-char). Por exemplo, a string `Etec` é formada pelos caracteres `E`, `t`, `e` e `c`. No .NET, por padrão, é utilizada a codificação UTF-16.
 
 Para definir uma string em C# utilizamos as aspas duplas (`"`).
 
@@ -64,6 +64,51 @@ nomeCompletoBuffer.Append(nome);
 nomeCompletoBuffer.AppendFormat(" {0}", sobrenome);
 
 string nomeCompleto = nomeCompletoBuffer.ToString();
+```
+
+## Interpolação e formatação de composição
+
+Podemos alinhar as strings ao interpolar, bem como indicar algumas formatações simples nos valores (chamadas de [formatação de composição](https://docs.microsoft.com/pt-br/dotnet/standard/base-types/composite-formatting)).
+
+Sintaxe:
+
+```
+{expressão,alinhamento:formatação}
+```
+
+Alinhamentos:
+
+| Entrada | `alinhamento` | Saída        | Explicação                                                    |
+| ------- | ------------- | ------------ | ------------------------------------------------------------- |
+| `abc`   | `10`          | `•••••••abc` | A saída terá 10 caracteres, com a entrada alinhada à direita  |
+| `abc`   | `-10`         | `abc•••••••` | A saída terá 10 caracteres, com a entrada alinhada à esquerda |
+
+Caso o valor seja maior do que o tamanho especificado, o alinhamento é ignorado.
+
+Formatações:
+
+| Entrada  | `formatação` | Saída         | Explicação                                                                          |
+| -------- | ------------ | ------------- | ----------------------------------------------------------------------------------- |
+| `2124.5` | `C`          | `R$ 2.124,50` | Formatação de moeda, na cultura atual do sistema operacional                        |
+| `2124.5` | `N4`         | `2.124,5000`  | Saída numérica formatada como número da cultura atual, com 4 casas decimais         |
+| `0,3982` | `P1`         | `39,8 %`      | Saída numérica multiplicada por 100, com uma casa decimal, seguida do caractere `%` |
+
+## Conversão para string
+
+Todos os objetos de C# possuem um método para conversão do seu valor em string, chamado `.ToString()`. Caso não haja uma representação humanamente legível adequada, será retornado o tipo do objeto.
+
+Cada tipo pode disponibilizar parametrizações para personalizar a saída. Muitos deles (mas nem todos) aceitam a formatação de composição.
+
+```cs
+192.ToString("N4") // Retorna 192,0000
+```
+
+Também é possível a conversão de inteiros para string usando a classe `Convert`, onde pode ser definida a base numérica a ser utilizada:
+
+```cs
+Convert.ToString(192, 2)  // "11000000", que é a representação de 192 em binário
+Convert.ToString(192, 8)  // "300", que é a representação de 192 em octal
+Convert.ToString(192, 16) // "c0", que é a representação de 192 em hexadecimal
 ```
 
 ## Opções úteis em `System.String`
@@ -257,3 +302,19 @@ Listas de emojis:
 - [Lista oficial](http://www.unicode.org/emoji/charts/full-emoji-list.html)
 
 Você pode copiar o emoji e colar no VsCode.
+
+## Tipo `char`
+
+Representa um caractere Unicode UTF-16. É o componente formador de uma string.
+
+Podemos criar um `char` de diversas maneiras:
+
+```cs
+char letraJotaMinuscula = 'j'; // = [j], usando um literal entre aspas simples
+char cuboDeGelo = '🧊'; // = [🧊], usando um emoji literal entre aspas simples
+char espacoEmBranco = (char)32; // = [ ], usando o número inteiro equivalente
+char claveDeSol = \uD834DD1E; // = [水], usando o código UTF-16
+char aguaEmChines = \x6C34; // = [𝄞], usando o valor hexadecimal
+```
+
+Strings podem ser convertidos em arranjos de `char` (usando `.ToCharArray()`) e vice-versa (usando `String.Join`).

@@ -313,8 +313,8 @@ Podemos criar um `char` de diversas maneiras:
 char letraJotaMinuscula = 'j'; // = [j], usando um literal entre aspas simples
 char cuboDeGelo = '🧊'; // = [🧊], usando um emoji literal entre aspas simples
 char espacoEmBranco = (char)32; // = [ ], usando o número inteiro equivalente
-char claveDeSol = \uD834DD1E; // = [水], usando o código UTF-16
-char aguaEmChines = \x6C34; // = [𝄞], usando o valor hexadecimal
+char betaGrego = '\u03B2'; // = [β], usando o código UTF-16
+char aguaChines = '\x6C34'; // = [水], usando o valor hexadecimal
 ```
 
 Strings podem ser convertidos em arranjos de `char` (usando `.ToCharArray()`) e vice-versa (usando `String.Join`).

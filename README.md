@@ -202,7 +202,9 @@ Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu compu
 
 Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você deve utilizar as mais recentes disponíveis.
 
-📲 _SOMENTE para quem não tem computador:_ [📺 Faça os exercícios no celular usando o .NET Fiddle](https://youtu.be/y82X7hA5J4s)
+📲 _Opções SOMENTE para quem não tem computador:_
+- Use o app [C# Shell .NET IDE](https://play.google.com/store/apps/details?id=com.radinc.csharpshell) em um celular Android;
+- ou [📺 faça os exercícios no celular usando o .NET Fiddle](https://youtu.be/y82X7hA5J4s).
 
 ---
 

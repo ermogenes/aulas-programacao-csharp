@@ -25,6 +25,7 @@ Revisão e Correção no [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI) 
 | [NomeNinja](#exercício-nomeninja)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/NomeNinja/Program.cs)          |
 | [TextoVazio](#exercício-textovazio)                 | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/TextoVazio/Program.cs)         |
 | [AlinhamentoDireita](#exercício-alinhamentodireita) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AlinhamentoDireita/Program.cs) |
+| [Soletrar](#exercício-soletrar)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Soletrar/Program.cs)           |
 | [Forca](#exercício-forca)                           | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Forca/Program.cs)              |
 | [TrocaVariaveis](#exercício-trocavariaveis)         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/TrocaVariaveis/Program.cs)     |
 | [ImitandoDory](#exercício-imitandodory)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/ImitandoDory/Program.cs)       |
@@ -223,6 +224,22 @@ Digite a terceira palavra...: caramelo
               batata
        intransigente
             caramelo
+```
+
+---
+
+## Exercício `Soletrar`
+
+Receba uma palavra digitada pelo usuário. Exiba a palavra como se fosse soletrada.
+
+Exemplo:
+
+```
+--- Soletrar ---
+
+Digite uma palavra: abacaxi
+
+Soletrando "ABACAXI": A-B-A-C-A-X-I
 ```
 
 ---

@@ -30,6 +30,7 @@ Revisão e Correção no YouTube ([parte 1](https://youtu.be/AMUjUfan40Q) e [par
 | [RolagemDeDado](#exercício-rolagemdedado)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/RolagemDeDado/Program.cs)           |
 | [TempoDownload](#exercício-tempodownload)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/TempoDownload/Program.cs)           |
 | [Troco](#exercício-troco)                                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Troco/Program.cs)                   |
+| [DecomposicaoDecimal](#exercício-decomposicaodecimal)         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/DecomposicaoDecimal/Program.cs)                   |
 | [IndependenciaFinanceira](#exercício-independenciafinanceira) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/IndependenciaFinanceira/Program.cs) |
 | [GinasticaArtistica](#exercício-ginasticaartistica)           | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/GinasticaArtistica/Program.cs)      |
 | [CustoEnergia](#exercício-custoenergia)                       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/CustoEnergia/Program.cs)            |
@@ -339,6 +340,24 @@ Tempo estimado de download: 3,5 minutos
 ## Exercício `Troco`
 
 Solicite que o usuário digite o valor da compra e o valor pago. Exiba o valor do troco.
+
+---
+
+## Exercício `DecomposicaoDecimal`
+
+Receba um número inteiro informado pelo usuário. Realize a decomposição decimal em unidades, dezenas e centenas.
+
+Exemplo:
+```
+--- Decomposição Decimal ---
+
+Digite um número inteiro...: 1580
+
+O número 1580 possui:
+         0 unidade(s)
+         8 dezenas(s)
+        15 centena(s).
+```
 
 ---
 

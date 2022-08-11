@@ -32,6 +32,9 @@ Revisão e Correção no YouTube ([parte 1](https://youtu.be/qCz28iW5eb4) e [par
 | [EntradaValida](#exercício-entradavalida)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EntradaValida/Program.cs)        |
 | [Potencia](#exercício-potencia)                         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Potencia/Program.cs)             |
 | [QuatroOperacoes](#exercício-quatrooperacoes)           | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/QuatroOperacoes/Program.cs)      |
+| [EmailCorporativo](#exercício-emailcorporativo)         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EmailCorporativo/Program.cs)     |
+| [TamanhoIntervalo](#exercício-tamanhointervalo)         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/TamanhoIntervalo/Program.cs)     |
+| [EuSouGroot](#exercício-eusougroot)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EuSouGroot/Program.cs)           |
 | [AmortizacaoConstante](#exercício-amortizacaoconstante) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AmortizacaoConstante/Program.cs) |
 | [AmortizacaoFrancesa](#exercício-amortizacaofrancesa)   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AmortizacaoFrancesa/Program.cs)  |
 | [AnelDeCoracao](#exercício-aneldecoracao)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AnelDeCoracao/Program.cs)        |
@@ -491,6 +494,72 @@ _Quando em uma iteração a potência se tornar zero ou negativa, foi estourado 
 Implemente uma calculadora com as quatro operações aritméticas básicas (soma, subtração, multiplicação e divisão).
 
 O programa deverá conter um menu de opções selecionáveis pelo usuário, incluindo as quatro operações e uma opção para o usuário sair do programa.
+
+---
+
+## Exercício `EmailCorporativo`
+
+Peça que o usuário digite um nome completo. Sugira um e-mail corporativo para a instituição _fictícia_ Projeto XYZ (@projeto.xyz).
+
+Use as iniciais do nome indicado e o último sobrenome. Ignore palavras com três caracteres ou menos.
+
+Exemplo:
+
+```
+--- E-mail Corporativo / Projeto XYZ ---
+
+Digite o nome completo: Maria Aparecida dos Santos Gonzaga
+
+Sugestão de e-mail corporativo: masgonzaga@projeto.xyz
+```
+
+---
+
+## Exercício `TamanhoIntervalo`
+
+Pergunte quantos números o usuário deseja digitar. Receba a quantidade indicada de números inteiros. Exiba o tamanho do intervalo formado entre o maior número e o menor número digitados.
+
+Exemplo:
+```
+--- Tamanho do Intervalo ---
+
+Quantos números? 6
+
+Digite o 1º número: 12
+Digite o 2º número: 5
+Digite o 3º número: 1
+Digite o 4º número: 5
+Digite o 5º número: -2
+Digite o 6º número: 12
+
+O tamanho do intervalo entre -2 e 12 é 14.
+```
+
+---
+
+## Exercício `EuSouGroot`
+
+Groot é uma personagem árvore humanóide criada por Stan Lee, Jack Kirby e Dick Ayers em 1960 para histórias em quadrinhos da Marvel Comics.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Baby_Groot_3.jpg/640px-Baby_Groot_3.jpg)
+
+Escreva um _chatbot_ em que Groot responda perguntas digitadas pelo usuário.
+
+Finalize quando o usuário disser _Tchau_.
+
+Exemplo:
+```
+--- Groot Chatbot ---
+
+Pergunta: Qual seu nome?
+                          Resposta: Eu sou Groot.
+Pergunta: Qual sua cor preferida?
+                          Resposta: Eu sou Groot.
+Pergunta: Que dia é hoje?
+                          Resposta: Eu sou Groot.
+Pergunta: Tchau
+                          Resposta: Eu sou Groot!
+```
 
 ---
 

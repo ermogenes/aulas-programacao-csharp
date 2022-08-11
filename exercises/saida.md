@@ -23,6 +23,7 @@ Revisão e Correção no [YouTube](https://www.youtube.com/watch?v=ngUYtnGJXwI) 
 | [Continue](#exercício-continue)                 | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Continue/Program.cs)         |
 | [DezSegundos](#exercício-dezsegundos)           | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/DezSegundos/Program.cs)      |
 | [FrutasPreferidas](#exercício-frutaspreferidas) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/FrutasPreferidas/Program.cs) |
+| [Haikai](#exercício-haikai)                       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Haikai/Program.cs)            |
 | [Piada](#exercício-piada)                       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Piada/Program.cs)            |
 | [Adivinha](#exercício-adivinha)                 | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Adivinha/Program.cs)         |
 | [TimeDoCoracao](#exercício-timedocoracao)       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/TimeDoCoracao/Program.cs)    |
@@ -151,6 +152,22 @@ Exemplo:
 3. Atemoia
 4. Ingá
 5. Araçá
+```
+
+---
+
+## Exercício `Haikai`
+
+[Haikai](https://pt.wikipedia.org/wiki/Haiku) é uma forma curta de poesia, de origem japonesa.
+
+Faça um programa que exiba um haikai a sua escolha.
+
+Exemplo (_Histórias de algumas vidas_, de Guilherme de Almeida):
+
+```
+Noite. Um silvo no ar,
+Ninguém na estação. E o trem
+passa sem parar.
 ```
 
 ---

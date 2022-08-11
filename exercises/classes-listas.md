@@ -13,6 +13,7 @@ Nenhum exercício disponível.
 | Enunciado                                         | Correção                                                                                       | Extras |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------ |
 | [BateriaSurf](#exercício-bateriasurf)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/BateriaSurf/Program.cs)       |
+| [InverteFrase](#exercício-invertefrase)           | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/InverteFrase/Program.cs)      |
 | [PersonagemDnD](#exercício-personagemdnd)         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/PersonagemDnD/Program.cs)     |
 | [MaoDeTruco](#exercício-maodetruco)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/MaoDeTruco/Program.cs)        |
 | [Fintech](#exercício-fintech)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Fintech/Program.cs)           |
@@ -88,6 +89,19 @@ Pontos na bateria = 20,00
 
 BATERIA PERFEITA!
 ```
+
+---
+
+## Exercício `InverteFrase`
+
+Solicite que o usuário digite uma frase qualquer. Exiba a frase invertida, palavra a palavra. _Considere que as palavras estão separadas somente por espaços em branco_.
+
+Exemplos:
+
+| Entrada | Saída |
+| --- | --- |
+| O Brasil é um país de dimensões continentais | continentais dimensões de país um é Brasil O |
+| Silêncio! - criança recém-nascida | recém-nascida criança - Silêncio! |
 
 ---
 

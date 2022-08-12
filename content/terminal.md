@@ -97,8 +97,10 @@ Comando | Descrição
 `git diff <nome_branch_origem> <nome_branch_destino>` | Mostra as diferenças entre dois branches.
 `git log` | Mostra o histórico de alterações.
 `git log --oneline` | Mostra o histórico de alterações de forma resumida, uma alteração por linha.
-`git tag <descricao> <10_primeiros_caracteres_id_commit>` | Cria uma versão nomeada do código.
+`git tag <descricao> <10_primeiros_caracteres_id_commit>` | Cria uma versão nomeada do código a partir de um commit existente.
+`git tag <descricao> -m "comentários"` | Cria uma versão nomeada do código no commit atual, com comentários.
 `git checkout -- <arquivo>` | Desfaz as alterações locais desde o último commit.
+`git push origin --tags` | Envia as tags criadas para o repositório remoto.
 `git clean -nd` | Lista todos os arquivos e diretórios que não fazem parte do versionamento.
 `git clean -fd` | Exclui todos os arquivos e diretórios que não fazem parte do versionamento.
 

@@ -49,8 +49,8 @@
 * 
 ## 🏆 Top linguagens
 
-* [🌍 IEEE Spectrum](https://spectrum.ieee.org/computing/software/the-top-programming-languages-2019)
+* [🌍 IEEE Spectrum](https://spectrum.ieee.org/top-programming-languages/)
 * [🌍 TIOBE Index](https://www.tiobe.com/tiobe-index/)
-* [🌍 GitHub Octoverse](https://octoverse.github.com/#top-languages)
-* [🌍 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2020#most-popular-technologies)
+* [🌍 GitHub Octoverse](https://octoverse.github.com/#top-languages-over-the-years)
+* [🌍 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2022/#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages)
 * [🌍 PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)

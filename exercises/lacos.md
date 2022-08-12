@@ -541,7 +541,7 @@ O tamanho do intervalo entre -2 e 12 é 14.
 
 Groot é uma personagem árvore humanóide criada por Stan Lee, Jack Kirby e Dick Ayers em 1960 para histórias em quadrinhos da Marvel Comics.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Baby_Groot_3.jpg/640px-Baby_Groot_3.jpg)
+![](Baby_Groot_3.jpg)
 
 Escreva um _chatbot_ em que Groot responda perguntas digitadas pelo usuário.
 

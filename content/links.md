@@ -26,6 +26,7 @@
 * [📲 Grasshopper (Cresça com o Google)](https://grasshopper.app/pt_br/)
 * [🌍 C# Tutorial - W3Schools (em inglês)](https://www.w3schools.com/cs/)
 * [🌍 C# Tutorial - CSharp.net-tutorials (em português)](https://csharp.net-tutorials.com/pt/104/iniciando/introducao/)
+* [🥋 Beecrowd](https://www.beecrowd.com.br/)
 
 ## 🦧 Assuntos complementares
 

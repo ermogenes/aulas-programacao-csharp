@@ -118,7 +118,8 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [Saída em console](exercises/saida.md) ⚡
 - [Entrada de dados e Strings](exercises/entrada-strings.md) ⚡
 - [Números e Operadores](exercises/numeros-operadores.md) ⚡
-- [Datas e Pacotes](exercises/datas-pacotes.md)
+- [Datas](exercises/datas.md)
+- [Pacotes](exercises/pacotes.md)
 - [Decisão e operações lógicas](exercises/decisao-simples.md) ⚡
 - [Sub-rotinas](exercises/sub-rotinas.md) 🔥
 - [Laços](exercises/lacos.md) ⚡

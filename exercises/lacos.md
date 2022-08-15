@@ -29,6 +29,7 @@ Revisão e Correção no YouTube ([parte 1](https://youtu.be/qCz28iW5eb4) e [par
 
 | Enunciado                                               | Correção                                                                                          | Extras |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------ |
+| [UmDoisTresPim](#exercício-umdoistrespim)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/UmDoisTresPim/Program.cs)        |
 | [EntradaValida](#exercício-entradavalida)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EntradaValida/Program.cs)        |
 | [Potencia](#exercício-potencia)                         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Potencia/Program.cs)             |
 | [QuatroOperacoes](#exercício-quatrooperacoes)           | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/QuatroOperacoes/Program.cs)      |
@@ -448,6 +449,27 @@ _Dicas_:
 
 ---
 
+## Exercício `UmDoisTresPim`
+
+O apresentador de auditório Silvio Santos em seus [programas de domingo à tarde oferecia dinheiro](https://www.youtube.com/watch?v=s6PCVq_ojto) para quem conseguisse citar os números inteiros entre 1 e 40 (inclusive) substituindo os múltiplos de 4 pela palavra _pim_.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Silvio_Santos_em_maio_de_2019.jpg/343px-Silvio_Santos_em_maio_de_2019.jpg)
+
+Faça um programa que exiba a sequência correta.
+
+Exemplo:
+
+```
+ 1  2  3 pim
+ 5  6  7 pim
+ 9 10 11 pim
+...
+33 34 35 pim
+37 38 39 pim
+```
+
+---
+
 ## Exercício `EntradaValida`
 
 Solicite que o usuário entre com um valor inteiro entre `1` e `9` (inclusive). Informe que a entrada `0` sinaliza um cancelamento. Não finalize o programa enquanto não houver uma entrada válida ou um cancelamento.
@@ -520,6 +542,7 @@ Sugestão de e-mail corporativo: masgonzaga@projeto.xyz
 Pergunte quantos números o usuário deseja digitar. Receba a quantidade indicada de números inteiros. Exiba o tamanho do intervalo formado entre o maior número e o menor número digitados.
 
 Exemplo:
+
 ```
 --- Tamanho do Intervalo ---
 
@@ -548,6 +571,7 @@ Escreva um _chatbot_ em que Groot responda perguntas digitadas pelo usuário.
 Finalize quando o usuário disser _Tchau_.
 
 Exemplo:
+
 ```
 --- Groot Chatbot ---
 

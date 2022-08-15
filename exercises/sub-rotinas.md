@@ -14,6 +14,7 @@ Nenhum exercício disponível.
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------ |
 | [AlarmeFalso](#exercício-alarmefalso)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/AlarmeFalso/Program.cs)       |
 | [Escada](#exercício-escada)                       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Escada/Program.cs)            |
+| [FibonacciBinet](#exercício-fibonaccibinet)       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/HorasExtras/Program.cs)       |
 | [HorasExtras](#exercício-horasextras)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/HorasExtras/Program.cs)       |
 | [RaioETrovao](#exercício-raioetrovao)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/RaioETrovao/Program.cs)       |
 | [Granizo](#exercício-granizo)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Granizo/Program.cs)           |
@@ -63,6 +64,16 @@ escada | ângulo | parede
 5 | 70 | 4,70
 
 Mais valores de teste [aqui](https://www.calculat.org/pt/area-perimetro/triangulo-retangulo.html).
+
+---
+
+## Exercício `FibonacciBinet`
+
+Escreva uma função que calcule o _n-ésimo_ (1 <= n <= 70) termo da sequência de Fibonnaci utilizando a fórmula de Binet baseada no número de ouro φ (_phi_).
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/451078e3f7c9ae5d67abd6a1e770602d3c9ebc63)
+
+Use a função para listar os [70 primeiros](https://oeis.org/A000045/b000045.txt) termos da sequência.
 
 ---
 

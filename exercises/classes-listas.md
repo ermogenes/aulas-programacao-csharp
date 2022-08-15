@@ -17,6 +17,7 @@ Nenhum exercício disponível.
 | [PersonagemDnD](#exercício-personagemdnd)         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/PersonagemDnD/Program.cs)     |
 | [MaoDeTruco](#exercício-maodetruco)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/MaoDeTruco/Program.cs)        |
 | [Fintech](#exercício-fintech)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Fintech/Program.cs)           |
+| [DescontoAtacado](#exercício-descontoatacado)     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/DescontoAtacado/Program.cs)   |
 | [FilaDeNotas](#exercício-filadenotas)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/FilaDeNotas/Program.cs)       |
 | [CarrinhoDeCompras](#exercício-carrinhodecompras) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/CarrinhoDeCompras/Program.cs) |
 | [Masmorra](#exercício-masmorra)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Masmorra/Program.cs)          |
@@ -46,37 +47,37 @@ Exemplo:
 --- Bateria de Surf ---
 
 -- 1ª onda --
-Juiz 1: 5    
+Juiz 1: 5
 Juiz 2: 8,3
 Juiz 3: 7
 Juiz 4: 10
 Juiz 5: 8,5
-Nota obtida = 7,93   
+Nota obtida = 7,93
 
 Mais uma onda (S/N)? s
 
 -- 2ª onda --
-Juiz 1: 9,5  
+Juiz 1: 9,5
 Juiz 2: 10
 Juiz 3: 10
 Juiz 4: 10
 Juiz 5: 10
-Nota obtida = 10,00  
+Nota obtida = 10,00
 
 Mais uma onda (S/N)? s
 
 -- 3ª onda --
-Juiz 1: 10   
+Juiz 1: 10
 Juiz 2: 0
 Juiz 3: 0
 Juiz 4: 0
 Juiz 5: 0
-Nota obtida = 0,00   
+Nota obtida = 0,00
 
 Mais uma onda (S/N)? s
 
 -- 4ª onda --
-Juiz 1: 10   
+Juiz 1: 10
 Juiz 2: 10
 Juiz 3: 10
 Juiz 4: 10
@@ -98,10 +99,10 @@ Solicite que o usuário digite uma frase qualquer. Exiba a frase invertida, pala
 
 Exemplos:
 
-| Entrada | Saída |
-| --- | --- |
+| Entrada                                      | Saída                                        |
+| -------------------------------------------- | -------------------------------------------- |
 | O Brasil é um país de dimensões continentais | continentais dimensões de país um é Brasil O |
-| Silêncio! - criança recém-nascida | recém-nascida criança - Silêncio! |
+| Silêncio! - criança recém-nascida            | recém-nascida criança - Silêncio!            |
 
 ---
 
@@ -211,6 +212,78 @@ A cada ação, exiba o saldo atual das duas contas. Finalize o programa por indi
 
 ---
 
+## Exercício `DescontoAtacado`
+
+Um atacarejo vende produtos com preço reduzido quando adquirido em múltiplos. Faça um programa que, dada uma lista de produtos lidos no caixa em um ponto de venda, calcule o valor final com desconto.
+
+Os produtos disponíveis são armazenados no estoque identificados pelo número GTIN (Global Trade Item Number / Número Global de Item Comercial) inscrito em seu código de barras.
+
+Catálogo:
+
+| GTIN          | Descrição                                               | Preço (varejo) | Preço (atacado) | Unidades (atacado) |
+| ------------- | ------------------------------------------------------- | -------------: | --------------: | :----------------: |
+| 7891024110348 | SABONETE OLEO DE ARGAN 90G PALMOLIVE                    |        R$ 2,88 |         R$ 2,51 |         12         |
+| 7891048038017 | CHÁ DE CAMOMILA DR.OETKER                               |        R$ 4,40 |         R$ 4,37 |         3          |
+| 7896066334509 | TORRADA TRADICIONAL WICKBOLD PACOTE 140G                |        R$ 5,19 |             --- |        ---         |
+| 7891700203142 | BEBIDA À BASE DE SOJA MAÇÃ ADES CAIXA 200ML             |        R$ 2,39 |         R$ 2,38 |         6          |
+| 7894321711263 | ACHOCOLATADO PÓ ORIGINAL TODDY POTE 400G                |        R$ 9,79 |             --- |        ---         |
+| 7896001250611 | ADOÇANTE LÍQUIDO SUCRALOSE LINEA CAIXA 25ML             |        R$ 9,89 |         R$ 9,10 |         10         |
+| 7793306013029 | CEREAL MATINAL CHOCOLATE KELLOGGS SUCRILHOS CAIXA 320G  |       R$ 12,79 |        R$ 12,35 |         3          |
+| 7896004400914 | COCO RALADO SOCOCO 50G                                  |        R$ 4,20 |         R$ 4,05 |         6          |
+| 7898080640017 | LEITE UHT INTEGRAL 1L COM TAMPA ITALAC                  |        R$ 6,99 |         R$ 6,89 |         12         |
+| 7891025301516 | DANONINHO PETIT SUISSE COM POLPA DE MORANGO 360G DANONE |       R$ 12,99 |             --- |        ---         |
+| 7891030003115 | CREME DE LEITE LEVE 200G MOCOCA                         |        R$ 3,12 |         R$ 3,09 |         4          |
+
+<!-- https://cosmos.bluesoft.com.br/ -->
+
+Após a passagem do cliente pelo PdV, obtivemos a seguinte leitura:
+
+| Sequência | GTIN          | Quantidade |   Parcial |
+| --------- | ------------- | :--------: | --------: |
+| 1         | 7891048038017 |     1      |   R$ 4,40 |
+| 2         | 7896004400914 |     4      |  R$ 16,80 |
+| 3         | 7891030003115 |     1      |   R$ 3,12 |
+| 4         | 7891024110348 |     6      |  R$ 17,28 |
+| 5         | 7898080640017 |     24     | R$ 167,76 |
+| 6         | 7896004400914 |     8      |  R$ 33,60 |
+| 7         | 7891700203142 |     8      |  R$ 19,12 |
+| 8         | 7891048038017 |     1      |   R$ 4,40 |
+| 9         | 7793306013029 |     3      |  R$ 38,37 |
+| 10        | 7896066334509 |     2      |  R$ 10,38 |
+
+Saída esperada:
+
+| Produto       | Desconto |
+| ------------- | -------: |
+| 7793306013029 |  R$ 1,32 |
+| 7891700203142 |  R$ 0,08 |
+| 7896004400914 |  R$ 1,80 |
+| 7898080640017 |  R$ 2,40 |
+
+| Total         |     Valor |
+| ------------- | --------: |
+| (+) Subtotal  | R$ 315,23 |
+| (-) Descontos |   R$ 5,60 |
+| (=) Total     | R$ 309,63 |
+
+Exemplo:
+
+```
+--- Desconto no Atacado ---
+
+Descontos:
+7896004400914        R$ 1,80
+7898080640017        R$ 2,40
+7891700203142        R$ 0,08
+7793306013029        R$ 1,32
+
+(+) Subtotal  =    R$ 315,23
+(-) Descontos =      R$ 5,60
+(=) Total     =    R$ 309,63
+```
+
+---
+
 ## Exercício `FilaDeNotas`
 
 Receba pares de valores representando uma nota musical (`do`, `re`, `mi`, `fa`, `sol`, `la`, `si`) e um tempo (em millisegundos), armazenando-os em uma fila.
@@ -272,7 +345,7 @@ Ao derrotar todas as criaturas a aventura é finalizada e o jogo termina com a v
 
 ## Exercício `Paranoia`
 
-_Um dia no Complexo Alfa_ é uma [aventura-solo](https://pt.wikipedia.org/wiki/Livro-jogo) baseada no RPG [Paranoia](https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)) publicada nos anos 90 na [_Revista Dragão Brasil_](https://pt.wikipedia.org/wiki/Drag%C3%A3o_Brasil) número 18 pela Trama Editorial.
+_Um dia no Complexo Alfa_ é uma [aventura-solo](https://pt.wikipedia.org/wiki/Livro-jogo) baseada no RPG [Paranoia](<https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)>) publicada nos anos 90 na [_Revista Dragão Brasil_](https://pt.wikipedia.org/wiki/Drag%C3%A3o_Brasil) número 18 pela Trama Editorial.
 
 [![https://wiki.daemon.com.br/images/Dragao-Brasil-018.jpg](Dragao-Brasil-018.jpg)](https://jamboeditora.com.br/tag/dragao-brasil/)
 

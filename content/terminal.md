@@ -103,6 +103,9 @@ Comando | Descrição
 `git push origin --tags` | Envia as tags criadas para o repositório remoto.
 `git clean -nd` | Lista todos os arquivos e diretórios que não fazem parte do versionamento.
 `git clean -fd` | Exclui todos os arquivos e diretórios que não fazem parte do versionamento.
+`git stash` | Adiciona as alterações na área de _stash_.
+`git stash list` | Lista áreas de _stash_.
+`git stash pop` | Recupera as alterações da área de _stash_.
 
 Desfazer todas as alterações locais, voltando à situação do repositório remoto:
 ```

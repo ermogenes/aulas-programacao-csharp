@@ -39,6 +39,7 @@ Revisão e Correção no YouTube ([parte 1](https://youtu.be/qCz28iW5eb4) e [par
 | [AmortizacaoConstante](#exercício-amortizacaoconstante) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AmortizacaoConstante/Program.cs) |
 | [AmortizacaoFrancesa](#exercício-amortizacaofrancesa)   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AmortizacaoFrancesa/Program.cs)  |
 | [AnelDeCoracao](#exercício-aneldecoracao)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/AnelDeCoracao/Program.cs)        |
+| [QuenteFrio](#exercício-quentefrio)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/QuenteFrio/Program.cs)           |
 | [EspertoContraSabido](#exercício-espertocontrasabido)   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/EspertoContraSabido/Program.cs)  |
 | [TrintaESeis](#exercício-trintaeseis)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/TrintaESeis/Program.cs)          |
 | [Ursos](#exercício-ursos)                               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Ursos/Program.cs)                |
@@ -688,6 +689,20 @@ Exemplo:
 ```
 1 3 6 10 15 21 28 36 45 55
 ```
+
+---
+
+## Exercício `QuenteFrio`
+
+Implemente um jogo de adivinha. No jogo o computador sorteará um número entre 1 e 100 para ser o número secreto que o jogador deverá adivinhar. O jogador dará palpites até que acerte o número secreto e ganhe o jogo, ou erre 7 vezes e perca o jogo.
+
+A cada palpite errado dê uma dica:
+- está _quente_ caso tenha errado por 10 ou menos;
+- está _pelando_ caso tenha errado por três ou menos;
+- está _congelando_ caso tenha errado por 30 ou mais.
+- está _frio_ nos demais casos.
+
+Nos palpites _congelando_ e _frio_ indique se o número secreto é maior ou menor do que o palpite.
 
 ---
 

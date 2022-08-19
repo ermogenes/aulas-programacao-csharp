@@ -22,6 +22,7 @@ Nenhum exercício disponível.
 | [CarrinhoDeCompras](#exercício-carrinhodecompras) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/CarrinhoDeCompras/Program.cs) |
 | [Masmorra](#exercício-masmorra)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Masmorra/Program.cs)          |
 | [Paranoia](#exercício-paranoia)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Paranoia/Program.cs)          |
+| [Solteirona](#exercício-solteirona)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Solteirona/Program.cs)        |
 
 ---
 
@@ -616,6 +617,32 @@ Faça um programa que implemente a aventura-solo, exibindo os textos e navegando
 Comece pela entrada `0`. Ao informar que deseja ir para `99`, o usuário indica que quer desistir. A alternativa `-1` simboliza que o final do jogo foi alcançado.
 
 _Os textos foram adaptados de [vbuaraujo](https://elmord.org/misc/complexo-alfa.html) e são utilizados neste curso com propósito unicamente educacional. Todos os direitos sobre o texto da aventura-solo são reservados aos seus detentores legais. Autor do texto creditado como Grahal. As versões atuais da Dragão Brasil são publicadas pela [Jambô Editora](https://jamboeditora.com.br/)._
+
+---
+
+## Exercício `Solteirona`
+
+O jogo de cartas [_Old Maid_](https://en.wikipedia.org/wiki/Old_maid_(card_game)) (Solteirona) é a versão original da variante brasileira [Jogo do Mico](https://pt.wikihow.com/Jogar-Mico).
+
+<!-- [](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/English_pattern_queen_of_spades.svg/320px-English_pattern_queen_of_spades.svg.png) -->
+
+Implemente o jogo _Solteirona_ para 2 a 12 jogadores. O jogador humano enfrentará de 1 a 11 _bots_ (inteligências artificiais), a sua escolha.
+
+**Regras do jogo**:
+
+Usando um baralho padrão de 52 cartas, remova aleatoriamente uma das rainhas (`Q`). O objetivo do jogo é não terminar com a _solteirona_ (a única rainha que não formou par).
+
+<!-- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Queen_playing_cards.jpg/640px-Queen_playing_cards.jpg) -->
+
+![https://www.publicdomainpictures.net/pt/view-image.php?image=269218&picture=rainhas-dos-cartoes-de-jogo-do-vintage](https://www.publicdomainpictures.net/pictures/270000/velka/vintage-playing-cards-queens.jpg)
+
+Um par é formado por cartas de mesmo número (ex.: `K`♥ com `K`♦, `10`♣ com `10`♠, `6`♦ com `6`♠). Sempre que possuir um ou mais pares, o jogador o desce abertamente à sua frente. Caso possua uma trinca, desce o par e mantém a terceira carta.
+
+Embaralhe e distribua as cartas em sentido horário entre os jogadores uma a uma até que o baralho acabe (é aceitável que alguns jogadores iniciem com mais cartas que outros). Todos descem os seus pares.
+
+Começando por quem distribuiu as cartas, cada jogador oferece sua mão de forma fechada ao jogador à sua esquerda. Ele escolhe uma das cartas sem olhar e junta em sua mão. Caso faça um novo par, ele é baixado para a mesa.
+
+O jogo continua até que não se possa formar mais nenhum par. O jogador perdedor é o que ficou com a _solteirona_. Os demais vencem o jogo.
 
 ---
 

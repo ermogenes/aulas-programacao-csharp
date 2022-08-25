@@ -23,6 +23,7 @@ Nenhum exercício disponível.
 | [Masmorra](#exercício-masmorra)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Masmorra/Program.cs)          |
 | [Paranoia](#exercício-paranoia)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Paranoia/Program.cs)          |
 | [Solteirona](#exercício-solteirona)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Solteirona/Program.cs)        |
+| [Genius](#exercício-genius)                       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Genius/Program.cs)            |
 
 ---
 
@@ -622,7 +623,7 @@ _Os textos foram adaptados de [vbuaraujo](https://elmord.org/misc/complexo-alfa.
 
 ## Exercício `Solteirona`
 
-O jogo de cartas [_Old Maid_](https://en.wikipedia.org/wiki/Old_maid_(card_game)) (Solteirona) é a versão original da variante brasileira [Jogo do Mico](https://pt.wikihow.com/Jogar-Mico).
+O jogo de cartas [_Old Maid_](<https://en.wikipedia.org/wiki/Old_maid_(card_game)>) (Solteirona) é a versão original da variante brasileira [Jogo do Mico](https://pt.wikihow.com/Jogar-Mico).
 
 <!-- [](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/English_pattern_queen_of_spades.svg/320px-English_pattern_queen_of_spades.svg.png) -->
 
@@ -643,6 +644,35 @@ Embaralhe e distribua as cartas em sentido horário entre os jogadores uma a uma
 Começando por quem distribuiu as cartas, cada jogador oferece sua mão de forma fechada ao jogador à sua esquerda. Ele escolhe uma das cartas sem olhar e junta em sua mão. Caso faça um novo par, ele é baixado para a mesa.
 
 O jogo continua até que não se possa formar mais nenhum par. O jogador perdedor é o que ficou com a _solteirona_. Os demais vencem o jogo.
+
+---
+
+## Exercício `Genius`
+
+O brinquedo [Genius](https://www.estrela.com.br/jogo-genius-estrela-100543353_est_pai/p) é um jogo eletrônico de memória popular nos anos 80. Lançado no Brasil pela [Estrela](https://www.estrela.com.br/), é a versão brasileira do americano [Simon](https://products.hasbro.com/pt-br/product/simon-game-for-kids-ages-8-and-up:11B65A99-E662-4178-9C36-4E2B63B52093), da [Hasbro](https://products.hasbro.com/pt-br).
+
+[![Genius - Estrela](genius.png)](https://estrela.vteximg.com.br/arquivos/ids/163355-1000-1000/Jogo-Genius-Produto-Estrela.jpg?v=636661399595430000)
+
+Implemente o jogo `#1` para um jogador em seus 4 níveis de dificuldade.
+
+O objetivo do jogo é repetir corretamente a sequência de sinais proposta pelo jogo, cada vez mais longa. Há quatro botões (vermelho, verde, azul e amarelo), e cada um emite um _bip_ diferente.
+
+São quatro níveis de dificuldade, que indicam quantos botões deverão ser acertados:
+
+| Dificuldade | Tamanho da sequência |
+| :---------: | :------------------: |
+|      1      |       8 botões       |
+|      2      |      14 botões       |
+|      3      |      20 botões       |
+|      4      |      31 botões       |
+
+O jogo começa com o jogo emitindo o primeiro sinal (um botão aleatório é ativado, acendo a luz e tocando um _bip_). Repita o sinal, pressionando o botão equivalente. Caso erre, você perde o jogo.
+
+O jogo repetirá o primeiro botão e vai acrescentar mais um. Repita então os dois botões na sequência. Continue até que você consegua repetir a sequencia completa.
+
+Toque sons diferente para derrota, vitória e vitória na dificuldade 4.
+
+Fontes: [Manual](https://statics-submarino.b2w.io/manuais/111703711.pdf); [_Reverse Engineering an MB Electronic Simon Game_, da Waiting for Friday](<https://www.waitingforfriday.com/?p=586#:~:text=On%20the%20full%E2%80%90size%20version%20of%20Simon%20the%20lights%20are,B3%20(true%20pitch%20247.942%20Hz)>).
 
 ---
 

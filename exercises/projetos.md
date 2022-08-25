@@ -18,6 +18,10 @@ Desejável:
 - Melhorias em relação ao que foi proposto no enunciado.
 - Um _site_ de divulgação funcional, informativo, bem organizado e agradável.
 
+🦥 Exercícios mais fáceis (☕) exigem menos do aluno e sofrerão uma correção mais rígida.
+
+🐱‍👤 Exercícios mais difíceis (☕☕☕) exigem mais do aluno e potencialmente valem uma nota mais alta.
+
 ## Opções de projetos
 
 | Enunciado                                                                                                                                         | Dificuldade | Lista                                             |
@@ -34,7 +38,7 @@ Desejável:
 | [Fibonacci](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#Exercício-Fibonacci)                             | ☕          | [Laços](lacos.md)                                 |
 | [AmortizacaoConstante](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-amortizacaoconstante)       | ☕☕        | [Laços](lacos.md)                                 |
 | [AmortizacaoFrancesa](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-amortizacaofrancesa)         | ☕☕        | [Laços](lacos.md)                                 |
-| [QuenteFrio](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-quentefrio)                           | ☕         | [Laços](lacos.md)                                 |
+| [QuenteFrio](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-quentefrio)                           | ☕          | [Laços](lacos.md)                                 |
 | [EspertoContraSabido](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-espertocontrasabido)         | ☕☕        | [Laços](lacos.md)                                 |
 | [Ursos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-ursos)                                     | ☕☕☕      | [Laços](lacos.md)                                 |
 | [NPC](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exercício-npc)                                         | ☕☕☕      | [Laços](lacos.md)                                 |
@@ -53,5 +57,4 @@ Desejável:
 | [Masmorra](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-masmorra)                      | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
 | [Paranoia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-paranoia)                      | ☕          | [Classes e Listas](classes-listas.md)             |
 | [Solteirona](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-solteirona)                  | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
-
-🦥 Exercícios mais fáceis sofrerão uma correção mais rígida.<br>🐱‍👤 Exercícios mais difíceis potencialmente valem uma nota mais alta.
+| [Genius](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-genius)                          | ☕☕☕      | [Classes e Listas](classes-listas.md)             |

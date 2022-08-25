@@ -159,7 +159,7 @@ Console.BackgroundColor = (ConsoleColor)9;
 Console.ResetColor();
 ```
 
-## Posição do cursor no console
+## Cursor
 
 Esconder/mostrar o cursor:
 

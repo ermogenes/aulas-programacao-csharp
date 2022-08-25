@@ -77,3 +77,9 @@ Olá, Ermogenes!
 Pressione uma tecla para continuar...
 PS C:\Users\ermogenes\Desktop\code\ExemploConsole>
 ```
+
+## Limpar o _buffer_ de teclado
+
+```cs
+while (Console.KeyAvailable) Console.ReadKey(true);
+```

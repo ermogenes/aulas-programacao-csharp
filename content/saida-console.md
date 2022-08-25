@@ -52,6 +52,20 @@ Console.Clear();
 Console.Beep();
 ```
 
+⚠ _`Beep` é dependente de plataforma, ou seja, só funciona em ambiente Windows. Isso causa uma aviso do compilador, em amarelo. Para desativar esse aviso, marque o trecho com a notação `pragma`:_
+
+```cs
+// ...
+// a partir daqui o aviso não será dado pelo compilador
+#pragma warning disable CA1416
+// ...
+Console.Beep();
+// ...
+#pragma warning restore CA1416
+// reativa o aviso daqui em diante
+// ...
+```
+
 Para alterar a frequência e o tempo do sinal sonoro, passamos dois argumento à `Beep`. No exemplo, tocamos a nota _dó_ por 200 milésimos de segundo:
 
 ```cs
@@ -143,4 +157,24 @@ Console.BackgroundColor = (ConsoleColor)9;
 
 ```cs
 Console.ResetColor();
+```
+
+## Posição do cursor no console
+
+Esconder/mostrar o cursor:
+
+```cs
+Console.CursorVisible = false; // Esconder
+Console.CursorVisible = true; // Mostrar
+```
+
+Posição atual do cursor:
+
+- Linha: `Console.CursorTop`
+- Coluna: `Console.CursorLeft`
+
+Reposicionar o cursor:
+
+```cs
+Console.SetCursorPosition(10, 15); // linha 10, coluna 15
 ```

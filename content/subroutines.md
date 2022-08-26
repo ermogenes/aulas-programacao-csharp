@@ -161,6 +161,27 @@ No exemplo acima:
 - `a`, `b`, `c` e `area` só estão disponíveis em `Main`;
 - `lado1`, `lado2`, `lado3` e `s` só estão disponíveis em `AreaTriangulo`.
 
+## Valores padrão para parâmetros
+
+Você pode indicar um valor padrão para um parâmetro quando nenhum argumento é indicado.
+
+Exemplo:
+
+```cs
+int atual = Proximo();
+// atual vale 1
+atual = Proximo(atual);
+// atual vale 2
+
+int Proximo(int posicao = 0) => posicao + 1;
+```
+
+## Passagem nomeada de parâmetros
+
+Podemos incluir o nome do parâmetro nas chamadas de sub-rotinas. Isso é especialmente útil quando não fica claro pelo contexto o que significa aquele argumento.
+
+Por exemplo, no comando `Console.ReadKey(true)` não fica claro o que significa o argumento `true`. Usando o nome do parâmetro (`Console.ReadKey(intercept: true)`), fica muito mais evidente que queremos que a função intercepte e tecla não a exibindo na saída.
+
 ## Recursividade
 
 Uma função pode chamar a si mesma quando necessário. Essa funcionalidade chama-se recursividade. Nesse caso, certifique-se que a função chegará ao fim, ou você entrará em uma situação similar a um laço infinito.

@@ -26,7 +26,10 @@ Os tipos numéricos que mais utilizaremos neste curso:
 
 | Tipo      | Classe           | Descrição                                                                                                                                                                                |
 | --------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `int`     | `System.Int32`   | Número inteiro com sinal, entre -2.147.483.648 a 2.147.483.647, armazenado em 32 bits                                                                                                    |
+| `byte`    | `System.Byte`    | Número inteiro sem sinal, entre 0 e 255, armazenado em 8 bits                                                                                                                            |
+| `short`   | `System.Int16`   | Número inteiro com sinal, entre -32.768 e 32.767, armazenado em 16 bits                                                                                                                  |
+| `int`     | `System.Int32`   | Número inteiro com sinal, entre -2.147.483.648 e 2.147.483.647, armazenado em 32 bits                                                                                                    |
+| `long`    | `System.Int64`   | Número inteiro com sinal, entre -9.223.372.036.854.775.808 e 9.223.372.036.854.775.807, armazenado em 64 bits                                                                            |
 | `double`  | `System.Double`  | Número real (com casas decimais) em ponto flutuante, entre -1,7 × 10<sup>308</sup> e +1,7 × 10<sup>308</sup>, com precisão de 15 dígitos, armazenado em 8 bytes.                         |
 | `decimal` | `System.Decimal` | Número real (com casas decimais) em ponto flutuante de alta precisão, entre ±1,0 x 10<sup>-28</sup> e ±7,9228 x 10<sup>28</sup>, com precisão de 28 a 29 dígitos, armazenado em 16 bytes |
 

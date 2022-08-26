@@ -180,7 +180,17 @@ int Proximo(int posicao = 0) => posicao + 1;
 
 Podemos incluir o nome do parâmetro nas chamadas de sub-rotinas. Isso é especialmente útil quando não fica claro pelo contexto o que significa aquele argumento.
 
-Por exemplo, no comando `Console.ReadKey(true)` não fica claro o que significa o argumento `true`. Usando o nome do parâmetro (`Console.ReadKey(intercept: true)`), fica muito mais evidente que queremos que a função intercepte e tecla não a exibindo na saída.
+Por exemplo, no comando:
+
+```cs
+Console.ReadKey(true);
+```
+
+Não fica claro o que significa o argumento `true`. Usando o nome do parâmetro, fica muito mais evidente que queremos que a função intercepte a tecla não a exibindo na saída.
+
+```cs
+Console.ReadKey(intercept: true);
+```
 
 ## Recursividade
 

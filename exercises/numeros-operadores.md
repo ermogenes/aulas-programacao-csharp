@@ -27,10 +27,11 @@ Revisão e Correção no YouTube ([parte 1](https://youtu.be/AMUjUfan40Q) e [par
 | Enunciado                                                     | Correção                                                                                             | Extras |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------ |
 | [InteiroEDecimal](#exercício-inteiroedecimal)                 | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/InteiroEDecimal/Program.cs)         |
+| [MilhasBumerangue](#exercício-milhasbumerangue)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/MilhasBumerangue/Program.cs)        |
 | [RolagemDeDado](#exercício-rolagemdedado)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/RolagemDeDado/Program.cs)           |
 | [TempoDownload](#exercício-tempodownload)                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/TempoDownload/Program.cs)           |
 | [Troco](#exercício-troco)                                     | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/Troco/Program.cs)                   |
-| [DecomposicaoDecimal](#exercício-decomposicaodecimal)         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/DecomposicaoDecimal/Program.cs)                   |
+| [DecomposicaoDecimal](#exercício-decomposicaodecimal)         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/DecomposicaoDecimal/Program.cs)     |
 | [IndependenciaFinanceira](#exercício-independenciafinanceira) | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/IndependenciaFinanceira/Program.cs) |
 | [GinasticaArtistica](#exercício-ginasticaartistica)           | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/GinasticaArtistica/Program.cs)      |
 | [CustoEnergia](#exercício-custoenergia)                       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/tree/main/CustoEnergia/Program.cs)            |
@@ -292,6 +293,29 @@ Parte decimal: 0,5
 
 ---
 
+## Exercício `MilhasBumerangue`
+
+Um programa de milhas resolve iniciar uma promoção em formato _bumerangue_, onde os pontos são transferidos com bônus e um percentual é retornado para sua conta.
+
+Por exemplo, uma promoção transfere com 30% de bônus e dá 40% de pontos de volta. Nesse caso, transferindo 1000 pontos de `A` para `B` você recebe 1300 pontos em `B` e fica ainda com 400 pontos em `A`.
+
+Faça um programa que receba os percentuais de bônus e de retorno, e a quantidade de pontos a serem transferidos. Exiba a quantidade de pontos a reduzir na origem e a quantidade a acrescentar no destino.
+
+Exemplo:
+
+```
+--- Milhas Bumerangue ---
+
+Percentual de bônus.....: 30
+Percentual de retorno...: 40
+Pontos a transferir.....: 1000
+
+Pontos a reduzir na origem........: 600
+Pontos a acrescentar no destino...: 1300
+```
+
+---
+
 ## Exercício `RolagemDeDado`
 
 Um dado comum possui seis faces numeradas de 1 a 6. Existem dados poliédricos com as mais diversas contagens de faces, sendo as mais comuns 4, 6, 8, 10, 12, e 20.
@@ -348,6 +372,7 @@ Solicite que o usuário digite o valor da compra e o valor pago. Exiba o valor d
 Receba um número inteiro informado pelo usuário. Realize a decomposição decimal em unidades, dezenas e centenas.
 
 Exemplo:
+
 ```
 --- Decomposição Decimal ---
 

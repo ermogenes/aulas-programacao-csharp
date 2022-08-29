@@ -14,6 +14,7 @@ Nenhum exercício disponível.
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------ |
 | [ExibeMatriz](#exercício-exibematriz)                 | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/ExibeMatriz/Program.cs)         |
 | [PreencheVetor](#exercício-preenchevetor)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/PreencheVetor/Program.cs)       |
+| [GeradorDeSenhas](#exercício-geradordesenhas)         | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/GeradorDeSenhas/Program.cs)     |
 | [InverteString](#exercício-invertestring)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/InverteString/Program.cs)       |
 | [Palindromo](#exercício-palindromo)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Palindromo/Program.cs)          |
 | [Virtudes](#exercício-virtudes)                       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Virtudes/Program.cs)            |
@@ -74,6 +75,33 @@ Exemplo:
 Digite um número: 523
 
 524 526 528 530 532 (...) 714 716 718 720 722
+```
+
+---
+
+## Exercício `GeradorDeSenhas`
+
+Escreva um programa que gere 10 sugestões de senhas. As senha deve ser geradas com 15 caracteres aleatórios sorteados da seguinte lista:
+
+- Caracteres alfabéticos maíusculos e minísculos;
+- Numerais;
+- Caracteres especiais (uma [sugestão](https://owasp.org/www-community/password-special-characters) de caracteres especiais válidos é `` !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~``).
+
+Exemplo:
+
+```
+--- Gerador de Senhas ---
+
+NX29;GI[_4LM#u:
+S2\}|V10<Pq>2&w
+KIq7-|oUbLE4 r?
+XAnQ.zr%QJsEe?o
+T$*Q[pqZk`k2t~E
+<Rx4v@k @P*O#I1
+x=;M%wGrxs-I_VE
+in>$#=9U8p6Z8o;
+yP8H-m3|G5-q:K+
+a:z'V!bd8jn!d;>
 ```
 
 ---

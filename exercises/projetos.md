@@ -24,6 +24,8 @@ Desejável:
 
 ## Opções de projetos
 
+Atualmente você pode escolher uma entre 33 opções de projetos.
+
 | Enunciado                                                                                                                                         | Dificuldade | Lista                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------- |
 | [Projetil](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#Exercício-Projetil)                  | ☕          | [Números e operadores](numeros-operadores.md)     |
@@ -58,3 +60,4 @@ Desejável:
 | [Paranoia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-paranoia)                      | ☕          | [Classes e Listas](classes-listas.md)             |
 | [Solteirona](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-solteirona)                  | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
 | [Genius](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-genius)                          | ☕☕☕      | [Classes e Listas](classes-listas.md)             |
+| [CampoMinado](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/classes-listas.md#exercício-campominado)                | ☕☕☕      | [Classes e Listas](classes-listas.md)             |

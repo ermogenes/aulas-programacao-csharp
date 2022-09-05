@@ -24,6 +24,7 @@ Nenhum exercício disponível.
 | [Paranoia](#exercício-paranoia)                   | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Paranoia/Program.cs)          |
 | [Solteirona](#exercício-solteirona)               | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Solteirona/Program.cs)        |
 | [Genius](#exercício-genius)                       | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/Genius/Program.cs)            |
+| [CampoMinado](#exercício-campominado)             | [GitHub](https://github.com/ermogenes/correcoes-dev-cs/blob/main/CampoMinado/Program.cs)       |
 
 ---
 
@@ -673,6 +674,33 @@ O jogo repetirá o primeiro botão e vai acrescentar mais um. Repita então os d
 Toque sons diferente para derrota, vitória e vitória na dificuldade 4.
 
 Fontes: [Manual](https://statics-submarino.b2w.io/manuais/111703711.pdf); [_Reverse Engineering an MB Electronic Simon Game_, da Waiting for Friday](<https://www.waitingforfriday.com/?p=586#:~:text=On%20the%20full%E2%80%90size%20version%20of%20Simon%20the%20lights%20are,B3%20(true%20pitch%20247.942%20Hz)>).
+
+---
+
+## Exercício `CampoMinado`
+
+Campo minado (Minesweeper - Robbert Donner, 1989) é um jogo que ficou famoso por ser distribuído em todas as cópias de Windows anteriores à versão 10.
+
+Implemente uma versão o jogo campo minado em uma aplicação console.
+
+![](minesweeper.png)
+
+Descrição do jogo adaptada da [Wikipedia](https://pt.wikipedia.org/wiki/Campo_minado):
+
+Objetivo: revelar um campo de minas sem que alguma seja detonada.
+
+A área de jogo consiste num campo de quadrados retangular. Cada quadrado pode ser revelado com uma ação do jogador, e se o quadrado revelado contiver uma mina, o jogo acaba. Se, por outro lado, o quadrado não contiver uma mina, uma de duas coisas poderá acontecer:
+
+1. Um número aparece, indicando a quantidade de quadrados adjacentes que contêm minas;
+2. Nenhum número aparece, e o jogo revela automaticamente os quadrados que se encontram adjacentes ao quadrado vazio, já que não podem conter minas.
+
+O jogo é ganho quando todos os quadrados que não têm minas são revelados.
+
+O jogador pode, com uma ação, sinalizar ou retirar uma sinalização de qualquer quadrado que acredita que contém uma mina. Um quadrado sinalizado não pode ser aberto.
+
+_Busque vídeos e alguma implementação \_online_ para entender melhor o jogo.\_
+
+Mais informações [aqui](https://minesweepergame.com/strategy/how-to-play-minesweeper.php) e [aqui](https://www.puzzle-minesweeper.com/minesweeper-5x5-easy/).
 
 ---
 

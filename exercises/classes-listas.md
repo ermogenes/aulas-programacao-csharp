@@ -698,7 +698,7 @@ O jogo é ganho quando todos os quadrados que não têm minas são revelados.
 
 O jogador pode, com uma ação, sinalizar ou retirar uma sinalização de qualquer quadrado que acredita que contém uma mina. Um quadrado sinalizado não pode ser aberto.
 
-_Busque vídeos e alguma implementação \_online_ para entender melhor o jogo.\_
+_Busque vídeos e alguma implementação online para entender melhor o jogo._
 
 Mais informações [aqui](https://minesweepergame.com/strategy/how-to-play-minesweeper.php) e [aqui](https://www.puzzle-minesweeper.com/minesweeper-5x5-easy/).
 

@@ -91,7 +91,8 @@ Comando | Descrição
 `git branch` | Lista os branchs locais.
 `git checkout -b <nome_branch>` | Cria um novo branch baseado no branch atual e o torna ativo.
 `git checkout <nome_branch>` | Ativa um branch local existente.
-`git branch -d <nome_branch>` | Remove um branch.
+`git branch -d <nome_branch>` | Remove um branch local.
+`git push <nome_remote> --delete <nome_branch>` | Remove um branch remoto.
 `git pull` | Atualizar o repositório local com a versão mais recente do repositório remoto.
 `git merge <nome_branch>` | Mescla alterações do branch indicado no branch atual.
 `git diff <nome_branch_origem> <nome_branch_destino>` | Mostra as diferenças entre dois branches.

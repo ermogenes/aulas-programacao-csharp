@@ -197,6 +197,7 @@ Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu compu
 
 - Kit de desenvolvimento: [.NET SDK 📥](https://dotnet.microsoft.com/download)
 - IDE: [Visual Studio Code 📥](https://code.visualstudio.com/download)
+  - [Para Windows 7](https://update.code.visualstudio.com/1.70.2/win32-x64-user/stable) use a [versão 1.70.2 📥](https://update.code.visualstudio.com/1.70.2/win32-x64-user/stable)
 - Controle de versão: [Git 📥](https://git-scm.com/downloads)
 
 [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Passo-a-passo para a criação do ambiente](content/ambiente.md)

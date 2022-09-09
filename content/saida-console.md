@@ -178,3 +178,12 @@ Reposicionar o cursor:
 ```cs
 Console.SetCursorPosition(10, 15); // linha 10, coluna 15
 ```
+
+## Pacotes para renderização em terminal
+
+Caso busque algo com mais recursos, tente:
+
+- https://spectreconsole.net/
+- https://github.com/Thraka/SadConsole
+- https://bitbucket.org/clarktravism/rlnet
+- https://docs.monogame.net/

@@ -184,6 +184,7 @@ Console.SetCursorPosition(10, 15); // linha 10, coluna 15
 Caso busque algo com mais recursos, tente:
 
 - https://spectreconsole.net/
+- https://github.com/gui-cs/Terminal.Gui
 - https://github.com/Thraka/SadConsole
 - https://bitbucket.org/clarktravism/rlnet
 - https://docs.monogame.net/

@@ -188,3 +188,51 @@ Caso busque algo com mais recursos, tente:
 - https://github.com/Thraka/SadConsole
 - https://bitbucket.org/clarktravism/rlnet
 - https://docs.monogame.net/
+
+## Codificação de caracteres (_avançado_)
+
+Os sistemas operacionais em suas diferentes versões possuem diversas configurações diferentes. Para que recursos avançados (caracteres internacionais, emojis, sublinhados, etc.) sejam utilizados corretamente, precisamos garantir que a codificação UTF-8 esteja ativada, o que não é o caso em sistemas Windows até a versão 10.
+
+Abaixo, um exemplo de como testar e mudar a codificação via código C#:
+```cs
+// Exibe emoji na codificação padrão do terminal
+Console.WriteLine($"🤯 em codificação {Console.OutputEncoding}");
+
+// Salva a codificação padrão
+var codificacaoAnterior = Console.OutputEncoding;
+
+// Muda a codificação para UTF-8
+Console.OutputEncoding = System.Text.Encoding.UTF8;
+
+// Exibe emoji na codificação UTF-8
+Console.WriteLine($"🤯 em codificação {Console.OutputEncoding}");
+
+// Volta a codificação para a codificação padrão
+Console.OutputEncoding = codificacaoAnterior;
+
+// Exibe novamente na codificação padrão
+Console.WriteLine($"🤯 em codificação {Console.OutputEncoding}");
+```
+
+No Windows 10 você terá algo como:
+```
+?? em codificação System.Text.OSEncoding
+🤯 em codificação System.Text.UTF8Encoding
+?? em codificação System.Text.OSEncoding
+```
+
+Esta abordagem não é recomendada, pois caso seu programa seja interrompido antes de voltar a codificação para o padrão, isso pode interferir em outros programas.
+
+Para mudar essa configuração globalmente, faça (usando um usuário com permissões de administrador):
+
+- execute `intl.cpl` para abrir a configuração de Região;
+- mude para a aba 'Administrativo';
+- clique em 'Alterar localidade do sistema';
+- ative 'Usar Unicode UTF-8 para suporte de linguagem mundial';
+- reinicie o computador.
+
+Para alterar no Poweshell, é necessário configurar em seu `profile.ps1`:
+
+```powershell
+[console]::InputEncoding = [console]::OutputEncoding = [System.Text.UTF8Encoding]::new()
+```

@@ -179,6 +179,8 @@ Reposicionar o cursor:
 Console.SetCursorPosition(10, 15); // linha 10, coluna 15
 ```
 
+---
+
 ## Pacotes para renderização em terminal
 
 Caso busque algo com mais recursos, tente:
@@ -231,7 +233,13 @@ Para mudar essa configuração globalmente, faça (usando um usuário com permis
 - ative 'Usar Unicode UTF-8 para suporte de linguagem mundial';
 - reinicie o computador.
 
-Para alterar no Poweshell, é necessário configurar em seu `profile.ps1`:
+Se preferir, pode fazer isso em linha de comando abrindo um Powershell com privilégios de administrador e executar:
+
+```powershell
+'ACP', 'OEMCP', 'MACCP' | Set-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Nls\CodePage -Name { $_ } 65001
+```
+
+Para funcionar no Powershell, é necessário adicionalmente configurar em seu `profile.ps1`:
 
 ```powershell
 [console]::InputEncoding = [console]::OutputEncoding = [System.Text.UTF8Encoding]::new()

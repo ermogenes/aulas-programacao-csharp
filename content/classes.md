@@ -108,9 +108,10 @@ Usamos a palavra chave `this` para referenciar o objeto atual. Perceba como os m
 ## Modificadores de acesso
 
 * `public` indica que o membro está exposto, e acessível fora da classe;
-* `private` indica que o membro está encapsulado, e acessível somente de dentro da classe.
+* `private` indica que o membro está encapsulado, e acessível somente de dentro da classe;
+* `protected`indica que o membro é acessível soemnte dentro de sua classe ou de classes derivadas.
 
-Há outros modificadores, porém relacionados com o conceito de herança não tratado nesse material.
+Há outros modificadores, para saber mais consulte a [documentação](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/access-modifiers).
 
 ## Construtores
 

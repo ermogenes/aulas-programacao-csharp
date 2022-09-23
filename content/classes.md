@@ -55,8 +55,8 @@ public class Cachorro
 
 Essa classe possui 5 membros:
 
-* os atributos `Nome`, `Raca` e `Cor`;
-* os métodos `Latir` e `Rosnar`.
+- os atributos `Nome`, `Raca` e `Cor`;
+- os métodos `Latir` e `Rosnar`.
 
 Agora podemos criar instâncias de `Cachorro`:
 
@@ -107,9 +107,9 @@ Usamos a palavra chave `this` para referenciar o objeto atual. Perceba como os m
 
 ## Modificadores de acesso
 
-* `public` indica que o membro está exposto, e acessível fora da classe;
-* `private` indica que o membro está encapsulado, e acessível somente de dentro da classe;
-* `protected`indica que o membro é acessível soemnte dentro de sua classe ou de classes derivadas.
+- `public` indica que o membro está exposto, e acessível fora da classe;
+- `private` indica que o membro está encapsulado, e acessível somente de dentro da classe;
+- `protected`indica que o membro é acessível soemnte dentro de sua classe ou de classes derivadas.
 
 Há outros modificadores, para saber mais consulte a [documentação](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/access-modifiers).
 
@@ -301,4 +301,135 @@ namespace AulaClasses
 
 ```
 Ermogenes Palacio tem R$590,00 e Diego Neri tem R$295,00.
+```
+
+---
+
+## Herança
+
+Você pode criar hierarquias de classes, onde uma classe derivada _herda_ todos os membros de uma outra classe. De fato, toda classe em C# herda da classe `System.Object`, tendo assim membros comuns como `Equals`, `ToString` e `GetType`.
+
+Usamos essa funcionalidade para reutilização de código.
+
+Por exemplo, em uma escola pessoas são tradadas com diversos papéis distintos, como alunos, funcionários ou professores. Gostaríamos de programar os comportamentos compartilhados uma vez só, e só detalhar as diferenças em cada um deles.
+
+Poderíamos modelar as classes assim:
+
+- `Pessoa` representa um pessoa física, qualquer que seja seu papel.
+  - `Funcionario` representa uma `Pessoa` que trabalha na escola.
+    - `Professor` representa uma `Funcionario` cuja função é lecionar.
+  - `Aluno` representa uma `Pessoa` que se matriculou em uma turma.
+
+![](escola.drawio.svg)
+
+Assim teríamos algo como:
+
+```cs
+// Criando instâncias de alunos através do construtor
+Aluno alunoCalouro = new Aluno("Eduardo", matricula: 9857, turma: "1I3");
+Aluno alunoVeterano = new Aluno("Mônica", matricula: 9858, turma: "3I3");
+
+// Instanciando um funcionário
+Funcionario atendenteSecretaria = new Funcionario("Carlos", salario: 1200);
+
+// Instanciando dois professores
+Professor professorTI = new Professor("Camila", salario: 2000, "TI");
+Professor professorAdm = new Professor("Cláudio", salario: 2000, "Administração");
+
+// O funcionário do mês é um professor
+Funcionario funcionarioDoMes = professorAdm;
+
+// Ambos brigadistas são funcionários, mesmo um deles sendo professor
+Funcionario brigadista1 = atendenteSecretaria;
+Funcionario brigadista2 = professorTI;
+
+// Todos são pessoas, inclusive os pais doas alunos (não modelados)
+Pessoa paiDoVeterano = new Pessoa("Sebastião");
+
+// Um time de futsal misto no interclasses
+// pode ser formado por alunos, funcionários, professores e pais
+Pessoa timeGoleiro = alunoCalouro;
+Pessoa timeFixo = alunoVeterano;
+Pessoa timeAlaDireito = atendenteSecretaria;
+Pessoa timeAlaEsquerdo = professorTI;
+Pessoa timePivo = professorAdm;
+Pessoa timeTecnico = paiDoVeterano;
+
+// O funcionário do mês foi promovido
+// Recebe 5% de aumento. Se fosse outro tipo de funcionário receberia 30%.
+funcionarioDoMes.Promover();
+
+// Obter o nome (refernte a pessoa) de um funcionário
+string nomeDoAtendente = atendenteSecretaria.Nome;
+// Obter o salário (referente ao funcionário) de um professor
+decimal salarioDoClaudio = professorAdm.Salario;
+// Obter a área de um professor
+string areaDaCamila = professorTI.Area;
+
+// // Daqui para a frente, todas as linha gerarão erros
+
+// // Pessoas não possuem salário se não forem funcionários
+// decimal salarioDoSebastiao = paiDoVeterano.Salario;
+// // Somente funcionários podem ser promovidos
+// alunoVeterano.Promover();
+// // Somente professores lecionam
+// atendenteSecretaria.Lecionar();
+
+
+public class Pessoa
+{
+    public string Nome { get; private set; }
+
+    public Pessoa(string nome)
+    {
+        this.Nome = nome;
+    }
+}
+
+public class Aluno : Pessoa
+{
+    public int Matricula { get; private set; }
+    public string Turma { get; set; }
+
+    public Aluno(string nome, int matricula, string turma) : base(nome)
+    {
+        this.Matricula = matricula;
+        this.Turma = turma;
+    }
+}
+
+public class Funcionario : Pessoa
+{
+    public decimal Salario { get; set; }
+
+    public Funcionario(string nome, decimal salario) : base(nome)
+    {
+        this.Salario = salario;
+    }
+
+    public virtual void Promover()
+    {
+        this.Salario *= 1.3m;
+    }
+}
+
+public class Professor : Funcionario
+{
+    public string Area { get; private set; }
+
+    public Professor(string nome, decimal salario, string area) : base(nome, salario)
+    {
+        this.Area = area;
+    }
+
+    public override void Promover()
+    {
+        this.Salario *= 1.05m;
+    }
+
+    public void Lecionar()
+    {
+        Console.WriteLine($"{this.Nome} escreve coisas bacanas sobre {this.Area} na lousa.");
+    }
+}
 ```

@@ -359,7 +359,7 @@ Pessoa timeTecnico = paiDoVeterano;
 // Recebe 5% de aumento. Se fosse outro tipo de funcionário receberia 30%.
 funcionarioDoMes.Promover();
 
-// Obter o nome (refernte a pessoa) de um funcionário
+// Obter o nome (referente a pessoa) de um funcionário
 string nomeDoAtendente = atendenteSecretaria.Nome;
 // Obter o salário (referente ao funcionário) de um professor
 decimal salarioDoClaudio = professorAdm.Salario;

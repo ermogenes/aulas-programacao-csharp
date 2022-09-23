@@ -196,6 +196,7 @@ Caso busque algo com mais recursos, tente:
 Os sistemas operacionais em suas diferentes versões possuem diversas configurações diferentes. Para que recursos avançados (caracteres internacionais, emojis, sublinhados, etc.) sejam utilizados corretamente, precisamos garantir que a codificação UTF-8 esteja ativada, o que não é o caso em sistemas Windows até a versão 10.
 
 Abaixo, um exemplo de como testar e mudar a codificação via código C#:
+
 ```cs
 // Exibe emoji na codificação padrão do terminal
 Console.WriteLine($"🤯 em codificação {Console.OutputEncoding}");
@@ -217,6 +218,7 @@ Console.WriteLine($"🤯 em codificação {Console.OutputEncoding}");
 ```
 
 No Windows 10 você terá algo como:
+
 ```
 ?? em codificação System.Text.OSEncoding
 🤯 em codificação System.Text.UTF8Encoding
@@ -232,6 +234,8 @@ Para mudar essa configuração globalmente, faça (usando um usuário com permis
 - clique em 'Alterar localidade do sistema';
 - ative 'Usar Unicode UTF-8 para suporte de linguagem mundial';
 - reinicie o computador.
+
+![](intcpl-utf8.png)
 
 Se preferir, pode fazer isso em linha de comando abrindo um Powershell com privilégios de administrador e executar:
 

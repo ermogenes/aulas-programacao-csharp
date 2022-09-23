@@ -366,7 +366,7 @@ decimal salarioDoClaudio = professorAdm.Salario;
 // Obter a área de um professor
 string areaDaCamila = professorTI.Area;
 
-// // Daqui para a frente, todas as linha gerarão erros
+// // As linhas comentadas abaixo gerarão erros
 
 // // Pessoas não possuem salário se não forem funcionários
 // decimal salarioDoSebastiao = paiDoVeterano.Salario;

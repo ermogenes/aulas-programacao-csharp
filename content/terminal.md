@@ -16,6 +16,8 @@ Comando | Descrição
 
 Há vasto material sobre o assunto na Internet. você pode começar por [aqui](https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux/) e [aqui](https://linux.ime.usp.br/~lucasmmg/livecd/documentacao/documentos/terminal/Terminal_basico.html).
 
+Veja também o [material do Prof Neri sobre o assunto](https://github.com/diegoneri/aulas-gso-1).
+
 ### `code`
 
 Comando | Descrição

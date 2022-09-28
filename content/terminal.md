@@ -113,3 +113,7 @@ Desfazer todas as alterações locais, voltando à situação do repositório re
 git fetch origin
 git reset --hard origin/master
 ```
+
+## Ajustando a aparência do seu terminal
+
+Você pode [deixar seu terminal mais elegante](https://gist.github.com/ermogenes/106c79087327feda8227b79a7c284512) usando o Oh My Posh.

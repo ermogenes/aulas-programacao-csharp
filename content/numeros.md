@@ -203,3 +203,7 @@ Double = 0,4000 | Decimal 0,4000
 Digite um número...: 2,5
 String = 2,5 | Double = 2,5 | Decimal = 2,5
 ```
+
+## Material oficial
+
+Faça também o [tutorial interativo oficial](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp).

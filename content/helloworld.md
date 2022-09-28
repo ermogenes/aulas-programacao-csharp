@@ -118,3 +118,7 @@ Parabéns, você criou o seu primeiro programa em C#.
 Os binários e os assemblies foram criados pelo compilador nas pastas `obj` e `bin`.
 
 ![](000025.png)
+
+## Material oficial
+
+Faça também o [tutorial interativo oficial](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/hello-world).

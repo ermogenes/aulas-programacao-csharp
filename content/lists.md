@@ -208,3 +208,7 @@ Tamanho do caminhão de mudança = 3
 Retirado Plantas
 Retirado Sofá
 ```
+
+## Material oficial
+
+Faça também o [tutorial interativo oficial](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/list-collection).

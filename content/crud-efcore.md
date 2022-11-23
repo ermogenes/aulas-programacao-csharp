@@ -4,6 +4,8 @@
 
 Este texto é continuação [desse](db-mysql.md).
 
+[✨ _Entity Framework_ - _Cheatsheet_ (cola)](db-mysql-cheatsheet.md)
+
 ## Entendendo o _scaffolding_
 
 Foi criada uma classe com o contexto (`employeesContext.cs`), que fará o acesso ao banco.

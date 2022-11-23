@@ -2,6 +2,8 @@
 
 [📽 Veja esta vídeo-aula no Youtube](https://youtu.be/JI1-f04navk)
 
+[✨ _Entity Framework_ - _Cheatsheet_ (cola)](db-mysql-cheatsheet.md)
+
 No objetivo é acessar bancos de dados no C#. Há uma infinidade de maneiras de se fazer isso; nesse curso optaremos pela seguinte combinação:
 
 - Modelo de armazenamento de dados: [Modelo relacional](https://pt.wikipedia.org/wiki/Modelo_relacional)

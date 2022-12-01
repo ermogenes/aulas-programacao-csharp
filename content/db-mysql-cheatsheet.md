@@ -4,7 +4,7 @@ Crie seu banco de dados normalmente. Anote as seguintes informações:
 
 - Endereço do servidor (se for seu computador local, é `localhost`);
 - Porta do servidor (a padrão é `3306`);
-- As credenciais de acesso: usuário e senha (na Etec usa-se por padrão usuário `root` e senha `12345`);
+- As credenciais de acesso: usuário e senha (na Etec usa-se por padrão usuário `root` e senha `admin`);
 - - O nome do banco de dados (usado no `CREATE DATABASE`).
 
 ## Instalação do _Entity Framework Core .NET Command-line Tools_
@@ -28,7 +28,7 @@ dotnet tool update --global dotnet-ef
 
 Crie o seu projeto normalmente, usando o template desejado:
 - `dotnet new console` para projetos console, ou
-- `dotnet new webapi` para backend web.
+- `dotnet new web` para backend web.
 
 ## Instalando as dependências
 

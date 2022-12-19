@@ -95,7 +95,7 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 - [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md)
 - [📖 Bibliotecas e testes automatizados](content/bibliotecas-testes.md)
-- [📺](https://youtu.be/k_pH9sWxyTc) [📖 Publicação e distribuição](content/publish_dist.md)
+- [📺](https://youtu.be/k_pH9sWxyTc) [📖 Publicação e distribuição](content/publish_dist.md) ✔
 - [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md)
 - [📺](https://youtu.be/HtVJc_7FzYs) [📖 Exceções](content/exceptions.md)
 - [📺](https://youtu.be/r6EllahDrEQ) [📖 Classes](content/classes.md)
@@ -172,8 +172,8 @@ Turma 1I3 da Etec Adolpho Berezin, segundo semestre de 2022:
 | 18/11/2022✔   | [Laços](#-laços)✔                                             | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)                                                                                                                                                                                                                                                                                                                      | [Lista](exercises/lacos.md)                                 |
 | 25/11/2022✔   | [Laços](#-laços)✔                                              | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)                                                                                                                                                                                                                                                                                                                      | [Lista](exercises/lacos.md)                                 |
 | 02/12/2022✔   | Projeto final✔                                                 |                                                                                                                                                                                                                                                                                                                                                                                   | [Projetos](exercises/projetos.md)                 |
-| 09/12/2022   | _Atividade assíncrona no Teams (Brasil na Copa do Mundo)_                                                 |                                                                                                                                                                                                                                                                                                                                                                                   |                  |
-| 16/12/2022   | Conclusão                                                     |
+| 09/12/2022✔   | _Atividade assíncrona no Teams (Brasil na Copa do Mundo)_ ✔                                                 |                                                                                                                                                                                                                                                                                                                                                                                   |                  |
+| 16/12/2022✔   | Conclusão✔                                                     |
 
 [Plano de curso](http://eteab.com.br/cms/wp-content/uploads/2020/02/Inform%C3%A1tica-353_CS-1.pdf)
 

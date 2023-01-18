@@ -104,8 +104,8 @@ Comando | Descrição
 `git tag <descricao> -m "comentários"` | Cria uma versão nomeada do código no commit atual, com comentários.
 `git checkout -- <arquivo>` | Desfaz as alterações locais desde o último commit.
 `git push origin --tags` | Envia as tags criadas para o repositório remoto.
-`git clean -nd` | Lista todos os arquivos e diretórios que não fazem parte do versionamento.
-`git clean -fd` | Exclui todos os arquivos e diretórios que não fazem parte do versionamento.
+`git clean -ndx` | Lista todos os arquivos e diretórios que não fazem parte do versionamento.
+`git clean -fdx` | Exclui todos os arquivos e diretórios que não fazem parte do versionamento.
 `git stash` | Adiciona as alterações na área de _stash_.
 `git stash list` | Lista áreas de _stash_.
 `git stash pop` | Recupera as alterações da área de _stash_.

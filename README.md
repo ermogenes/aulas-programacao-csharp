@@ -119,6 +119,7 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [✏ Sintaxe Básica e Exibição de Texto](exercises/Dev%20C%23%20-%2003%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Sintaxe%20B%C3%A1sica%20e%20Exibi%C3%A7%C3%A3o%20de%20Texto.pdf)
 - [✏ Opções para Saída em Console](exercises/Dev%20C%23%20-%2004%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Op%C3%A7%C3%B5es%20para%20Sa%C3%ADda%20em%20Console.pdf)
 - [Entrada de dados e Strings](exercises/entrada-strings.md)
+- [✏ Entrada via teclado em Console](https://github.com/ermogenes/aulas-programacao-csharp/raw/master/exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf)
 - [Números e Operadores](exercises/numeros-operadores.md)
 - [Datas](exercises/datas.md)
 - [Pacotes](exercises/pacotes.md)

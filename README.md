@@ -112,8 +112,8 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 
 <!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 
-- [🤯 Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
-- [✏ Comandos de Terminal](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf)
+- [🤯 Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) ✔
+- [✏ Comandos de Terminal](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf) ✔
 - [✏ C# com Git e GitHub](exercises/Dev%20C%23%20-%2002%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20C%23%20com%20Git%20e%20GitHub.pdf)
 - [⌨ Saída em console](exercises/saida.md)
 - [✏ Sintaxe Básica e Exibição de Texto](exercises/Dev%20C%23%20-%2003%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Sintaxe%20B%C3%A1sica%20e%20Exibi%C3%A7%C3%A3o%20de%20Texto.pdf)
@@ -121,13 +121,13 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [⌨ Entrada de dados e Strings](exercises/entrada-strings.md)
 - [✏ Entrada via teclado em Console](https://github.com/ermogenes/aulas-programacao-csharp/raw/master/exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf)
 - [⌨ Números e Operadores](exercises/numeros-operadores.md)
-- [⌨ Datas](exercises/datas.md)
-- [⌨ Pacotes](exercises/pacotes.md)
+- [⌨ Datas](exercises/datas.md) 🎁
+- [⌨ Pacotes](exercises/pacotes.md) 🎁
 - [⌨ Decisão e operações lógicas](exercises/decisao-simples.md)
 - [⌨ Sub-rotinas](exercises/sub-rotinas.md)
 - [⌨ Laços](exercises/lacos.md)
-- [⌨ Arranjos](exercises/arranjos.md)
-- [⌨ Classes e Listas](exercises/classes-listas.md)
+- [⌨ Arranjos](exercises/arranjos.md) 🎁
+- [⌨ Classes e Listas](exercises/classes-listas.md) 🎁
 - [🚀 Projetos práticos](exercises/projetos.md)
 
 [🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)
@@ -156,9 +156,9 @@ Turma 1I3 da Etec Adolpho Berezin, primeiro semestre de 2023:
 
 | Data       | Conteúdo previsto                                             | Material de apoio                                                                                                                                                                                                                                                                                                                                                                    | Exercícios                               |
 | ---------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
-| 03/02/2023✔ | _Recepção aos ingressantes_ ✔                                 |
-| 10/02/2023✔ | [Apresentação✔ e introdução](#-introdução)                   | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)                                                                |
-| 17/02/2023 | [Primeiros passos](#-primeiros-passos)                        | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md)<br>[📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Lista](exercises/saida.md)              |
+| 03/02/2023✔ | _Recepção aos ingressantes_ ✔                                |
+| 10/02/2023✔ | [Apresentação e introdução](#-introdução)✔                   | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)                                                                |
+| 17/02/2023✔ | [Primeiros passos](#-primeiros-passos)✔                      | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md)<br>[📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Lista](exercises/saida.md), [Fixação](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf)              |
 | 24/02/2023 | [Saída em console](#-conceitos-básicos)                       | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md)                                                                                                                                                                                                                                                       | [Lista](exercises/saida.md)              |
 | 03/03/2023 | [Saída em console](#-conceitos-básicos)                       | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md)                                                                                                                                                                                                                                                       | [Lista](exercises/saida.md)              |
 | 10/03/2023 | [Entrada via teclado](#-conceitos-básicos)                    | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md)                                                                                                                                                                                                                                                       | [Lista](exercises/entrada-strings.md)    |

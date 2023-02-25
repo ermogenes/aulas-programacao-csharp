@@ -58,6 +58,7 @@
 - [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) ✔
 - [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) ✔
 - [📖 GitHub em computadores compartilhados](content/github-login.md) ✔
+- [📖 _Cola_ do processo para criação de repo com programa C#](https://gist.github.com/ermogenes/82101c7f19f0901457da67791dd1ea12) ✔
 
 ### 📌 Conceitos básicos
 

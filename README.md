@@ -123,11 +123,11 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [✏ Entrada via teclado em Console](exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf)
 - [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf)
 - [⌨ Números e Operadores](exercises/numeros-operadores.md)
-- [⌨ Datas](exercises/datas.md) 🎁
-- [⌨ Pacotes](exercises/pacotes.md) 🎁
 - [⌨ Decisão e operações lógicas](exercises/decisao-simples.md)
 - [⌨ Sub-rotinas](exercises/sub-rotinas.md)
 - [⌨ Laços](exercises/lacos.md)
+- [⌨ Datas](exercises/datas.md) 🎁
+- [⌨ Pacotes](exercises/pacotes.md) 🎁
 - [⌨ Arranjos](exercises/arranjos.md) 🎁
 - [⌨ Classes e Listas](exercises/classes-listas.md) 🎁
 - [🚀 Projetos práticos](exercises/projetos.md)

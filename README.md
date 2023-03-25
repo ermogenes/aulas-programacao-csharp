@@ -142,7 +142,7 @@ Lista | Prazo | Ações
 --- | --- | ---
 Saída em console | 19/03/2023 | [Entregar](https://forms.office.com/r/dmengHtmkJ)
 Entrada de dados e Strings | 02/04/2023 | [Entregar](https://forms.office.com/r/7aeyY95vMK)
-Números e Operadores - Parte 01 | 19/03/2023 | [Entregar](https://forms.office.com/r/JEQLbh8LQ3)
+Números e Operadores - Parte 01 | 02/04/2023 | [Entregar](https://forms.office.com/r/JEQLbh8LQ3)
 
 <!-- ✔ Soluções comentadas
 

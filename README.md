@@ -74,7 +74,7 @@
 
 ### 🚦 Decisão
 
-- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
+- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
 - [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
 - [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1)
 - [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
@@ -123,7 +123,7 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [✏ Entrada via teclado em Console](exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf) ✔
 - [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf) ✔
 - [⌨ Números e Operadores](exercises/numeros-operadores.md) ✔
-- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md)
+- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md) ✔
 - [⌨ Sub-rotinas](exercises/sub-rotinas.md)
 - [⌨ Laços](exercises/lacos.md)
 - [⌨ Datas](exercises/datas.md) 🎁
@@ -143,6 +143,8 @@ Lista | Prazo | Ações
 Saída em console | 19/03/2023 | [Entregar](https://forms.office.com/r/dmengHtmkJ)
 Entrada de dados e Strings | 02/04/2023 | [Entregar](https://forms.office.com/r/7aeyY95vMK)
 Números e Operadores - Parte 01 | 02/04/2023 | [Entregar](https://forms.office.com/r/JEQLbh8LQ3)
+Números e Operadores - Parte 02 | 30/04/2023 | [Entregar](https://forms.office.com/r/GK1wG8pL15)
+Decisão e operações lógicas - Parte 01 | 07/05/2023 | [Entregar](https://forms.office.com/r/JDE0DhinxE)
 
 <!-- ✔ Soluções comentadas
 
@@ -178,9 +180,9 @@ Turma 1I3 da Etec Adolpho Berezin, primeiro semestre de 2023:
 | 24/03/2023✔  | [Variáveis, constantes e tipos de dados](#-conceitos-básicos)✔ | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md)                                                                                                                                                                                                                                                             | [Lista](exercises/entrada-strings.md)                                                                                                                   |
 | 31/03/2023✔  | [Números e operações](#-conceitos-básicos)✔                    | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
 | 07/04/2023✔  | _Feriado - Paixão de Cristo_ ✔                                 |
-| 14/04/2023  | [Números e operações](#-conceitos-básicos)✔                    | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
+| 14/04/2023✔  | [Números e operações](#-conceitos-básicos)✔                    | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
 | 21/04/2023  | _Feriado - Tiradentes_                                        |
-| 28/04/2023  | [Decisão](#-decisão)                                          | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
+| 28/04/2023  | [Decisão](#-decisão)✔                                          | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
 | 05/05/2023  | _Conectando Ideias, Roteando Conhecimento_                    |
 | 12/05/2023  | [Decisão](#-decisão)                                          | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
 | 19/05/2023  | [Sub-rotinas](#-sub-rotinas)                                  | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md)                                                                                                                                                                                                                                                                                                                      | [Lista](exercises/sub-rotinas.md)                                                                                                                       |

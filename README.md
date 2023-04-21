@@ -138,13 +138,15 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 
 Clique no _link_ *Entregar*, entre com seu e-mail institucional e siga as instruções.
 
-Lista | Prazo | Ações
---- | --- | ---
-Saída em console | 19/03/2023 | [Entregar](https://forms.office.com/r/dmengHtmkJ)
-Entrada de dados e Strings | 02/04/2023 | [Entregar](https://forms.office.com/r/7aeyY95vMK)
-Números e Operadores - Parte 01 | 02/04/2023 | [Entregar](https://forms.office.com/r/JEQLbh8LQ3)
-Números e Operadores - Parte 02 | 30/04/2023 | [Entregar](https://forms.office.com/r/GK1wG8pL15)
-Decisão e operações lógicas - Parte 01 | 07/05/2023 | [Entregar](https://forms.office.com/r/JDE0DhinxE)
+Lista | Exercícios | Prazo | Ações
+--- | --- | --- | ---
+Saída em console | [EtecAb](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-etecab), [FrutasPreferidas](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-frutaspreferidas), [Pastorzinho](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-pastorzinho) | 19/03/2023 | [Entregar](https://forms.office.com/r/dmengHtmkJ)
+Entrada de dados e Strings | [NomeCompleto](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#Exerc%C3%ADcio-NomeCompleto), [ImitandoDory](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-imitandodory), [PetHotel](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-pethotel) | 02/04/2023 | [Entregar](https://forms.office.com/r/7aeyY95vMK)
+Números e Operadores - Parte 01 | [Troco](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-troco), [DecomposicaoDecimal](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-decomposicaodecimal) | 02/04/2023 | [Entregar](https://forms.office.com/r/JEQLbh8LQ3)
+Números e Operadores - Parte 02 | [Churrasco](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-churrasco), [RolagemDeDado](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-rolagemdedado) | 30/04/2023 | [Entregar](https://forms.office.com/r/GK1wG8pL15)
+Decisão e operações lógicas - Parte 01 | [Media4Notas](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-Media4Notas), [FluxogramaDaEngenharia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-fluxogramadaengenharia), [Multiplo](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-multiplo) | 07/05/2023 | [Entregar](https://forms.office.com/r/JDE0DhinxE)
+Decisão e operações lógicas - Parte 02 | [Quadrante](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-Quadrante), [DiabetesGestacional](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-DiabetesGestacional), [LuzDeAdvertencia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-LuzDeAdvertencia) | 21/05/2023 | [Entregar](https://forms.office.com/r/g3s5t6cFPY)
+
 
 <!-- ✔ Soluções comentadas
 

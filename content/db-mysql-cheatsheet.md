@@ -4,7 +4,7 @@ Crie seu banco de dados normalmente. Anote as seguintes informações:
 
 - Endereço do servidor (se for seu computador local, é `localhost`);
 - Porta do servidor (a padrão é `3306`);
-- As credenciais de acesso: usuário e senha (na Etec usa-se por padrão usuário `root` e senha `admin`);
+- As credenciais de acesso: usuário e senha (na Etec usa-se por padrão usuário `root` e senha `root`);
 - - O nome do banco de dados (usado no `CREATE DATABASE`).
 
 ## Instalação do _Entity Framework Core .NET Command-line Tools_

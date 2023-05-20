@@ -85,7 +85,7 @@
 
 ### 🎀 Laços
 
-- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
+- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) ✔
 - [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1)
 
 ### 🎁 Tópicos adicionais
@@ -94,7 +94,7 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 
 - [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
 - [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
-- [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md)
+- [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md) ✔
 - [📖 Bibliotecas e testes automatizados](content/bibliotecas-testes.md)
 - [📺](https://youtu.be/k_pH9sWxyTc) [📖 Publicação e distribuição](content/publish_dist.md)
 - [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md)

@@ -125,7 +125,7 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [⌨ Números e Operadores](exercises/numeros-operadores.md) ✔
 - [⌨ Decisão e operações lógicas](exercises/decisao-simples.md) ✔
 - [⌨ Sub-rotinas](exercises/sub-rotinas.md) ✔
-- [⌨ Laços](exercises/lacos.md)
+- [⌨ Laços](exercises/lacos.md) ✔
 - [⌨ Datas](exercises/datas.md) 🎁
 - [⌨ Pacotes](exercises/pacotes.md) 🎁
 - [⌨ Arranjos](exercises/arranjos.md) 🎁

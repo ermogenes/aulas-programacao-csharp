@@ -148,6 +148,7 @@ Decisão e operações lógicas - Parte 01 | [Media4Notas](https://github.com/er
 Decisão e operações lógicas - Parte 02 | [Quadrante](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-Quadrante), [DiabetesGestacional](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-DiabetesGestacional), [LuzDeAdvertencia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-LuzDeAdvertencia) | 21/05/2023 | [Entregar](https://forms.office.com/r/g3s5t6cFPY)
 Sub-rotinas | [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina) | 04/06/2023 | [Entregar](https://forms.office.com/r/eRidnwMQ9u)
 Laços | [Tabuada](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#Exerc%C3%ADcio-Tabuada), [EntradaValida](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-entradavalida), [QuenteFrio](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-quentefrio) | Aguarde | Aguarde
+Projeto final | [Projeto](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/projetos.md) | Aguarde | Aguarde
 
 
 <!-- ✔ Soluções comentadas

@@ -42,12 +42,14 @@
 ## 🌎 Links úteis
 
 * [🌍 git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [🌍 Become a git guru - Atlassian](https://www.atlassian.com/git/tutorials)
 * [🌍 Uma Referência Visual do Git](http://marklodato.github.io/visual-git-guide/index-pt.html)
 * [🌍 Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf)
 * [🌍 Git Supervisual Cheatsheet](https://github.com/mattharrison/Git-Supervisual-Cheatsheet/blob/master/gitcheat.png)
 * [🌍 Git data transport commands](https://www.patrickzahnd.ch/uploads/git-transport-v1.png)
 * [📺 Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
-* 
+* [🎮 Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
+  
 ## 🏆 Top linguagens
 
 * [🌍 IEEE Spectrum](https://spectrum.ieee.org/top-programming-languages/)

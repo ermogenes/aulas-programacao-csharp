@@ -147,9 +147,9 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 | Sub-rotinas                 | [HorasExtras](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-horasextras), [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina)                                                                                                                                                                | 12/11/2023 | [Entregar](https://forms.office.com/r/2N7fUq1KVx) |
 | Laços                       | [MediaDecimal](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#Exerc%C3%ADcio-MediaDecimal), [EntradaValida](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-entradavalida), [EuSouGroot](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-eusougroot)                                                  | 26/11/2023 | [Entregar](https://forms.office.com/r/kQnGb8p9iv) |
 
----
-
 _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
+
+---
 
 ## 🗓 Calendário
 

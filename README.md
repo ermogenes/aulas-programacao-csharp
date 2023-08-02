@@ -44,48 +44,48 @@
 
 ### 👔 Introdução
 
-- [📷 (Algumas) Áreas da TI](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) ✔
-- [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) ✔
-- [📺](https://youtu.be/N_LsPQGtVCI) Apresentação ✔
-- [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md) ✔
+- [📷 (Algumas) Áreas da TI](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing)
+- [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing)
+- [📺](https://youtu.be/N_LsPQGtVCI) Apresentação
+- [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md)
 
 ### 🐢 Primeiros passos
 
-- [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md) ✔
-- [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode.md) ✔
-- [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md) ✔
-- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md) ✔
-- [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) ✔
-- [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) ✔
-- [📖 GitHub em computadores compartilhados](content/github-login.md) ✔
-- [📖 _Cola_ do processo para criação de repo com programa C#](content/cola-c%23-git-github.md) ✔
+- [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md)
+- [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode.md)
+- [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md)
+- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md)
+- [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md)
+- [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md)
+- [📖 GitHub em computadores compartilhados](content/github-login.md)
+- [📖 _Cola_ do processo para criação de repo com programa C#](content/cola-c%23-git-github.md)
 
 ### 📌 Conceitos básicos
 
-- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✔
-- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✔
-- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
-- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
+- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md)
+- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md)
+- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
+- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
 - [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1)
-- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✔
-- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) ✔
-- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✔
+- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
+- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
+- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
 - [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1)
 
 ### 🚦 Decisão
 
-- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
-- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
+- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
+- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
 - [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1)
-- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) ✔
+- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎛 Sub-rotinas
 
-- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) ✔
+- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
 
 ### 🎀 Laços
 
-- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) ✔
+- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
 - [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1)
 
 ### 🎁 Tópicos adicionais
@@ -94,7 +94,7 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 
 - [📺](https://youtu.be/KT5B9WSjehc) [📖 Datas](content/datas.md)
 - [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
-- [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md) ✔
+- [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md)
 - [📖 Bibliotecas e testes automatizados](content/bibliotecas-testes.md)
 - [📺](https://youtu.be/k_pH9sWxyTc) [📖 Publicação e distribuição](content/publish_dist.md)
 - [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md)
@@ -113,60 +113,43 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 
 <!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 
-- [🤯 Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) ✔
-- [✏ Comandos de Terminal](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf) ✔
-- [✏ C# com Git e GitHub](exercises/Dev%20C%23%20-%2002%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20C%23%20com%20Git%20e%20GitHub.pdf) ✔
-- [⌨ Saída em console](exercises/saida.md) ✔
-- [✏ Sintaxe Básica e Exibição de Texto](exercises/Dev%20C%23%20-%2003%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Sintaxe%20B%C3%A1sica%20e%20Exibi%C3%A7%C3%A3o%20de%20Texto.pdf) ✔
-- [✏ Opções para Saída em Console](exercises/Dev%20C%23%20-%2004%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Op%C3%A7%C3%B5es%20para%20Sa%C3%ADda%20em%20Console.pdf) ✔
-- [⌨ Entrada de dados e Strings](exercises/entrada-strings.md) ✔
-- [✏ Entrada via teclado em Console](exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf) ✔
-- [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf) ✔
-- [⌨ Números e Operadores](exercises/numeros-operadores.md) ✔
-- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md) ✔
-- [⌨ Sub-rotinas](exercises/sub-rotinas.md) ✔
-- [⌨ Laços](exercises/lacos.md) ✔
+- [🤯 Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
+- [✏ Comandos de Terminal](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf)
+- [✏ C# com Git e GitHub](exercises/Dev%20C%23%20-%2002%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20C%23%20com%20Git%20e%20GitHub.pdf)
+- [⌨ Saída em console](exercises/saida.md)
+- [✏ Sintaxe Básica e Exibição de Texto](exercises/Dev%20C%23%20-%2003%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Sintaxe%20B%C3%A1sica%20e%20Exibi%C3%A7%C3%A3o%20de%20Texto.pdf)
+- [✏ Opções para Saída em Console](exercises/Dev%20C%23%20-%2004%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Op%C3%A7%C3%B5es%20para%20Sa%C3%ADda%20em%20Console.pdf)
+- [⌨ Entrada de dados e Strings](exercises/entrada-strings.md)
+- [✏ Entrada via teclado em Console](exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf)
+- [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf)
+- [⌨ Números e Operadores](exercises/numeros-operadores.md)
+- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md)
+- [⌨ Sub-rotinas](exercises/sub-rotinas.md)
+- [⌨ Laços](exercises/lacos.md)
 - [⌨ Datas](exercises/datas.md) 🎁
 - [⌨ Pacotes](exercises/pacotes.md) 🎁
 - [⌨ Arranjos](exercises/arranjos.md) 🎁
 - [⌨ Classes e Listas](exercises/classes-listas.md) 🎁
-- [🚀 Projetos práticos](exercises/projetos.md) ✔
+- [🚀 Projetos práticos](exercises/projetos.md)
 
 [🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)
 
-### Entregas para alunos da Etec (1I3 - 2023-1)
+### Entregas para alunos da Etec (1I3 - 2023-2)
 
 Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instruções.
 
-| Lista                                  | Exercícios                                                                                                                                                                                                                                                                                                                                                                                                                                         | Prazo      | Ações                                             |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------- |
-| Saída em console                       | [EtecAB](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-etecab), [FrutasPreferidas](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-frutaspreferidas), [Pastorzinho](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-pastorzinho)                                                     | 19/03/2023 | [Entregar](https://forms.office.com/r/dmengHtmkJ) |
-| Entrada de dados e Strings             | [NomeCompleto](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#Exerc%C3%ADcio-NomeCompleto), [ImitandoDory](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-imitandodory), [PetHotel](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-pethotel)                         | 02/04/2023 | [Entregar](https://forms.office.com/r/7aeyY95vMK) |
-| Números e Operadores - Parte 01        | [Troco](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-troco), [DecomposicaoDecimal](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-decomposicaodecimal)                                                                                                                                                       | 02/04/2023 | [Entregar](https://forms.office.com/r/JEQLbh8LQ3) |
-| Números e Operadores - Parte 02        | [Churrasco](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-churrasco), [RolagemDeDado](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-rolagemdedado)                                                                                                                                                           | 30/04/2023 | [Entregar](https://forms.office.com/r/GK1wG8pL15) |
-| Decisão e operações lógicas - Parte 01 | [Media4Notas](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-Media4Notas), [FluxogramaDaEngenharia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-fluxogramadaengenharia), [Multiplo](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-multiplo)       | 07/05/2023 | [Entregar](https://forms.office.com/r/JDE0DhinxE) |
-| Decisão e operações lógicas - Parte 02 | [Quadrante](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-Quadrante), [DiabetesGestacional](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-DiabetesGestacional), [LuzDeAdvertencia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-LuzDeAdvertencia) | 21/05/2023 | [Entregar](https://forms.office.com/r/g3s5t6cFPY) |
-| Sub-rotinas                            | [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina)                                                                                                                                                                                                                                                                                                     | 04/06/2023 | [Entregar](https://forms.office.com/r/eRidnwMQ9u) |
-| Laços                                  | [Tabuada](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#Exerc%C3%ADcio-Tabuada), [EntradaValida](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-entradavalida), [QuenteFrio](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-quentefrio)                                                           | 11/06/2023 | [Entregar](https://forms.office.com/r/sqzKxERA58) |
-| Projeto final                          | [Projetos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/projetos.md)                                                                                                                                                                                                                                                                                                                                                | 25/06/2023 | [Entregar](https://forms.office.com/r/q9hwcsQVjk) |
-
-<!-- ✔ Soluções comentadas
-
-- Prof. Ermogenes
-  - [📺 Exercício: AnaliseCredito](https://youtu.be/RCYFPGAEdPA)
-- Prof. Neri
-  - [📺 Exercício comentado - AsciiArt / Problemas com o Terminal do VS Code](https://youtu.be/FhIssxfdyx8)
-  - [📺 Exercício comentado - MemeToNervoso / Uso do repl.it](https://youtu.be/eE9xymvPlj8)
-  - [📺 Exercício comentado - Produto2Numeros](https://youtu.be/aOaraq0G1oA)
-  - [📺 Exercício comentado - Divisão](https://youtu.be/YQ9ODnGxpzY)
-  - [📺 Exercício comentado - PesoIdeal](https://youtu.be/nBMdtEtTMUU)
-  - [📺 Exercício comentado - Patinhos](https://youtu.be/qXTz9jKq_gc)
-  - [📺 Revisão de exercícios - Decisão Simples](https://youtu.be/RIvcPJWifDI)
-  - [📺 Exercício comentado - MediaDecimal](https://youtu.be/vdSU77xCrcA)
-
-Alguns dos códigos estão disponíveis [aqui](https://github.com/exercicios-aulas-programacao-c-sharp). -->
+| Lista                       | Exercícios                                                                                                                                                                                                                                                                                                                                                                                                                                          | Prazo      | Ações                                             |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------- |
+| Saída em console            | [EtecAB](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-etecab), [Haikai](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-haikai), [Pastorzinho](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-pastorzinho)                                                                          | 13/08/2023 | [Entregar](https://forms.office.com/r/CLeBJPr93j) |
+| Entrada de dados e Strings  | [NomeCompleto](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#Exerc%C3%ADcio-NomeCompleto), [TrocaVariaveis](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-trocavariaveis), [PetHotel](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-pethotel)                      | 10/09/2023 | [Entregar](https://forms.office.com/r/0fmyvvR8ht) |
+| Números e Operadores        | [DecomposicaoDecimal](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-decomposicaodecimal), [CustoEnergia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-custoenergia), [Churrasco](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-churrasco) | 24/09/2023 | [Entregar](https://forms.office.com/r/tAKn2MVTc4) |
+| Decisão e operações lógicas | [Media4Notas](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-Media4Notas), [Multiplo](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-multiplo), [Quadrante](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#Exerc%C3%ADcio-Quadrante)                                  | 29/10/2023 | [Entregar](https://forms.office.com/r/iyW3S1bu2H) |
+| Sub-rotinas                 | [HorasExtras](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-horasextras), [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina)                                                                                                                                                                | 12/11/2023 | [Entregar](https://forms.office.com/r/kQnGb8p9iv) |
+| Laços                       | [MediaDecimal](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#Exerc%C3%ADcio-MediaDecimal), [EntradaValida](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-entradavalida), [EuSouGroot](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-eusougroot)                                                  | 26/11/2023 | _Em breve_                                        |
 
 ---
+
+_Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
 
 ## 🗓 Calendário
 

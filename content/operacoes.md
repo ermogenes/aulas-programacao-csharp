@@ -30,7 +30,7 @@ Operador | Descrição | Exemplo | Resultado
 `-` | Subtração | `2 - 5` | `-3`
 `*` | Multiplicação | `3 * 4` | `12`
 `/` | Divisão | `7 / 2` | `3`
-`%` | Resto da divisão | `7 / 2` | `1`
+`%` | Resto da divisão | `7 % 2` | `1`
 
 Os operadores `/` e `%` utilizam divisão inteira ou real conforme os valores de entrada.
 

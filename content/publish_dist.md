@@ -69,6 +69,60 @@ Ficará assim:
 
 Você pode divulgar somente o link do seu site, sem que a pessoa precise conhecer o GitHub.
 
+## Integração Contínua
+
+Você também pode usar uma ação de integração contínua do GitHub para publicação automática.
+
+Exemplo:
+
+Crie um arquivo em `.github\workflows\dotnet.yml` com o seguinte conteúdo:
+
+```yaml
+name: .NET
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+permissions: write-all
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Get files
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 6.0.x
+
+    - name: Restore
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --no-restore -o /home/runner/work/output
+      
+    - name: Zip
+      run: cd /home/runner/work/output/ && zip ${{ github.event.repository.name }}.zip *.dll
+
+    - name: Release
+      uses: "marvinpinto/action-automatic-releases@latest"
+      with:
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        automatic_release_tag: "latest"
+        prerelease: false
+        files: |
+          /home/runner/work/output/*.zip
+```
+
+A cada commit, um arquivo `.zip` será disponibilizado na seção _Releases_ do seu repositório.
+
 ## Projeto criado na vídeo-aula
 
 https://ermogenes.github.io/ObrigadoDevCSharp/

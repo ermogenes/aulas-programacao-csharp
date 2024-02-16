@@ -215,9 +215,14 @@ Para criar seu ambiente de trabalho, baixe as ferramentas e instale em seu compu
 
 [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Passo-a-passo para a criação do ambiente](content/ambiente.md)
 
-Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você deve utilizar as mais recentes disponíveis.
+_Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você deve utilizar as mais recentes disponíveis._
 
 [Dicas para personalizar seu ambiente](https://gist.github.com/ermogenes/106c79087327feda8227b79a7c284512)
+
+Apps do GitHub no celular:
+
+- [Google Play](https://play.google.com/store/apps/details?id=com.github.android)
+- [Apple App Store](https://apps.apple.com/us/app/github/id1477376905)
 
 📲 _Opções SOMENTE para quem não tem computador:_
 

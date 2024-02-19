@@ -5,7 +5,7 @@
 ---
 > Let's face it, bad things happen. Networks partition, servers crash, remote endpoints become non-responsive. And when bad things happen, exceptions get thrown. And when exceptions get thrown, people die. Okay, maybe that's a bit dramatic, but the point is, exceptions are a fact of software development.
 
-[Fonte: MassTransit docs](https://masstransit.io/documentation/concepts/exceptions)
+[Chris Patterson, MassTransit docs](https://masstransit.io/documentation/concepts/exceptions)
 
 ---
 O .NET Core trata situações inesperadas dentro de um programa através do seu mecanismo de exceções. Segundo a [documentação](https://docs.microsoft.com/pt-br/dotnet/standard/exceptions/), uma exceção é "_qualquer condição de erro ou comportamento inesperado encontrado por um programa em execução_", ou seja, erros que não podem ser pegos pelo compilador já que só ocorrem com o programa em execução.

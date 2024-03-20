@@ -38,6 +38,7 @@
 * [🌍 Teach Yourself Programming in Ten Years, by Peter Norvig](https://norvig.com/21-days.html)
 * [🎥 Como é ser um desenvolvedor full stack? (Guia 2021 Completo) - Código Fonte TV](https://youtu.be/Vk50Bvk9ojg)
 * [🌍 Test Doubles](https://medium.com/rd-shipit/test-doubles-mocks-stubs-fakes-spies-e-dummies-a5cdafcd0daf)
+* [🌍 Guias de código aberto](https://opensource.guide/pt/)
 
 ## 🌎 Links úteis
 

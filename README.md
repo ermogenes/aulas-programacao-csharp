@@ -75,8 +75,8 @@
 ### 🚦 Decisão
 
 - [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
-- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
-- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1)
+- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
+- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
 - [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎛 Sub-rotinas

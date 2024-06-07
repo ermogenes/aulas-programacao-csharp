@@ -146,7 +146,7 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 | Decisão e operações lógicas ✔ | [DiabetesGestacional](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-diabetesgestacional), [PescaAmadora](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-pescaamadora)   | 12/05/2024 | [Entregar](https://forms.office.com/r/fvLhT62jx0) |
 | Sub-rotinas ✔                 | [RaioETrovao](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-raioetrovao), [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina)                   | 02/06/2024 | [Entregar](https://forms.office.com/r/U2JYCHXsCN) |
 | Laços ✔                       | [EntradaValida](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-entradavalida), [QuenteFrio](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-quentefrio)                                       | 23/06/2024 | [Entregar](https://forms.office.com/r/w6DtnxWzHU) |
-
+| Projeto Final ✔                       | [🚀 Projetos práticos](exercises/projetos.md) | 23/06/2024 | [Entregar](https://forms.office.com/r/ZE5GArNTwE) |
 _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
 
 ---

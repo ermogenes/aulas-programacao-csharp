@@ -38,7 +38,7 @@
 
 ## Conteúdo
 
-**Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \|  já estudado neste semestre \| 🔥 novo
+**Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \| ✔ já estudado neste semestre \| 🔥 novo
 
 <!-- **Para alunos presenciais:** ✔ já estudado | 👁‍🗨 semana atual | 🔥 adicionado recentemente | 🎁 extra -->
 

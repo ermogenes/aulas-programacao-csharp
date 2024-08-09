@@ -20,7 +20,7 @@
 
 ## Site de apoio - Programação de Computadores I
 
-[Etec Adolpho Berezin](http://eteab.com.br/)
+[Etec Adolpho Berezin](https://etecab.cps.sp.gov.br/)
 
 <!-- Após a conclusão deste curso, considere fazer o [Dev Web](https://github.com/ermogenes/aulas-programacao-web).
 
@@ -38,7 +38,7 @@
 
 ## Conteúdo
 
-**Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \| ✔ já estudado neste semestre \| 🔥 novo
+**Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \|  já estudado neste semestre \| 🔥 novo
 
 <!-- **Para alunos presenciais:** ✔ já estudado | 👁‍🗨 semana atual | 🔥 adicionado recentemente | 🎁 extra -->
 
@@ -47,46 +47,46 @@
 - [📷 (Algumas) Áreas da TI](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) ✔
 - [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) ✔
 - [📺](https://youtu.be/N_LsPQGtVCI) Apresentação ✔
-- [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md) ✔
+- [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md)
 
 ### 🐢 Primeiros passos
 
-- [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md) ✔
-- [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode.md) ✔
-- [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md) ✔
-- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md) ✔
-- [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) ✔
-- [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) ✔
-- [📖 GitHub em computadores compartilhados](content/github-login.md) ✔
-- [📖 _Cola_ do processo para criação de repo com programa C#](content/cola-c%23-git-github.md) ✔
+- [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md) 
+- [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode.md) 
+- [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md) 
+- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md) 
+- [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) 
+- [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) 
+- [📖 GitHub em computadores compartilhados](content/github-login.md) 
+- [📖 _Cola_ do processo para criação de repo com programa C#](content/cola-c%23-git-github.md) 
 
 ### 📌 Conceitos básicos
 
-- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✔
-- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✔
-- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
-- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
-- [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
-- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✔
-- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) ✔
-- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✔
-- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
+- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) 
+- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) 
+- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) 
+- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) 
+- [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) 
+- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) 
+- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) 
+- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) 
+- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) 
 
 ### 🚦 Decisão
 
-- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
-- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
-- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
-- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) ✔
+- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) 
+- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) 
+- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) 
+- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 
 
 ### 🎛 Sub-rotinas
 
-- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) ✔
+- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) 
 
 ### 🎀 Laços
 
-- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) ✔
-- [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
+- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) 
+- [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1) 
 
 ### 🎁 Tópicos adicionais
 
@@ -113,24 +113,24 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 
 <!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 
-- [🤯 Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) ✔
-- [✏ Comandos de Terminal](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf) ✔
-- [✏ C# com Git e GitHub](exercises/Dev%20C%23%20-%2002%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20C%23%20com%20Git%20e%20GitHub.pdf) ✔
-- [⌨ Saída em console](exercises/saida.md) ✔
-- [✏ Sintaxe Básica e Exibição de Texto](exercises/Dev%20C%23%20-%2003%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Sintaxe%20B%C3%A1sica%20e%20Exibi%C3%A7%C3%A3o%20de%20Texto.pdf) ✔
-- [✏ Opções para Saída em Console](exercises/Dev%20C%23%20-%2004%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Op%C3%A7%C3%B5es%20para%20Sa%C3%ADda%20em%20Console.pdf) ✔
-- [⌨ Entrada de dados e Strings](exercises/entrada-strings.md) ✔
-- [✏ Entrada via teclado em Console](exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf) ✔
-- [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf) ✔
-- [⌨ Números e Operadores](exercises/numeros-operadores.md) ✔
-- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md) ✔
-- [⌨ Sub-rotinas](exercises/sub-rotinas.md) ✔
-- [⌨ Laços](exercises/lacos.md) ✔
+- [🤯 Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) 
+- [✏ Comandos de Terminal](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf) 
+- [✏ C# com Git e GitHub](exercises/Dev%20C%23%20-%2002%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20C%23%20com%20Git%20e%20GitHub.pdf) 
+- [⌨ Saída em console](exercises/saida.md) 
+- [✏ Sintaxe Básica e Exibição de Texto](exercises/Dev%20C%23%20-%2003%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Sintaxe%20B%C3%A1sica%20e%20Exibi%C3%A7%C3%A3o%20de%20Texto.pdf) 
+- [✏ Opções para Saída em Console](exercises/Dev%20C%23%20-%2004%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Op%C3%A7%C3%B5es%20para%20Sa%C3%ADda%20em%20Console.pdf) 
+- [⌨ Entrada de dados e Strings](exercises/entrada-strings.md) 
+- [✏ Entrada via teclado em Console](exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf) 
+- [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf) 
+- [⌨ Números e Operadores](exercises/numeros-operadores.md) 
+- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md) 
+- [⌨ Sub-rotinas](exercises/sub-rotinas.md) 
+- [⌨ Laços](exercises/lacos.md) 
 - [⌨ Datas](exercises/datas.md) 🎁
 - [⌨ Pacotes](exercises/pacotes.md) 🎁
 - [⌨ Arranjos](exercises/arranjos.md) 🎁
 - [⌨ Classes e Listas](exercises/classes-listas.md) 🎁
-- [🚀 Projetos práticos](exercises/projetos.md) ✔
+- [🚀 Projetos práticos](exercises/projetos.md) 
 
 [🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)
 
@@ -140,13 +140,13 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 
 | Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
-| Saída em console ✔            | [Musica](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-musica), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-dezsegundos)                                                   | 17/03/2024 | [Entregar](https://forms.office.com/r/70d5hZXv7n) |
-| Entrada de dados e Strings ✔  | [Soletrar](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-soletrar), [ImitandoDory](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-imitandodory)                         | 31/03/2024 | [Entregar](https://forms.office.com/r/X1gaKQBHPK) |
-| Números e Operadores ✔        | [MilhasBumerangue](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-milhasbumerangue), [RolagemDeDado](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-rolagemdedado) | 08/04/2024 | [Entregar](https://forms.office.com/r/NRdxKvefqT) |
-| Decisão e operações lógicas ✔ | [DiabetesGestacional](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-diabetesgestacional), [PescaAmadora](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-pescaamadora)   | 12/05/2024 | [Entregar](https://forms.office.com/r/fvLhT62jx0) |
-| Sub-rotinas ✔                 | [RaioETrovao](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-raioetrovao), [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina)                   | 02/06/2024 | [Entregar](https://forms.office.com/r/U2JYCHXsCN) |
-| Laços ✔                       | [EntradaValida](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-entradavalida), [QuenteFrio](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-quentefrio)                                       | 23/06/2024 | [Entregar](https://forms.office.com/r/w6DtnxWzHU) |
-| Projeto Final ✔                       | [🚀 Projetos práticos](exercises/projetos.md) | 23/06/2024 | [Entregar](https://forms.office.com/r/ZE5GArNTwE) |
+| Saída em console            | [_TBD_], [_TBD_]  | 25/08/2024 | [Entregar] |
+| Entrada de dados e Strings  | [_TBD_], [_TBD_]  | 15/09/2024 | [Entregar] |
+| Números e Operadores        | [_TBD_], [_TBD_]  | 29/09/2024 | [Entregar] |
+| Decisão e operações lógicas | [_TBD_], [_TBD_]  | 13/10/2024 | [Entregar] |
+| Sub-rotinas                 | [_TBD_], [_TBD_]  | 03/11/2024 | [Entregar] |
+| Laços                       | [_TBD_], [_TBD_]  | 24/11/2024 | [Entregar] |
+| Projeto Final               | [🚀 Projetos práticos](exercises/projetos.md) | 08/12/2024 | [Entregar](https://forms.office.com/r/ZE5GArNTwE) |
 _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
 
 ---
@@ -157,36 +157,37 @@ Turma 1I3 da Etec Adolpho Berezin, primeiro semestre de 2024:
 
 | Data       | Conteúdo previsto                                             | Material de apoio                                                                                                                                                                                                                                                                                                                                                                    | Exercícios                                                                                                                                              |
 | ---------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 09/02/2024 ✔ | [Apresentação](#-introdução) ✔                                  | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)                                                                |
-| 16/02/2024 ✔ | [Introdução - Programação e computadores](#-introdução) ✔       | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)                                                                |
-| 23/02/2024 ✔ | [Primeiros passos](#-primeiros-passos) ✔                        | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md)<br>[📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Lista](exercises/saida.md), [Fixação](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf) |
-| 01/03/2024 ✔ | [Primeiros passos](#-primeiros-passos) ✔                        | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md)<br>[📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Lista](exercises/saida.md), [Fixação](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf) |
-| 08/03/2024 ✔ | [Saída em console](#-conceitos-básicos) ✔                       | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md)                                                                                                                                                                                                                                                       | [Lista](exercises/saida.md)                                                                                                                             |
-| 15/03/2024 ✔ | [Entrada via teclado](#-conceitos-básicos) ✔                    | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md)                                                                                                                                                                                                                                                       | [Lista](exercises/entrada-strings.md)                                                                                                                   |
-| 22/03/2024 ✔ | [Variáveis, constantes e tipos de dados](#-conceitos-básicos) ✔ | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md)                                                                                                                                                                                                                                                             | [Lista](exercises/entrada-strings.md)                                                                                                                   |
-| 29/03/2024 ✔ | _Suspensão de atividades_ - Paixão de Cristo                  |
-| 05/04/2024 ✔ | [Números e operações](#-conceitos-básicos) ✔                    | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
-| 12/04/2024 ✔ | [Números e operações](#-conceitos-básicos) ✔                    | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
-| 19/04/2024 ✔ | [Decisão](#-decisão) ✔, Conselho Intermediário ✔                 | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
-| 26/04/2024 ✔ | [Decisão](#-decisão) ✔                                         | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
-| 03/05/2024 ✔ | [Decisão](#-decisão) ✔                                         | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
-| 10/05/2024 ✔ | [Sub-rotinas](#-sub-rotinas) ✔                                  | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md)                                                                                                                                                                                                                                                                                                                      | [Lista](exercises/sub-rotinas.md)                                                                                                                       |
-| 17/05/2024 ✔ | [Sub-rotinas](#-sub-rotinas) ✔                                  | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md)                                                                                                                                                                                                                                                                                                                      | [Lista](exercises/sub-rotinas.md)                                                                                                                       |
-| 24/05/2024 ✔ | [Laços](#-laços) ✔                                              | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)                                                                                                                                                                                                                                                                                                                         | [Lista](exercises/lacos.md)                                                                                                                             |
-| 31/05/2024 ✔ | _Suspensão de atividades_ - Corpus Christi (emenda)           |
-| 07/06/2024 ✔ | [Laços](#-laços) ✔                                              | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)                                                                                                                                                                                                                                                                                                                         | [Lista](exercises/lacos.md)                                                                                                                             |
-| 14/06/2024 ✔ | ~Evento _Conectando Ideias, Roteando conhecimento_~ Projeto final             |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
-| 21/06/2024 | Projeto final                                                 |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
-| 28/06/2024 | Considerações finais                                          |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
+| 09/02/2024  | [Apresentação](#-introdução)                                   | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)                                                                |
+| 02/08/2024  | [Introdução - Programação e computadores](#-introdução)        | [📷](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) [📷](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) [📺](https://youtu.be/N_LsPQGtVCI) [📺](https://youtu.be/QIK8Tt5m1v0) [📖](content/ambiente.md)                                                                |
+| 09/08/2024  | [Primeiros passos](#-primeiros-passos)                         | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md)<br>[📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Lista](exercises/saida.md), [Fixação](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf) |
+| 16/08/2024  | [Primeiros passos](#-primeiros-passos)                         | [📺](https://youtu.be/3H7huG1cEQ4) [📖](content/terminal.md) [📺](https://youtu.be/mOtSc3SbavY) [📖](content/vscode.md) [📺](https://youtu.be/WcuOWby6D9Q) [📖](content/helloworld.md)<br>[📺](https://youtu.be/8dbglVmDylU) [📖](content/github.md) [📺](https://youtu.be/3MrhMXNvLvQ) [📖](content/helloworld-git.md) [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) | [Lista](exercises/saida.md), [Fixação](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf) |
+| 23/08/2024  | [Saída em console](#-conceitos-básicos)                        | [📺](https://youtu.be/ersRRa5ymfo) [📖](content/anatomia.md) [📺](https://youtu.be/zRzLq1zzb5M) [📖](content/saida-console.md)                                                                                                                                                                                                                                                       | [Lista](exercises/saida.md)                                                                                                                             |
+| 30/08/2024  | [Entrada via teclado](#-conceitos-básicos)                     | [📺](https://youtu.be/C2CaB2-kEQo) [📖](content/entrada-teclado.md) [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md)                                                                                                                                                                                                                                                       | [Lista](exercises/entrada-strings.md)                                                                                                                   |
+| 06/09/2024  | [Variáveis, constantes e tipos de dados](#-conceitos-básicos)  | [📺](https://youtu.be/bAfoJV-jc74) [📖](content/string.md) [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md)                                                                                                                                                                                                                                                             | [Lista](exercises/entrada-strings.md)                                                                                                                   |
+| 13/09/2024  | [Números e operações](#-conceitos-básicos)                     | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
+| 20/09/2024  | [Números e operações](#-conceitos-básicos)                     | [📺](https://youtu.be/CY6DI7dN29g) [📖](content/variaveis.md) [📺](https://youtu.be/2WdAlMvExE8) [📖](content/numeros.md) [📺](https://youtu.be/rLvBeB8Qsmc) [📖](content/operacoes.md)                                                                                                                                                                                              | [Lista](exercises/numeros-operadores.md)                                                                                                                |
+| 27/09/2024  | [Decisão](#-decisão)                  | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
+| 04/10/2024  | [Decisão](#-decisão)                                          | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
+| 11/10/2024  | [Decisão](#-decisão)                                          | [📺](https://youtu.be/0HPxji8lL_M) [📖](content/if.md) [📺](https://youtu.be/70RI1a5wN78) [📖](content/logical.md) [📺](https://youtu.be/QEb9G3Hrajk) [📖](content/debug.md) [📺](https://youtu.be/t0DyqALDYgQ) [📖](content/switch.md)                                                                                                                                              | [Lista](exercises/decisao-simples.md)                                                                                                                   |
+| -  | _Conselho Intermediário_ |
+| 18/10/2024  | [Sub-rotinas](#-sub-rotinas)                                   | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md)                                                                                                                                                                                                                                                                                                                      | [Lista](exercises/sub-rotinas.md)                                                                                                                       |
+| 25/10/2024  | [Sub-rotinas](#-sub-rotinas)                                   | [📺](https://youtu.be/fIkw8BTA800) [📖](content/subroutines.md)                                                                                                                                                                                                                                                                                                                      | [Lista](exercises/sub-rotinas.md)                                                                                                                       |
+| 01/11/2024  | [Laços](#-laços)                                               | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)                                                                                                                                                                                                                                                                                                                         | [Lista](exercises/lacos.md)                                                                                                                             |
+| 08/11/2024  | [Laços](#-laços)                                               | [📺](https://youtu.be/X1Tuuci9VAo) [📖](content/while-do.md)                                                                                                                                                                                                                                                                                                                         | [Lista](exercises/lacos.md)                                                                                                                             |
+| 15/11/2024  | _Suspensão de atividades_ - Proclamação da República           |
+| 22/11/2024  | [Laços](#-laços)              |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
+| 29/11/2024 | Projeto final                                                 |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
+| 06/12/2024 | Projeto final                                                 |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
+| 13/12/2024 | Considerações finais                                          |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
 
-[Plano de curso](http://eteab.com.br/cms/wp-content/uploads/2020/02/Inform%C3%A1tica-353_CS-1.pdf)
+[Plano de curso](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/77/2024/02/Informatica-353_CS_atualizado-em-04-08-22.pdf)
 
-[Calendário Escolar 2024](https://eteab.com.br/cms/wp-content/uploads/2024/01/CALENDARIO-GERAL-2024-1.pdf)
+[Calendário Escolar 2024](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/77/2024/02/CALENDARIO-GERAL-2024-1.pdf)
 
-- Entrega de resultados intermediários: 09 a 15/04/2024
-  - Conselho intermediário: 17 a 19/04/2024
-- Entrega de resultados finais: 01 a 03/07/2024
-  - Conselho final: 04/07/2024
+- Entrega de resultados intermediários: 01 a 07/10/2024
+  - Conselho intermediário: 09 a 11/10/2024
+- Entrega de resultados finais: 13 a 17/12/2024
+  - Conselho final: 18/12/2024
 
 ---
 

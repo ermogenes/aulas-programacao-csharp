@@ -52,7 +52,7 @@
 ### 🐢 Primeiros passos
 
 - [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md) 
-- [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode.md) 
+- [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode-v2.md) 🔥
 - [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md) 
 - [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md) 
 - [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) 

@@ -140,7 +140,7 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 
 | Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
-| Saída em console            | [_TBD_], [_TBD_]  | 25/08/2024 | [Entregar] |
+| Saída em console            | [AsciiArt](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-asciiart), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-dezsegundos) | 25/08/2024 | [Entregar] |
 | Entrada de dados e Strings  | [_TBD_], [_TBD_]  | 15/09/2024 | [Entregar] |
 | Números e Operadores        | [_TBD_], [_TBD_]  | 29/09/2024 | [Entregar] |
 | Decisão e operações lógicas | [_TBD_], [_TBD_]  | 13/10/2024 | [Entregar] |

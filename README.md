@@ -140,12 +140,12 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 
 | Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
-| Saída em console            | [AsciiArt](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-asciiart), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-dezsegundos) | 25/08/2024 | [Entregar] |
-| Entrada de dados e Strings  | [_TBD_], [_TBD_]  | 15/09/2024 | [Entregar] |
-| Números e Operadores        | [_TBD_], [_TBD_]  | 29/09/2024 | [Entregar] |
-| Decisão e operações lógicas | [_TBD_], [_TBD_]  | 13/10/2024 | [Entregar] |
-| Sub-rotinas                 | [_TBD_], [_TBD_]  | 03/11/2024 | [Entregar] |
-| Laços                       | [_TBD_], [_TBD_]  | 24/11/2024 | [Entregar] |
+| Saída em console            | [AsciiArt](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-asciiart), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-dezsegundos) | 25/08/2024 | [Link em breve] |
+| Entrada de dados e Strings  | [_TBD_], [_TBD_]  | 15/09/2024 | [Link em breve] |
+| Números e Operadores        | [_TBD_], [_TBD_]  | 29/09/2024 | [Link em breve] |
+| Decisão e operações lógicas | [_TBD_], [_TBD_]  | 13/10/2024 | [Link em breve] |
+| Sub-rotinas                 | [_TBD_], [_TBD_]  | 03/11/2024 | [Link em breve] |
+| Laços                       | [_TBD_], [_TBD_]  | 24/11/2024 | [Link em breve] |
 | Projeto Final               | [🚀 Projetos práticos](exercises/projetos.md) | 08/12/2024 | [Entregar](https://forms.office.com/r/ZE5GArNTwE) |
 _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
 

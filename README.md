@@ -146,7 +146,7 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 | Decisão e operações lógicas | [_TBD_], [_TBD_]  | 13/10/2024 | [Link em breve] |
 | Sub-rotinas                 | [_TBD_], [_TBD_]  | 03/11/2024 | [Link em breve] |
 | Laços                       | [_TBD_], [_TBD_]  | 24/11/2024 | [Link em breve] |
-| Projeto Final               | [🚀 Projetos práticos](exercises/projetos.md) | 08/12/2024 | [Entregar](https://forms.office.com/r/ZE5GArNTwE) |
+| Projeto Final               | [🚀 Projetos práticos](exercises/projetos.md) | 08/12/2024 | [Link em breve] |
 _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
 
 ---

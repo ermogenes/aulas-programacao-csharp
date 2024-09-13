@@ -134,7 +134,7 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 
 [🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)
 
-### Entregas para alunos da Etec (1I3 - 2024-1)
+### Entregas para alunos da Etec (1I3 - 2024-2)
 
 Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instruções.
 

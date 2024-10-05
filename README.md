@@ -143,10 +143,10 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 | Saída em console            | [AsciiArt](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-asciiart), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-dezsegundos) | 29/09/2024 | [Entregar](https://forms.office.com/r/aJbynVXpiX) |
 | Entrada de dados e Strings  | [Leet](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-leet), [ImitandoDory](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-imitandodory)  | 29/09/2024 | [Entregar](https://forms.office.com/r/H6MkW5ruh3) |
 | Números e Operadores        | [Troco](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-troco), [FormulaDoPadeiro](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-formuladopadeiro)  | 29/09/2024 | [Entregar](https://forms.office.com/r/Yex8KLhhSn) |
-| Decisão e operações lógicas | [_TBD_], [_TBD_]  | 13/10/2024 | [Link em breve] |
-| Sub-rotinas                 | [_TBD_], [_TBD_]  | 03/11/2024 | [Link em breve] |
-| Laços                       | [_TBD_], [_TBD_]  | 24/11/2024 | [Link em breve] |
-| Projeto Final               | [🚀 Projetos práticos](exercises/projetos.md) | 08/12/2024 | [Link em breve] |
+| Decisão e operações lógicas | [DoadorSangue](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-doadorsangue), [PesoIdeal](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-pesoideal), [Bhaskara](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-bhaskara)  | 27/10/2024 | [Entregar](https://forms.office.com/r/nDpiWmxMxi) |
+| Sub-rotinas                 | [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina)  | 03/11/2024 | [Entregar](https://forms.office.com/r/UuNYZR7piu) |
+| Laços                       | [UmDoisTresPim](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-umdoistrespim), [QuenteFrio](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-quentefrio)  | 24/11/2024 | [Entregar](https://forms.office.com/r/JGXRZtVdRs) |
+| Projeto Final               | [🚀 Projetos práticos](exercises/projetos.md) | 08/12/2024 | [Entregar](https://forms.office.com/r/jQH8JA4yVm) |
 _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
 
 ---

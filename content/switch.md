@@ -39,6 +39,9 @@ switch (expressaoTeste)
     ...
     default:
         comandosTodosCasosFalsos
+        ...
+        ...
+        break;
 }
 ```
 

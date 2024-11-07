@@ -124,7 +124,7 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf) ✔
 - [⌨ Números e Operadores](exercises/numeros-operadores.md) ✔
 - [⌨ Decisão e operações lógicas](exercises/decisao-simples.md) ✔
-- [⌨ Sub-rotinas](exercises/sub-rotinas.md) 
+- [⌨ Sub-rotinas](exercises/sub-rotinas.md) ✔ 
 - [⌨ Laços](exercises/lacos.md) 
 - [⌨ Datas](exercises/datas.md) 🎁
 - [⌨ Pacotes](exercises/pacotes.md) 🎁

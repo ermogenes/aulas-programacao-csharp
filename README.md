@@ -146,7 +146,8 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 | Decisão e operações lógicas | [DoadorSangue](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-doadorsangue), [PesoIdeal](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-pesoideal), [Bhaskara](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-bhaskara)  | 27/10/2024 | [Entregar](https://forms.office.com/r/nDpiWmxMxi) |
 | Sub-rotinas ✔                | [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina)  | 08/12/2024 | [Entregar](https://forms.office.com/r/UuNYZR7piu) |
 | Laços                       | [UmDoisTresPim](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-umdoistrespim), [QuenteFrio](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-quentefrio)  | 08/12/2024 | [Entregar](https://forms.office.com/r/JGXRZtVdRs) |
-| Projeto Final               | [🚀 Projetos práticos](exercises/projetos.md) | 08/12/2024 | [Entregar](https://forms.office.com/r/jQH8JA4yVm) |
+| ~Projeto Final~ ❌               | ~[🚀 Projetos práticos](exercises/projetos.md)~ | ~08/12/2024~ | ~[Entregar](https://forms.office.com/r/jQH8JA4yVm)~ |
+
 _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
 
 ---

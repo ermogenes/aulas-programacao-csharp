@@ -136,19 +136,19 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 
 [🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)
 
-### Entregas para alunos da Etec (1I3 - 2024-2)
+### Entregas para alunos da Etec (1I3 - 2025-1)
 
 Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instruções.
 
 | Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
-| Saída em console             | [AsciiArt](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-asciiart), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-dezsegundos) | 29/09/2024 | [Entregar](https://forms.office.com/r/aJbynVXpiX) |
-| Entrada de dados e Strings   | [Leet](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-leet), [ImitandoDory](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-imitandodory)  | 29/09/2024 | [Entregar](https://forms.office.com/r/H6MkW5ruh3) |
-| Números e Operadores         | [Troco](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-troco), [FormulaDoPadeiro](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-formuladopadeiro)  | 29/09/2024 | [Entregar](https://forms.office.com/r/Yex8KLhhSn) |
-| Decisão e operações lógicas  | [DoadorSangue](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-doadorsangue), [PesoIdeal](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-pesoideal), [Bhaskara](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-bhaskara)  | 27/10/2024 | [Entregar](https://forms.office.com/r/nDpiWmxMxi) |
-| Sub-rotinas                 | [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina)  | 08/12/2024 | [Entregar](https://forms.office.com/r/UuNYZR7piu) |
-| Laços                       | [UmDoisTresPim](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-umdoistrespim), [QuenteFrio](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-quentefrio)  | 08/12/2024 | [Entregar](https://forms.office.com/r/JGXRZtVdRs) |
-| ~Projeto Final~                | ~[🚀 Projetos práticos](exercises/projetos.md)~ | ~08/12/2024~ | ~[Entregar](https://forms.office.com/r/jQH8JA4yVm)~ |
+| Saída em console             | _a definir_ | _a definir_ | _a definir_ |
+| Entrada de dados e Strings   | _a definir_ | _a definir_ | _a definir_ |
+| Números e Operadores         | _a definir_ | _a definir_ | _a definir_ |
+| Decisão e operações lógicas  | _a definir_ | _a definir_ | _a definir_ |
+| Sub-rotinas                  | _a definir_ | _a definir_ | _a definir_ |
+| Laços                        | _a definir_ | _a definir_ | _a definir_ |
+| Projeto Final                | [🚀 Projetos práticos](exercises/projetos.md) |  _a definir_ |  _a definir_ |
 
 _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
 
@@ -156,7 +156,7 @@ _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso pré
 
 ## 🗓 Calendário
 
-Turma 1I3 da Etec Adolpho Berezin, primeiro semestre de 2024:
+Turma 1I3 da Etec Adolpho Berezin, segundo semestre de 2025:
 
 | Data       | Conteúdo previsto                                             | Material de apoio                                                                                                                                                                                                                                                                                                                                                                    | Exercícios                                                                                                                                              |
 | ---------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |

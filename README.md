@@ -34,6 +34,8 @@
 - [Canal: Prof. Diego Neri](https://www.youtube.com/channel/UCDOt7T8TvMmYLKkqXGUIMHg)
 - [Playlist com todos os vídeos](https://www.youtube.com/playlist?list=PLk6PnAig6xXKg988f8Ewq1iFm4_ZH9nA5)
 
+📱 [Conscientização sobre uso de celulares nas escolas](https://www.cps.sp.gov.br/conscientizacao-sobre-uso-de-celulares-nas-escolas/)
+
 ---
 
 ## Conteúdo
@@ -181,14 +183,14 @@ Turma 1I3 da Etec Adolpho Berezin, primeiro semestre de 2024:
 | 06/12/2024 | Projeto final                                                 |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
 | 13/12/2024 | Considerações finais                                          |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
 
-[Plano de curso](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/77/2024/02/Informatica-353_CS_atualizado-em-04-08-22.pdf)
+[Plano de curso]([https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/77/2024/02/Informatica-353_CS_atualizado-em-04-08-22.pdf](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/77/2025/01/PC-Informatica.pdf))
 
-[Calendário Escolar 2024](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/77/2024/02/CALENDARIO-GERAL-2024-1.pdf)
+[Calendário Escolar 2025](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/77/2025/01/CALENDARIO-GERAL-2025.pdf)
 
-- Entrega de resultados intermediários: 01 a 07/10/2024
-  - Conselho intermediário: 09 a 11/10/2024
-- Entrega de resultados finais: 13 a 17/12/2024
-  - Conselho final: 18/12/2024
+- Entrega de resultados intermediários: 07 a 11/04/2025
+  - Conselho intermediário: 15 a 17/04/2025
+- Entrega de resultados finais: 02 a 04/07/2025
+  - Conselho final: 07/07/2025
 
 ---
 

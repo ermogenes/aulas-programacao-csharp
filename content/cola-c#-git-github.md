@@ -2,8 +2,9 @@
 
 ## Criar o repositório remoto
 
-- Criar um repositório em https://github.com/, na opção _new repository_.
-- Colocar o nome e a descrição.
+- Acessar https://github.com/ e fazer o login (_Sign In_).
+- Criar um repositório usando a opção _new repository_.
+- Colocar o nome (obrigatório) e a descrição (opcional).
 - Deixar público.
 - Adicionar o README.
 - Adicionar o `.gitignore` do tipo _VisualStudio_.
@@ -11,18 +12,21 @@
 
 Copiar o URL de clonagem na opção _Code_ > _Clone (HTTPS)_.
 
+_Obs.: Mantenha a janela do github aberta para facilitar o processo de envio das alterações locais para o github (último passo desta cola)._
+
 ## Clonar o repositório no computador local
 
-- Abra o terminal (Prompt de Comando).
-- Acesse a pasta onde você guardará seus arquivos (ex. pasta _Documents_). Use os comandos `cd` e `dir` para navegar.
+- Abra o VsCode.
+- Vá em _File_ > _ Open Folder_.
+- Acesse a pasta onde você guardará seus arquivos (ex. pasta _Documentos_). Acesse a sua pasta de trabalho (ex. `Aula PC1`). Se não existir, crie-a antes de acessar.
+- Abra o terminal integrado usando _Terminal_ > _New Terminal_ (ou <kbd>Ctrl</kbd>+<kbd>'</kbd>).
 - Faça a clonagem do repositório usando a URL copiada:
 ```
 git clone URL-COPIADA
 ```
-- Será criada uma pasta com o nome do seu repositório. Verifique usando `dir`.
-- Acesse a pasta usando `cd`.
-- Verifique se você está na pasta certa usando `git status`. Se aparecer `not a git repository` você não está na pasta certa.
-- Abra seu projeto no VsCode usando `code .`.
+- Será criada uma pasta com o nome do seu repositório.
+- Abra a pasta criada, usando _File_ > _ Open Folder_ (_Arquivo_ > _Abrir Pasta..._).
+- Verifique se você está na pasta certa usando `git status`. Se aparecer `not a git repository` você não está na pasta certa, portanto repita o item anterior.
 
 ## Configurar o git
 
@@ -37,11 +41,16 @@ git config --global user.name "Meu Nome"
 git config --global user.email "meu-email@meu-servidor.com"
 ```
 
+- Configure o acesso à rede via _proxy_ (**somente se estiver presencialmente na Etec Adolpho Berezin**):
+```
+git config --global http.proxy http://etecadolphoberezin@17.1.0.1:3128
+```
+
 ## Escreva seu programa
 
 - No VsCode, com o repositório aberto, abra um terminal usando _Terminal_ > _New Terminal_.
 - Crie um projeto C# em branco usando `dotnet new console`.
-- Faça o programa desejado e salve usando CTRL+S.
+- Faça o programa desejado e salve usando <kbd>Ctrl</kbd>+<kbd>S</kbd>.
 - Execute e teste usando `dotnet run`.
 
 ## Guardando a versão localmente
@@ -56,6 +65,6 @@ Você pode repetir esse processo quantas vezes quiser.
 ## Enviando as alterações para o repositório remoto
 
 - Envie todas as versões locais para a nuvem usando `git push`.
-- Clique em _Sign in with your browser_ na janela do GitHub que aparecer.
+- Clique em _Sign in with your browser_ na janela do GitHub que aparecer (é um botão azul).
 
 ![](lousa_20230303_215634_github.jpg)

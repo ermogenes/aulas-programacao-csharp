@@ -45,6 +45,7 @@ git config --global user.email "meu-email@meu-servidor.com"
 ```
 git config --global http.proxy http://etecadolphoberezin@17.1.0.1:3128
 ```
+O _login_ pode ser efetuado sem a necessidade de senha.
 
 ## Escreva seu programa
 

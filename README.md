@@ -142,9 +142,9 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 
 | Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
-| Saída em console             | _a definir_ | _a definir_ | _a definir_ |
-| Entrada de dados e Strings   | _a definir_ | _a definir_ | _a definir_ |
-| Números e Operadores         | _a definir_ | _a definir_ | _a definir_ |
+| Saída em console             | [Musica](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#Exerc%C3%ADcio-Musica), [Adivinha](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-adivinha) | 23/03/2025 | [Entregar](https://forms.office.com/r/561PABtkNF) |
+| Entrada de dados e Strings   | _a definir_ | 30/03/2025 | _a definir_ |
+| Números e Operadores         | _a definir_ | 06/04/2025 | _a definir_ |
 | Decisão e operações lógicas  | _a definir_ | _a definir_ | _a definir_ |
 | Sub-rotinas                  | _a definir_ | _a definir_ | _a definir_ |
 | Laços                        | _a definir_ | _a definir_ | _a definir_ |

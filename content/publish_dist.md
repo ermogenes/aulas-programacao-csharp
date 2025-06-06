@@ -69,6 +69,8 @@ Ficará assim:
 
 **Altere o arquivo `README.md` livremente. Ele será convertido para HTML e será sua _home-page_**
 
+[Dicas de Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 Você pode divulgar somente o link do seu site, sem que a pessoa precise conhecer o GitHub.
 
 ## Projeto criado na vídeo-aula

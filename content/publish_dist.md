@@ -73,6 +73,18 @@ Ficará assim:
 
 Você pode divulgar somente o link do seu site, sem que a pessoa precise conhecer o GitHub.
 
+## Editando o tema do seu projeto
+
+- Escolha um dos temas a seguir: https://pages.github.com/themes/
+- Adicione um arquivo _config.yml com as instruções do seu tema.
+  - Exemplo do tema [Hacker](https://pages-themes.github.io/hacker/) - https://github.com/pages-themes/hacker
+
+```yml
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+```
+
 ## Projeto criado na vídeo-aula
 
 https://ermogenes.github.io/ObrigadoDevCSharp/

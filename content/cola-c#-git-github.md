@@ -14,6 +14,28 @@ Copiar o URL de clonagem na opção _Code_ > _Clone (HTTPS)_.
 
 _Obs.: Mantenha a janela do github aberta para facilitar o processo de envio das alterações locais para o github (último passo desta cola)._
 
+## Configurar o git
+
+- Caso outro aluno tenha feito antes no mesmo computador, digite o comando a seguir para deslogar:
+```
+cmdkey /delete LegacyGeneric:target=git:https://github.com
+```
+
+- Configure o acesso à rede via _proxy_ (**somente se estiver presencialmente na Etec Adolpho Berezin**):
+```
+git config --global http.proxy http://etecadolphoberezin@17.1.0.1:3128
+```
+O _login_ pode ser efetuado sem a necessidade de senha (clique no botão azul)
+
+
+- Altere seu nome e email.
+```
+git config --global user.name "Meu Nome" 
+```
+```
+git config --global user.email "meu-email@meu-servidor.com"
+```
+
 ## Clonar o repositório no computador local
 
 - Abra o VsCode.
@@ -27,25 +49,6 @@ git clone URL-COPIADA
 - Será criada uma pasta com o nome do seu repositório.
 - Abra a pasta criada, usando _File_ > _ Open Folder_ (_Arquivo_ > _Abrir Pasta..._).
 - Verifique se você está na pasta certa usando `git status`. Se aparecer `not a git repository` você não está na pasta certa, portanto repita o item anterior.
-
-## Configurar o git
-
-- Caso outro aluno tenha feito antes no mesmo computador, digite o comando a seguir para deslogar:
-```
-cmdkey /delete LegacyGeneric:target=git:https://github.com
-```
-
-- Altere seu nome e email.
-```
-git config --global user.name "Meu Nome" 
-git config --global user.email "meu-email@meu-servidor.com"
-```
-
-- Configure o acesso à rede via _proxy_ (**somente se estiver presencialmente na Etec Adolpho Berezin**):
-```
-git config --global http.proxy http://etecadolphoberezin@17.1.0.1:3128
-```
-O _login_ pode ser efetuado sem a necessidade de senha.
 
 ## Escreva seu programa
 
@@ -69,3 +72,4 @@ Você pode repetir esse processo quantas vezes quiser.
 - Clique em _Sign in with your browser_ na janela do GitHub que aparecer (é um botão azul).
 
 ![](lousa_20230303_215634_github.jpg)
+

@@ -47,7 +47,7 @@ git config --global user.email "meu-email@meu-servidor.com"
 git clone URL-COPIADA
 ```
 - Será criada uma pasta com o nome do seu repositório.
-- 🚨📢🔔⚠️ Abra a pasta criada, usando _File_ > _ Open Folder_ (_Arquivo_ > _Abrir Pasta..._).
+- 🚨📢🔔⚠️ Abra a pasta criada, usando _File_ > _ Open Folder_ (_Arquivo_ > _Abrir Pasta..._) (ou use `cd NOME-DO-REPOSTITORIO` no terminal).
 - Verifique se você está na pasta certa usando `git status`. Se aparecer `not a git repository` você não está na pasta certa, portanto repita o item anterior.
 
 ## Escreva seu programa
@@ -72,5 +72,6 @@ Você pode repetir esse processo quantas vezes quiser.
 - Clique em _Sign in with your browser_ na janela do GitHub que aparecer (é um botão azul).
 
 ![](lousa_20230303_215634_github.jpg)
+
 
 

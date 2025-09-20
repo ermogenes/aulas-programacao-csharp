@@ -69,26 +69,26 @@
 - [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
 - [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
 - [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
-- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) 
-- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)  ✔
-- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✔
-- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
+- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✔
+- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
+- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
+- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1)
 
 ### 🚦 Decisão
 
-- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
-- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
-- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
+- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
+- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
+- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1)
 - [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 
 
 ### 🎛 Sub-rotinas
 
-- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) ✔
+- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
 
 ### 🎀 Laços
 
-- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md) ✔
-- [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
+- [📺](https://youtu.be/X1Tuuci9VAo)[📖 Laços](content/while-do.md)
+- [📺](https://youtu.be/qCz28iW5eb4) [📺](https://youtu.be/DNI2qvqN6dU) [_Live_] Revisão e resolução de exercícios (temporada 1)
 
 ### 🎁 Tópicos adicionais
 
@@ -98,7 +98,7 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [📺](https://youtu.be/eTJsDYhs0kE) [📖 Pacotes](content/pacotes.md)
 - [📺](https://youtu.be/QEb9G3Hrajk) [📺](https://youtu.be/jEvxz5lWhz8) [📖 Depuração](content/debug.md)
 - [📖 Bibliotecas e testes automatizados](content/bibliotecas-testes.md)
-- [📺](https://youtu.be/k_pH9sWxyTc) [📖 Publicação e distribuição](content/publish_dist.md) ✔
+- [📺](https://youtu.be/k_pH9sWxyTc) [📖 Publicação e distribuição](content/publish_dist.md)
 - [📺](https://youtu.be/0pYKPcDL0IU) [📖 Arranjos](content/arrays.md)
 - [📺](https://youtu.be/HtVJc_7FzYs) [📖 Exceções](content/exceptions.md)
 - [📺](https://youtu.be/r6EllahDrEQ) [📖 Classes](content/classes.md)
@@ -124,10 +124,10 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [⌨ Entrada de dados e Strings](exercises/entrada-strings.md) ✔
 - [✏ Entrada via teclado em Console](exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf) ✔
 - [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf) ✔
-- [⌨ Números e Operadores](exercises/numeros-operadores.md) ✔
-- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md) ✔
-- [⌨ Sub-rotinas](exercises/sub-rotinas.md) ✔
-- [⌨ Laços](exercises/lacos.md) ✔
+- [⌨ Números e Operadores](exercises/numeros-operadores.md)
+- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md)
+- [⌨ Sub-rotinas](exercises/sub-rotinas.md)
+- [⌨ Laços](exercises/lacos.md)
 - [⌨ Datas](exercises/datas.md) 🎁
 - [⌨ Pacotes](exercises/pacotes.md) 🎁
 - [⌨ Arranjos](exercises/arranjos.md) 🎁
@@ -142,16 +142,16 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 
 | Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
-| Saída em console ✔            | [Musica](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#Exerc%C3%ADcio-Musica), [Adivinha](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-adivinha) | 23/03/2025 | [Entregar](https://forms.office.com/r/561PABtkNF) |
-| Entrada de dados e Strings ✔  | [Cebolinha](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-cebolinha), [Leet](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-Leet) | 30/03/2025 | [Entregar](https://forms.office.com/r/7EN2AMpwE0) |
-| Números e Operadores ✔        | [JurosSimples](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-jurossimples), [CreditoRotativo](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-creditorotativo) | 06/04/2025 | [Entregar](https://forms.office.com/r/BAFqXLME67) |
-| Decisão e operações lógicas ✔ | [MaiorDeTres](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-maiordetres), [Estacionamento](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-estacionamento), [PesoIdeal](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-pesoideal) | 18/05/2025 | [Entregar](https://forms.office.com/r/b3Kj6TV4zF) |
-| Sub-rotinas ✔                 | [HorasExtras](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-horasextras), [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina) | 08/06/2025 | [Entregar](https://forms.office.com/r/qUJ1xUz1Wv) |
-| Laços ✔                       | [EuSouGroot](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-eusougroot), [EspertoContraSabido](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-espertocontrasabido) | 29/06/2025 | [Entregar](https://forms.office.com/r/wcq8E06viC) |
-| Projeto Final ✔                | [🚀 Projetos práticos](exercises/projetos.md) |  29/06/2025 | [Entregar](https://forms.office.com/r/AjUfZC01Td) |
+| Saída em console ✔            | [Cidades](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#Exerc%C3%ADcio-Cidades), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-DezSegundos) | 21/09/2025 | [Entregar](https://forms.office.com/r/qkdUymuUTf) |
+| Entrada de dados e Strings ✔  | [NomeCompleto](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-NomeCompleto), [Cebolinha](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-cebolinha) | 28/09/2025 | [Entregar](https://forms.office.com/r/ePJ877QCCi) |
+| Números e Operadores        | [Medidas](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-Medidas), [MediaAritmetica](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-MediaAritmetica) | 05/10/2025 | [Entregar](https://forms.office.com/r/HjguFeXtYx) |
+| Decisão e operações lógicas | <!--[MaiorDeTres](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-maiordetres), [Estacionamento](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-estacionamento), [PesoIdeal](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-pesoideal)--> | em breve | em breve |
+| Sub-rotinas                 | <!--[HorasExtras](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-horasextras), [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina)--> | em breve | em breve |
+| Laços                      | <!--[EuSouGroot](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-eusougroot), [EspertoContraSabido](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-espertocontrasabido)--> | em breve | em breve |
+<!--| Projeto Final                | [🚀 Projetos práticos](exercises/projetos.md) |  29/06/2025 | [Entregar](https://forms.office.com/r/AjUfZC01Td) |-->
 
 _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
-
+<!--
 ---
 
 ## 🗓 Calendário
@@ -185,7 +185,7 @@ Turma 1I3 da Etec Adolpho Berezin, segundo semestre de 2025:
 | 27/06/2025✔ | Projeto final ✔                                                 |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
 | 04/07/2025 | Considerações finais                                          |                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                         |
 
-<!-- | 08/11/2024  | _Conectando Ideias, Roteando Conhecimento_                                               |                                                                                                                                                                                                                                                                                                                         |                                                                                                                       | -->
+<!-- | 08/11/2024  | _Conectando Ideias, Roteando Conhecimento_                                               |                                                                                                                                                                                                                                                                                                                         |                                                                                                                       | ->
 
 [Plano de curso](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/77/2024/02/Informatica-353_CS_atualizado-em-04-08-22.pdf](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/77/2025/01/PC-Informatica.pdf))
 
@@ -195,7 +195,7 @@ Turma 1I3 da Etec Adolpho Berezin, segundo semestre de 2025:
   - Conselho intermediário: 15 a 17/04/2025
 - Entrega de resultados finais: 02 a 04/07/2025
   - Conselho final: 07/07/2025
-
+-->
 ---
 
 ## 🛠 Ferramentas

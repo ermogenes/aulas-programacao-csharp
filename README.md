@@ -77,7 +77,7 @@
 ### 🚦 Decisão
 
 - [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
-- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
+- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
 - [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1)
 - [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 
 
@@ -124,8 +124,8 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [⌨ Entrada de dados e Strings](exercises/entrada-strings.md) ✔
 - [✏ Entrada via teclado em Console](exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf) ✔
 - [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf) ✔
-- [⌨ Números e Operadores](exercises/numeros-operadores.md)
-- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md)
+- [⌨ Números e Operadores](exercises/numeros-operadores.md) ✔
+- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md) ✔
 - [⌨ Sub-rotinas](exercises/sub-rotinas.md)
 - [⌨ Laços](exercises/lacos.md)
 - [⌨ Datas](exercises/datas.md) 🎁

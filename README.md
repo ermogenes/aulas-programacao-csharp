@@ -1,6 +1,6 @@
 # Programação de Computadores com C#
 
-![Logo Dev C#](content/00-logo-github.png)
+![Logo Dev C#](./content/00-logo-github.png)
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ermogenes/aulas-programacao-csharp/master?label=%C3%BAltima%20atualiza%C3%A7%C3%A3o)
 ![Github commit count](https://badgen.net/github/commits/ermogenes/aulas-programacao-csharp)

@@ -47,43 +47,43 @@
 ### 👔 Introdução
 
 - [📷 (Algumas) Áreas da TI](https://docs.google.com/presentation/d/1rnMbdItS2lZHlU24JfmYixmJDAx9CJ68EIHl2balysE/edit?usp=sharing) 🎁
-- [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing) ✔
-- [📺](https://youtu.be/N_LsPQGtVCI) Apresentação ✔
-- [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md) ✔
+- [📷 Computadores e programação](https://docs.google.com/presentation/d/15kTsSENk_VzIXCeMIPkp3Ud77vn1tdZs8A9NjvPXmr4/edit?usp=sharing)
+- [📺](https://youtu.be/N_LsPQGtVCI) Apresentação
+- [📺](https://youtu.be/QIK8Tt5m1v0) [📖 Criação do ambiente](content/ambiente.md)
 
 ### 🐢 Primeiros passos
 
-- [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md) ✔
-- [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode-v2.md) ✔
-- [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md) ✔
-- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md) ✔
-- [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md) ✔
-- [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md) ✔
-- [📖 GitHub em computadores compartilhados](content/github-login.md) ✔
-- [📖 _Cola_ do processo para criação de repo com programa C#](content/cola-c%23-git-github.md) ✔
+- [📺](https://youtu.be/3H7huG1cEQ4) [📖 Comandos de terminal](content/terminal.md)
+- [📺](https://youtu.be/mOtSc3SbavY) [📖 Usando o Visual Studio Code](content/vscode-v2.md)
+- [📺](https://youtu.be/WcuOWby6D9Q) [📖 Hello World!](content/helloworld.md)
+- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](content/templates-net6.md)
+- [📺](https://youtu.be/8dbglVmDylU) [📖 Controle de versão com Git e GitHub](content/github.md)
+- [📺](https://youtu.be/3MrhMXNvLvQ) [📖 Hello World! com versionamento](content/helloworld-git.md)
+- [📖 GitHub em computadores compartilhados](content/github-login.md)
+- [📖 _Cola_ do processo para criação de repo com programa C#](content/cola-c%23-git-github.md)
 
 ### 📌 Conceitos básicos
 
-- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✔
-- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✔
-- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
-- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
-- [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
-- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✔
-- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) ✔
-- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✔
-- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
+- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md)
+- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md)
+- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
+- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
+- [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1)
+- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
+- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
+- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
+- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1)
 
 ### 🚦 Decisão
 
-- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
-- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
-- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
-- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md) 🎁
+- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
+- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
+- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1)
+- [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎛 Sub-rotinas
 
-- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md) 🎁
+- [📺](https://youtu.be/fIkw8BTA800)[📖 Sub-rotinas](content/subroutines.md)
 
 ### 🎀 Laços
 
@@ -115,17 +115,11 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 
 <!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 
-- [🤯 Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD) ✔
-- [✏ Comandos de Terminal](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf) ✔
-- [✏ C# com Git e GitHub](exercises/Dev%20C%23%20-%2002%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20C%23%20com%20Git%20e%20GitHub.pdf) ✔
-- [⌨ Saída em console](exercises/saida.md) ✔
-- [✏ Sintaxe Básica e Exibição de Texto](exercises/Dev%20C%23%20-%2003%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Sintaxe%20B%C3%A1sica%20e%20Exibi%C3%A7%C3%A3o%20de%20Texto.pdf) ✔
-- [✏ Opções para Saída em Console](exercises/Dev%20C%23%20-%2004%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Op%C3%A7%C3%B5es%20para%20Sa%C3%ADda%20em%20Console.pdf) ✔
-- [⌨ Entrada de dados e Strings](exercises/entrada-strings.md) ✔
-- [✏ Entrada via teclado em Console](exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf) ✔
-- [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf) ✔
-- [⌨ Números e Operadores](exercises/numeros-operadores.md) ✔
-- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md) ✔
+Práticos
+- [⌨ Saída em console](exercises/saida.md)
+- [⌨ Entrada de dados e Strings](exercises/entrada-strings.md)
+- [⌨ Números e Operadores](exercises/numeros-operadores.md)
+- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md)
 - [⌨ Sub-rotinas](exercises/sub-rotinas.md) 🎁
 - [⌨ Laços](exercises/lacos.md)
 - [⌨ Datas](exercises/datas.md) 🎁
@@ -133,13 +127,25 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 - [⌨ Arranjos](exercises/arranjos.md) 🎁
 - [⌨ Classes e Listas](exercises/classes-listas.md) 🎁
 - [🚀 Projetos práticos](exercises/projetos.md) 🎁
+- [🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)
 
-[🌠 Repositório de Correções](https://github.com/ermogenes/correcoes-dev-cs)
+Extras
+- [🤯 Exercícios de Lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD)
+- [✏ Comandos de Terminal](exercises/Dev%20C%23%20-%2001%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Comandos%20de%20Terminal.pdf)
+- [✏ C# com Git e GitHub](exercises/Dev%20C%23%20-%2002%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20C%23%20com%20Git%20e%20GitHub.pdf)
+- [✏ Sintaxe Básica e Exibição de Texto](exercises/Dev%20C%23%20-%2003%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Sintaxe%20B%C3%A1sica%20e%20Exibi%C3%A7%C3%A3o%20de%20Texto.pdf)
+- [✏ Opções para Saída em Console](exercises/Dev%20C%23%20-%2004%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Op%C3%A7%C3%B5es%20para%20Sa%C3%ADda%20em%20Console.pdf)
+- [✏ Entrada via teclado em Console](exercises/Dev%20C%23%20-%2005%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Entrada%20via%20teclado%20em%20Console.pdf)
+- [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf)
 
-### Entregas para alunos da Etec (1I3 - 2025-1)
+
+### Entregas para alunos da Etec (1I3 - 2026-1)
 
 Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instruções.
 
+_Em breve_
+
+<!--
 | Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
 | Saída em console ✔            | [Cidades](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#Exerc%C3%ADcio-Cidades), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-DezSegundos) | 21/09/2025 | [Entregar](https://forms.office.com/r/qkdUymuUTf) |
@@ -147,7 +153,7 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 | Números e Operadores        | [Medidas](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-Medidas), [MediaAritmetica](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md#exerc%C3%ADcio-MediaAritmetica) | 05/10/2025 | [Entregar](https://forms.office.com/r/HjguFeXtYx) |
 | Decisão e operações lógicas | [Bhaskara](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-bhaskara), [CalculadoraIMC](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-CalculadoraIMC), [Estacionamento](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-Estacionamento) | 16/11/2025 | [Entregar](https://forms.office.com/r/3qN1DdZR78) |
 | Laços                      | [EuSouGroot](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-eusougroot), [EspertoContraSabido](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-espertocontrasabido) | 30/11/2025 | [Entregar](https://forms.office.com/r/9YqTtAiLNK) |
-<!--| Sub-rotinas                 | [HorasExtras](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-horasextras), [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina) | em breve | em breve |--><!--| Projeto Final                | [🚀 Projetos práticos](exercises/projetos.md) |  29/06/2025 | [Entregar](https://forms.office.com/r/AjUfZC01Td) |-->
+| Sub-rotinas                 | [HorasExtras](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-horasextras), [AlcoolOuGasolina](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-alcoolougasolina) | em breve | em breve |--><!--| Projeto Final                | [🚀 Projetos práticos](exercises/projetos.md) |  29/06/2025 | [Entregar](https://forms.office.com/r/AjUfZC01Td) |-->
 
 _Obs.: A lista de exercícios a serem entregues pode ser alterada sem aviso prévio._
 <!--

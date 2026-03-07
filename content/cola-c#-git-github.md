@@ -39,7 +39,7 @@ git config --global user.email "meu-email@meu-servidor.com"
 ## Clonar o repositório no computador local
 
 - Abra o VsCode.
-- Vá em _File_ > _ Open Folder_.
+- Vá em _File_ > _Open Folder_ (_Arquivo_ > _Abrir Pasta_).
 - Acesse a pasta onde você guardará seus arquivos (ex. pasta _Documentos_). Acesse a sua pasta de trabalho (ex. `Aula PC1`). Se não existir, crie-a antes de acessar.
 - Abra o terminal integrado usando _Terminal_ > _New Terminal_ (ou <kbd>Ctrl</kbd>+<kbd>'</kbd>).
 - Faça a clonagem do repositório usando a URL copiada:
@@ -72,6 +72,7 @@ Você pode repetir esse processo quantas vezes quiser.
 - Clique em _Sign in with your browser_ na janela do GitHub que aparecer (é um botão azul).
 
 ![](lousa_20230303_215634_github.jpg)
+
 
 
 

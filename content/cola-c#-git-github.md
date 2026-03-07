@@ -18,7 +18,7 @@ _Obs.: Mantenha a janela do github aberta para facilitar o processo de envio das
 
 - Caso outro aluno tenha feito antes no mesmo computador, digite o comando a seguir para deslogar:
 ```
-cmdkey /delete LegacyGeneric:target=git:https://github.com
+cmdkey /delete:LegacyGeneric:target=git:https://github.com
 ```
 
 - Configure o acesso à rede via _proxy_ (**somente se estiver presencialmente na Etec Adolpho Berezin**):
@@ -72,6 +72,7 @@ Você pode repetir esse processo quantas vezes quiser.
 - Clique em _Sign in with your browser_ na janela do GitHub que aparecer (é um botão azul).
 
 ![](lousa_20230303_215634_github.jpg)
+
 
 
 

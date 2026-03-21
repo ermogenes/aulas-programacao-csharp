@@ -143,7 +143,18 @@ Extras
 
 Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instruções.
 
-_Em breve_
+| Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
+| Saída em console             | [Musica](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#Exerc%C3%ADcio-Musica), [TimeDoCoracao](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/saida.md#exerc%C3%ADcio-timedocoracao) | 29/03/2026 | [Entregar](https://forms.office.com/r/NxdLJ0xXAy) |
+| Entrada de dados e Strings   | [MemeToNervoso](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/entrada-strings.md#exerc%C3%ADcio-memetonervoso), [NomeNinja](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/entrada-strings.md#exerc%C3%ADcio-nomeninja) | 05/04/2026 | [Entregar](https://forms.office.com/r/i2J0v79trQ) |
+| Números e Operadores         | [IMC](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-imc), [TempoDownload](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-tempodownload) | 26/04/2026 | [Entregar](https://forms.office.com/r/kgTRmfCCg6) |
+| Decisão e operações lógicas  |  [DoadorSangue](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-doadorsangue), [FluxogramaDaEngenharia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-fluxogramadaengenharia) | 03/05/2026 | [Entregar](https://forms.office.com/r/TfJLHbfe7s) |
+| Sub-rotinas                  | [Granizo](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-granizo) | 24/05/2026 | [Entregar](https://forms.office.com/r/sM0dihe9x9) |
+| Laços                        | [RetContorno](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-retcontorno), [QuatroOperacoes](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-quatrooperacoes) | 14/06/2026 | [Entregar](https://forms.office.com/r/xWMizLSXCe) |
+| Projeto Final                 | [🚀 Projetos práticos](exercises/projetos.md) |  _Em breve_ | _Em breve_ |
+
+
+
 
 <!--
 | Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |

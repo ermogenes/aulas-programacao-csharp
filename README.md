@@ -150,9 +150,11 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 | Números e Operadores         | [IMC](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-imc), [TempoDownload](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-tempodownload) | 26/04/2026 | [Entregar](https://forms.office.com/r/kgTRmfCCg6) |
 | Decisão e operações lógicas  |  [DoadorSangue](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-doadorsangue), [FluxogramaDaEngenharia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-fluxogramadaengenharia) | 03/05/2026 | [Entregar](https://forms.office.com/r/TfJLHbfe7s) |
 | Laços                        | [RetContorno](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-retcontorno), [QuatroOperacoes](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-quatrooperacoes) | 14/06/2026 | [Entregar](https://forms.office.com/r/xWMizLSXCe) |
-| Projeto Final                 | [🚀 Projetos práticos](exercises/projetos.md) |  _Em breve_ | _Em breve_ |
 
-<!-- | Sub-rotinas                  | [Granizo](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-granizo) | 24/05/2026 | [Entregar](https://forms.office.com/r/sM0dihe9x9) | -->
+<!-- 
+| Sub-rotinas                  | [Granizo](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/sub-rotinas.md#exerc%C3%ADcio-granizo) | 24/05/2026 | [Entregar](https://forms.office.com/r/sM0dihe9x9) | 
+| Projeto Final                 | [🚀 Projetos práticos](exercises/projetos.md) |  _Em breve_ | _Em breve_ |
+-->
 
 
 

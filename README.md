@@ -69,16 +69,16 @@
 - [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
 - [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
 - [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
-- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
-- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
-- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
-- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1)
+- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✔
+- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) ✔
+- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✔
+- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
 
 ### 🚦 Decisão
 
-- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md)
-- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md)
-- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1)
+- [📺](https://youtu.be/0HPxji8lL_M)[📖 Decisão simples](content/if.md) ✔
+- [📺](https://youtu.be/70RI1a5wN78)[📖 Operações lógicas](content/logical.md) ✔
+- [📺](https://youtu.be/6sTW6isK3Tc) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
 - [📺](https://youtu.be/t0DyqALDYgQ)[📖 Decisão múltipla](content/switch.md)
 
 ### 🎛 Sub-rotinas
@@ -118,8 +118,8 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 Práticos
 - [⌨ Saída em console](exercises/saida.md) ✔
 - [⌨ Entrada de dados e Strings](exercises/entrada-strings.md) ✔
-- [⌨ Números e Operadores](exercises/numeros-operadores.md)
-- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md)
+- [⌨ Números e Operadores](exercises/numeros-operadores.md) ✔
+- [⌨ Decisão e operações lógicas](exercises/decisao-simples.md) ✔
 - [⌨ Sub-rotinas](exercises/sub-rotinas.md) 🎁
 - [⌨ Laços](exercises/lacos.md)
 - [⌨ Datas](exercises/datas.md) 🎁
@@ -147,8 +147,8 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
 | Saída em console ✔             | [Musica](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#Exerc%C3%ADcio-Musica), [TimeDoCoracao](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/saida.md#exerc%C3%ADcio-timedocoracao) | 29/03/2026 | [Entregar](https://forms.office.com/r/NxdLJ0xXAy) |
 | Entrada de dados e Strings ✔   | [MemeToNervoso](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/entrada-strings.md#exerc%C3%ADcio-memetonervoso), [NomeNinja](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/entrada-strings.md#exerc%C3%ADcio-nomeninja) | 05/04/2026 | [Entregar](https://forms.office.com/r/i2J0v79trQ) |
-| Números e Operadores         | [IMC](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-imc), [TempoDownload](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-tempodownload) | 26/04/2026 | [Entregar](https://forms.office.com/r/kgTRmfCCg6) |
-| Decisão e operações lógicas  |  [DoadorSangue](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-doadorsangue), [FluxogramaDaEngenharia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-fluxogramadaengenharia) | 03/05/2026 | [Entregar](https://forms.office.com/r/TfJLHbfe7s) |
+| Números e Operadores ✔         | [IMC](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-imc), [TempoDownload](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-tempodownload) | 26/04/2026 | [Entregar](https://forms.office.com/r/kgTRmfCCg6) |
+| Decisão e operações lógicas ✔  |  [DoadorSangue](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-doadorsangue), [FluxogramaDaEngenharia](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md#exerc%C3%ADcio-fluxogramadaengenharia) | 14/06/2026 | [Entregar](https://forms.office.com/r/TfJLHbfe7s) |
 | Laços                        | [RetContorno](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-retcontorno), [QuatroOperacoes](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-quatrooperacoes) | 14/06/2026 | [Entregar](https://forms.office.com/r/xWMizLSXCe) |
 
 <!-- 

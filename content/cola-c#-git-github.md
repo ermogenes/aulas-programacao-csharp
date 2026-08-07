@@ -6,6 +6,7 @@
 - Criar um repositório usando a opção _new repository_.
 - Colocar o nome (obrigatório) e a descrição (opcional).
 - Deixar público.
+- Não selecionar Template (opção _No Template_)
 - Adicionar o README.
 - Adicionar o `.gitignore` do tipo _VisualStudio_.
 - Não adicionar uma licença.

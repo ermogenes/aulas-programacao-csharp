@@ -16,11 +16,6 @@ _Obs.: Mantenha a janela do github aberta para facilitar o processo de envio das
 
 ## Configurar o git
 
-- Caso outro aluno tenha feito antes no mesmo computador, digite o comando a seguir para deslogar:
-```
-cmdkey /delete:LegacyGeneric:target=git:https://github.com
-```
-
 - Configure o acesso à rede via _proxy_ (**somente se estiver presencialmente na Etec Adolpho Berezin**):
 ```
 git config --global http.proxy http://etecadolphoberezin@17.1.0.1:3128
@@ -48,27 +43,48 @@ git clone URL-COPIADA
 ```
 - Será criada uma pasta com o nome do seu repositório.
 - 🚨📢🔔⚠️ Abra a pasta criada, usando _File_ > _ Open Folder_ (_Arquivo_ > _Abrir Pasta..._) (ou use `cd NOME-DO-REPOSTITORIO` no terminal).
-- Verifique se você está na pasta certa usando `git status`. Se aparecer `not a git repository` você não está na pasta certa, portanto repita o item anterior.
+- Verifique se você está na pasta certa:
+```
+git status
+```
+Se aparecer `not a git repository` você não está na pasta certa, portanto repita o item anterior.
 
 ## Escreva seu programa
 
 - No VsCode, com o repositório aberto, abra um terminal usando _Terminal_ > _New Terminal_.
-- Crie um projeto C# em branco usando `dotnet new console`.
+- Crie um projeto C# em branco:
+```
+dotnet new console
+```
 - Faça o programa desejado e salve usando <kbd>Ctrl</kbd>+<kbd>S</kbd>.
-- Execute e teste usando `dotnet run`.
+- Execute e teste:
+```
+dotnet run
+```
 
 ## Guardando a versão localmente
 
-Use `git status` a qualquer momento para entender a situação atual.
+Use o comando a seguir a qualquer momento para entender a situação atual.
+```
+git status
+```
 
-- Adicione todas as alterações à versão a ser guardada usando `git add .`.
-- Efetive as alterações usando `git commit -m "xxx"`. Troque `xxx` por uma mensagem explicando o que foi alterado nesta versão.
+- Adicione todas as alterações à versão a ser guardada usando:
+```
+git add .
+```
+- Efetive as alterações. Troque `xxx` por uma mensagem explicando o que foi alterado nesta versão.
+```
+git commit -m "xxx"
+```
 
 Você pode repetir esse processo quantas vezes quiser.
 
 ## Enviando as alterações para o repositório remoto
 
-- Envie todas as versões locais para a nuvem usando `git push`.
+- Envie todas as versões locais para a nuvem:
+```git push```
+ 
 - Clique em _Sign in with your browser_ na janela do GitHub que aparecer (é um botão azul).
 
 ![](lousa_20230303_215634_github.jpg)

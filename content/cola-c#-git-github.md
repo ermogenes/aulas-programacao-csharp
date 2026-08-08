@@ -15,7 +15,20 @@ Copiar o URL de clonagem na opção _Code_ > _Clone (HTTPS)_.
 
 _Obs.: Mantenha a janela do github aberta para facilitar o processo de envio das alterações locais para o github (último passo desta cola)._
 
+## Inicie seu ambiente de desenvolvimento
+
+- Abra o VsCode.
+- Abra o terminal integrado usando _Terminal_ > _New Terminal_ (ou <kbd>Ctrl</kbd>+<kbd>'</kbd>).
+
+ou
+
+- Abra o prompt de comandos. Opções (_uma das opções_):
+  - Clique no iniciar e Procure por _Prompt de Comando_;
+  - Use a combinação de teclas _Windows_ + R, digite **cmd** e tecle ENTER.
+
 ## Configurar o git
+
+No Terminal:
 
 - Configure o acesso à rede via _proxy_ (**somente se estiver presencialmente na Etec Adolpho Berezin**):
 ```
@@ -34,7 +47,7 @@ git config --global user.email "meu-email@meu-servidor.com"
 
 ## Clonar o repositório no computador local
 
-- Abra o VsCode.
+- No VsCode: 
 - Vá em _File_ > _Open Folder_ (_Arquivo_ > _Abrir Pasta_).
 - Acesse a pasta onde você guardará seus arquivos (ex. pasta _Documentos_). Acesse a sua pasta de trabalho (ex. `Aula PC1`). Se não existir, crie-a antes de acessar.
 - Abra o terminal integrado usando _Terminal_ > _New Terminal_ (ou <kbd>Ctrl</kbd>+<kbd>'</kbd>).

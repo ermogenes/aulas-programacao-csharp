@@ -6,6 +6,7 @@
 - Criar um repositório usando a opção _new repository_.
 - Colocar o nome (obrigatório) e a descrição (opcional).
 - Deixar público.
+- Não selecionar Template (opção _No Template_)
 - Adicionar o README.
 - Adicionar o `.gitignore` do tipo _VisualStudio_.
 - Não adicionar uma licença.
@@ -14,7 +15,14 @@ Copiar o URL de clonagem na opção _Code_ > _Clone (HTTPS)_.
 
 _Obs.: Mantenha a janela do github aberta para facilitar o processo de envio das alterações locais para o github (último passo desta cola)._
 
+## Inicie seu ambiente de desenvolvimento
+
+- Abra o VsCode.
+- Abra o terminal integrado usando _Terminal_ > _New Terminal_ (ou <kbd>Ctrl</kbd>+<kbd>'</kbd>).
+
 ## Configurar o git
+
+No Terminal:
 
 - Configure o acesso à rede via _proxy_ (**somente se estiver presencialmente na Etec Adolpho Berezin**):
 ```
@@ -33,7 +41,7 @@ git config --global user.email "meu-email@meu-servidor.com"
 
 ## Clonar o repositório no computador local
 
-- Abra o VsCode.
+- No VsCode: 
 - Vá em _File_ > _Open Folder_ (_Arquivo_ > _Abrir Pasta_).
 - Acesse a pasta onde você guardará seus arquivos (ex. pasta _Documentos_). Acesse a sua pasta de trabalho (ex. `Aula PC1`). Se não existir, crie-a antes de acessar.
 - Abra o terminal integrado usando _Terminal_ > _New Terminal_ (ou <kbd>Ctrl</kbd>+<kbd>'</kbd>).
@@ -83,7 +91,9 @@ Você pode repetir esse processo quantas vezes quiser.
 ## Enviando as alterações para o repositório remoto
 
 - Envie todas as versões locais para a nuvem:
-```git push```
+```
+git push
+```
  
 - Clique em _Sign in with your browser_ na janela do GitHub que aparecer (é um botão azul).
 

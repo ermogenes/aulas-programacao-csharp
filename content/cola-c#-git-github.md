@@ -20,12 +20,6 @@ _Obs.: Mantenha a janela do github aberta para facilitar o processo de envio das
 - Abra o VsCode.
 - Abra o terminal integrado usando _Terminal_ > _New Terminal_ (ou <kbd>Ctrl</kbd>+<kbd>'</kbd>).
 
-ou
-
-- Abra o prompt de comandos. Opções (_uma das opções_):
-  - Clique no iniciar e Procure por _Prompt de Comando_;
-  - Use a combinação de teclas _Windows_ + R, digite **cmd** e tecle ENTER.
-
 ## Configurar o git
 
 No Terminal:
@@ -97,7 +91,9 @@ Você pode repetir esse processo quantas vezes quiser.
 ## Enviando as alterações para o repositório remoto
 
 - Envie todas as versões locais para a nuvem:
-```git push```
+```
+git push
+```
  
 - Clique em _Sign in with your browser_ na janela do GitHub que aparecer (é um botão azul).
 

@@ -145,7 +145,7 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 
 | Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
-| Saída em console             | Em breve | Em breve | Em breve |
+| Saída em console             | [Musica](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/saida.md#Exerc%C3%ADcio-Musica), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-DezSegundos), [Continue](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/saida.md#exerc%C3%ADcio-continue)| 04/09/2026 | [Entregar](https://forms.cloud.microsoft/r/5RsR46RM48) |
 | Entrada de dados e Strings   | Em breve | Em breve | Em breve |
 | Números e Operadores         | Em breve | Em breve | Em breve |
 | Decisão e operações lógicas  | Em breve | Em breve | Em breve |

@@ -139,7 +139,7 @@ Extras
 - [✏ Manipulação de Strings](exercises/Dev%20C%23%20-%2006%20-%20Exerc%C3%ADcios%20de%20Fixa%C3%A7%C3%A3o%20-%20Manipula%C3%A7%C3%A3o%20de%20Strings.pdf)
 
 
-### Entregas para alunos da Etec (1I3 - 2026-1)
+### Entregas para alunos da Etec (1I3 - 2026-2)
 
 Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instruções.
 

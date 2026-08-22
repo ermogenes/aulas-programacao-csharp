@@ -73,7 +73,7 @@ Podemos criar os demais objetos de outras maneiras igualmente válidas:
 ```cs
 Cachorro c2 = new Cachorro();
 c2.nome = "Snoopy";
-c1.raca = "beagle";
+c2.raca = "beagle";
 c2.cor = "branco";
 ```
 

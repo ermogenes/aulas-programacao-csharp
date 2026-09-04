@@ -64,11 +64,11 @@
 
 ### 📌 Conceitos básicos
 
-- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md)
-- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md)
-- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md)
-- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md)
-- [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1)
+- [📺](https://youtu.be/ersRRa5ymfo) [📖 Primeiros passos em C#](content/anatomia.md) ✔
+- [📺](https://youtu.be/zRzLq1zzb5M) [📖 Saída em console](content/saida-console.md) ✔
+- [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
+- [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
+- [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
 - [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
 - [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
 - [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
@@ -116,8 +116,8 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 <!-- * [✅ Exercícios de fixação: Computadores e Programação](https://forms.gle/mWy8rnAaiTrQfgCbA) -->
 
 Práticos
-- [⌨ Saída em console](exercises/saida.md)
-- [⌨ Entrada de dados e Strings](exercises/entrada-strings.md)
+- [⌨ Saída em console](exercises/saida.md) ✔
+- [⌨ Entrada de dados e Strings](exercises/entrada-strings.md) ✔
 - [⌨ Números e Operadores](exercises/numeros-operadores.md)
 - [⌨ Decisão e operações lógicas](exercises/decisao-simples.md)
 - [⌨ Sub-rotinas](exercises/sub-rotinas.md)

@@ -2,6 +2,14 @@
 
 Se necessário, [configure o git](#configurar-o-git) antes de começar.
 
+## Configurar o _proxy_ (**somente se estiver presencialmente na Etec Adolpho Berezin**)
+
+No Terminal, configure o acesso à rede via _proxy_:
+```
+git config --global http.proxy http://etecadolphoberezin@17.1.0.1:3128
+```
+O _login_ pode ser efetuado sem a necessidade de senha (clique no botão azul).
+
 ## Criar o repositório remoto
 
 - Acessar https://github.com/ e fazer o login (_Sign In_).
@@ -91,14 +99,7 @@ git push
 
 No Terminal:
 
-- Configure o acesso à rede via _proxy_ (**somente se estiver presencialmente na Etec Adolpho Berezin**):
-```
-git config --global http.proxy http://etecadolphoberezin@17.1.0.1:3128
-```
-O _login_ pode ser efetuado sem a necessidade de senha (clique no botão azul)
-
-
-- Altere seu nome e email.
+- Configure seu nome e e-mail no git.
 ```
 git config --global user.name "Meu Nome" 
 ```

@@ -69,10 +69,10 @@
 - [📺](https://youtu.be/C2CaB2-kEQo) [📖 Entrada via teclado](content/entrada-teclado.md) ✔
 - [📺](https://youtu.be/bAfoJV-jc74) [📖 Strings](content/string.md) ✔
 - [📺](https://youtu.be/ngUYtnGJXwI) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
-- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md)
-- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md)
-- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md)
-- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1)
+- [📺](https://youtu.be/CY6DI7dN29g) [📖 Variáveis, constantes e tipos de dados](content/variaveis.md) ✔
+- [📺](https://youtu.be/2WdAlMvExE8) [📖 Números](content/numeros.md) ✔
+- [📺](https://youtu.be/rLvBeB8Qsmc) [📖 Operações](content/operacoes.md) ✔
+- [📺](https://youtu.be/AMUjUfan40Q) [📺](https://youtu.be/NfPfIYOdHNs) [_Live_] Revisão e resolução de exercícios (temporada 1) ✔
 
 ### 🚦 Decisão
 
@@ -118,7 +118,7 @@ _Assuntos opcionais, importantes para aprender mais sobre programação em C#._
 Práticos
 - [⌨ Saída em console](exercises/saida.md) ✔
 - [⌨ Entrada de dados e Strings](exercises/entrada-strings.md) ✔
-- [⌨ Números e Operadores](exercises/numeros-operadores.md)
+- [⌨ Números e Operadores](exercises/numeros-operadores.md) ✔
 - [⌨ Decisão e operações lógicas](exercises/decisao-simples.md)
 - [⌨ Sub-rotinas](exercises/sub-rotinas.md)
 - [⌨ Laços](exercises/lacos.md)
@@ -145,9 +145,9 @@ Clique no _link_ _Entregar_, entre com seu e-mail institucional e siga as instru
 
 | Lista                       | Exercícios                                                                                                                                                                                                                                                                                             | Prazo      | Ações         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------- |
-| Saída em console             | [Musica](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/saida.md#Exerc%C3%ADcio-Musica), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-DezSegundos), [Continue](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/saida.md#exerc%C3%ADcio-continue)| 04/09 | [Entregar](https://forms.cloud.microsoft/r/5RsR46RM48) |
-| Entrada de dados e Strings   | [PrimeroCaractere](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-primerocaractere), [ImitandoDory](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-imitandodory) | 18/09 | [Entregar](https://forms.cloud.microsoft/r/t1TnPnpQCm) |
-| Números e Operadores         | [Troco](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-troco), [Heron](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-heron), e também [TempoDownload](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-tempodownload) (exercício extra, entrega opcional) | 02/10 | [Entregar](https://forms.cloud.microsoft/r/qzGqTnh5aj) |
+| Saída em console  ✔            | [Musica](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/saida.md#Exerc%C3%ADcio-Musica), [DezSegundos](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md#exerc%C3%ADcio-DezSegundos), [Continue](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/saida.md#exerc%C3%ADcio-continue)| 04/09 | [Entregar](https://forms.cloud.microsoft/r/5RsR46RM48) |
+| Entrada de dados e Strings  ✔  | [PrimeroCaractere](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-primerocaractere), [ImitandoDory](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md#exerc%C3%ADcio-imitandodory) | 18/09 | [Entregar](https://forms.cloud.microsoft/r/t1TnPnpQCm) |
+| Números e Operadores  ✔        | [Troco](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-troco), [Heron](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-heron), e também [TempoDownload](https://github.com/ermogenes/aulas-programacao-csharp/blob/2025-2/exercises/numeros-operadores.md#exerc%C3%ADcio-tempodownload) (exercício extra, entrega opcional) | 02/10 | [Entregar](https://forms.cloud.microsoft/r/qzGqTnh5aj) |
 | Decisão e operações lógicas  | Em breve | Em breve | Em breve |
 | Laços                        | Em breve | Em breve | Em breve |
 
